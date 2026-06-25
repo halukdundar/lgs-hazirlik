@@ -1,0 +1,2 @@
+# lgs-hazirlik
+LGS hazırlık
