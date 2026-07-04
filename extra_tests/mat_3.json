@@ -1,0 +1,45 @@
+{
+  "topicId": "mat_3",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Üçgenler",
+      "questions": [
+        {
+          "question": "Bir dik üçgende dik kenarlar 9 cm ve 12 cm'dir. Hipotenüs kaç cm'dir?",
+          "options": ["13", "14", "15", "16"],
+          "correctIndex": 2,
+          "explanation": "9² + 12² = 81 + 144 = 225 = 15². Hipotenüs 15 cm.",
+          "ipucu": "Pisagor: a² + b² = c²",
+          "difficulty": 3,
+          "tags": ["Matematik", "Üçgenler", "Yeni Nesil"]
+        },
+        {
+          "question": "30°-60°-90° üçgende kısa dik kenar 5 cm ise hipotenüs kaç cm'dir?",
+          "options": ["5√3", "10", "8", "12"],
+          "correctIndex": 1,
+          "explanation": "30°-60°-90° oranında hipotenüs = 2k, kısa kenar = k. k=5 → hipotenüs 10.",
+          "ipucu": "Oranlar k : k√3 : 2k",
+          "difficulty": 4,
+          "tags": ["Matematik", "Üçgenler", "Yeni Nesil"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Benzerlik",
+      "questions": [
+        {
+          "question": "İki benzer üçgende benzerlik oranı 2:3 ise alanlar oranı kaçtır?",
+          "options": ["2:3", "4:6", "4:9", "8:27"],
+          "correctIndex": 2,
+          "explanation": "Alan oranı kenar oranının karesidir: (2/3)² = 4/9.",
+          "ipucu": "Alan₁/Alan₂ = (k₁/k₂)²",
+          "difficulty": 4,
+          "tags": ["Matematik", "Benzerlik", "Yeni Nesil"]
+        }
+      ]
+    }
+  ]
+}
