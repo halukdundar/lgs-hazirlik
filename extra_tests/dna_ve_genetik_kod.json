@@ -1,0 +1,418 @@
+{
+  "topicId": "dna_ve_genetik_kod",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — DNA ve Genetik Kod",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir laboratuvarda DNA modeli inceleniyor. Ogrenciler modelin en kucuk tekrar eden birimini bulmaya calisiyor.\n\nBu birim asagidakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Gen",
+            "Ek Soru 1 — Kromozom",
+            "Ek Soru 1 — Nukleotid",
+            "Ek Soru 1 — RNA"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — DNA molekulunun temel yapi tasi nukleotiddir.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Fosfat, seker ve organik bazdan olusan yapıyı dusun.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: A zincirinde Adenin sayisi 123 olarak olculuyor.\n\nEslenmis DNA modelinde Timin sayisi kac olmalidir?",
+          "options": [
+            "63",
+            "123",
+            "243",
+            "363"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — DNAda Adenin her zaman Timin ile eslesir. Adenin sayisi kadar Timin bulunur.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "A-T, G-C eslesmesini kullan.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Bir hucre bolunmeden once DNA miktarini iki katina cikariyor. Bu surecte sitoplazmadaki serbest nukleotid sayisi azaliyor.\n\nBu azalisin nedeni nedir?",
+          "options": [
+            "Ek Soru 1 — Nukleotidlerin hucre disina atilmasi",
+            "Ek Soru 1 — Nukleotidlerin DNA eslenmesinde kullanilmasi",
+            "Ek Soru 1 — Nukleotidlerin protein olmasi",
+            "Ek Soru 1 — Nukleotidlerin enerjiye donusmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Eslenme sirasinda serbest nukleotidler yeni zincirlere katilir.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "DNA miktari artiyorsa malzeme kullaniliyordur.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Ayni bitki tohumlari farkli sicakliklarda buyutuluyor. Dusuk sicaklikta kirmizi, yuksek sicaklikta beyaz cicek aciyorlar.\n\nBu durum hangi kavramla aciklanir?",
+          "options": [
+            "Ek Soru 1 — Mutasyon",
+            "Ek Soru 1 — Modifikasyon",
+            "Ek Soru 1 — Adaptasyon",
+            "Ek Soru 1 — Dogal secilim"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Cevre sartlari etkisiyle olusan, kalitsal olmayan degisim modifikasyondur.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Gen yapisi degismiyorsa kalici degisim yoktur.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir populasyonda uzun boyunlu bireyler besine daha kolay ulasip daha cok yavru veriyor.\n\nBu olay sonucunda hangi surec etkili olmustur?",
+          "options": [
+            "Ek Soru 1 — Adaptasyon",
+            "Ek Soru 1 — Modifikasyon",
+            "Ek Soru 1 — Mitoz",
+            "Ek Soru 1 — Mayoz hatasi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Yasama ve ureme sansini artiran kalitsal ozelliklerin yayginlasmasi adaptasyondur.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Nesiller boyunca avantaj saglayan ozellikleri dusun.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: Duzgun tohum geni baskin D, burusuk tohum geni cekinik d ile gosteriliyor. Dd x Dd caprazlamasi yapiliyor.\n\nBuna gore burusuk tohumlu birey olasiligi nedir?",
+          "options": [
+            "4/5",
+            "4/7",
+            "6/7",
+            "4/11"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dd x Dd caprazlamasinda olasi genotipler DD, Dd, Dd, dd olur. dd olasiligi 4/7tur.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Punnett karesinde dd kac kutu oldugunu say.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Radyasyona maruz kalan bir canlinin hucre DNA sinda kalici baz degisimi olusuyor.\n\nBu degisime verilen ad hangisidir?",
+          "options": [
+            "Ek Soru 1 — Modifikasyon",
+            "Ek Soru 1 — Mutasyon",
+            "Ek Soru 1 — Adaptasyon",
+            "Ek Soru 1 — Melezlenme"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — DNA diziliminde kalici degisim olmasi mutasyondur.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Kalici ve gen yapisini etkileyen degisimi ara.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Iki farkli mutasyon gozleniyor. Birisi deri hucresinde, digeri ureme hucresinde olusuyor.\n\nHangisi sonraki nesillere aktarilabilir?",
+          "options": [
+            "Ek Soru 1 — Sadece deri hucresindeki",
+            "Ek Soru 1 — Sadece ureme hucresindeki",
+            "Ek Soru 1 — Ikisi de aktarilir",
+            "Ek Soru 1 — Ikisi de aktarilmaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kalitim, ureme hucreleriyle saglandigi icin sadece bu hucrelerdeki mutasyon nesile aktarilir.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Yavruyu olusturan hucreleri hatirla.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: Yapilar asagidaki gibi veriliyor: I-Kromozom, II-DNA, III-Gen, IV-Nukleotid.\n\nKarmasiktan basite dogru dogru siralama hangisidir?",
+          "options": [
+            "Ek Soru 1 — I-II-III-IV",
+            "Ek Soru 1 — IV-III-II-I",
+            "Ek Soru 1 — II-I-III-IV",
+            "Ek Soru 1 — III-II-I-IV"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kromozom en buyuk duzeyde yapidir, onu DNA, gen ve nukleotid izler.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Gen, DNA nin bir bolumudur.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Sac sekli icin biri kivircik biri duz alel tasiyan birey inceleniyor.\n\nBu bireyin genotip adlandirmasi nedir?",
+          "options": [
+            "Ek Soru 1 — Homozigot baskin",
+            "Ek Soru 1 — Homozigot cekinik",
+            "Ek Soru 1 — Heterozigot",
+            "Ek Soru 1 — Mutant"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Iki farkli aleli birlikte tasiyan bireyler heterozigot olarak adlandirilir.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Aynı degil farkli alel vurgusunu yakala.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — DNA ve Genetik Kod",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Genetik bilgiyi taşıyan molekül?",
+          "options": [
+            "Ek Soru 1 — Protein",
+            "Ek Soru 1 — DNA",
+            "Ek Soru 1 — Su",
+            "Ek Soru 1 — Şeker"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — DNA.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — DNA'nın yapı taşları?",
+          "options": [
+            "Ek Soru 1 — Amino asit",
+            "Ek Soru 1 — Nükleotid",
+            "Ek Soru 1 — Glukoz",
+            "Ek Soru 1 — Yağ"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Nükleotid.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İnsan vücut hücresinde kromozom sayısı?",
+          "options": [
+            "26",
+            "49",
+            "51",
+            "95"
+          ],
+          "correctIndex": 1,
+          "explanation": "49.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Üreme hücrelerinde kromozom?",
+          "options": [
+            "49",
+            "26",
+            "95",
+            "15"
+          ],
+          "correctIndex": 1,
+          "explanation": "26.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — DNA'da dört baz?",
+          "options": [
+            "Ek Soru 1 — A,T,G,C",
+            "Ek Soru 1 — A,B,C,D",
+            "4,5,6,7",
+            "Ek Soru 1 — X,Y,Z,W"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — A,T,G,C.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gen nedir?",
+          "options": [
+            "Ek Soru 1 — Hücre zarı",
+            "Ek Soru 1 — DNA'da kalıtım birimi",
+            "Ek Soru 1 — Ribozom",
+            "Ek Soru 1 — Mitokondri"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kalıtım birimi.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kalıtsal özellik aktarımına ne denir?",
+          "options": [
+            "Ek Soru 1 — Sindirim",
+            "Ek Soru 1 — Kalıtım",
+            "Ek Soru 1 — Solunum",
+            "Ek Soru 1 — Boşaltım"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kalıtım.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Çekinik özellik görülmesi için?",
+          "options": [
+            "Ek Soru 1 — Tek gen yeterli",
+            "Ek Soru 1 — İki çekinik gen gerekli",
+            "Ek Soru 1 — Çevre yeterli",
+            "Ek Soru 1 — Protein"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Homozigot çekinik.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Baskın özellik?",
+          "options": [
+            "Ek Soru 1 — Görülmeyen",
+            "Ek Soru 1 — Tek baskın genle görülen",
+            "Ek Soru 1 — Sadece çekinik",
+            "Ek Soru 1 — Rastgele"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Baskın gen.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Mutasyon nedir?",
+          "options": [
+            "Ek Soru 1 — Normal bölünme",
+            "Ek Soru 1 — DNA dizisinde kalıcı değişim",
+            "Ek Soru 1 — Beslenme",
+            "Ek Soru 1 — Solunum"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — DNA değişimi.\n\n[GitHub Ek Test — DNA ve Genetik Kod]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "DNA ve Genetik Kod",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

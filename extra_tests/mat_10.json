@@ -1,0 +1,409 @@
+{
+  "topicId": "mat_10",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Eşlik ve Benzerlik",
+      "questions": [
+        {
+          "question": "Senaryo: Benzerlik oranı 3:5, alan farkı 64.\n\nKüçük alan?",
+          "options": [
+            "36",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=36.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Benzerlik oranı 2:3, alan farkı 20.\n\nKüçük alan?",
+          "options": [
+            "36",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=36.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Benzerlik oranı 1:2, alan farkı 12.\n\nKüçük alan?",
+          "options": [
+            "36",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=36.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Benzerlik oranı 4:5, alan farkı 81.\n\nKüçük alan?",
+          "options": [
+            "25",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=25.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Benzerlik oranı 2:5, alan farkı 96.\n\nKüçük alan?",
+          "options": [
+            "4",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=4.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Benzerlik oranı 3:4, alan farkı 28.\n\nKüçük alan?",
+          "options": [
+            "16",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=16.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Benzerlik oranı 1:3, alan farkı 32.\n\nKüçük alan?",
+          "options": [
+            "8",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=8.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Benzerlik oranı 2:4, alan farkı 48.\n\nKüçük alan?",
+          "options": [
+            "12",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=12.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Benzerlik oranı 5:6, alan farkı 11.\n\nKüçük alan?",
+          "options": [
+            "25",
+            "100",
+            "64",
+            "49"
+          ],
+          "correctIndex": 0,
+          "explanation": "Küçük alan=25.",
+          "ipucu": "k² farkını kullan.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "4:28.000 ölçekli bir haritada iki şehir arası 11 cm olarak ölçülmüştür.\n\nGerçek mesafe kaç km'dir?",
+          "options": [
+            "4 km",
+            "5 km",
+            "7 km",
+            "11 km"
+          ],
+          "correctIndex": 1,
+          "explanation": "Gerçek uzunluk = harita uzunluğu × ölçek paydasındaki sayı.\n11 cm × 28.000 = 203.000 cm = 5.000 m = 5 km.\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Ölçek 1:25000 → 1 cm = 25000 cm = 250 m = 0,25 km gerçek.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Eşlik ve Benzerlik",
+      "questions": [
+        {
+          "question": "İki üçgenin kenarları sırasıyla 9, 11, 13 ve 9, 11, 13 cm olarak ölçüldü.\n\nBu iki üçgenin ilişkisi nedir ve hangi kritere dayanır?",
+          "options": [
+            "Benzer; benzerlik oranı 4:4",
+            "Ek Soru 1 — Eş; SSS kriteri (üç kenar eşit)",
+            "Ek Soru 1 — Yalnız açıları eşit",
+            "Ek Soru 1 — Hiçbir ilişki belirlenemez"
+          ],
+          "correctIndex": 1,
+          "explanation": "Üç kenar da eşit → SSS (Kenar-Kenar-Kenar) eşlik kriteri sağlanır → Üçgenler eştir.\nEş şekiller aynı zamanda benzerdir (oran 4:4) ama SSS eşliği tanımlar.\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "SSS = Üç kenar eşit → eşlik; tüm kenarlar ve açılar aynı.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "İki benzer dikdörtgenin uzun kenarları 15 cm ve 11 cm'dir. Küçük dikdörtgenin kısa kenarı 6 cm ise büyük dikdörtgenin kısa kenarı kaç cm'dir?",
+          "options": [
+            "6,8 cm",
+            "7 cm",
+            "7,8 cm",
+            "8 cm"
+          ],
+          "correctIndex": 2,
+          "explanation": "Benzerlik oranı = 15/11 = 6/5.\nBüyük kısa kenar = 6 × (6/5) = 7,8 cm.\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Benzer şekillerde oran sabittir; küçük kenarı benzerlik oranıyla çarp.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Benzerlik oranı 5:8 olan iki üçgenden küçüğünün alanı 15 cm²'dir.\n\nBüyük üçgenin alanı kaç cm²'dir?",
+          "options": [
+            "33 cm²",
+            "53 cm²",
+            "78 cm²",
+            "153 cm²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Alan oranı = (benzerlik oranı)² = (5/8)² = 7/28.\nBüyük alan = 15 × (28/7) = 78 cm².\nSık hata: 15 × (8/5) = 33 (oranı karesini almadan çarpmak).\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Alan oranı = kenar oranının karesi; büyük/küçük = (5/2)² = 25/4.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "İki üçgende açılar sırasıyla (53°, 63°, 73°) ve (53°, 63°, 73°) olarak ölçüldü.\n\nBu üçgenler hakkında ne söylenebilir?",
+          "options": [
+            "Ek Soru 1 — Kesinlikle eştirler (SSS)",
+            "Ek Soru 1 — Kesinlikle benzerler (AA)",
+            "Ek Soru 1 — Sadece açılar eşit; kenar ilişkisi belirlenemez",
+            "Ek Soru 1 — Hiçbir ilişki yok"
+          ],
+          "correctIndex": 1,
+          "explanation": "AA (Açı-Açı) kriteri: iki açı eşit olunca üçüncüsü de (183°-53°-63°=73°) eşit olur.\nDolayısıyla üçgenler kesinlikle benzerdir.\nEşlik için kenar bilgisi de gerekirdi.\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "AA → benzerlik garantisi; eşlik için kenar da gerekir.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Selin \"Benzer iki üçgende kenar oranı 4:6 ise alan oranı da 4:6'tür\" dedi.\n\nBu ifade doğru mu? Gerekçenizi açıklayın.",
+          "options": [
+            "Ek Soru 1 — Doğru; alan ve kenar oranları eşittir",
+            "Yanlış; alan oranı = kenar oranının karesi = 4:12",
+            "Yanlış; alan oranı = kenar oranının yarısı = 4:4,8",
+            "Ek Soru 1 — Yalnız kare ve dikdörtgen için doğrudur"
+          ],
+          "correctIndex": 1,
+          "explanation": "Benzer şekillerde: alan oranı = (kenar oranı)².\nKenar oranı 4:6 → alan oranı = 4²:6² = 4:12.\nÖrnek: kenar 4 cm → alan 4 cm²; kenar 6 cm → alan 12 cm².\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Alan 2 boyutludur; her boyut oranlanır → alan oranı = oran².",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Eşlik ve benzerlik hakkında:\nI. Her eş şekil aynı zamanda benzerdir.\nII. Her benzer şekil aynı zamanda eştir.\nIII. Benzer şekillerde karşılıklı açılar eşittir.\n\nHangileri doğrudur?",
+          "options": [
+            "Ek Soru 1 — Yalnız I",
+            "Ek Soru 1 — I ve III",
+            "Ek Soru 1 — I, II ve III",
+            "Ek Soru 1 — Yalnız III"
+          ],
+          "correctIndex": 1,
+          "explanation": "I ✓: Eşlik → benzerlik oranı 4:4 (tüm özellikler içerir).\nII ✗: Benzer şekiller boyutları farklı olabilir; eş olmak zorunda değil.\nIII ✓: Benzerlikte açılar korunur; yalnız kenarlar orantılı değişir.\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Eşlik = benzerliğin özel hali (oran 1:1); tersine her zaman değil.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "7 cm × 9 cm boyutlarındaki fotoğraf, orantılı büyütülerek genişliği 13 cm yapıldı.\n\nYeni fotoğrafın uzunluğu kaç cm olur?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "18 cm",
+            "19 cm"
+          ],
+          "correctIndex": 2,
+          "explanation": "Benzerlik oranı = 13/7 = 8/5.\nYeni uzunluk = 9 × (8/5) = 18 cm.\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Genişlik oranını bul (10÷4=2,5), aynı oranı uzunluğa uygula.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Saat 18:00'te 5 m boyundaki bir çocuğun gölgesi 4,8 m'dir. Yakınındaki bir ağacın gölgesi aynı saatte 9 m ölçüldü.\n\nAğaç kaç metre uzunluğundadır?",
+          "options": [
+            "9 m",
+            "10 m",
+            "11 m",
+            "12 m"
+          ],
+          "correctIndex": 2,
+          "explanation": "Benzer üçgenler: çocuk boyu / çocuk gölgesi = ağaç boyu / ağaç gölgesi.\n5 / 4,8 = ağaç / 9 → ağaç = (5 × 9) / 4,8 = 15 / 4,8 = 11 m.\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Işık paralel gelir → benzer üçgenler; boy/gölge oranı sabit.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Benzer iki üçgende kenar oranı 6:7 olduğu bilinmektedir. Büyük üçgenin alanı 51 cm² ise iki üçgenin alanları arasındaki fark kaç cm²'dir?",
+          "options": [
+            "21 cm²",
+            "24 cm²",
+            "27 cm²",
+            "30 cm²"
+          ],
+          "correctIndex": 1,
+          "explanation": "Alan oranı = (6/7)² = 12/19.\nKüçük üçgen alanı = 51 × (12/19) = 30 cm².\nFark = 51 - 30 = 24 cm².\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Küçük alanı bul: büyük × (kenar oranı)²; sonra büyük - küçük.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Eş üçgenlerde?",
+          "options": [
+            "Ek Soru 1 — Alanlar farklı",
+            "Ek Soru 1 — Tüm karşılıklı kenarlar eşit",
+            "Ek Soru 1 — Sadece açılar",
+            "Ek Soru 1 — Çevreler farklı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — kenar eşit.\n\n[GitHub Ek Test — Eşlik ve Benzerlik]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşlik ve Benzerlik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

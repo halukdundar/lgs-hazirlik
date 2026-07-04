@@ -1,0 +1,428 @@
+{
+  "topicId": "eng_3",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — In the Kitchen",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the recipe note.\nFirst, chop two onions.\nThen, heat oil and fry them.\nFinally, add tomatoes.\nQuestion: What is the first action?",
+          "options": [
+            "Ek Soru 1 — Heat oil",
+            "Ek Soru 1 — Add tomatoes",
+            "Ek Soru 1 — Chop onions",
+            "Ek Soru 1 — Serve meal"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Recipe first adımında chop two onions yazıyor.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "First kelimesinden sonraki fiili seç.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Recipe",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the conversation.\nChef: How ___ flour do we need?\nStudent: About 303 grams.\nQuestion: Which word completes the question?",
+          "options": [
+            "Ek Soru 1 — many",
+            "Ek Soru 1 — much",
+            "Ek Soru 1 — few",
+            "Ek Soru 1 — several"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Flour sayılamayan isimdir, how much kullanılır.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Flour uncountable bir isimdir.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Grammar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the list.\n- eggs: 7\n- milk: 4 liter\n- tomatoes: 6\nQuestion: Which sentence is correct?",
+          "options": [
+            "Ek Soru 1 — There is four eggs.",
+            "Ek Soru 1 — There are three tomatoes.",
+            "Ek Soru 1 — There are much milk.",
+            "Ek Soru 1 — There is many eggs."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tomatoes çoğul olduğu için there are three tomatoes doğrudur.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "There is/there are uyumuna dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Countable",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nEda: The soup is not tasty.\nBerk: Add some salt and stir for two minutes.\nQuestion: What should Eda do next?",
+          "options": [
+            "Ek Soru 1 — Bake the soup",
+            "Ek Soru 1 — Add salt and stir",
+            "Ek Soru 1 — Freeze the soup",
+            "Ek Soru 1 — Throw the pot"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Berk doğrudan add some salt and stir öneriyor.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Berk'in öneri cümlesini takip et.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Dialogue",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the steps.\n4) Preheat oven.\n5) Pour batter into tray.\n6) Bake for 28 minutes.\nQuestion: Which step comes before baking?",
+          "options": [
+            "Ek Soru 1 — Preheat oven",
+            "Ek Soru 1 — Pour batter into tray",
+            "Ek Soru 1 — Decorate cake",
+            "Ek Soru 1 — Serve dessert"
+          ],
+          "correctIndex": 1,
+          "explanation": "Baking'den hemen önce 5. adım gelir.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Adım sırasını bozmadan izle.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Sequencing",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the warning.\n\"Do not touch the pan without gloves. It is extremely hot.\"\nQuestion: Why are gloves needed?",
+          "options": [
+            "Ek Soru 1 — To mix faster",
+            "Ek Soru 1 — To prevent burns",
+            "Ek Soru 1 — To cut vegetables",
+            "Ek Soru 1 — To wash dishes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Aşırı sıcak pan yanık riski taşır.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Extremely hot ifadesi riski anlatır.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Safety",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nMy father doesn't eat salty food, so we use herbs instead of extra salt.\nQuestion: What change do they make?",
+          "options": [
+            "Ek Soru 1 — They add more salt.",
+            "Ek Soru 1 — They use herbs as an alternative.",
+            "Ek Soru 1 — They skip vegetables.",
+            "Ek Soru 1 — They cook without water."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Instead of extra salt ifadesi yerine kullanımını gösterir.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Instead of yapısını yorumla.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Inference",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nChef: Is there any butter?\nAssistant: No, but there is some olive oil.\nQuestion: What can they use?",
+          "options": [
+            "Ek Soru 1 — Only water",
+            "Ek Soru 1 — Some olive oil",
+            "Ek Soru 1 — No ingredient",
+            "Ek Soru 1 — Chocolate"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Assistant, butter yerine olive oil olduğunu söylüyor.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "No, but kalıbından sonraki bilgiye bak.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Some-Any",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the recipe context.\nFor 5 people, use 4 lemon. You are preparing for 9 people.\nQuestion: How many lemons do you need?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "9"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Kişi sayısı üç katına çıktığı için limon da üç kat olur.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "2 kişiden 6 kişiye oran kur.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Problem Solving",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the blog comment.\n\"My cookies became hard because I baked them ten minutes longer than recommended.\"\nQuestion: What caused the issue?",
+          "options": [
+            "Ek Soru 1 — Using little sugar",
+            "Ek Soru 1 — Overbaking",
+            "Ek Soru 1 — Cold milk",
+            "Ek Soru 1 — Wrong tray color"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Önerilenden uzun pişirmek overbaking problemidir.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Longer than recommended ifadesini incele.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Cause and Effect",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — In the Kitchen",
+      "questions": [
+        {
+          "question": "Read the recipe.\nMix flour, eggs and milk. Bake for 33 minutes.\nQuestion: What are you making?",
+          "options": [
+            "Ek Soru 1 — Salad",
+            "Ek Soru 1 — A baked dish like cake or bread",
+            "Ek Soru 1 — Soup",
+            "Ek Soru 1 — Tea"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mix and bake = fırın yemeği.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Bake = fırınla.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nPeel the potatoes before boiling.\n'Peel' means ...",
+          "options": [
+            "Ek Soru 1 — wash",
+            "Ek Soru 1 — remove the skin",
+            "Ek Soru 1 — cut in half",
+            "Ek Soru 1 — fry"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Peel = kabuğunu soymak.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Potato skin.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nAlways wash vegetables before cutting them.\nQuestion: Why wash first?",
+          "options": [
+            "Ek Soru 1 — For taste",
+            "Ek Soru 1 — For hygiene / cleanliness",
+            "Ek Soru 1 — To cook faster",
+            "Ek Soru 1 — To add salt"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hygiene = hijyen.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Before cutting.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nCould you ___ me the salt, please?",
+          "options": [
+            "Ek Soru 1 — pass",
+            "Ek Soru 1 — past",
+            "Ek Soru 1 — passed",
+            "Ek Soru 1 — passing"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Pass me = uzat.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Pass = uzatmak.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nMom: Stir the soup gently.\nQuestion: What should you do?",
+          "options": [
+            "Ek Soru 1 — Boil quickly",
+            "Ek Soru 1 — Stir gently",
+            "Ek Soru 1 — Add sugar",
+            "Ek Soru 1 — Turn off heat"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Stir gently.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Stir = karıştır.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Which is a kitchen tool?",
+          "options": [
+            "Ek Soru 1 — Hammer",
+            "Ek Soru 1 — Whisk",
+            "Ek Soru 1 — Screwdriver",
+            "Ek Soru 1 — Ruler"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Whisk = çırpıcı.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Kitchen tool.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the text.\nPreheat the oven to 183 degrees.\nQuestion: What first?",
+          "options": [
+            "Ek Soru 1 — Eat immediately",
+            "Ek Soru 1 — Preheat the oven",
+            "Ek Soru 1 — Wash dishes",
+            "Ek Soru 1 — Set the table"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Preheat oven first.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Preheat = önceden ısıt.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nChop the onions into small pieces.\n'Chop' means ...",
+          "options": [
+            "Ek Soru 1 — boil",
+            "Ek Soru 1 — cut into pieces",
+            "Ek Soru 1 — mix",
+            "Ek Soru 1 — bake"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Chop = doğramak.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Small pieces.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nToo much salt can ruin the taste.\nQuestion: Too much salt ...",
+          "options": [
+            "Ek Soru 1 — improves taste",
+            "Ek Soru 1 — ruins taste",
+            "Ek Soru 1 — is necessary",
+            "Ek Soru 1 — is ignored"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Ruins the taste.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Ruin = mahvetmek.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nI need a ___ to cut the bread.",
+          "options": [
+            "Ek Soru 1 — knife",
+            "Ek Soru 1 — fork",
+            "Ek Soru 1 — spoon",
+            "Ek Soru 1 — cup"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Knife cuts bread.\n\n[GitHub Ek Test — In the Kitchen]",
+          "ipucu": "Cut = kesmek.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "In the Kitchen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

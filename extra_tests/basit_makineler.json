@@ -1,0 +1,418 @@
+{
+  "topicId": "basit_makineler",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Basit Makineler",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir ogrenci ayni koliyi once dogrudan kaldiriyor, sonra makara sistemiyle kaldiriyor. Harcadigi toplam is degismiyor ama islem kolaylasiyor.\n\nBu durum basit makinelerin hangi ozelligini kanitlar?",
+          "options": [
+            "Ek Soru 1 — Enerjiden kazanc saglar",
+            "Ek Soru 1 — Isten kazanc saglar",
+            "Ek Soru 1 — Is kolayligi saglar",
+            "Ek Soru 1 — Isi yok eder"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Basit makineler is ve enerjiyi artirmaz; kuvvet veya yon degisimi ile kolaylik saglar.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Toplam is ayni kaldigi bilgisine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Bayrak diregindeki sabit makarada yuk cekerken kullanilan kuvvet yuk agirligina esit oluyor.\n\nBu duzenekte hangi durum dogrudur?",
+          "options": [
+            "Ek Soru 1 — Kuvvetten kazanc vardir",
+            "Ek Soru 1 — Yoldan kazanc vardir",
+            "Ek Soru 1 — Sadece kuvvet yonu degisir",
+            "Ek Soru 1 — Is kaybolur"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Sabit makara kuvvetin buyuklugunu degistirmez, sadece yonunu degistirir.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Bayrak diregi örneğini hatirla.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Deney: 123 N lik bir yuk tek hareketli makara ile dengede tutuluyor.\n\nIhmal edilen surtunmede gerekli kuvvet kac N dir?",
+          "options": [
+            "33",
+            "63",
+            "93",
+            "123"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tek hareketli makarada ideal durumda kuvvet yukun yarisidir.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Kuvvet kazanci 2 oldugunda F = Y/2 olur.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: I-Tahterevalli, II-El arabasi, III-Cimbiz.\n\nDestegin ortada oldugu kaldirac ornegi hangisidir?",
+          "options": [
+            "Ek Soru 1 — Yalniz I",
+            "Ek Soru 1 — Yalniz II",
+            "Ek Soru 1 — I ve II",
+            "Ek Soru 1 — II ve III"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Tahterevallide destek noktasi kuvvet ile yuk arasindadir.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Kaldirac siniflandirmasinda destek konumunu dusun.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Ayni yuk iki farkli rampadan cikariliyor. Rampa K daha uzun, yukseklikleri esit.\n\nHangi rampada gereken kuvvet daha azdir?",
+          "options": [
+            "Ek Soru 1 — K",
+            "Ek Soru 1 — L",
+            "Ek Soru 1 — Ikisi esit",
+            "Ek Soru 1 — Belirlenemez"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Egik duzlemde yol uzadikca gereken kuvvet azalir, yani kuvvetten kazanc artar.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Yukseklik sabitken uzun yol daha az kuvvet gerektirir.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Bir tamirci ince disli vida ile kalin adimli vidanin ayni turda ilerleme miktarlarini karsilastiriyor.\n\nHangi vida bir turda daha az ilerler ama daha fazla kuvvet kazanci saglar?",
+          "options": [
+            "Ek Soru 1 — Ince disli vida",
+            "Ek Soru 1 — Kalin adimli vida",
+            "Ek Soru 1 — Ikisi esit",
+            "Ek Soru 1 — Vidanin cinsi onemsiz"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Vida adimi kuculdukce bir turdaki ilerleme azalir, kuvvetten kazanc artar.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Az adim = daha cok mekanik avantaj.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Kuyu cıkrığında kol uzunlugu arttiriliyor.\n\nBunun sonucunda hangi degisim beklenir?",
+          "options": [
+            "Ek Soru 1 — Gerekli kuvvet artar",
+            "Ek Soru 1 — Gerekli kuvvet azalir",
+            "Ek Soru 1 — Yuk agirligi azalir",
+            "Ek Soru 1 — Toplam is yok olur"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Donme yaricapi buyudukce moment artar ve ayni yuk icin daha az kuvvet gerekir.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Uzun kol daha buyuk tork saglar.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: Disli cark K 13 disli, L 23 disli ve birbirine temas ederek donuyor.\n\nK bir tur attiginda L kac tur atar?",
+          "options": [
+            "0,8",
+            "4",
+            "5",
+            "7"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Dis sayisi iki kat olan cark yarim tur atar. Donus sayisi dis sayisi ile ters orantilidir.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Kucuk cark daha hizli doner.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir ogrenci cimbizla kucuk boncuklari topluyor.\n\nCimbiz kullaniminda hangi durum vardir?",
+          "options": [
+            "Ek Soru 1 — Kuvvetten kazanc",
+            "Ek Soru 1 — Yoldan kazanc",
+            "Ek Soru 1 — Hem kuvvet hem yoldan kazanc",
+            "Ek Soru 1 — Enerjiden kazanc"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Cimbizda kuvvet ortada oldugu icin kuvvetten kayip, yoldan kazanc vardir.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Uc kismi daha cok yol alir.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Palanga sisteminde hareketli makara sayisi artiriliyor.\n\nIdeal kosullarda gerekli cekme kuvveti nasil degisir?",
+          "options": [
+            "Ek Soru 1 — Artar",
+            "Ek Soru 1 — Azalir",
+            "Ek Soru 1 — Degismez",
+            "Ek Soru 1 — Once artar sonra azalir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Destekleyen ip sayisi arttikca yuk daha fazla ipe bolunur, gerekli kuvvet azalir.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Ip parca sayisi arttikca mekanik avantaj artar.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Basit Makineler",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Basit makine amacı?",
+          "options": [
+            "Ek Soru 1 — Kuvvetten kazanç veya yön değiştirme",
+            "Ek Soru 1 — Enerji yok",
+            "Ek Soru 1 — Kütle yok",
+            "Ek Soru 1 — Isı üretir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kuvvet/yön.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kaldıraçta denge?",
+          "options": [
+            "Ek Soru 1 — F₁×d₁=F₂×d₂",
+            "Ek Soru 1 — F₁=F₂",
+            "Ek Soru 1 — d₁=d₂",
+            "Ek Soru 1 — F×d=0"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Moment eşitliği.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sabit makara kuvvet kazancı?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "Ek Soru 1 — 0"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kazanç yok, yön değişir.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Hareketli makara kuvvet kazancı?",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "7"
+          ],
+          "correctIndex": 0,
+          "explanation": "5.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Eğik düzlem avantajı?",
+          "options": [
+            "Ek Soru 1 — Kuvvetten kazanç",
+            "Ek Soru 1 — Kütle artar",
+            "Ek Soru 1 — Enerji artar",
+            "Ek Soru 1 — Hız yok"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kuvvet azalır yol artar.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vida hangi makine türü?",
+          "options": [
+            "Ek Soru 1 — Eğik düzlem sarmal",
+            "Ek Soru 1 — Kaldıraç",
+            "Ek Soru 1 — Makara",
+            "Ek Soru 1 — Çark"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Eğik düzlem.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İş tanımı?",
+          "options": [
+            "Ek Soru 1 — Kuvvet×yol",
+            "Ek Soru 1 — Kuvvet/yol",
+            "Ek Soru 1 — Kütle×hız",
+            "Ek Soru 1 — Basınç×alan"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — W=F×s.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Verim?",
+          "options": [
+            "Faydalı/girilen×103",
+            "Ek Soru 1 — Girilen/faydalı",
+            "Ek Soru 1 — F×s",
+            "Ek Soru 1 — m×g"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Verim %.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Çark dişlilerde küçük çark?",
+          "options": [
+            "Ek Soru 1 — Hızlı döner",
+            "Ek Soru 1 — Yavaş",
+            "Ek Soru 1 — Durur",
+            "Ek Soru 1 — Ters"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Devir artar.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Kuvvet kazancı 5 ise 103N yük?",
+          "options": [
+            "53N",
+            "203N",
+            "103N",
+            "28N"
+          ],
+          "correctIndex": 0,
+          "explanation": "53N.\n\n[GitHub Ek Test — Basit Makineler]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basit Makineler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

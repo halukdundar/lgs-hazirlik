@@ -1,0 +1,409 @@
+{
+  "topicId": "turkce_3",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Paragraf",
+      "questions": [
+        {
+          "question": "Metin: \"Teknoloji hayatımızı kolaylaştırdı; ancak sosyal bağları zayıflattı. Gençler ekran karşısında saatler geçiriyor.\"\nAna fikir nedir?",
+          "options": [
+            "Teknoloji yalnızca yararlıdır.",
+            "Ekranlar zararlıdır.",
+            "Teknolojinin yarar sağlarken sosyal ilişkilere zarar verdiği",
+            "Gençler teknoloji kullanmamalıdır."
+          ],
+          "correctIndex": 2,
+          "explanation": "Hem yarar hem sosyal bağ zayıflaması → ana fikir ikisini içerir.",
+          "ipucu": "\"Ancak\" karşıtlık kuruyor.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Sanat eserleri toplumların kültürel belleğini yansıtır. Müzeler canlı tarih kitapları gibidir.\"\nSon cümle hangi işlevi üstlenir?",
+          "options": [
+            "Yeni konu açar",
+            "Paragrafı özetler ve sonuca bağlar",
+            "Önceki cümleyi çürütür",
+            "Örnek verir"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Bu nedenle/gibi\" benzeri sonuç ve özetleme.",
+          "ipucu": "Son cümle genel yargı/özet.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Bazı araştırmalar meditasyonun stresi azalttığını gösteriyor. Ancak tüm çalışmalar bunu desteklemiyor.\"\nKesinlikle söylenebilir?",
+          "options": [
+            "Meditasyon kesinlikle stresi azaltır.",
+            "Meditasyonun etkisi tartışmalıdır.",
+            "Meditasyon zararlıdır.",
+            "Araştırma yapılmamıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Bazı destekliyor bazı desteklemiyor → tartışmalı.",
+          "ipucu": "\"Ancak, farklı sonuçlar\" → tartışmalı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Şehirler büyüyor. Kırsal nüfus azalıyor. Tarım arazileri betonlaşıyor.\"\nUygun başlık?",
+          "options": [
+            "Şehirlerin Tarihi",
+            "Hızlı Kentleşmenin Etkileri",
+            "Tarım Nasıl Yapılır?",
+            "Köy Yaşamı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tüm cümleler kentleşmeyi anlatıyor.",
+          "ipucu": "Başlık tüm cümleleri kapsamalı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"İnsan hafızası bir kütüphane gibidir; bilgi depolanır. Ancak hafıza bazen bilgiyi yanlış yere koyar.\"\nYazarın tutumu?",
+          "options": [
+            "Tamamen olumsuz",
+            "Hem güçlü hem kusurlu olduğunu açıklamak",
+            "Mükemmel olduğunu savunmak",
+            "Eleştiri getirmek"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hem depolama hem hata yönleri sunuluyor.",
+          "ipucu": "\"Ancak\" → iki yön.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Tartışmacı söylemin en belirgin özelliği nedir?",
+          "options": [
+            "Olay anlatımı",
+            "Karşıt görüşlerin tartışılması ve bir kanının savunulması",
+            "Betimleme",
+            "Tanımlama"
+          ],
+          "correctIndex": 1,
+          "explanation": "İddia + kanıt + karşı görüş çürütme.",
+          "ipucu": "Tartışmacı = iddia + kanıt.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Doğa insanın en büyük hocasıdır. Mevsimler devamlılığı, dağlar sebatı öğretir.\"\nDoğru ifade?",
+          "options": [
+            "İnsan doğayı eğitmelidir.",
+            "Doğa sembolik olarak yaşam dersleri sunar.",
+            "Doğa değişmez.",
+            "Nehirler dirençlidir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Doğa ögeleri erdemleri sembolize ediyor.",
+          "ipucu": "Sembolik anlatım.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Çocuklar oyun yoluyla öğrenir. Oyun hayal gücünü geliştirir. Okul öncesi dönemde oyun en iyi öğretmendir.\"\nParagraf yapısı?",
+          "options": [
+            "Giriş-çelişki-sonuç",
+            "Ana fikir-destekler-sonuç",
+            "Örnek-açıklama-soru",
+            "Tanım-red"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ana fikir → kanıt → sonuç yapısı.",
+          "ipucu": "Klasik paragraf yapısı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Dijital okuma yüzeysel anlayışa yol açabilir. Kâğıttan okuyanlar metni daha derin işler.\"\nKesinlikle söylenemez?",
+          "options": [
+            "Dijital okuma yüzeysel olabilir.",
+            "Araştırmalar karşılaştırmıştır.",
+            "Kâğıt okuma her zaman dijitale üstündür.",
+            "Ekrandan okuyanlarda tarama gözlemlenmiştir."
+          ],
+          "correctIndex": 2,
+          "explanation": "\"Her zaman üstündür\" metinde yok → söylenemez.",
+          "ipucu": "\"Her zaman\" mutlak ifade → dikkat.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Teknoloji, çocukların öğrenme biçimini köklü biçimde değiştirmektedir. Akıllı tahta ve eğitim uygulamaları, soyut kavramları somutlaştırarak anlamayı kolaylaştırır. Öğrenciler kendi hızlarında ilerleyebildiğinde motivasyonları da artar.\"\n\nBu metnin ana fikri aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Teknoloji çocuklar için ciddi bir tehlike oluşturur.",
+            "Ek Soru 1 — Eğitimde teknoloji kullanımı öğrenme sürecini olumlu etkiler.",
+            "Ek Soru 1 — Akıllı tahtalar soyut kavramları anlamamızı engeller.",
+            "Ek Soru 1 — Öğrencilerin motivasyonu her zaman düşük olur."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Parçada teknolojinin öğrenme sürecini nasıl iyileştirdiği aktarılmaktadır. \"Anlamayı kolaylaştırır\" ve \"motivasyonları artar\" gibi ifadeler bu olumlu etkiyi desteklemektedir. Ana fikir B'dir.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "Ana fikir genellikle ilk cümlede verilir ve diğer cümleler onu destekler. \"Parçanın tamamından çıkan tek mesaj ne?\" diye sor kendine.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Paragraf",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Metin: \"Düzenli egzersiz yapmak yalnızca fiziksel değil zihinsel sağlığı da güçlendirir. Araştırmalar, günde yirmi dakika yürüyüş yapanların stres düzeyinin belirgin biçimde düştüğünü ortaya koymaktadır. Spor ayrıca uyku kalitesini artırarak konsantrasyonu iyileştirir.\"\n\nBu metne en uygun başlık hangisidir?",
+          "options": [
+            "Ek Soru 1 — Spor Salonlarının Tarihi",
+            "Ek Soru 1 — Düzenli Egzersizin Zihin ve Beden Üzerindeki Etkileri",
+            "Ek Soru 1 — En İyi Spor Branşlarının Karşılaştırması",
+            "Ek Soru 1 — Uyku Bozukluklarının Başlıca Nedenleri"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Parça egzersizin hem fiziksel hem zihinsel yararlarını (stres azalması, uyku kalitesi, konsantrasyon) ele almaktadır. En kapsayıcı başlık B'dir.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "Başlık sorusunda: parçanın tüm cümlelerini kapsayan ama spesifik bir ayrıntıya odaklanmayan seçeneği tercih et. Çok geniş veya çok dar başlıkları ele.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Doğal afetlere hazırlık, toplumların olası kayıpları azaltmasını sağlar. Deprem çantası hazırlamak, tahliye yollarını bilmek ve tatbikat yapmak bu hazırlığın temel unsurlarıdır. Hazırlıklı toplumlar, afet sonrası toparlanma sürecini de daha hızlı tamamlar.\"\n\nBu metinden aşağıdakilerden hangisi çıkarılamaz?",
+          "options": [
+            "Ek Soru 1 — Hazırlık afet sonrası toparlanmayı hızlandırır.",
+            "Ek Soru 1 — Deprem çantası temel hazırlık unsurlarından biridir.",
+            "Ek Soru 1 — Tüm doğal afetler önlenebilir.",
+            "Ek Soru 1 — Tahliye yollarını bilmek afet hazırlığına katkı sağlar."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Metinde afetlerin önlenebileceği hakkında herhangi bir bilgi verilmemektedir; yalnızca hazırlıklı olmanın kayıpları azaltacağı söylenmiştir. C seçeneği metinden çıkarılamaz.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "\"Çıkarılamaz\" sorusunda: her seçeneği metinle karşılaştır. Metinde olmayan ya da metinle çelişen ifade cevaptır. Tahminde bulunma!",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Okuma alışkanlığı, bireyin sözcük dağarcığını genişletir. Okuyan biri günlük hayatta daha zengin bir dil kullanır ve kendini daha açık ifade eder. Bu beceri hem sosyal hem de mesleki hayatta büyük avantaj sağlar.\"\n\nAşağıdakilerden hangisi bu paragrafın yardımcı düşüncelerinden biridir?",
+          "options": [
+            "Ek Soru 1 — Okuma alışkanlığı kazanmak son derece zordur.",
+            "Ek Soru 1 — Okumak sosyal ve mesleki hayatta avantaj sağlar.",
+            "Ek Soru 1 — Zengin dil kullanımı bireyin sağlığını olumsuz etkiler.",
+            "Ek Soru 1 — Sözcük dağarcığı ile mesleki başarı ilgisizdir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Bu beceri hem sosyal hem de mesleki hayatta büyük avantaj sağlar.\" cümlesi doğrudan metinde yer almaktadır ve ana fikri (okuma alışkanlığının yararları) destekleyen bir yardımcı düşüncedir.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "Yardımcı düşünce metinde doğrudan ifade edilmiş olmalı ve ana fikri desteklemelidir. \"Bu cümle metinde söylenmiş mi?\" diye kontrol et.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"I. Sağlıklı beslenme alışkanlıkları çocukluktan itibaren edinilmelidir. II. Düzenli spor, bu alışkanlıkların en güçlü destekçisidir. III. Tarihî eserlerin korunması kültürel mirasımızı yaşatır. IV. Yetersiz uyku, sağlıklı yaşamın önündeki ciddi engellerden biridir.\"\n\nBu parçada anlam bütünlüğünü bozan cümle hangisidir?",
+          "options": [
+            "Ek Soru 1 — I. cümle",
+            "Ek Soru 1 — II. cümle",
+            "Ek Soru 1 — III. cümle",
+            "Ek Soru 1 — IV. cümle"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Parça sağlıklı yaşam alışkanlıklarını konu almaktadır. III. cümle ise tarihî eserler ve kültürel mirası ele almakta; konudan tamamen sapmaktadır. Bu nedenle anlam bütünlüğünü bozar.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "Anlam bütünlüğünü bozan cümle: diğer cümlelerle aynı konuyu işlemeyen, paragrafın genel temasından kopan cümledir. Önce parçanın genel konusunu belirle.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"İnsanlar genellikle ikinci bir dil öğrenmenin yalnızca yabancı ülkelerde işe yarayacağını düşünür. Oysa dil öğrenmek, kişinin kendi anadilini de daha iyi anlamasını sağlar. Bir dilin dilbilgisi kurallarını öğrenmek, diğer dillerle karşılaştırma yapma fırsatı tanır. ...\"\n\nBu parçanın son cümlesine aşağıdakilerden hangisi getirilebilir?",
+          "options": [
+            "Ek Soru 1 — Bu nedenle yabancı dil öğrenmek tamamen zaman kaybıdır.",
+            "Ek Soru 1 — Dolayısıyla yabancı dil eğitimi yalnızca okullarda verilmelidir.",
+            "Ek Soru 1 — Bu açıdan dil öğrenmek, zihnin farklı boyutlarını geliştiren bir süreçtir.",
+            "Ek Soru 1 — Fakat dil öğrenmek beyin gelişimini yavaşlatır."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Parça, dil öğrenmenin beklenenden daha geniş yararlar (anadil anlayışı, karşılaştırmalı düşünme) sağladığını anlatmaktadır. Buna uygun mantıksal sonuç cümlesi C'dir.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "Paragraf tamamlama: son cümle hem konuyu hem de önceki cümlelerin tonunu sürdürmeli. Aşırı genelleyen veya çelişen seçenekleri ele.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Çevre kirliliği yalnızca büyük fabrikaların değil, bireylerin de sorumluluğundadır. Sokağa atılan bir pet şişe, ırmağa karışan atık su kadar zararlıdır. Büyük değişimler, küçük alışkanlıkların toplamından oluşur. Bu nedenle her bireyin çevreye duyarlı davranışları benimsemesi kritik önem taşır.\"\n\nBu paragrafın ana fikri aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Çevre kirliliğinin tek sorumlusu büyük fabrikalardır.",
+            "Ek Soru 1 — Büyük değişimler yalnızca devletlerin kararlarıyla olur.",
+            "Ek Soru 1 — Her birey çevre kirliliğinin önlenmesinde sorumluluk taşır.",
+            "Ek Soru 1 — Pet şişelerin zararı atık sularla kıyaslanamaz."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Parçanın son cümlesi ana fikri özetlemektedir: bireysel sorumluluk. Paragraftaki tüm örnekler (sokaktaki şişe, küçük alışkanlıklar) bu ana fikri desteklemektedir.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "Son cümle ana fikri özetliyorsa (\"Bu nedenle...\", \"Sonuç olarak...\") direkt ona odaklan. Bu bağlayıcı cümle genellikle ana fikri özetler.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Bir araştırmaya göre, günde iki saatten fazla ekran kullanan çocuklarda dikkat güçlüğü daha yaygındır. Araştırmacılar bu ilişkinin neden-sonuç mu yoksa korelasyon mu olduğunu henüz kesinleştirememektedir.\"\n\nBu metinden aşağıdakilerden hangisi kesinlikle çıkarılamaz?",
+          "options": [
+            "Ek Soru 1 — Ekran kullanımı ile dikkat güçlüğü arasında bir ilişki gözlemlenmiştir.",
+            "Ek Soru 1 — Araştırmacılar bu ilişkinin nedensellik içerdiğini kanıtlamıştır.",
+            "Ek Soru 1 — Günde iki saatten fazla ekran kullanan çocuklarda dikkat güçlüğü daha sık görülmektedir.",
+            "Ek Soru 1 — Araştırma çocuklardaki dikkat güçlüğünü konu almaktadır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Metinde \"kesinleştirememektedir\" ifadesi yer almaktadır; yani nedensellik kanıtlanamamıştır. B seçeneğindeki \"kanıtlamıştır\" iddiası metinle doğrudan çelişmektedir.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "\"Çıkarılamaz\" sorusunda özellikle \"kesinleştirdi, kanıtlandı, mutlaka\" gibi güçlü ifadelere dikkat et. Metinde belirsizlik varsa kesinlik içeren seçenekler çıkarılamaz.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Akdeniz ikliminin hâkim olduğu bölgelerde zeytinlik, narenciye ve bağların yoğunlaştığı görülmektedir. Bu bitki örtüsü, kışın ılık ve yağışlı, yazın sıcak ve kurak olmasının bir sonucudur. İklim ile tarım faaliyetleri arasındaki bu ilişki çok sayıda araştırmayla belgelenmiştir.\"\n\nBu paragraf için aşağıdakilerden hangisi doğrudur?",
+          "options": [
+            "Ek Soru 1 — Yazar kendi görüşünü öznel biçimde aktarmaktadır.",
+            "Ek Soru 1 — Paragraf olayları kronolojik sırayla anlatmaktadır.",
+            "Ek Soru 1 — Paragraf, nesnel bilgilere dayalı açıklayıcı niteliktedir.",
+            "Ek Soru 1 — Metin bir tartışma yazısına aittir; karşı görüşler sunulmuştur."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Paragraf iklim özellikleri ve tarım faaliyetleri arasındaki bilimsel ilişkiyi araştırmalara dayanarak açıklamaktadır. Kişisel yorum, kronoloji veya karşı görüş içermez; açıklayıcı ve nesneldir.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "Nesnel açıklayıcı paragraf: araştırmaya dayalı, \"ben düşünüyorum ki\" yok, yorum değil bilgi aktarımı. Bu özellikleri ara.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Eleştirmenler, modern romanın okuyucuya fazlasıyla kolay metinler sunduğunu öne sürmektedir. Ben bu görüşe kısmen katılıyorum. Evet, bazı yapıtlar yüzeysel kalıyor; ancak eleştirmenlerin gözden kaçırdığı kırk yıllık derin birikimi taşıyan yazarlar da var. Belki de sorun okuyucunun sabırsızlığıdır.\"\n\nBu parçada yazarın tutumu aşağıdakilerden hangisiyle örtüşmektedir?",
+          "options": [
+            "Ek Soru 1 — Eleştirmenlerin görüşüne tamamen karşı çıkmaktadır.",
+            "Ek Soru 1 — Eleştirmenlerin görüşünü koşulsuz desteklemektedir.",
+            "Ek Soru 1 — Eleştirmenlerin görüşünü kısmen kabul edip bazı çekinceler eklemektedir.",
+            "Ek Soru 1 — Yazar kesin bir yargıya varmayı başaramamıştır."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Yazar \"kısmen katılıyorum\" diyerek eleştirmenlere hem hak verip hem de onları eleştirmektedir. \"Evet, bazıları yüzeysel; ancak derin yazarlar da var\" çekincesi bu kısmî kabulü gösterir.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "\"Kısmen, ancak, evet ama\" ifadeleri yazarın dengeli/çekinceli tutumunu gösterir. Bu tür ifadeler gördüğünde tam evet veya tam hayır değil, orta yolu arayan bir tutum söz konusudur.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Paragraf: \"Spor yapmak hem bedeni hem zihni güçlendirir. Düzenli egzersiz yapan kişiler daha enerjik ve odaklı olur. Bilimsel araştırmalar da bu görüşü desteklemektedir.\"\nBu paragrafın ana fikri nedir?",
+          "options": [
+            "Ek Soru 1 — Bilim araştırmalar yapıyor.",
+            "Ek Soru 1 — Spor yapmak insan sağlığına olumlu etki eder.",
+            "Ek Soru 1 — Egzersiz yalnızca beden için iyidir.",
+            "Ek Soru 1 — Odaklanmak önemlidir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Paragraf; sporun hem bedene hem zihne olumlu etkilerini, bilimsel destekle anlatmaktadır.\n\n[GitHub Ek Test — Paragraf]",
+          "ipucu": "Ana fikir: tüm paragrafı kapsayan temel düşünce.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Paragrafta Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

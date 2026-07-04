@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_7",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Noktalama İşaretleri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde virgül doğru kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Toplantıya, öğrenciler veliler ve öğretmenler katıldı.",
+            "Ek Soru 1 — Toplantıya öğrenciler, veliler ve öğretmenler katıldı.",
+            "Ek Soru 1 — Toplantıya öğrenciler veliler, ve öğretmenler katıldı.",
+            "Ek Soru 1 — Toplantıya öğrenciler veliler ve, öğretmenler katıldı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B'de virgüller sıralanan ögeler arasında doğru yerleştirilmiştir: \"öğrenciler, veliler ve öğretmenler.\" A'da virgül yanlış yerde (fiil öncesi boş), C ve D'de \"ve\" bağlacı öncesinde/sonrasında yanlış virgül konumu.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Sıralamada virgül: A, B ve C → son öge öncesinde \"ve\" varsa virgül gerekmez. Yanlış yer: \"ve\" den önce virgül koymak.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğretmen şunları söyledi: 'Bu konuyu mutlaka tekrar edin.'\" cümlesinde iki noktanın kullanım amacı nedir?",
+          "options": [
+            "Ek Soru 1 — Cümleyi bitirmek için",
+            "Ek Soru 1 — Aktarılacak doğrudan sözü duyurmak için",
+            "Ek Soru 1 — Soru anlamı katmak için",
+            "Ek Soru 1 — Sıralama yapmak için"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Şunları söyledi:\" ifadesinden sonra gelen iki nokta, doğrudan aktarılacak sözün başlayacağını duyurmaktadır. Bu iki noktanın temel kullanım işlevlerinden biridir.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "İki nokta kullanımları: (1) açıklama başlatır, (2) örnek sıralar, (3) alıntı/doğrudan söz öncesi gelir. Bu cümlede hangisi? → doğrudan söz öncesi.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerden hangisinin sonuna soru işareti getirilmelidir?",
+          "options": [
+            "Ek Soru 1 — Pencereyi kapattığını söyledi",
+            "Ek Soru 1 — Ne zaman döneceksin",
+            "Ek Soru 1 — Lütfen sessiz ol",
+            "Ek Soru 1 — Tebrikler, başardın"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Ne zaman döneceksin\" bir soru cümlesidir ve sonuna \"?\" konulmalıdır. A haber cümlesi (nokta), C emir cümlesi (nokta/ünlem), D ünlem cümlesi (ünlem işareti) alır.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Soru işareti: yalnızca gerçek soru anlamı taşıyan cümlelerde kullanılır. \"Söyledi\", \"ol\", \"tebrikler\" → soru değil; \"ne zaman, nerede, kim\" → soru.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Yangın var! Hemen dışarı çıkın!\" cümlesinde ünlem işaretlerinin kullanım amacı nedir?",
+          "options": [
+            "Ek Soru 1 — Soru sormak",
+            "Ek Soru 1 — Bilgi aktarmak",
+            "Ek Soru 1 — Heyecan, tehlike ve emir anlamı katmak",
+            "Ek Soru 1 — Liste başlatmak"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Ünlem işareti güçlü duygu (korku, sevinç, öfke), acil durum ve emir bildiren cümlelerin sonuna konur. \"Yangın var!\" tehlike + heyecan; \"Çıkın!\" emir bildirmektedir.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Ünlem işareti: güçlü duygu, emir, uyarı, ünlem. \"Yaşasın!, Dur!, Ne kadar güzel!\" türü cümlelerde kullanılır.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde tırnak işareti doğru kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Gazetede Kış mevsimi erken başladı \"haberi\" yer aldı.",
+            "Ek Soru 1 — Öğretmen \"Yarın erken gelin.\" dedi.",
+            "Ek Soru 1 — \"Sesini biraz kısar\" mısın dedi.",
+            "Ek Soru 1 — O toplantıda \"söylendi\" ki sorun çözümsüz."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Yarın erken gelin.\" doğrudan alıntı tırnak içinde verilmiş; nokta tırnak içinde kalmış. Bu kullanım doğrudur. A'da tırnak yanlış yerleştirilmiş, C ve D'deki tırnak kullanımları hatalıdır.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Tırnak: doğrudan alıntı, eser adı, ironi. Noktalama işareti tırnak içindeki cümleye aitse tırnağın içinde kalır.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde noktalı virgül doğru kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Kitabı okudu; notlar aldı; özetledi.",
+            "Ek Soru 1 — Kitabı okudu, notlar aldı; özetledi.",
+            "Ek Soru 1 — Kitabı; okudu notlar aldı.",
+            "Ek Soru 1 — Kitabı okudu notlar aldı özetledi;"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — A'da birbirine bağlı üç sıralı eylem noktalı virgülle ayrılmıştır; bu noktalı virgülün klasik kullanımıdır. B tutarsız (virgül ile noktalı virgül karışık), C ve D yanlış konumlandırılmış.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Noktalı virgül: virgülden büyük, noktadan küçük bir duraklama. Uzun sıralı cümleler veya birbiriyle ilişkili ama ayrı yargılar arasında kullanılır.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde virgülün konumu doğrudur?",
+          "options": [
+            "Ek Soru 1 — Proje kapsamında hazırlanan raporu görünce, yönetim çok memnun kaldı.",
+            "Ek Soru 1 — Proje kapsamında hazırlanan rapora göre, öğrencilerin büyük çoğunluğu interneti eğitim için kullanıyor.",
+            "Ek Soru 1 — Proje, kapsamında hazırlanan rapora göre öğrencilerin büyük çoğunluğu interneti eğitim için kullanıyor.",
+            "Ek Soru 1 — Proje kapsamında, hazırlanan rapora göre öğrencilerin büyük çoğunluğu interneti eğitim, için kullanıyor."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Rapora göre,\" ifadesi cümlenin başına alınmış zarf grubudur; arkasından virgül konulması doğrudur. A'da \"görünce\" zarf-fiil grubu sonrası virgül kabul edilebilir ama B daha tipik kurallı örnektir. C ve D yanlış konumlandırılmış.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Cümle başına alınan uzun zarf gruplarından sonra virgül konulabilir: \"Buna göre, / Raporlara dayanarak, / Sabah erkenden kalkarak,\" gibi.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki kısaltma yazımlarından hangisi doğrudur?",
+          "options": [
+            "Ek Soru 1 — TC nin yeni kararı açıklandı.",
+            "Ek Soru 1 — T.C'nin yeni kararı açıklandı.",
+            "Ek Soru 1 — TC'nin yeni kararı açıklandı.",
+            "Ek Soru 1 — T.C.nin yeni kararı açıklandı."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Kısaltmalara gelen ekler kesme işaretiyle ayrılır: \"TC'nin.\" A'da kesme işareti yoktur, B'de kısaltma yanlış, D'de kesme işareti eksiktir.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Kısaltma + ek: kesme işareti zorunlu. \"TBMM'ye, TC'nin, TDK'nın.\" Noktalı kısaltmalarda son noktadan sonra kesme işareti konmaz.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Planlı çalışırsan başarın artar\" dedi ablam \"Bunu ben de denedim.\" Beni de buna ikna etti.\n\nBu cümle dizisinde birinci cümlede yapılması gereken noktalama düzeltmesi nedir?",
+          "options": [
+            "Ek Soru 1 — \"dedi ablam\" ifadesi silinmeli.",
+            "Ek Soru 1 — Birinci alıntıdan sonra virgül getirilmeli: \"…artar,\" dedi ablam.",
+            "Ek Soru 1 — İlk alıntıdan sonra nokta konulmalı: \"…artar.\" dedi ablam.",
+            "Ek Soru 1 — Cümlelerde herhangi bir değişiklik gerekmez."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Doğrudan aktarılan sözden sonra konuşma bildiren ifade (\"dedi ablam\") geldiğinde, aktarım tırnak içinde bitse de araya virgül konulur: \"Planlı çalışırsan başarın artar,\" dedi ablam.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "\"...\" dedi / dedim / diye söyledi kalıplarında: tırnaktan sonra virgül gelir, \"dedi\" küçük harfle başlar. Nokta değil virgül!",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde noktalama hatası yoktur?",
+          "options": [
+            "Ek Soru 1 — Okula gidiniz, ve çantanızı alınız.",
+            "Ek Soru 1 — Dün akşam kitap okudum; bugün ise soru çözdüm.",
+            "Ek Soru 1 — \"Bugün hava çok güzel değil mi\" diye sordu.",
+            "Ek Soru 1 — Sınıfta; masalar sandalyeler ve pano vardı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B cümlesinde noktalı virgül iki ardışık bağlantılı yargıyı doğru biçimde ayırmaktadır. A'da \"ve\" öncesi virgül yanlış, C'de soru işareti tırnak içine alınmalıydı, D'de noktalı virgül yanlış konumlandırılmış.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "\"Hangisinde hata yok?\" sorusunda her seçeneği tek kuralla test et. Özellikle \"ve\" öncesi gereksiz virgül, soru işaretinin tırnak içi/dışı konumu ve noktalı virgül yeri en çok hata yapılan yerlerdir.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Noktalama İşaretleri",
+      "questions": [
+        {
+          "question": "Test 11: Aşağıdaki cümlelerin hangisinde virgül doğru kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Toplantıya, öğrenciler veliler ve öğretmenler katıldı.",
+            "Ek Soru 1 — Toplantıya öğrenciler, veliler ve öğretmenler katıldı.",
+            "Ek Soru 1 — Toplantıya öğrenciler veliler, ve öğretmenler katıldı.",
+            "Ek Soru 1 — Toplantıya öğrenciler veliler ve, öğretmenler katıldı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B'de virgüller sıralanan ögeler arasında doğru yerleştirilmiştir: \"öğrenciler, veliler ve öğretmenler.\" A'da virgül yanlış yerde (fiil öncesi boş), C ve D'de \"ve\" bağlacı öncesinde/sonrasında yanlış virgül konumu.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Sıralamada virgül: A, B ve C → son öge öncesinde \"ve\" varsa virgül gerekmez. Yanlış yer: \"ve\" den önce virgül koymak.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: \"Öğretmen şunları söyledi: 'Bu konuyu mutlaka tekrar edin.'\" cümlesinde iki noktanın kullanım amacı nedir?",
+          "options": [
+            "Ek Soru 1 — Cümleyi bitirmek için",
+            "Ek Soru 1 — Aktarılacak doğrudan sözü duyurmak için",
+            "Ek Soru 1 — Soru anlamı katmak için",
+            "Ek Soru 1 — Sıralama yapmak için"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Şunları söyledi:\" ifadesinden sonra gelen iki nokta, doğrudan aktarılacak sözün başlayacağını duyurmaktadır. Bu iki noktanın temel kullanım işlevlerinden biridir.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "İki nokta kullanımları: (1) açıklama başlatır, (2) örnek sıralar, (3) alıntı/doğrudan söz öncesi gelir. Bu cümlede hangisi? → doğrudan söz öncesi.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki cümlelerden hangisinin sonuna soru işareti getirilmelidir?",
+          "options": [
+            "Ek Soru 1 — Pencereyi kapattığını söyledi",
+            "Ek Soru 1 — Ne zaman döneceksin",
+            "Ek Soru 1 — Lütfen sessiz ol",
+            "Ek Soru 1 — Tebrikler, başardın"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Ne zaman döneceksin\" bir soru cümlesidir ve sonuna \"?\" konulmalıdır. A haber cümlesi (nokta), C emir cümlesi (nokta/ünlem), D ünlem cümlesi (ünlem işareti) alır.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Soru işareti: yalnızca gerçek soru anlamı taşıyan cümlelerde kullanılır. \"Söyledi\", \"ol\", \"tebrikler\" → soru değil; \"ne zaman, nerede, kim\" → soru.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: \"Yangın var! Hemen dışarı çıkın!\" cümlesinde ünlem işaretlerinin kullanım amacı nedir?",
+          "options": [
+            "Ek Soru 1 — Soru sormak",
+            "Ek Soru 1 — Bilgi aktarmak",
+            "Ek Soru 1 — Heyecan, tehlike ve emir anlamı katmak",
+            "Ek Soru 1 — Liste başlatmak"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Ünlem işareti güçlü duygu (korku, sevinç, öfke), acil durum ve emir bildiren cümlelerin sonuna konur. \"Yangın var!\" tehlike + heyecan; \"Çıkın!\" emir bildirmektedir.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Ünlem işareti: güçlü duygu, emir, uyarı, ünlem. \"Yaşasın!, Dur!, Ne kadar güzel!\" türü cümlelerde kullanılır.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki cümlelerin hangisinde tırnak işareti doğru kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Gazetede Kış mevsimi erken başladı \"haberi\" yer aldı.",
+            "Ek Soru 1 — Öğretmen \"Yarın erken gelin.\" dedi.",
+            "Ek Soru 1 — \"Sesini biraz kısar\" mısın dedi.",
+            "Ek Soru 1 — O toplantıda \"söylendi\" ki sorun çözümsüz."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Yarın erken gelin.\" doğrudan alıntı tırnak içinde verilmiş; nokta tırnak içinde kalmış. Bu kullanım doğrudur. A'da tırnak yanlış yerleştirilmiş, C ve D'deki tırnak kullanımları hatalıdır.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Tırnak: doğrudan alıntı, eser adı, ironi. Noktalama işareti tırnak içindeki cümleye aitse tırnağın içinde kalır.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki cümlelerin hangisinde noktalı virgül doğru kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Kitabı okudu; notlar aldı; özetledi.",
+            "Ek Soru 1 — Kitabı okudu, notlar aldı; özetledi.",
+            "Ek Soru 1 — Kitabı; okudu notlar aldı.",
+            "Ek Soru 1 — Kitabı okudu notlar aldı özetledi;"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — A'da birbirine bağlı üç sıralı eylem noktalı virgülle ayrılmıştır; bu noktalı virgülün klasik kullanımıdır. B tutarsız (virgül ile noktalı virgül karışık), C ve D yanlış konumlandırılmış.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Noktalı virgül: virgülden büyük, noktadan küçük bir duraklama. Uzun sıralı cümleler veya birbiriyle ilişkili ama ayrı yargılar arasında kullanılır.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki cümlelerin hangisinde virgülün konumu doğrudur?",
+          "options": [
+            "Ek Soru 1 — Proje kapsamında hazırlanan raporu görünce, yönetim çok memnun kaldı.",
+            "Ek Soru 1 — Proje kapsamında hazırlanan rapora göre, öğrencilerin büyük çoğunluğu interneti eğitim için kullanıyor.",
+            "Ek Soru 1 — Proje, kapsamında hazırlanan rapora göre öğrencilerin büyük çoğunluğu interneti eğitim için kullanıyor.",
+            "Ek Soru 1 — Proje kapsamında, hazırlanan rapora göre öğrencilerin büyük çoğunluğu interneti eğitim, için kullanıyor."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Rapora göre,\" ifadesi cümlenin başına alınmış zarf grubudur; arkasından virgül konulması doğrudur. A'da \"görünce\" zarf-fiil grubu sonrası virgül kabul edilebilir ama B daha tipik kurallı örnektir. C ve D yanlış konumlandırılmış.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Cümle başına alınan uzun zarf gruplarından sonra virgül konulabilir: \"Buna göre, / Raporlara dayanarak, / Sabah erkenden kalkarak,\" gibi.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki kısaltma yazımlarından hangisi doğrudur?",
+          "options": [
+            "Ek Soru 1 — TC nin yeni kararı açıklandı.",
+            "Ek Soru 1 — T.C'nin yeni kararı açıklandı.",
+            "Ek Soru 1 — TC'nin yeni kararı açıklandı.",
+            "Ek Soru 1 — T.C.nin yeni kararı açıklandı."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Kısaltmalara gelen ekler kesme işaretiyle ayrılır: \"TC'nin.\" A'da kesme işareti yoktur, B'de kısaltma yanlış, D'de kesme işareti eksiktir.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "Kısaltma + ek: kesme işareti zorunlu. \"TBMM'ye, TC'nin, TDK'nın.\" Noktalı kısaltmalarda son noktadan sonra kesme işareti konmaz.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: \"Planlı çalışırsan başarın artar\" dedi ablam \"Bunu ben de denedim.\" Beni de buna ikna etti.\n\nBu cümle dizisinde birinci cümlede yapılması gereken noktalama düzeltmesi nedir?",
+          "options": [
+            "Ek Soru 1 — \"dedi ablam\" ifadesi silinmeli.",
+            "Ek Soru 1 — Birinci alıntıdan sonra virgül getirilmeli: \"…artar,\" dedi ablam.",
+            "Ek Soru 1 — İlk alıntıdan sonra nokta konulmalı: \"…artar.\" dedi ablam.",
+            "Ek Soru 1 — Cümlelerde herhangi bir değişiklik gerekmez."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Doğrudan aktarılan sözden sonra konuşma bildiren ifade (\"dedi ablam\") geldiğinde, aktarım tırnak içinde bitse de araya virgül konulur: \"Planlı çalışırsan başarın artar,\" dedi ablam.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "\"...\" dedi / dedim / diye söyledi kalıplarında: tırnaktan sonra virgül gelir, \"dedi\" küçük harfle başlar. Nokta değil virgül!",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki cümlelerin hangisinde noktalama hatası yoktur?",
+          "options": [
+            "Ek Soru 1 — Okula gidiniz, ve çantanızı alınız.",
+            "Ek Soru 1 — Dün akşam kitap okudum; bugün ise soru çözdüm.",
+            "Ek Soru 1 — \"Bugün hava çok güzel değil mi\" diye sordu.",
+            "Ek Soru 1 — Sınıfta; masalar sandalyeler ve pano vardı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B cümlesinde noktalı virgül iki ardışık bağlantılı yargıyı doğru biçimde ayırmaktadır. A'da \"ve\" öncesi virgül yanlış, C'de soru işareti tırnak içine alınmalıydı, D'de noktalı virgül yanlış konumlandırılmış.\n\n[GitHub Ek Test — Noktalama İşaretleri]",
+          "ipucu": "\"Hangisinde hata yok?\" sorusunda her seçeneği tek kuralla test et. Özellikle \"ve\" öncesi gereksiz virgül, soru işaretinin tırnak içi/dışı konumu ve noktalı virgül yeri en çok hata yapılan yerlerdir.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Noktalama İşaretleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "topicId": "eng_8",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Chores",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the chore chart.\nMonday: take out trash (Emir)\nTuesday: do dishes (Defne)\nWednesday: vacuum floor (Emir)\nQuestion: Which chore belongs to Defne?",
+          "options": [
+            "Ek Soru 1 — Vacuum floor",
+            "Ek Soru 1 — Take out trash",
+            "Ek Soru 1 — Do dishes",
+            "Ek Soru 1 — Wash windows"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Chart'ta Defne için do dishes yazıyor.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Defne satırını bul.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Chart",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the conversation.\nMom: Guests are coming in 23 minutes.\nCan: I'll set the table and my sister will make salad.\nQuestion: What is Can's duty?",
+          "options": [
+            "Ek Soru 1 — Make salad",
+            "Ek Soru 1 — Set the table",
+            "Ek Soru 1 — Wash car",
+            "Ek Soru 1 — Iron clothes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Can kendi görevini set the table olarak söylüyor.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "I'll ile başlayan kısmı seç.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Dialogue",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\n\"I don't have to cook tonight because my father already prepared dinner.\"\nQuestion: What does don't have to mean?",
+          "options": [
+            "Ek Soru 1 — It is forbidden",
+            "Ek Soru 1 — It is not necessary",
+            "Ek Soru 1 — It is impossible",
+            "Ek Soru 1 — It is dangerous"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Don't have to zorunluluk olmadığını ifade eder.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Mustn't ile farkını hatırla.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Grammar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the reminder.\n\"Feed the cat at 10 pm and refill its water bowl.\"\nQuestion: Which type of chore is this?",
+          "options": [
+            "Ek Soru 1 — Pet care",
+            "Ek Soru 1 — Laundry",
+            "Ek Soru 1 — Shopping",
+            "Ek Soru 1 — Dusting"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kediyi beslemek evcil hayvan bakımına girer.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Görevin konusu hayvan mı kıyafet mi?",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Vocabulary",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nEce: Could you help with laundry?\nBora: Sure, I'll separate dark and white clothes first.\nQuestion: What is Bora's first step?",
+          "options": [
+            "Ek Soru 1 — Iron shirts",
+            "Ek Soru 1 — Separate colors",
+            "Ek Soru 1 — Buy detergent",
+            "Ek Soru 1 — Fold towels"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bora first step olarak kıyafetleri ayırmayı söylüyor.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "First kelimesini takip et.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Sequencing",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the house rule.\n\"You must turn off lights when leaving a room.\"\nQuestion: This rule mainly aims to ...",
+          "options": [
+            "Ek Soru 1 — increase electricity use",
+            "Ek Soru 1 — save energy",
+            "Ek Soru 1 — decorate rooms",
+            "Ek Soru 1 — clean faster"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Işıkları kapatmak enerji tasarrufu sağlar.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Turn off lights sonucunu düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Responsibility",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the weekend plan.\nSaturday morning: clean bathroom\nSaturday afternoon: grocery shopping\nSunday: family time\nQuestion: When is grocery shopping?",
+          "options": [
+            "Ek Soru 1 — Saturday morning",
+            "Ek Soru 1 — Saturday afternoon",
+            "Ek Soru 1 — Sunday morning",
+            "Ek Soru 1 — Friday evening"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Plan'a göre shopping Saturday afternoon.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Saat/dönem bilgisini oku.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Schedule",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\n\"My brother leaves his books everywhere and waits for others to clean up.\"\nQuestion: Which adjective fits him?",
+          "options": [
+            "Ek Soru 1 — Responsible",
+            "Ek Soru 1 — Organized",
+            "Ek Soru 1 — Careless",
+            "Ek Soru 1 — Helpful"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Dağınık bırakmak ve toplamamak careless davranıştır.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Leaves books everywhere ifadesine bak.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Character",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nMother: The floor is wet.\nDaughter: I'll mop it right away.\nQuestion: What will daughter do?",
+          "options": [
+            "Ek Soru 1 — Vacuum floor",
+            "Ek Soru 1 — Mop floor",
+            "Ek Soru 1 — Wash dishes",
+            "Ek Soru 1 — Dust shelves"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mop fiili paspas yapmak anlamına gelir.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Mop kelimesinin anlamını hatırla.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Action",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the family agreement.\n\"Everyone should spend 23 minutes on shared chores daily.\"\nQuestion: Main goal of this agreement is ...",
+          "options": [
+            "Ek Soru 1 — punish children",
+            "Ek Soru 1 — share duties fairly",
+            "Ek Soru 1 — avoid all chores",
+            "Ek Soru 1 — reduce communication"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Everyone + shared chores ifadesi adil görev dağılımını anlatır.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Shared chores anahtar ifadedir.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Interpretation",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Chores",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the list.\nWash dishes, sweep floor, take out trash.\nQuestion: These are ...",
+          "options": [
+            "Ek Soru 1 — hobbies",
+            "Ek Soru 1 — household chores",
+            "Ek Soru 1 — school subjects",
+            "Ek Soru 1 — sports"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Household chores.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Chore list.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\n'Dust the furniture' means ...",
+          "options": [
+            "Ek Soru 1 — break furniture",
+            "Ek Soru 1 — clean dust off furniture",
+            "Ek Soru 1 — buy furniture",
+            "Ek Soru 1 — paint walls"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Remove dust.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Dust = toz.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nEveryone should share chores at home.\nQuestion: Message?",
+          "options": [
+            "Ek Soru 1 — One person does all",
+            "Ek Soru 1 — Everyone shares chores",
+            "Ek Soru 1 — No chores needed",
+            "Ek Soru 1 — Only parents work"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Everyone shares.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Share chores.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nCould you ___ the laundry today?",
+          "options": [
+            "Ek Soru 1 — do",
+            "Ek Soru 1 — make",
+            "Ek Soru 1 — cook",
+            "Ek Soru 1 — eat"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Do the laundry.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Do laundry kalıbı.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nWhose turn to vacuum?\nI think it's mine.\nQuestion: Speaker will ...",
+          "options": [
+            "Ek Soru 1 — vacuum",
+            "Ek Soru 1 — cook dinner only",
+            "Ek Soru 1 — skip chore",
+            "Ek Soru 1 — leave home"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — It's my turn = vacuum.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Whose turn.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\n'Mop the floor' uses ...",
+          "options": [
+            "Ek Soru 1 — a mop and water",
+            "Ek Soru 1 — a pencil",
+            "Ek Soru 1 — a book",
+            "Ek Soru 1 — a phone"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Mop and water.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Mop the floor.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nMake your bed every morning.\nQuestion: Daily chore?",
+          "options": [
+            "Ek Soru 1 — Make bed",
+            "Ek Soru 1 — Paint roof",
+            "Ek Soru 1 — Fix car engine",
+            "Ek Soru 1 — Climb mountain"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Make bed daily.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Every morning.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nPlease ___ the table before dinner.",
+          "options": [
+            "Ek Soru 1 — set",
+            "Ek Soru 1 — sets",
+            "Ek Soru 1 — setting",
+            "Ek Soru 1 — setted"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Set the table.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Before dinner.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nRecycling bins help separate paper and plastic.\nQuestion: Recycling ...",
+          "options": [
+            "Ek Soru 1 — mixes all trash",
+            "Ek Soru 1 — separates materials",
+            "Ek Soru 1 — burns everything",
+            "Ek Soru 1 — ignores waste"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Separate materials.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Recycling bins.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\n'Iron the clothes' means ...",
+          "options": [
+            "Ek Soru 1 — wash with iron water",
+            "Ek Soru 1 — remove wrinkles with iron",
+            "Ek Soru 1 — burn clothes",
+            "Ek Soru 1 — fold only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Remove wrinkles.\n\n[GitHub Ek Test — Chores]",
+          "ipucu": "Iron appliance.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Chores",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

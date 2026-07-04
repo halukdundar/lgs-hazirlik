@@ -1,0 +1,428 @@
+{
+  "topicId": "eng_2",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Teen Life",
+      "questions": [
+        {
+          "question": "Read the schedule.\nMon 19:00 basketball\nTue 20:00 guitar\nWed 19:00 math support\nQuestion: Why can't Selim join chess club on Wednesday?",
+          "options": [
+            "Ek Soru 1 — He has math support class.",
+            "Ek Soru 1 — He visits grandparents.",
+            "Ek Soru 1 — He plays guitar on Wednesday.",
+            "Ek Soru 1 — He is on holiday."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Programda Çarşamba saatinde math support dersi var.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Wednesday satırını incele.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Schedule",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nCan: Would you like to come to the concert?\nBora: I'd love to, but I have to finish my project.\nQuestion: Bora is ...",
+          "options": [
+            "Ek Soru 1 — accepting happily",
+            "Ek Soru 1 — refusing politely with a reason",
+            "Ek Soru 1 — asking for tickets",
+            "Ek Soru 1 — changing the place"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"I'd love to, but...\" nazik reddetme kalıbıdır.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "But sonrasındaki neden kısmına bak.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Invitation",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the text.\nAsya studies for 43 minutes, takes a short break, and repeats this three times.\nQuestion: Which study style is described?",
+          "options": [
+            "Ek Soru 1 — Random studying",
+            "Ek Soru 1 — Balanced planned studying",
+            "Ek Soru 1 — No revision",
+            "Ek Soru 1 — Last-minute cramming"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Düzenli çalışma-dinlenme döngüsü planlı çalışmayı gösterir.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Repeats this cycle ifadesini yorumla.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Study Skills",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the post.\n\"I joined drama club this term. At first I was shy, now I speak confidently.\"\nQuestion: What improved?",
+          "options": [
+            "Ek Soru 1 — Math score",
+            "Ek Soru 1 — Public speaking confidence",
+            "Ek Soru 1 — Drawing skill",
+            "Ek Soru 1 — Typing speed"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Drama club sonrası konuşma özgüveni artmıştır.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "At first / now karşılaştırmasına bak.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Inference",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nLara: Which app do you use for homework reminders?\nPelin: I use alarms and color labels. It keeps me organized.\nQuestion: Why does Pelin use the app?",
+          "options": [
+            "Ek Soru 1 — To play games",
+            "Ek Soru 1 — To stay organized",
+            "Ek Soru 1 — To chat all night",
+            "Ek Soru 1 — To stream videos"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — It keeps me organized cümlesi nedeni açıkça söyler.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Son cümledeki amaç ifadesini bul.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Technology",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the school notice.\n\"Bring your own bottle to reduce plastic waste during the festival.\"\nQuestion: What is the main goal?",
+          "options": [
+            "Ek Soru 1 — Sell more drinks",
+            "Ek Soru 1 — Reduce plastic waste",
+            "Ek Soru 1 — Change festival date",
+            "Ek Soru 1 — Increase ticket prices"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Duyuru plastik atığı azaltmayı hedefliyor.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Reduce plastic waste ifadesine odaklan.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Notice",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nEfe: I feel tired every morning.\nDoctor: You sleep late and use your phone in bed.\nQuestion: What should Efe change first?",
+          "options": [
+            "Ek Soru 1 — Skip breakfast",
+            "Ek Soru 1 — Sleep earlier and limit screen time at night",
+            "Ek Soru 1 — Study after midnight",
+            "Ek Soru 1 — Drink less water"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sorunun nedeni geç uyuma ve gece ekran kullanımıdır.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Doctor'un sebep cümlesine bak.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Health",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the survey.\n63% prefer team projects, 28% pair work, 18% individual tasks.\nQuestion: Which conclusion is correct?",
+          "options": [
+            "Ek Soru 1 — Most students prefer individual work.",
+            "Ek Soru 1 — Team projects are most popular.",
+            "Ek Soru 1 — Pair work is chosen by all.",
+            "Ek Soru 1 — Students dislike collaboration."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — En yüksek oran team projects seçeneğindedir.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Yüzdeleri karşılaştır.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Data",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nTeacher: Deadline is Friday.\nYasin: I'll finish on Thursday and check mistakes.\nQuestion: Yasin shows ...",
+          "options": [
+            "Ek Soru 1 — procrastination",
+            "Ek Soru 1 — careful planning",
+            "Ek Soru 1 — rule breaking",
+            "Ek Soru 1 — carelessness"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Teslimden önce bitirip kontrol etmek planlı davranıştır.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Deadline'dan önce tamamlamaya dikkat et.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Planning",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the context.\nNil refuses a movie invitation because she must help her younger brother with homework.\nQuestion: Why does Nil refuse?",
+          "options": [
+            "Ek Soru 1 — She dislikes movies.",
+            "Ek Soru 1 — She has a family responsibility.",
+            "Ek Soru 1 — She forgot the invitation.",
+            "Ek Soru 1 — She has no phone."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kardeşine yardım görevi aile sorumluluğudur.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Must help ifadesini yorumla.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Family",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Teen Life",
+      "questions": [
+        {
+          "question": "Read the schedule.\nMon 19:00 basketball\nWed 19:00 math support\nQuestion: Why can't Selim join chess on Wednesday?",
+          "options": [
+            "Ek Soru 1 — He has math support.",
+            "Ek Soru 1 — He visits grandparents.",
+            "Ek Soru 1 — He plays guitar.",
+            "Ek Soru 1 — He is on holiday."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Wednesday math support var.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Wednesday satırı.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Dialogue.\nCan: Would you like to come to the concert?\nBora: I'd love to, but I have to finish my project.\nQuestion: Bora is ...",
+          "options": [
+            "Ek Soru 1 — free",
+            "Ek Soru 1 — busy",
+            "Ek Soru 1 — angry",
+            "Ek Soru 1 — sick"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Has to finish project = busy.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "But = engel.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Grammar.\nLook! Emma ___ volleyball right now.",
+          "options": [
+            "Ek Soru 1 — plays",
+            "Ek Soru 1 — play",
+            "Ek Soru 1 — is playing",
+            "Ek Soru 1 — played"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Right now → is playing.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Right now = şu an.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Grammar.\nTim ___ to the gym every Monday.",
+          "options": [
+            "Ek Soru 1 — is going",
+            "Ek Soru 1 — goes",
+            "Ek Soru 1 — go",
+            "Ek Soru 1 — went"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Every Monday → goes.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Every = alışkanlık.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the text.\nAnna gets up at 10, has breakfast, goes to school by bus.\nQuestion: What does Anna do?",
+          "options": [
+            "Ek Soru 1 — Drives to school",
+            "Gets up at 10, breakfast, bus to school",
+            "Gets up at 11",
+            "Ek Soru 1 — Walks to school"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Metinde üç eylem var.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Metinde ne yazıyor?",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Grammar.\nThey ___ TV right now. They are doing homework.",
+          "options": [
+            "Ek Soru 1 — don't watch",
+            "Ek Soru 1 — aren't watching",
+            "Ek Soru 1 — doesn't watch",
+            "Ek Soru 1 — wasn't watching"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Right now → aren't watching.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Right now Present Continuous.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nMost teenagers like listening to music.\nQuestion: Most popular activity?",
+          "options": [
+            "Ek Soru 1 — Reading",
+            "Ek Soru 1 — Doing chores",
+            "Ek Soru 1 — Listening to music",
+            "Ek Soru 1 — Watching TV"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Most like listening to music.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Most = çoğu.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nAfter football practice, Jake was exhausted.\n'Exhausted' means ...",
+          "options": [
+            "Ek Soru 1 — excited",
+            "Ek Soru 1 — bored",
+            "Ek Soru 1 — very tired",
+            "Ek Soru 1 — happy"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Exhausted = çok yorgun.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Antrenman sonrası.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Which shows a current action?",
+          "options": [
+            "She usually wakes up at 10.",
+            "Ek Soru 1 — He is cooking dinner now.",
+            "Ek Soru 1 — They always walk to school.",
+            "Ek Soru 1 — I never eat fast food."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Is cooking now = şu an.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Now = şu an.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Dialogue.\nSam: Do you have hobbies?\nLee: I play guitar and go swimming twice a week.\nQuestion: Lee's hobbies?",
+          "options": [
+            "Ek Soru 1 — Football and swimming",
+            "Ek Soru 1 — Guitar and swimming",
+            "Ek Soru 1 — Painting and guitar",
+            "Ek Soru 1 — Reading and swimming"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Guitar and swimming.\n\n[GitHub Ek Test — Teen Life]",
+          "ipucu": "Lee ne söylüyor?",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Teen Life",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

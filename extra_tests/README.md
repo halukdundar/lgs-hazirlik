@@ -1,27 +1,20 @@
-# Ek test soruları (GitHub)
+# Ek test soruları
 
-Uygulama yerel testler bittikten sonra bu klasördeki JSON dosyalarını çeker.
+Uygulama yerel 10 test bittikten sonra bu klasördeki dosyaları çeker.
 
-**Depo:** https://github.com/halukdundar/lgs-hazirlik
-
-## Klasör yapısı
-
-```
-extra_tests/
-  manifest.json      (isteğe bağlı — hangi konularda ek test var)
-  mat_3.json         (konu kimliği = dosya adı)
-  fen_1.json
-  ...
-```
+- **55 konu** için `{topicId}.json` dosyası
+- Her konuda **2 ek test** (toplam ~20 soru)
+- Sorular yerel testlerde **kullanılmayan** benzersiz içerikten üretilir
 
 ## Yeni soru ekleme
 
-1. İlgili `{topicId}.json` dosyasını aç veya oluştur (`topicId` uygulamadaki konu id'si ile aynı olmalı).
-2. `tests` dizisine yeni test ekle veya mevcut teste `questions` ekle.
-3. **`updatedAt` alanını güncelle** (ör. `"2026-07-05"`) — uygulama yeni içeriği böyle algılar.
-4. Commit + push yap.
-5. Uygulamada **DAHA FAZLA TEST** kartına tekrar dokun → GitHub'dan güncel sorular iner.
+1. `{topicId}.json` dosyasını düzenle
+2. `updatedAt` alanını güncelle
+3. Commit + push
+4. Uygulamada **DAHA FAZLA TEST** → yenile
 
-## JSON örneği
+## Yeniden üretme (geliştirici)
 
-`extra_tests/mat_3.json` dosyasına bakın.
+```bash
+flutter test test/generate_github_extra_tests_test.dart --plain-name "generate all"
+```

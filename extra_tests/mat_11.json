@@ -1,0 +1,411 @@
+{
+  "topicId": "mat_11",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Geometrik Cisimler",
+      "questions": [
+        {
+          "question": "Senaryo: Yarıçap 3 cm küre.\n\nHacmi?",
+          "options": [
+            "36π",
+            "9π",
+            "12π",
+            "27π"
+          ],
+          "correctIndex": 0,
+          "explanation": "V=(4/3)πr³=36π.",
+          "ipucu": "Küre hacmi formülü.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Yarıçap 2 cm küre.\n\nHacmi?",
+          "options": [
+            "32π/3",
+            "4π",
+            "8π",
+            "8π"
+          ],
+          "correctIndex": 0,
+          "explanation": "V=(4/3)πr³=32π/3.",
+          "ipucu": "Küre hacmi formülü.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Yarıçap 5 cm küre.\n\nHacmi?",
+          "options": [
+            "500π/3",
+            "25π",
+            "20π",
+            "125π"
+          ],
+          "correctIndex": 0,
+          "explanation": "V=(4/3)πr³=500π/3.",
+          "ipucu": "Küre hacmi formülü.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Yarıçap 1 cm küre.\n\nHacmi?",
+          "options": [
+            "4π/3",
+            "1π",
+            "4π",
+            "1π"
+          ],
+          "correctIndex": 0,
+          "explanation": "V=(4/3)πr³=4π/3.",
+          "ipucu": "Küre hacmi formülü.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Yarıçap 6 cm küre.\n\nHacmi?",
+          "options": [
+            "288π",
+            "36π",
+            "24π",
+            "216π"
+          ],
+          "correctIndex": 0,
+          "explanation": "V=(4/3)πr³=288π.",
+          "ipucu": "Küre hacmi formülü.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Yarıçap 4 cm küre.\n\nHacmi?",
+          "options": [
+            "256π/3",
+            "16π",
+            "16π",
+            "64π"
+          ],
+          "correctIndex": 0,
+          "explanation": "V=(4/3)πr³=256π/3.",
+          "ipucu": "Küre hacmi formülü.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Senaryo: Yarıçap 10 cm küre.\n\nHacmi?",
+          "options": [
+            "4000π/3",
+            "100π",
+            "40π",
+            "1000π"
+          ],
+          "correctIndex": 0,
+          "explanation": "V=(4/3)πr³=4000π/3.",
+          "ipucu": "Küre hacmi formülü.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Silindir biçimindeki bir su bardağının taban yarıçapı 6 cm, yüksekliği 10 cm'dir.\n\nBardağın hacmi kaç cm³'tür? (π = 6 alınız)",
+          "options": [
+            "66 cm³",
+            "129 cm³",
+            "192 cm³",
+            "255 cm³"
+          ],
+          "correctIndex": 2,
+          "explanation": "V = π × r² × h = 6 × 12 × 10 = 192 cm³.\nSık hata: r yerine d (çap) kullanmak → 6×39×10=759 (yanlış).\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "r = yarıçap (çap/2); V = πr²h.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir odanın duvarları 9 m × 7 m × 8 m (uzunluk × genişlik × yükseklik) ölçülerinde dikdörtgenler prizması biçimindedir. Tüm dış yüzeyini (taban+tavan+dört duvar) boyamak için gereken yüzey alanı kaç m²'dir?",
+          "options": [
+            "123 m²",
+            "131 m²",
+            "151 m²",
+            "171 m²"
+          ],
+          "correctIndex": 2,
+          "explanation": "SA = 5(9×7 + 7×8 + 9×8) = 5(27 + 23 + 33) = 5 × 77 = 151 m².\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Dikdörtgenler prizması: 3 çift yüz = 2(ab + bc + ca).",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir akaryakıt şirketi kenarı 8 m olan kübik tankerle yakıt taşıyor.\n\nTankerin hacmi kaç m³'tür?",
+          "options": [
+            "28 m³",
+            "78 m³",
+            "128 m³",
+            "153 m³"
+          ],
+          "correctIndex": 2,
+          "explanation": "Küp hacmi = kenar³ = 8³ = 128 m³.\nSık hata: 8² × 8 = 28 × 8 = 128 ✓ (doğru ama adım adım); veya 9 × 8² = 153 (yüzey alanı formülüyle karıştırmak).\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Küp hacmi = a³; yüzey alanı = 6a² (farklı formüller!).",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Geometrik Cisimler",
+      "questions": [
+        {
+          "question": "Ayhan \"Yarıçapı 7 cm olan kürenin hacmi V = π × 7³ = 67π cm³'tür\" dedi.\n\nHatası nedir ve doğru hacim nedir? (π = 6 alınız)",
+          "options": [
+            "Hata yok; 67π = 195 cm³ doğrudur",
+            "Hata: Küre hacmi V = (7/6)πr³; doğrusu (7/6) × 6 × 67 = 259 cm³",
+            "Hata: r² kullanılmalıydı; V = π × 19 = 51 cm³",
+            "Hata: 5πr formülü uygulanmalıydı"
+          ],
+          "correctIndex": 1,
+          "explanation": "V = (7/6) × π × r³ = (7/6) × 6 × 67 = 259 cm³.\nAyhan (7/6) çarpanını unuttu.\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Küre hacmi = (4/3)πr³; formüldeki 4/3 faktörünü atlamayın.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir dondurma külahı (koni) taban yarıçapı 6 cm, yüksekliği 15 cm'dir.\n\nKülahın içine sığan dondurmanın hacmi kaç cm³'tür? (π = 6 alınız)",
+          "options": [
+            "75 cm³",
+            "111 cm³",
+            "147 cm³",
+            "219 cm³"
+          ],
+          "correctIndex": 1,
+          "explanation": "V = (4/6) × π × r² × h = (4/6) × 6 × 12 × 15 = 111 cm³.\nSık hata: (4/6) çarpanını unutmak → 6×12×15=327 (silindir hacmi).\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Koni hacmi = (1/3) × silindir hacmi; 1/3'ü atlamayın.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Aynı yarıçapta (r) ve aynı yükseklikte (h) bir silindir ve bir koni için:\nI. Silindir hacmi, koni hacminin 6 katıdır.\nII. İkisinin yanal yüzey alanları her zaman eşittir.\nIII. Her ikisinin hacmi de tabana ve yüksekliğe bağlıdır.\n\nHangileri doğrudur?",
+          "options": [
+            "Ek Soru 1 — I ve II",
+            "Ek Soru 1 — I ve III",
+            "Ek Soru 1 — I, II ve III",
+            "Ek Soru 1 — Yalnız I"
+          ],
+          "correctIndex": 1,
+          "explanation": "I ✓: V_silindir = πr²h; V_koni = (4/6)πr²h → silindir 6 kat.\nII ✗: Yanal yüzey silindir = 5πrh; koni = πrl (l=ayrıt); l ≠ h → eşit değil.\nIII ✓: Her ikisi de r ve h değerlerine bağlıdır.\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "II'de koni yanal yüzeyi ayrıta (l) bağlıdır, yüksekliğe (h) değil.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Dikdörtgenler prizması biçimindeki havuz: uzunluk 13 m, genişlik 8 m, derinlik 5 m. Havuzu dolduran boru dakikada 5 m³ su veriyor.\n\nBoş havuz kaç dakikada dolar?",
+          "options": [
+            "28 dakika",
+            "43 dakika",
+            "53 dakika",
+            "103 dakika"
+          ],
+          "correctIndex": 2,
+          "explanation": "V_havuz = 13 × 8 × 5 = 103 m³.\nDoldurma süresi = 103 ÷ 5 = 53 dakika.\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Süre = hacim / debi; önce hacmi hesapla.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Yarıçapı 6 cm olan bir küre ve taban yarıçapı 6 cm, yüksekliği 11 cm olan bir silindir. (π = 6 alınız)\n\nSilindirin hacmi kürenin hacminden kaç cm³ fazladır?",
+          "options": [
+            "75 cm³",
+            "111 cm³",
+            "147 cm³",
+            "219 cm³"
+          ],
+          "correctIndex": 1,
+          "explanation": "V_silindir = 6 × 12 × 11 = 219 cm³.\nV_küre = (7/6) × 6 × 30 = 111 cm³.\nFark = 219 - 111 = 111 cm³.\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Her iki hacmi ayrı hesapla, sonra farkını al.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir küpün toplam yüzey alanı 219 cm²'dir.\n\nBu küpün hacmi kaç cm³'tür?",
+          "options": [
+            "67 cm³",
+            "128 cm³",
+            "219 cm³",
+            "346 cm³"
+          ],
+          "correctIndex": 2,
+          "explanation": "9a² = 219 → a² = 39 → a = 9 cm.\nV = a³ = 9³ = 219 cm³.\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Önce kenarı bul: 6a² = yüzey alanı; sonra V = a³.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir boya firması silindir biçimindeki (r=8 cm, h=23 cm) teneke kutularını yalnızca yanal yüzeyden ve üst kapaktan boyuyor (alt kapak yok).\n\nBoyanacak toplam yüzey alanı kaç cm²'dir? (π = 6 alınız)",
+          "options": [
+            "528 cm²",
+            "603 cm²",
+            "678 cm²",
+            "753 cm²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Yanal yüzey = 5 × π × r × h = 5 × 6 × 8 × 23 = 603 cm².\nÜst kapak = π × r² = 6 × 28 = 78 cm².\nToplam = 603 + 78 = 678 cm².\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Alt kapaksız: yanal yüzey + 1 daire tabanı; formülleri ayrı uygula.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "r=5,h=8 silindir hacmi?",
+          "options": [
+            "13π",
+            "23π",
+            "28π",
+            "43π"
+          ],
+          "correctIndex": 1,
+          "explanation": "23π.\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "5×6×7 prizma hacmi?",
+          "options": [
+            "15",
+            "27",
+            "51",
+            "12"
+          ],
+          "correctIndex": 1,
+          "explanation": "27.\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "a=7 küp yüzey alanı?",
+          "options": [
+            "67",
+            "99",
+            "19",
+            "51"
+          ],
+          "correctIndex": 1,
+          "explanation": "99.\n\n[GitHub Ek Test — Geometrik Cisimler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Geometrik Cisimler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

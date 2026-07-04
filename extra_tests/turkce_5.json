@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_5",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Sözcük Türleri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Sıfatlar (ön adlar), isimlerin önüne gelerek onları renk, şekil, durum gibi yönlerden niteleyen ya da işaret, sayı, soru, belirsizlik yönünden belirten sözcüklerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde niteleme sıfatı kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Bu sorunun çözümünü öğretmenimiz tahtada detaylıca gösterdi.",
+            "Ek Soru 1 — Kütüphaneden aldığım üç kitabı bu hafta sonu bitirmeyi hedefliyorum.",
+            "Ek Soru 1 — Yırtık defteri masanın üzerinden alıp çöpe atmak zorunda kaldık.",
+            "Ek Soru 1 — Bazı öğrenciler sınav öncesinde oldukça heyecanlı görünüyordu."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — C şıkkında \"yırtık\" sözcüğü isim olan \"defter\"in durumunu belirttiği için niteleme sıfattır. Diğer şıklarda sırasıyla işaret, sayı ve belirsizlik belirtme sıfatları vardır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "İsme \"Nasıl?\" sorusunu sorduğunda cevap alabildiğin kelimeyi bul.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Sıfatlar",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Zamirler (adıllar), isimlerin yerini geçici olarak tutan sözcüklerdir. Kişi zamirleri, işaret zamirleri, belirsizlik zamirleri ve soru zamirleri gibi türleri vardır.\n\n\"LGS sınavında başarılı olmak için çalışan öğrencilerden bazıları hedeflerine ulaştı, şunları ise daha çok gayret etmeye yönlendirdik.\"\n\nBu cümledeki zamirlerin türleri aşağıdakilerden hangisinde sırasıyla doğru verilmiştir?",
+          "options": [
+            "Ek Soru 1 — Kişi zamiri - İşaret zamiri",
+            "Ek Soru 1 — Belirsizlik zamiri - İşaret zamiri",
+            "Ek Soru 1 — Soru zamiri - Kişi zamiri",
+            "Ek Soru 1 — İşaret zamiri - Belirsizlik zamiri"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Bazıları\" kim oldukları tam belli olmadığı için belirsizlik zamiridir. \"Şunları\" ise işaret yoluyla yer tuttuğu için işaret zamiridir.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"Bazıları\" ve \"şunları\" kelimelerinin isimlerin yerini ne şekilde (belirsizce mi yoksa işaret ederek mi) tuttuğuna bak.",
+          "difficulty": 4,
+          "tags": [
+            "Sözcük Türleri",
+            "Zamirler",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Zarflar (belirteçler), fiillerin, fiilimsilerin, sıfatların veya kendi türünden sözcüklerin anlamını zaman, durum, miktar, yer-yön veya soru yönünden etkileyen sözcüklerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde \"hızlı\" sözcüğü zarf görevinde kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Hızlı tren sayesinde Ankara ile İstanbul arasındaki mesafe kısaldı.",
+            "Ek Soru 1 — Soruları çok hızlı çözdüğü için sınavı erkenden tamamladı.",
+            "Ek Soru 1 — Hızlı adımlarla sınıf kapısına doğru yönelip içeri girdi.",
+            "Ek Soru 1 — Teknoloji dünyasındaki bu hızlı değişim hepimizi şaşırtıyor."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B şıkkında \"hızlı\" sözcüğü fiil olan \"çözdüğü\" (fiilimsi) kelimesini durum yönünden nitelediği için zarftır. Diğerlerinde ise tren, adım ve değişim isimlerini nitelediği için sıfattır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"Hızlı\" kelimesinin bir ismi (tren, adım gibi) mi nitelediğini yoksa bir eylemi (çözmek gibi) mi etkilediğini kontrol et.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Zarflar",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Edatlar (ilgeçler), tek başlarına anlamları olmayan, ancak cümle içinde isim soylu sözcüklerle öbekleşerek yön, araç, benzerlik, amaç gibi anlam ilişkileri kuran sözcüklerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde edat kullanılmamıştır?",
+          "options": [
+            "Ek Soru 1 — Kardeşim sabaha kadar ders çalışıp sınav hazırlıklarını tamamladı.",
+            "Ek Soru 1 — Kitap okumak için kütüphanenin sessiz köşesine çekildi.",
+            "Ek Soru 1 — Onun gibi zeki ve çalışkan bir öğrenci her zaman başarılı olur.",
+            "Ek Soru 1 — Çalıştı ama sınavdaki zor soruları yine de tam olarak yapamadı."
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — D şıkkındaki \"ama\" bir bağlaçtır, edat değildir. Diğer şıklarda \"kadar\" (zaman/sınır), \"için\" (amaç), \"gibi\" (benzerlik) edatları kullanılmıştır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "Tek başına anlamı olmayan ve cümleye araç, benzerlik, süre sınırlandırması katan \"gibi\", \"kadar\", \"için\" kelimelerini ara.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Edatlar",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bağlaçlar, eş görevli sözcükleri, sözcük gruplarını veya bağımsız cümleleri birbirine bağlayan, tek başına anlamı olmayan kelimelerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde bağlaç iki cümleyi birbirine bağlama görevinde kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Kitaplarını ve defterlerini çantasına özenle yerleştirdi.",
+            "Ek Soru 1 — Okula erken geldi çünkü sınıf başkanlığı seçimi bugün yapılacaktı.",
+            "Ek Soru 1 — Hem Türkçe dersini hem de matematik dersini çok seviyordu.",
+            "Ek Soru 1 — Ali veya Ahmet bu akşam kütüphanede nöbetçi kalacak."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B şıkkındaki \"çünkü\" bağlacı \"Okula erken geldi\" yüklemli cümlesi ile \"seçim bugün yapılacaktı\" yüklemli cümlesini birbirine bağlamıştır. Diğerlerinde ise eş görevli kelimeleri bağlamıştır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "Bağlacın solunda ve sağında birer cümlenin (yargı bildiren yüklemli yapının) bulunup bulunmadığına bak.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Bağlaçlar",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Ünlemler; sevinç, korku, şaşkınlık, üzüntü gibi anlık heyecanları ve duyguları ifade eden ya da seslenme, hitap içeren sözcüklerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde ünlem cümleye \"uyarı/telaş\" anlamı katmıştır?",
+          "options": [
+            "Ek Soru 1 — Eyvah, sınav süresi bitmek üzere ama ben son iki soruyu henüz okumadım!",
+            "Ek Soru 1 — Ah, nerede o eski kütüphanelerin huzurlu ve sessiz günleri!",
+            "Ek Soru 1 — Hey! Buraya baksana, seninle konuşmam gereken önemli bir konu var.",
+            "Ek Soru 1 — Yaşasın, LGS sınavında tüm soruları doğru cevaplayıp tam puan aldım!"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — A şıkkındaki \"Eyvah\" ünlemi sınav süresinin bitmesiyle ilgili bir telaş ve paniği/uyarıyı yansıtmaktadır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "Süre bitiminde yaşanan telaş ve paniği en iyi yansıtan ünlem kelimesine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "Sözcük Türleri",
+            "Ünlemler",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fiilimsiler (eylemsiler), fiil kök veya gövdelerine getirilen özel eklerle türetilen; cümle içinde isim, sıfat veya zarf görevinde kullanılan ama fiil anlamını tamamen yitirmeyen sözcüklerdir.\n\n\"Kütüphanede ders çalışan öğrencileri izlemek, bana geçmişteki LGS hazırlık günlerimi hatırlattı.\"\n\nBu cümledeki fiilimsilerin türleri aşağıdakilerden hangisinde sırasıyla doğru verilmiştir?",
+          "options": [
+            "Ek Soru 1 — Sıfat-fiil - İsim-fiil - Zarf-fiil",
+            "Ek Soru 1 — Sıfat-fiil - İsim-fiil",
+            "Ek Soru 1 — İsim-fiil - Sıfat-fiil",
+            "Ek Soru 1 — Zarf-fiil - İsim-fiil - Sıfat-fiil"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"çalışan\" (sıfat-fiil, -an eki), \"izlemek\" (isim-fiil, -mak eki) fiilimsileridir. Cümlede başka fiilimsi yoktur. Bu yüzden sırasıyla sıfat-fiil ve isim-fiildir.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"çalış-an\" ve \"izle-mek\" kelimelerindeki fiilimsi eklerini (-an sıfat-fiil, -mek isim-fiil) ayırt et.",
+          "difficulty": 4,
+          "tags": [
+            "Sözcük Türleri",
+            "Fiilimsiler",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Türkçede \"ile\" sözcüğü, yerine \"ve\" bağlacı getirilebiliyorsa bağlaç; getirilemiyorsa edat (ilgeç) görevindedir.\n\nBuna göre aşağıdaki cümlelerin hangisinde \"ile\" sözcüğü bağlaç görevinde kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Okula her sabah arkadaşı ile birlikte yürüyerek giderdi.",
+            "Ek Soru 1 — Soruları dikkatli okumak ile büyük bir başarı elde edebilirsin.",
+            "Ek Soru 1 — Türkçe dersi ile matematik dersi LGS sınavında en yüksek katsayıya sahiptir.",
+            "Ek Soru 1 — Yazları köy meydanındaki büyük çınar ağacının gölgesi ile serinlerdik."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — C şıkkında \"Türkçe dersi ile\" yerine \"ve\" koyduğumuzda \"Türkçe dersi ve matematik dersi...\" şeklinde anlamlı olduğu için bağlaçtır. Diğerlerinde ise birliktelik ve araç ilgisi kuran edattır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"ile\" kelimesinin yerine \"ve\" koyarak cümleyi tekrar oku. Kulağa mantıklı geliyorsa bağlaçtır.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Edat ve Bağlaç Ayrımı",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sıfatlar isimleri nitelerken, zarflar fiilleri veya fiilimsileri durum yönünden niteler. Bu iki türü karıştırmamak için niteledikleri kelimenin türüne (isim mi, fiil mi) bakılmalıdır.\n\n\"Kırmızı kalemle defterine çok hızlı notlar alıyordu.\"\n\nBu cümledeki \"kırmızı\" ve \"hızlı\" sözcüklerinin türleri aşağıdakilerden hangisinde doğru verilmiştir?",
+          "options": [
+            "Ek Soru 1 — Sıfat - Zarf",
+            "Ek Soru 1 — Zarf - Sıfat",
+            "Ek Soru 1 — Sıfat - Sıfat",
+            "Ek Soru 1 — İsim - Zarf"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Kırmızı\" sözcüğü \"kalem\" ismini nitelediği için sıfattır. \"Hızlı\" sözcüğü de \"notlar\" isminin önüne gelerek onu nitelediği için yine sıfattır. (Hızlı not almak fiille ilişkili gibi görünse de \"notlar\" isminin önündedir). Dikkat edilirse \"hızlı notlar\" ifadesinde \"not\" isimdir ve sıfattır. C seçeneği doğrudur.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"Kırmızı\" kelimesinin kalem ismini, \"hızlı\" kelimesinin ise notlar ismini nitelediğine dikkat et.",
+          "difficulty": 4,
+          "tags": [
+            "Sözcük Türleri",
+            "Sıfat ve Zarf Karşılaştırması",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Onlar\" sözcüğü, bir insanın yerini tutuyorsa kişi zamiri; insan dışındaki bir varlığın (nesne, hayvan vb.) yerini tutuyorsa işaret zamiridir.\n\nBuna göre aşağıdaki cümlelerin hangisinde \"onlar\" sözcüğü işaret zamiri görevinde kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Onlar, yarın sabah erkenden LGS deneme sınavına girecekler.",
+            "Ek Soru 1 — Kütüphanedeki eski kitapları rafa dizdim, onlar gelecek nesillere mirastır.",
+            "Ek Soru 1 — Öğretmenimiz onları sınıf başkanlığı adaylığı için kürsüye çağırdı.",
+            "Ek Soru 1 — Onlar, okul bahçesinde voleybol oynayan küçük çocuklardı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B şıkkındaki \"onlar\" insan dışı varlıklar olan \"eski kitaplar\"ı temsil ettiği için işaret zamiridir. Diğerlerinde ise insanları temsil eden kişi zamiridir.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"Onlar\" kelimesinin bir insan grubunu mu yoksa cansız kitapları mı kastettiğine dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Zamirler",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Sözcük Türleri",
+      "questions": [
+        {
+          "question": "Ek Soru 2 — Sıfatlar (ön adlar), isimlerin önüne gelerek onları renk, şekil, durum gibi yönlerden niteleyen ya da işaret, sayı, soru, belirsizlik yönünden belirten sözcüklerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde niteleme sıfatı kullanılmıştır?",
+          "options": [
+            "Ek Soru 2 — Bu sorunun çözümünü öğretmenimiz tahtada detaylıca gösterdi.",
+            "Ek Soru 2 — Kütüphaneden aldığım üç kitabı bu hafta sonu bitirmeyi hedefliyorum.",
+            "Ek Soru 2 — Yırtık defteri masanın üzerinden alıp çöpe atmak zorunda kaldık.",
+            "Ek Soru 2 — Bazı öğrenciler sınav öncesinde oldukça heyecanlı görünüyordu."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — C şıkkında \"yırtık\" sözcüğü isim olan \"defter\"in durumunu belirttiği için niteleme sıfattır. Diğer şıklarda sırasıyla işaret, sayı ve belirsizlik belirtme sıfatları vardır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "İsme \"Nasıl?\" sorusunu sorduğunda cevap alabildiğin kelimeyi bul.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Sıfatlar",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Zamirler (adıllar), isimlerin yerini geçici olarak tutan sözcüklerdir. Kişi zamirleri, işaret zamirleri, belirsizlik zamirleri ve soru zamirleri gibi türleri vardır.\n\n\"LGS sınavında başarılı olmak için çalışan öğrencilerden bazıları hedeflerine ulaştı, şunları ise daha çok gayret etmeye yönlendirdik.\"\n\nBu cümledeki zamirlerin türleri aşağıdakilerden hangisinde sırasıyla doğru verilmiştir?",
+          "options": [
+            "Ek Soru 2 — Kişi zamiri - İşaret zamiri",
+            "Ek Soru 2 — Belirsizlik zamiri - İşaret zamiri",
+            "Ek Soru 2 — Soru zamiri - Kişi zamiri",
+            "Ek Soru 2 — İşaret zamiri - Belirsizlik zamiri"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — \"Bazıları\" kim oldukları tam belli olmadığı için belirsizlik zamiridir. \"Şunları\" ise işaret yoluyla yer tuttuğu için işaret zamiridir.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"Bazıları\" ve \"şunları\" kelimelerinin isimlerin yerini ne şekilde (belirsizce mi yoksa işaret ederek mi) tuttuğuna bak.",
+          "difficulty": 4,
+          "tags": [
+            "Sözcük Türleri",
+            "Zamirler",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Zarflar (belirteçler), fiillerin, fiilimsilerin, sıfatların veya kendi türünden sözcüklerin anlamını zaman, durum, miktar, yer-yön veya soru yönünden etkileyen sözcüklerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde \"hızlı\" sözcüğü zarf görevinde kullanılmıştır?",
+          "options": [
+            "Ek Soru 2 — Hızlı tren sayesinde Ankara ile İstanbul arasındaki mesafe kısaldı.",
+            "Ek Soru 2 — Soruları çok hızlı çözdüğü için sınavı erkenden tamamladı.",
+            "Ek Soru 2 — Hızlı adımlarla sınıf kapısına doğru yönelip içeri girdi.",
+            "Ek Soru 2 — Teknoloji dünyasındaki bu hızlı değişim hepimizi şaşırtıyor."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — B şıkkında \"hızlı\" sözcüğü fiil olan \"çözdüğü\" (fiilimsi) kelimesini durum yönünden nitelediği için zarftır. Diğerlerinde ise tren, adım ve değişim isimlerini nitelediği için sıfattır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"Hızlı\" kelimesinin bir ismi (tren, adım gibi) mi nitelediğini yoksa bir eylemi (çözmek gibi) mi etkilediğini kontrol et.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Zarflar",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Edatlar (ilgeçler), tek başlarına anlamları olmayan, ancak cümle içinde isim soylu sözcüklerle öbekleşerek yön, araç, benzerlik, amaç gibi anlam ilişkileri kuran sözcüklerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde edat kullanılmamıştır?",
+          "options": [
+            "Ek Soru 2 — Kardeşim sabaha kadar ders çalışıp sınav hazırlıklarını tamamladı.",
+            "Ek Soru 2 — Kitap okumak için kütüphanenin sessiz köşesine çekildi.",
+            "Ek Soru 2 — Onun gibi zeki ve çalışkan bir öğrenci her zaman başarılı olur.",
+            "Ek Soru 2 — Çalıştı ama sınavdaki zor soruları yine de tam olarak yapamadı."
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 2 — D şıkkındaki \"ama\" bir bağlaçtır, edat değildir. Diğer şıklarda \"kadar\" (zaman/sınır), \"için\" (amaç), \"gibi\" (benzerlik) edatları kullanılmıştır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "Tek başına anlamı olmayan ve cümleye araç, benzerlik, süre sınırlandırması katan \"gibi\", \"kadar\", \"için\" kelimelerini ara.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Edatlar",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Bağlaçlar, eş görevli sözcükleri, sözcük gruplarını veya bağımsız cümleleri birbirine bağlayan, tek başına anlamı olmayan kelimelerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde bağlaç iki cümleyi birbirine bağlama görevinde kullanılmıştır?",
+          "options": [
+            "Ek Soru 2 — Kitaplarını ve defterlerini çantasına özenle yerleştirdi.",
+            "Ek Soru 2 — Okula erken geldi çünkü sınıf başkanlığı seçimi bugün yapılacaktı.",
+            "Ek Soru 2 — Hem Türkçe dersini hem de matematik dersini çok seviyordu.",
+            "Ek Soru 2 — Ali veya Ahmet bu akşam kütüphanede nöbetçi kalacak."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — B şıkkındaki \"çünkü\" bağlacı \"Okula erken geldi\" yüklemli cümlesi ile \"seçim bugün yapılacaktı\" yüklemli cümlesini birbirine bağlamıştır. Diğerlerinde ise eş görevli kelimeleri bağlamıştır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "Bağlacın solunda ve sağında birer cümlenin (yargı bildiren yüklemli yapının) bulunup bulunmadığına bak.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Bağlaçlar",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Ünlemler; sevinç, korku, şaşkınlık, üzüntü gibi anlık heyecanları ve duyguları ifade eden ya da seslenme, hitap içeren sözcüklerdir.\n\nBuna göre aşağıdaki cümlelerin hangisinde ünlem cümleye \"uyarı/telaş\" anlamı katmıştır?",
+          "options": [
+            "Ek Soru 2 — Eyvah, sınav süresi bitmek üzere ama ben son iki soruyu henüz okumadım!",
+            "Ek Soru 2 — Ah, nerede o eski kütüphanelerin huzurlu ve sessiz günleri!",
+            "Ek Soru 2 — Hey! Buraya baksana, seninle konuşmam gereken önemli bir konu var.",
+            "Ek Soru 2 — Yaşasın, LGS sınavında tüm soruları doğru cevaplayıp tam puan aldım!"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — A şıkkındaki \"Eyvah\" ünlemi sınav süresinin bitmesiyle ilgili bir telaş ve paniği/uyarıyı yansıtmaktadır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "Süre bitiminde yaşanan telaş ve paniği en iyi yansıtan ünlem kelimesine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "Sözcük Türleri",
+            "Ünlemler",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Fiilimsiler (eylemsiler), fiil kök veya gövdelerine getirilen özel eklerle türetilen; cümle içinde isim, sıfat veya zarf görevinde kullanılan ama fiil anlamını tamamen yitirmeyen sözcüklerdir.\n\n\"Kütüphanede ders çalışan öğrencileri izlemek, bana geçmişteki LGS hazırlık günlerimi hatırlattı.\"\n\nBu cümledeki fiilimsilerin türleri aşağıdakilerden hangisinde sırasıyla doğru verilmiştir?",
+          "options": [
+            "Ek Soru 2 — Sıfat-fiil - İsim-fiil - Zarf-fiil",
+            "Ek Soru 2 — Sıfat-fiil - İsim-fiil",
+            "Ek Soru 2 — İsim-fiil - Sıfat-fiil",
+            "Ek Soru 2 — Zarf-fiil - İsim-fiil - Sıfat-fiil"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — \"çalışan\" (sıfat-fiil, -an eki), \"izlemek\" (isim-fiil, -mak eki) fiilimsileridir. Cümlede başka fiilimsi yoktur. Bu yüzden sırasıyla sıfat-fiil ve isim-fiildir.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"çalış-an\" ve \"izle-mek\" kelimelerindeki fiilimsi eklerini (-an sıfat-fiil, -mek isim-fiil) ayırt et.",
+          "difficulty": 4,
+          "tags": [
+            "Sözcük Türleri",
+            "Fiilimsiler",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Türkçede \"ile\" sözcüğü, yerine \"ve\" bağlacı getirilebiliyorsa bağlaç; getirilemiyorsa edat (ilgeç) görevindedir.\n\nBuna göre aşağıdaki cümlelerin hangisinde \"ile\" sözcüğü bağlaç görevinde kullanılmıştır?",
+          "options": [
+            "Ek Soru 2 — Okula her sabah arkadaşı ile birlikte yürüyerek giderdi.",
+            "Ek Soru 2 — Soruları dikkatli okumak ile büyük bir başarı elde edebilirsin.",
+            "Ek Soru 2 — Türkçe dersi ile matematik dersi LGS sınavında en yüksek katsayıya sahiptir.",
+            "Ek Soru 2 — Yazları köy meydanındaki büyük çınar ağacının gölgesi ile serinlerdik."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — C şıkkında \"Türkçe dersi ile\" yerine \"ve\" koyduğumuzda \"Türkçe dersi ve matematik dersi...\" şeklinde anlamlı olduğu için bağlaçtır. Diğerlerinde ise birliktelik ve araç ilgisi kuran edattır.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"ile\" kelimesinin yerine \"ve\" koyarak cümleyi tekrar oku. Kulağa mantıklı geliyorsa bağlaçtır.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Edat ve Bağlaç Ayrımı",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Sıfatlar isimleri nitelerken, zarflar fiilleri veya fiilimsileri durum yönünden niteler. Bu iki türü karıştırmamak için niteledikleri kelimenin türüne (isim mi, fiil mi) bakılmalıdır.\n\n\"Kırmızı kalemle defterine çok hızlı notlar alıyordu.\"\n\nBu cümledeki \"kırmızı\" ve \"hızlı\" sözcüklerinin türleri aşağıdakilerden hangisinde doğru verilmiştir?",
+          "options": [
+            "Ek Soru 2 — Sıfat - Zarf",
+            "Ek Soru 2 — Zarf - Sıfat",
+            "Ek Soru 2 — Sıfat - Sıfat",
+            "Ek Soru 2 — İsim - Zarf"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Kırmızı\" sözcüğü \"kalem\" ismini nitelediği için sıfattır. \"Hızlı\" sözcüğü de \"notlar\" isminin önüne gelerek onu nitelediği için yine sıfattır. (Hızlı not almak fiille ilişkili gibi görünse de \"notlar\" isminin önündedir). Dikkat edilirse \"hızlı notlar\" ifadesinde \"not\" isimdir ve sıfattır. C seçeneği doğrudur.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"Kırmızı\" kelimesinin kalem ismini, \"hızlı\" kelimesinin ise notlar ismini nitelediğine dikkat et.",
+          "difficulty": 4,
+          "tags": [
+            "Sözcük Türleri",
+            "Sıfat ve Zarf Karşılaştırması",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Onlar\" sözcüğü, bir insanın yerini tutuyorsa kişi zamiri; insan dışındaki bir varlığın (nesne, hayvan vb.) yerini tutuyorsa işaret zamiridir.\n\nBuna göre aşağıdaki cümlelerin hangisinde \"onlar\" sözcüğü işaret zamiri görevinde kullanılmıştır?",
+          "options": [
+            "Ek Soru 2 — Onlar, yarın sabah erkenden LGS deneme sınavına girecekler.",
+            "Ek Soru 2 — Kütüphanedeki eski kitapları rafa dizdim, onlar gelecek nesillere mirastır.",
+            "Ek Soru 2 — Öğretmenimiz onları sınıf başkanlığı adaylığı için kürsüye çağırdı.",
+            "Ek Soru 2 — Onlar, okul bahçesinde voleybol oynayan küçük çocuklardı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — B şıkkındaki \"onlar\" insan dışı varlıklar olan \"eski kitaplar\"ı temsil ettiği için işaret zamiridir. Diğerlerinde ise insanları temsil eden kişi zamiridir.\n\n[GitHub Ek Test — Sözcük Türleri]",
+          "ipucu": "\"Onlar\" kelimesinin bir insan grubunu mu yoksa cansız kitapları mı kastettiğine dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "Sözcük Türleri",
+            "Zamirler",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

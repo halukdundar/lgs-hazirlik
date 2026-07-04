@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_4",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Yazım Kuralları",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde büyük harf kuralı yanlış uygulanmıştır?",
+          "options": [
+            "Ek Soru 1 — Türkiye'nin başkenti Ankara'dır.",
+            "Ek Soru 1 — Erzurum'da kış mevsimi erken başlar.",
+            "Ek Soru 1 — Mehmet ve ayşe bugün buluştular.",
+            "Ek Soru 1 — Türkçe dersinde yeni bir konu anlatıldı."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Ayşe\" özel bir isimdir; büyük harfle \"Ayşe\" yazılmalıdır. A, B, D'deki özel adlar doğru büyük harfle yazılmıştır.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Özel isimler (kişi adları, şehir adları, ülke adları) her zaman büyük harfle başlar. Cümle ortasında olsalar bile!",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki seçeneklerden hangisinde kesme işaretinin kullanımı doğrudur?",
+          "options": [
+            "Ek Soru 1 — Sinop'da balıkçılık yaygın bir geçim kaynağıdır.",
+            "Ek Soru 1 — İstanbul'dan Ankara'ya dört saat sürer.",
+            "Ek Soru 1 — Ankarada bulunan müzeler çok zengindir.",
+            "Ek Soru 1 — Türkiyenin en uzun nehri Kızılırmak'tır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"İstanbul'dan Ankara'ya\" ifadesinde her iki özel ada gelen ekler kesme işaretiyle doğru ayrılmıştır. A'da \"Sinop'da\" yanlış; \"Sinop'ta\" olmalı (sert ünsüz benzeşmesi). C ve D'de kesme işareti hiç kullanılmamış.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Kesme işareti: özel ada gelen ekleri ayırır. Ek seçiminde ünlü uyumu ve ünsüz benzeşmesine de dikkat et. \"İstanbul'da\" ✓ \"Sinop'da\" ✗ (→ \"Sinop'ta\").",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde \"de/da\" yanlış kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Ben de sınava gireceğim.",
+            "Ek Soru 1 — Okulda düzenlenen sergi çok ilgi gördü.",
+            "Ek Soru 1 — Dün akşam sinemada güzel bir film izledik.",
+            "Ek Soru 1 — Arkadaşımda geldi toplantıya."
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Arkadaşımda geldi\" cümlesinde \"da\" bağlaç görevindedir ve ayrı yazılmalıdır: \"Arkadaşım da geldi.\" A'da ayrı yazılmış bağlaç; B ve C'de bitişik yazılmış bulunma hâli eki – hepsi doğru.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "\"de/da\" bağlaç mı ek mi? Cümleden çıkarınca anlam bozuluyorsa ek (bitişik yaz), bozulmuyorsa bağlaç (ayrı yaz). \"Arkadaşım geldi\" → anlam bozulmaz → bağlaç → ayrı.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde \"ki\" yanlış kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Anladım ki haklısın.",
+            "Ek Soru 1 — Bugünkü programı beğendim.",
+            "Ek Soru 1 — Masadaki kalemi aldı.",
+            "Ek Soru 1 — Düşünceki fikirleri paylaşmak önemli."
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Düşünceki\" ifadesi yanlıştır; \"düşünce\" sözcüğü sıradan bir isimdir ve \"-ki\" eki doğrudan buna değil, hâl ekinden sonra eklenir: \"düşüncedeki\" olmalıdır. A bağlaç \"ki\" ayrı ✓; B \"bugünkü\" sıfat eki bitişik ✓; C \"masadaki\" sıfat eki bitişik ✓.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "\"ki\" eki: isim + \"daki/deki\" = bitişik (masadaki, sıradaki). Bağlaç \"ki\" = ayrı (anladım ki, düşündüm ki). \"-ki\" eki hâl ekinden (-da/-de/-ta/-te) sonra gelir.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki sözcüklerden hangisi yanlış yazılmıştır?",
+          "options": [
+            "Ek Soru 1 — bilgisayar",
+            "Ek Soru 1 — hanımeli",
+            "Ek Soru 1 — her zaman",
+            "Ek Soru 1 — herşey"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Herşey\" yanlıştır; doğrusu \"her şey\" şeklinde ayrı yazılır. \"Her\" ayrı bir sözcük olup \"her şey, her yer, her biri\" gibi bileşik yapılarda ayrı yazılır.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "\"Her\" sözcüğü her zaman ayrı yazılır: \"her şey, her yer, her kim, her ne.\" \"Herkese\" ise \"herkes\" + \"-e\" eki olduğundan bitişiktir. Bu iki durumu karıştırma!",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde yazım kuralı doğru uygulanmıştır?",
+          "options": [
+            "Ek Soru 1 — Atatürkün heykeli meydanda duruyor.",
+            "Ek Soru 1 — Atatürk'ün heykeli meydanda duruyor.",
+            "Ek Soru 1 — Atatürk ün heykeli meydanda duruyor.",
+            "Ek Soru 1 — Atatürk'ün Heykeli meydanda duruyor."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Atatürk'ün\" ifadesinde özel ada gelen \"-ün\" iyelik eki kesme işaretiyle doğru ayrılmıştır. A'da kesme işareti yok, C'de boşluk yanlış, D'de \"Heykel\" gereksiz büyük yazılmış.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Özel isme gelen ek → kesme işareti zorunlu. \"Atatürk'ün, Ankara'dan, Türkiye'ye\" formülle pekiştir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde kurum adının yazımı yanlıştır?",
+          "options": [
+            "Ek Soru 1 — Türkiye Büyük Millet Meclisi bugün toplandı.",
+            "Ek Soru 1 — Millî Eğitim Bakanlığı açıklama yaptı.",
+            "Ek Soru 1 — istanbul teknik üniversitesi dünya sıralamalarında yükseldi.",
+            "Ek Soru 1 — Türk Dil Kurumu yeni kılavuzunu yayımladı."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Kurum adları özel isim niteliğinde olduğundan her sözcüğün ilk harfi büyük yazılır: \"İstanbul Teknik Üniversitesi.\" C seçeneğinde tüm harfler küçük yazılmış; bu yanlıştır.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Kurum, kuruluş ve üniversite adlarında her sözcük büyük harfle başlar. Tek istisna: bağlaç ve edatlar küçük kalabilir.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "\"Cumhuriyet 32 ekim 1926'te ilan edildi.\" cümlesinde yazım kuralı açısından yapılan hata nedir?",
+          "options": [
+            "Ek Soru 1 — \"Cumhuriyet\" kelimesi büyük harfle başlamamalı.",
+            "Ay adı küçük harfle başlamamalı; \"32 Ekim 1926\" yazılmalı.",
+            "1926 rakamla değil yazıyla belirtilmeli.",
+            "Ek Soru 1 — Kesme işareti kullanılmamalı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Belirli tarih bildiren ifadelerde ay adları büyük harfle başlar: \"32 Ekim 1926.\" \"Ekim\" ay adı büyük yazılmalıdır. Diğer seçenekler kural ihlali içermez.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Belirli tarih = ay adı büyük. Belirsiz kullanım = küçük: \"Her ekim ayında yağmur yağar.\" ama \"15 Ekim 2024'te\" — tarihlerde büyük.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki saat yazımlarından hangisi doğrudur?",
+          "options": [
+            "Tren saat 17,33'da hareket edecek.",
+            "Tren saat 17:33'da hareket edecek.",
+            "Tren saat 17.33 da hareket edecek.",
+            "Ek Soru 1 — Tren saat on dört otuz da hareket edecek."
+          ],
+          "correctIndex": 1,
+          "explanation": "Saat yazımında saat ile dakika arasına iki nokta konur: \"17:33.\" Gelen ek kesme işaretiyle ayrılır: \"17:33'da.\" A'da virgül yanlış, C'de kesme işareti ve bağlaç \"da\" yanlış konumda, D dilbilgisel açıdan sorunludur.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Saat yazımı formülü: SAAT:DAKİKA'EK → \"08:30'da\", \"14:45'te\". İki nokta işareti saat-dakika ayırır; kesme işareti eki ayırır.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde yazım yanlışı yoktur?",
+          "options": [
+            "Ek Soru 1 — Arkadaşımın babası doktordur fakat anneside hemşiredir.",
+            "Ek Soru 1 — Tatilde annem, babam ve kardeşimde geldiler.",
+            "Ek Soru 1 — Bu yıl hem matematik hem de türkçe dersinde başarılı oldu.",
+            "Ek Soru 1 — Sınıf öğretmeni pazar günü toplantıya katılacak."
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — D cümlesi yazım kurallarına tamamen uygundur: \"pazar\" gün adı küçük harf (belirsiz), cümle başı büyük. A'da \"anneside\" → \"annesi de\" (bağlaç ayrı); B'de \"kardeşimde\" → \"kardeşim de\" (bağlaç ayrı); C'de \"türkçe\" → \"Türkçe\" (dil adı büyük).\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "\"Hangisinde yanlış yok?\" sorusunda her seçeneği birer kuralla test et: büyük harf, de/da ayrımı, kesme işareti. Tüm kurallar doğruysa o cevap doğru.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Yazım Kuralları",
+      "questions": [
+        {
+          "question": "Test 6: \"Cumhuriyet 32 ekim 1926'te ilan edildi.\" cümlesinde yazım kuralı açısından yapılan hata nedir?",
+          "options": [
+            "Ek Soru 1 — \"Cumhuriyet\" kelimesi büyük harfle başlamamalı.",
+            "Ay adı küçük harfle başlamamalı; \"32 Ekim 1926\" yazılmalı.",
+            "1926 rakamla değil yazıyla belirtilmeli.",
+            "Ek Soru 1 — Kesme işareti kullanılmamalı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Belirli tarih bildiren ifadelerde ay adları büyük harfle başlar: \"32 Ekim 1926.\" \"Ekim\" ay adı büyük yazılmalıdır. Diğer seçenekler kural ihlali içermez.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Belirli tarih = ay adı büyük. Belirsiz kullanım = küçük: \"Her ekim ayında yağmur yağar.\" ama \"15 Ekim 2024'te\" — tarihlerde büyük.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 7: \"Cumhuriyet 32 ekim 1926'te ilan edildi.\" cümlesinde yazım kuralı açısından yapılan hata nedir?",
+          "options": [
+            "Ek Soru 1 — \"Cumhuriyet\" kelimesi büyük harfle başlamamalı.",
+            "Ay adı küçük harfle başlamamalı; \"32 Ekim 1926\" yazılmalı.",
+            "1926 rakamla değil yazıyla belirtilmeli.",
+            "Ek Soru 1 — Kesme işareti kullanılmamalı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Belirli tarih bildiren ifadelerde ay adları büyük harfle başlar: \"32 Ekim 1926.\" \"Ekim\" ay adı büyük yazılmalıdır. Diğer seçenekler kural ihlali içermez.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Belirli tarih = ay adı büyük. Belirsiz kullanım = küçük: \"Her ekim ayında yağmur yağar.\" ama \"15 Ekim 2024'te\" — tarihlerde büyük.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 8: \"Cumhuriyet 32 ekim 1926'te ilan edildi.\" cümlesinde yazım kuralı açısından yapılan hata nedir?",
+          "options": [
+            "Ek Soru 1 — \"Cumhuriyet\" kelimesi büyük harfle başlamamalı.",
+            "Ay adı küçük harfle başlamamalı; \"32 Ekim 1926\" yazılmalı.",
+            "1926 rakamla değil yazıyla belirtilmeli.",
+            "Ek Soru 1 — Kesme işareti kullanılmamalı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Belirli tarih bildiren ifadelerde ay adları büyük harfle başlar: \"32 Ekim 1926.\" \"Ekim\" ay adı büyük yazılmalıdır. Diğer seçenekler kural ihlali içermez.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Belirli tarih = ay adı büyük. Belirsiz kullanım = küçük: \"Her ekim ayında yağmur yağar.\" ama \"15 Ekim 2024'te\" — tarihlerde büyük.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 9: \"Cumhuriyet 32 ekim 1926'te ilan edildi.\" cümlesinde yazım kuralı açısından yapılan hata nedir?",
+          "options": [
+            "Ek Soru 1 — \"Cumhuriyet\" kelimesi büyük harfle başlamamalı.",
+            "Ay adı küçük harfle başlamamalı; \"32 Ekim 1926\" yazılmalı.",
+            "1926 rakamla değil yazıyla belirtilmeli.",
+            "Ek Soru 1 — Kesme işareti kullanılmamalı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Belirli tarih bildiren ifadelerde ay adları büyük harfle başlar: \"32 Ekim 1926.\" \"Ekim\" ay adı büyük yazılmalıdır. Diğer seçenekler kural ihlali içermez.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Belirli tarih = ay adı büyük. Belirsiz kullanım = küçük: \"Her ekim ayında yağmur yağar.\" ama \"15 Ekim 2024'te\" — tarihlerde büyük.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 10: \"Cumhuriyet 32 ekim 1926'te ilan edildi.\" cümlesinde yazım kuralı açısından yapılan hata nedir?",
+          "options": [
+            "Ek Soru 1 — \"Cumhuriyet\" kelimesi büyük harfle başlamamalı.",
+            "Ay adı küçük harfle başlamamalı; \"32 Ekim 1926\" yazılmalı.",
+            "1926 rakamla değil yazıyla belirtilmeli.",
+            "Ek Soru 1 — Kesme işareti kullanılmamalı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Belirli tarih bildiren ifadelerde ay adları büyük harfle başlar: \"32 Ekim 1926.\" \"Ekim\" ay adı büyük yazılmalıdır. Diğer seçenekler kural ihlali içermez.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Belirli tarih = ay adı büyük. Belirsiz kullanım = küçük: \"Her ekim ayında yağmur yağar.\" ama \"15 Ekim 2024'te\" — tarihlerde büyük.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki cümlelerin hangisinde büyük harf kuralı yanlış uygulanmıştır?",
+          "options": [
+            "Ek Soru 1 — Türkiye'nin başkenti Ankara'dır.",
+            "Ek Soru 1 — Erzurum'da kış mevsimi erken başlar.",
+            "Ek Soru 1 — Mehmet ve ayşe bugün buluştular.",
+            "Ek Soru 1 — Türkçe dersinde yeni bir konu anlatıldı."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Ayşe\" özel bir isimdir; büyük harfle \"Ayşe\" yazılmalıdır. A, B, D'deki özel adlar doğru büyük harfle yazılmıştır.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Özel isimler (kişi adları, şehir adları, ülke adları) her zaman büyük harfle başlar. Cümle ortasında olsalar bile!",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki seçeneklerden hangisinde kesme işaretinin kullanımı doğrudur?",
+          "options": [
+            "Ek Soru 1 — Sinop'da balıkçılık yaygın bir geçim kaynağıdır.",
+            "Ek Soru 1 — İstanbul'dan Ankara'ya dört saat sürer.",
+            "Ek Soru 1 — Ankarada bulunan müzeler çok zengindir.",
+            "Ek Soru 1 — Türkiyenin en uzun nehri Kızılırmak'tır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"İstanbul'dan Ankara'ya\" ifadesinde her iki özel ada gelen ekler kesme işaretiyle doğru ayrılmıştır. A'da \"Sinop'da\" yanlış; \"Sinop'ta\" olmalı (sert ünsüz benzeşmesi). C ve D'de kesme işareti hiç kullanılmamış.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "Kesme işareti: özel ada gelen ekleri ayırır. Ek seçiminde ünlü uyumu ve ünsüz benzeşmesine de dikkat et. \"İstanbul'da\" ✓ \"Sinop'da\" ✗ (→ \"Sinop'ta\").",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki cümlelerin hangisinde \"de/da\" yanlış kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Ben de sınava gireceğim.",
+            "Ek Soru 1 — Okulda düzenlenen sergi çok ilgi gördü.",
+            "Ek Soru 1 — Dün akşam sinemada güzel bir film izledik.",
+            "Ek Soru 1 — Arkadaşımda geldi toplantıya."
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Arkadaşımda geldi\" cümlesinde \"da\" bağlaç görevindedir ve ayrı yazılmalıdır: \"Arkadaşım da geldi.\" A'da ayrı yazılmış bağlaç; B ve C'de bitişik yazılmış bulunma hâli eki – hepsi doğru.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "\"de/da\" bağlaç mı ek mi? Cümleden çıkarınca anlam bozuluyorsa ek (bitişik yaz), bozulmuyorsa bağlaç (ayrı yaz). \"Arkadaşım geldi\" → anlam bozulmaz → bağlaç → ayrı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki cümlelerin hangisinde \"ki\" yanlış kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Anladım ki haklısın.",
+            "Ek Soru 1 — Bugünkü programı beğendim.",
+            "Ek Soru 1 — Masadaki kalemi aldı.",
+            "Ek Soru 1 — Düşünceki fikirleri paylaşmak önemli."
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Düşünceki\" ifadesi yanlıştır; \"düşünce\" sözcüğü sıradan bir isimdir ve \"-ki\" eki doğrudan buna değil, hâl ekinden sonra eklenir: \"düşüncedeki\" olmalıdır. A bağlaç \"ki\" ayrı ✓; B \"bugünkü\" sıfat eki bitişik ✓; C \"masadaki\" sıfat eki bitişik ✓.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "\"ki\" eki: isim + \"daki/deki\" = bitişik (masadaki, sıradaki). Bağlaç \"ki\" = ayrı (anladım ki, düşündüm ki). \"-ki\" eki hâl ekinden (-da/-de/-ta/-te) sonra gelir.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Aşağıdaki sözcüklerden hangisi yanlış yazılmıştır?",
+          "options": [
+            "Ek Soru 1 — bilgisayar",
+            "Ek Soru 1 — hanımeli",
+            "Ek Soru 1 — her zaman",
+            "Ek Soru 1 — herşey"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Herşey\" yanlıştır; doğrusu \"her şey\" şeklinde ayrı yazılır. \"Her\" ayrı bir sözcük olup \"her şey, her yer, her biri\" gibi bileşik yapılarda ayrı yazılır.\n\n[GitHub Ek Test — Yazım Kuralları]",
+          "ipucu": "\"Her\" sözcüğü her zaman ayrı yazılır: \"her şey, her yer, her kim, her ne.\" \"Herkese\" ise \"herkes\" + \"-e\" eki olduğundan bitişiktir. Bu iki durumu karıştırma!",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Yazım Kuralları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

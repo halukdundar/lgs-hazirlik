@@ -1,0 +1,418 @@
+{
+  "topicId": "zekat_ve_sadaka",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Zekât ve Sadaka",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Selin’in ailesi gelirlerinin bir kısmını düzenli olarak ihtiyaç sahipleriyle paylaşıyor.\n\nBu duruma göre, bu davranışın temel amacı hangisidir?",
+          "options": [
+            "Ek Soru 1 — Gösteriş yapmak",
+            "Ek Soru 1 — Toplumda denge ve kardeşliği güçlendirmek",
+            "Ek Soru 1 — Yalnızca vergi azaltmak",
+            "Ek Soru 1 — Sorumluluktan kaçınmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Zekât ve sadaka, sosyal adalet ve kardeşlik duygusunu güçlendirmeyi hedefler.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Paylaşımın toplumsal yönünü düşün.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Durum: Bir kişi zekât vermeden önce malının dinen gerekli alt sınırı geçip geçmediğini hesaplıyor.\n\nBu duruma göre, bu alt sınırın adı nedir?",
+          "options": [
+            "Ek Soru 1 — Fidye",
+            "Ek Soru 1 — Nisap",
+            "Ek Soru 1 — Kefaret",
+            "Ek Soru 1 — Fitre"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Zekât yükümlülüğünün başladığı zenginlik ölçüsü nisap olarak adlandırılır.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Dinen zenginlik eşiği.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir öğrenci “Zekât sadece para paylaşmak değildir, insanı bencillikten de arındırır.” diyor.\n\nBu duruma göre, bu ifade zekâtın hangi yönünü vurgular?",
+          "options": [
+            "Ek Soru 1 — Sadece ekonomik yönünü",
+            "Ek Soru 1 — Ahlaki ve manevi yönünü",
+            "Ek Soru 1 — Sadece siyasi yönünü",
+            "Ek Soru 1 — Yalnızca hukuki yönünü"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Zekât, malı temizlerken kişiyi de cimrilik ve bencillikten uzaklaştırır.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "İç dünyaya etkisi öne çıkıyor.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Durum: Mahallede gençler herkesin yararlanacağı ücretsiz bir kütüphane kuruyor.\n\nBu duruma göre, bu iyilik hangi kavramla adlandırılır?",
+          "options": [
+            "Ek Soru 1 — Adak",
+            "Ek Soru 1 — Sadaka-i cariye",
+            "Ek Soru 1 — Kefaret",
+            "Ek Soru 1 — Nafile oruç"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kalıcı fayda sağlayan ve sevabı devam eden hayırlar sadaka-i cariyedir.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Faydası uzun süre devam eder.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir esnaf tartı aletlerini hafif tutarak fazla kâr elde etmektedir.\n\nBu davranış Kur'an'da hangi peygamberin mücadele ettiği durumla örtüşmektedir?",
+          "options": [
+            "Ek Soru 1 — Hz. İbrahim",
+            "Ek Soru 1 — Hz. Şuayb",
+            "Ek Soru 1 — Hz. Lut",
+            "Ek Soru 1 — Hz. Nuh"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hz. Şuayb ölçü ve tartıda adaleti emretti; hile yapan Medyen halkını uyardı.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Ticaret ahlakı → hangi peygamber?",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Hz. Şuayb Medyen halkına şunu söyledi: \"Ölçüyü ve tartıyı tam tutun; insanların eşyalarını eksik vermeyin.\"\n\nBu ifade hangi İslami değeri vurgular?",
+          "options": [
+            "Ek Soru 1 — Cihad",
+            "Ek Soru 1 — İktisadi adalet ve dürüstlük",
+            "Ek Soru 1 — Yalnızca namaz ibadeti",
+            "Ek Soru 1 — Hac farizi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İslam'da ekonomik işlemlerde adalet ve dürüstlük ibadet kadar önemlidir.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Ticaret + adalet = Hz. Şuayb mesajı.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Hz. Şuayb halkını yıllarca uyardı; ancak onlar \"Sen bize atalarımızın yolunu bıraktırmak istiyorsun\" diyerek reddetti.\n\nBu durum peygamberlerin hangi ortak özelliğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Peygamberler her zaman başarılıdır",
+            "Ek Soru 1 — Tebliğ görevini yerine getirirler; iman zorla kabul ettirilmez",
+            "Ek Soru 1 — Peygamberler hata yapabilir",
+            "Ek Soru 1 — İman etmeyenler cezalandırılmaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Peygamberlerin görevi tebliğdir; iman etmeyi zorlayamazlar. Sorumluluk bireye aittir.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Tebliğ zorunlu, iman serbest irade.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Maûn Suresi'nde \"Yetimi sertçe iten ve yoksulu doyurmaya teşvik etmeyen kişi\" nasıl tanımlanmaktadır?",
+          "options": [
+            "Ek Soru 1 — Yalnızca günahkâr",
+            "Ek Soru 1 — Dini inkâr eden (yalanlayan)",
+            "Ek Soru 1 — Kâfir olmayan ama günahkâr",
+            "Ek Soru 1 — Münafık"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Maûn Suresi'nin ilk iki ayeti bu davranışları \"dini yalanlamanın\" belirtisi olarak tanımlar.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Sosyal sorumluluktan kaçış = dini yalanlamak.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Maûn Suresi kaçıncı suredir ve kaç ayetten oluşur?",
+          "options": [
+            "115. sure, 7 ayet",
+            "110. sure, 10 ayet",
+            "108. sure, 8 ayet",
+            "112. sure, 9 ayet"
+          ],
+          "correctIndex": 1,
+          "explanation": "Maûn Suresi Kur'an'ın 110. suresidir ve 10 ayetten oluşur.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "107. sure = Maûn (yardım/küçük şeyler).",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir kişi namazını kılar fakat komşusu açken ona yardım etmez.\n\nMaûn Suresi'ne göre bu kişi hakkında ne söylenebilir?",
+          "options": [
+            "Ek Soru 1 — Namazı kıldığı için ibadetleri tam",
+            "Ek Soru 1 — İbadeti sosyal sorumluluktan ayrı tuttuğu için eksik",
+            "Ek Soru 1 — Komşusuna yardım etmesi zorunlu değil",
+            "Ek Soru 1 — Oruç tutmadığı için günahkâr"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Maûn Suresi ibadet ile sosyal yardımın birbirinden ayrılamayacağını vurgular.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Namaz + sosyal sorumluluk → bütündür.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Zekât ve Sadaka",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Zekât ve Sadaka",
+      "questions": [
+        {
+          "question": "Test 11: Senaryo: Selin’in ailesi gelirlerinin bir kısmını düzenli olarak ihtiyaç sahipleriyle paylaşıyor.\n\nBu duruma göre, bu davranışın temel amacı hangisidir?",
+          "options": [
+            "Ek Soru 1 — Gösteriş yapmak",
+            "Ek Soru 1 — Toplumda denge ve kardeşliği güçlendirmek",
+            "Ek Soru 1 — Yalnızca vergi azaltmak",
+            "Ek Soru 1 — Sorumluluktan kaçınmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Zekât ve sadaka, sosyal adalet ve kardeşlik duygusunu güçlendirmeyi hedefler.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Paylaşımın toplumsal yönünü düşün.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Durum: Bir kişi zekât vermeden önce malının dinen gerekli alt sınırı geçip geçmediğini hesaplıyor.\n\nBu duruma göre, bu alt sınırın adı nedir?",
+          "options": [
+            "Ek Soru 1 — Fidye",
+            "Ek Soru 1 — Nisap",
+            "Ek Soru 1 — Kefaret",
+            "Ek Soru 1 — Fitre"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Zekât yükümlülüğünün başladığı zenginlik ölçüsü nisap olarak adlandırılır.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Dinen zenginlik eşiği.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Bir öğrenci “Zekât sadece para paylaşmak değildir, insanı bencillikten de arındırır.” diyor.\n\nBu duruma göre, bu ifade zekâtın hangi yönünü vurgular?",
+          "options": [
+            "Ek Soru 1 — Sadece ekonomik yönünü",
+            "Ek Soru 1 — Ahlaki ve manevi yönünü",
+            "Ek Soru 1 — Sadece siyasi yönünü",
+            "Ek Soru 1 — Yalnızca hukuki yönünü"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Zekât, malı temizlerken kişiyi de cimrilik ve bencillikten uzaklaştırır.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "İç dünyaya etkisi öne çıkıyor.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Durum: Mahallede gençler herkesin yararlanacağı ücretsiz bir kütüphane kuruyor.\n\nBu duruma göre, bu iyilik hangi kavramla adlandırılır?",
+          "options": [
+            "Ek Soru 1 — Adak",
+            "Ek Soru 1 — Sadaka-i cariye",
+            "Ek Soru 1 — Kefaret",
+            "Ek Soru 1 — Nafile oruç"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kalıcı fayda sağlayan ve sevabı devam eden hayırlar sadaka-i cariyedir.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Faydası uzun süre devam eder.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Bir esnaf tartı aletlerini hafif tutarak fazla kâr elde etmektedir.\n\nBu davranış Kur'an'da hangi peygamberin mücadele ettiği durumla örtüşmektedir?",
+          "options": [
+            "Ek Soru 1 — Hz. İbrahim",
+            "Ek Soru 1 — Hz. Şuayb",
+            "Ek Soru 1 — Hz. Lut",
+            "Ek Soru 1 — Hz. Nuh"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hz. Şuayb ölçü ve tartıda adaleti emretti; hile yapan Medyen halkını uyardı.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Ticaret ahlakı → hangi peygamber?",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Hz. Şuayb Medyen halkına şunu söyledi: \"Ölçüyü ve tartıyı tam tutun; insanların eşyalarını eksik vermeyin.\"\n\nBu ifade hangi İslami değeri vurgular?",
+          "options": [
+            "Ek Soru 1 — Cihad",
+            "Ek Soru 1 — İktisadi adalet ve dürüstlük",
+            "Ek Soru 1 — Yalnızca namaz ibadeti",
+            "Ek Soru 1 — Hac farizi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İslam'da ekonomik işlemlerde adalet ve dürüstlük ibadet kadar önemlidir.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Ticaret + adalet = Hz. Şuayb mesajı.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Hz. Şuayb halkını yıllarca uyardı; ancak onlar \"Sen bize atalarımızın yolunu bıraktırmak istiyorsun\" diyerek reddetti.\n\nBu durum peygamberlerin hangi ortak özelliğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Peygamberler her zaman başarılıdır",
+            "Ek Soru 1 — Tebliğ görevini yerine getirirler; iman zorla kabul ettirilmez",
+            "Ek Soru 1 — Peygamberler hata yapabilir",
+            "Ek Soru 1 — İman etmeyenler cezalandırılmaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Peygamberlerin görevi tebliğdir; iman etmeyi zorlayamazlar. Sorumluluk bireye aittir.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Tebliğ zorunlu, iman serbest irade.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Maûn Suresi'nde \"Yetimi sertçe iten ve yoksulu doyurmaya teşvik etmeyen kişi\" nasıl tanımlanmaktadır?",
+          "options": [
+            "Ek Soru 1 — Yalnızca günahkâr",
+            "Ek Soru 1 — Dini inkâr eden (yalanlayan)",
+            "Ek Soru 1 — Kâfir olmayan ama günahkâr",
+            "Ek Soru 1 — Münafık"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Maûn Suresi'nin ilk iki ayeti bu davranışları \"dini yalanlamanın\" belirtisi olarak tanımlar.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Sosyal sorumluluktan kaçış = dini yalanlamak.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Maûn Suresi kaçıncı suredir ve kaç ayetten oluşur?",
+          "options": [
+            "115. sure, 7 ayet",
+            "110. sure, 10 ayet",
+            "108. sure, 8 ayet",
+            "112. sure, 9 ayet"
+          ],
+          "correctIndex": 1,
+          "explanation": "Maûn Suresi Kur'an'ın 110. suresidir ve 10 ayetten oluşur.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "107. sure = Maûn (yardım/küçük şeyler).",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Bir kişi namazını kılar fakat komşusu açken ona yardım etmez.\n\nMaûn Suresi'ne göre bu kişi hakkında ne söylenebilir?",
+          "options": [
+            "Ek Soru 1 — Namazı kıldığı için ibadetleri tam",
+            "Ek Soru 1 — İbadeti sosyal sorumluluktan ayrı tuttuğu için eksik",
+            "Ek Soru 1 — Komşusuna yardım etmesi zorunlu değil",
+            "Ek Soru 1 — Oruç tutmadığı için günahkâr"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Maûn Suresi ibadet ile sosyal yardımın birbirinden ayrılamayacağını vurgular.\n\n[GitHub Ek Test — Zekât ve Sadaka]",
+          "ipucu": "Namaz + sosyal sorumluluk → bütündür.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Zekât ve Sadaka",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

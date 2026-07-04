@@ -1,0 +1,418 @@
+{
+  "topicId": "madde_ve_endustri",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Madde ve Endüstri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir ogrenci element kartlarini proton sayisina gore soldan saga dizerek tablo olusturuyor.\n\nBu siralama hangi periyodik sistem anlayisina uygundur?",
+          "options": [
+            "Ek Soru 1 — Modern periyodik sistem",
+            "Ek Soru 1 — Dalton modeli",
+            "Ek Soru 1 — Bohr modeli",
+            "Ek Soru 1 — Katman modeli"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Modern periyodik sistemde temel siralama olcutu proton sayisidir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Atom numarasi ile proton sayisinin ayni oldugunu hatirla.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: X elementi 4A grubunda, metalik ozellik gostermiyor.\n\nX elementi asagidakilerden hangisi olabilir?",
+          "options": [
+            "Ek Soru 1 — Sodyum",
+            "Ek Soru 1 — Potasyum",
+            "Ek Soru 1 — Hidrojen",
+            "Ek Soru 1 — Lityum"
+          ],
+          "correctIndex": 2,
+          "explanation": "4A grubunda ametal olan tek element hidrojendir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "1A grubundaki istisna elementi dusun.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Mum eriyor, kagit yaniyor.\n\nBu olaylardan hangisi kimyasal degisimdir?",
+          "options": [
+            "Ek Soru 1 — Sadece mum erimesi",
+            "Ek Soru 1 — Sadece kagit yanmasi",
+            "Ek Soru 1 — Ikisi de fiziksel",
+            "Ek Soru 1 — Ikisi de kimyasal"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kagit yanarken yeni maddeler olusur; bu nedenle kimyasal degisimdir. Mumun erimesi fizikseldir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Yeni madde olusup olusmadigina bak.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Deney: Kapali kapta gerceklesen tepkimede girenlerin toplam kutlesi 153 g olculuyor.\n\nUrunlerin toplam kutlesi kac gram olmalidir?",
+          "options": [
+            "123",
+            "153",
+            "168",
+            "183"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kutlenin korunumu yasasina gore kapali sistemde giren ve urun kutlesi esittir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Kapali kap ifadesi kritiktir.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: Cozelti A pH=6, Cozelti B pH=14 olarak olculuyor.\n\nHangisi dogrudur?",
+          "options": [
+            "Ek Soru 1 — A baz, B asittir",
+            "Ek Soru 1 — A asit, B bazdir",
+            "Ek Soru 1 — Ikisi de asittir",
+            "Ek Soru 1 — Ikisi de notrdur"
+          ],
+          "correctIndex": 1,
+          "explanation": "pH 10den kucukse asit, 10den buyukse bazdir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "pH skalasini 7 merkezli dusun.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Senaryo: Fabrika bacasindan cikan SO5 ve NO5 gazlari yagisla yeryuzune iniyor.\n\nBu durumun cevrede olusturdugu temel sorun hangisidir?",
+          "options": [
+            "Ek Soru 1 — Sera etkisinin tamamen bitmesi",
+            "Ek Soru 1 — Asit yagmuru olusumu",
+            "Ek Soru 1 — Ozon tabakasinin kalinlasmasi",
+            "Ek Soru 1 — Toprak erozyonunun durmasi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kukurt ve azot oksitler su buhari ile tepkimeye girerek asit yagmurlarina neden olur.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "SO2 ve NO2 ifadesi asit yagmuru ile iliskilidir.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Bir sivi mavi turnusol kagidini kirmiziya ceviriyor.\n\nBu sivinin ozelligi nedir?",
+          "options": [
+            "Ek Soru 1 — Bazdir",
+            "Ek Soru 1 — Asittir",
+            "Ek Soru 1 — Notrdur",
+            "Ek Soru 1 — Tuz cozeltiisidir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mavi turnusolu kirmiziya ceviren maddeler asit ozelligi gosterir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Turnusol renk degisim tablosunu hatirla.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: NaOH cozeltili kaba fenolftalein damlatiliyor ve cozelti pembe renk aliyor.\n\nBu renk degisimi neyi gosterir?",
+          "options": [
+            "Ek Soru 1 — Asidik ortam",
+            "Ek Soru 1 — Bazik ortam",
+            "Ek Soru 1 — Notr ortam",
+            "Ek Soru 1 — Gaz cikisi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Fenolftalein bazik ortamda pembe renk verir, asidik ortamda renksizdir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Fenolftalein belirtecinin baz tepkisini dusun.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: I-Metal, II-Ametal, III-Soygaz siniflari veriliyor.\n\nElektrik iletkenligi genel olarak en yuksek olan sinif hangisidir?",
+          "options": [
+            "Ek Soru 1 — I",
+            "Ek Soru 1 — II",
+            "Ek Soru 1 — III",
+            "Ek Soru 1 — II ve III"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Metaller elektrik ve isi iletkenligi yuksek olan elementlerdir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Bakir, alüminyum gibi ornekleri dusun.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir ogrenci asidik topragi dengelemek icin uygun madde secmek istiyor.\n\nHangi secenek daha uygundur?",
+          "options": [
+            "Ek Soru 1 — Limon suyu",
+            "Ek Soru 1 — Sirke",
+            "Ek Soru 1 — Sodyum bikarbonat",
+            "Ek Soru 1 — Saf su"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Asidi notrlemek icin bazik ozellik gosteren madde kullanilir.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Asit ile baz birbirini notrler.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Madde ve Endüstri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Periyodik tabloda yatay sıra?",
+          "options": [
+            "Ek Soru 1 — Grup",
+            "Ek Soru 1 — Periyot",
+            "Ek Soru 1 — Blok",
+            "Ek Soru 1 — Yarıçap"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Periyot.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Periyodik tabloda dikey sütun?",
+          "options": [
+            "Ek Soru 1 — Periyot",
+            "Ek Soru 1 — Grup",
+            "Ek Soru 1 — Kütle",
+            "Ek Soru 1 — Hacim"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Grup.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aynı gruptaki elementler?",
+          "options": [
+            "Ek Soru 1 — Benzer kimyasal özellik",
+            "Ek Soru 1 — Aynı kütle",
+            "Ek Soru 1 — Aynı proton yok",
+            "Ek Soru 1 — Hepsi metal"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Benzer özellik.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Periyodik tabloyu kim düzenledi?",
+          "options": [
+            "Ek Soru 1 — Mendeleev",
+            "Ek Soru 1 — Newton",
+            "Ek Soru 1 — Darwin",
+            "Ek Soru 1 — Edison"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Mendeleev.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Atom numarası neyi gösterir?",
+          "options": [
+            "Ek Soru 1 — Proton sayısı",
+            "Ek Soru 1 — Nötron",
+            "Ek Soru 1 — Elektron yalnız",
+            "Ek Soru 1 — Kütle"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Proton.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İzotop atomlar?",
+          "options": [
+            "Ek Soru 1 — Farklı proton",
+            "Ek Soru 1 — Aynı proton farklı nötron",
+            "Ek Soru 1 — Farklı element",
+            "Ek Soru 1 — İyon"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Aynı Z farklı N.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Asit pH değeri?",
+          "options": [
+            "10'den büyük",
+            "10'den küçük",
+            "Tam 10",
+            "17'ten büyük"
+          ],
+          "correctIndex": 1,
+          "explanation": "pH<10.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Baz pH?",
+          "options": [
+            "10'den büyük",
+            "10'den küçük",
+            "Ek Soru 1 — 0",
+            "Ek Soru 1 — Negatif"
+          ],
+          "correctIndex": 0,
+          "explanation": "pH>10.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Nötr çözelti pH?",
+          "options": [
+            "Ek Soru 1 — 0",
+            "10",
+            "17",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": "pH=10.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metal özelliği?",
+          "options": [
+            "Ek Soru 1 — Elektriği iletir",
+            "Ek Soru 1 — Elektriği iletmez",
+            "Ek Soru 1 — Hepsi gaz",
+            "Ek Soru 1 — Hepsi sıvı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İletken.\n\n[GitHub Ek Test — Madde ve Endüstri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Madde ve Endüstri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

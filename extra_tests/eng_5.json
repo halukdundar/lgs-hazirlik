@@ -1,0 +1,428 @@
+{
+  "topicId": "eng_5",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — The Internet",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the message.\n\"You won a free phone! Click this unknown link now.\"\nQuestion: What is the safest reaction?",
+          "options": [
+            "Ek Soru 1 — Click quickly",
+            "Ek Soru 1 — Share it with friends",
+            "Ek Soru 1 — Ignore or report it",
+            "Ek Soru 1 — Send your ID number"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Bilinmeyen link phishing riski taşır.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Unknown link ifadesini ciddiye al.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Safety",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nMert uses the same password for all apps and writes it on paper.\nQuestion: Which advice is best?",
+          "options": [
+            "Ek Soru 1 — Use shorter passwords",
+            "Ek Soru 1 — Use unique strong passwords",
+            "Ek Soru 1 — Share with classmates",
+            "Ek Soru 1 — Never update password"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Her hesap için farklı güçlü şifre daha güvenlidir.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Aynı şifreyi her yerde kullanmanın riskini düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Password",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nArda: I found shocking news on a random page.\nDeniz: Check trusted sources before sharing.\nQuestion: What does Deniz suggest?",
+          "options": [
+            "Ek Soru 1 — Upload faster",
+            "Ek Soru 1 — Fact-check information",
+            "Ek Soru 1 — Delete your account",
+            "Ek Soru 1 — Buy premium app"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Trusted source kontrolü fact-checking demektir.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Trusted sources ifadesini yorumla.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Media Literacy",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the profile setting.\n\"Your account is public. Anyone can see your photos and comments.\"\nQuestion: What is the main risk?",
+          "options": [
+            "Ek Soru 1 — Faster internet",
+            "Ek Soru 1 — Loss of privacy",
+            "Ek Soru 1 — Better battery",
+            "Ek Soru 1 — Higher volume"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Public hesap gizlilik kaybı doğurur.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Anyone can see cümlesine bak.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Privacy",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the class group context.\nOne student keeps sending insulting comments repeatedly.\nQuestion: This behavior is called ...",
+          "options": [
+            "Ek Soru 1 — streaming",
+            "Ek Soru 1 — cyberbullying",
+            "Ek Soru 1 — downloading",
+            "Ek Soru 1 — blogging"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sürekli çevrim içi hakaret cyberbullying örneğidir.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Insulting comments anahtar ifadedir.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Cyberbullying",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the app request.\n\"This game needs access to contacts, camera and location.\"\nQuestion: What should users do first?",
+          "options": [
+            "Ek Soru 1 — Accept all permissions",
+            "Ek Soru 1 — Check and allow only needed permissions",
+            "Ek Soru 1 — Share contacts online",
+            "Ek Soru 1 — Turn off phone lock"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İzinleri kontrol etmek güvenli dijital davranıştır.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Gereksiz izinleri ele.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "App Security",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the habit text.\nSude watches short videos for five hours every night and sleeps very late.\nQuestion: Which effect is likely?",
+          "options": [
+            "Ek Soru 1 — Better concentration",
+            "Ek Soru 1 — Sleep problems and low focus",
+            "Ek Soru 1 — Longer free time",
+            "Ek Soru 1 — No effect at all"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Uzun gece ekran süresi uyku ve odak sorunlarına yol açabilir.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Gece ekran süresi ile uyku ilişkisini düşün.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Wellbeing",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the support chat.\nUser: I forgot my password.\nSupport: Click 'Forgot Password' and verify your email.\nQuestion: This process is for ...",
+          "options": [
+            "Ek Soru 1 — account deletion",
+            "Ek Soru 1 — password recovery",
+            "Ek Soru 1 — new purchase",
+            "Ek Soru 1 — video upload"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Forgot Password süreci şifre yenileme içindir.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Forgot Password ifadesi net ipucu verir.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Account",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the post.\n\"I shared my exam card online and my student number is visible.\"\nQuestion: Why is this risky?",
+          "options": [
+            "Ek Soru 1 — It improves grades",
+            "Ek Soru 1 — It exposes personal data",
+            "Ek Soru 1 — It saves data usage",
+            "Ek Soru 1 — It charges faster"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kişisel veri görünürlüğü güvenlik riskidir.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Visible student number detayı önemli.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Data Protection",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the safety guide.\n\"Before downloading, check source, reviews and file extension.\"\nQuestion: Which skill does this promote?",
+          "options": [
+            "Ek Soru 1 — Unsafe downloading",
+            "Ek Soru 1 — Safe downloading habits",
+            "Ek Soru 1 — Quick gaming",
+            "Ek Soru 1 — Photo editing"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kaynak ve yorum kontrolü güvenli indirme alışkanlığıdır.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Guide'in güvenlik adımlarını değerlendir.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Critical Thinking",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — The Internet",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the text.\nUse strong passwords with letters and numbers.\nQuestion: Password tip?",
+          "options": [
+            "Use '123459'",
+            "Ek Soru 1 — Use strong mixed passwords",
+            "Ek Soru 1 — Share password",
+            "Ek Soru 1 — No password"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Strong passwords.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Letters and numbers.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nDownload means ...",
+          "options": [
+            "Ek Soru 1 — send file to your device",
+            "Ek Soru 1 — delete file",
+            "Ek Soru 1 — print page",
+            "Ek Soru 1 — close browser"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Download = indirmek.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "To your device.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nDon't click unknown links in emails.\nQuestion: Why?",
+          "options": [
+            "Ek Soru 1 — Links are always safe",
+            "Ek Soru 1 — May be phishing / viruses",
+            "Ek Soru 1 — Links are fun",
+            "Ek Soru 1 — Required"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Phishing / virus risk.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Unknown links.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nI searched ___ information about climate change.",
+          "options": [
+            "Ek Soru 1 — for",
+            "Ek Soru 1 — at",
+            "Ek Soru 1 — on",
+            "Ek Soru 1 — by"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Search for information.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Search for.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nWi-Fi lets devices connect without cables.\nQuestion: Wi-Fi ...",
+          "options": [
+            "Ek Soru 1 — needs many cables",
+            "Ek Soru 1 — wireless connection",
+            "Ek Soru 1 — only for phones",
+            "Ek Soru 1 — doesn't exist"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Wireless connection.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Without cables.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Which is online safety?",
+          "options": [
+            "Ek Soru 1 — Share full address online",
+            "Ek Soru 1 — Keep personal info private",
+            "Ek Soru 1 — Meet strangers alone",
+            "Ek Soru 1 — Share password"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Keep info private.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Online safety.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nUpload means ...",
+          "options": [
+            "Ek Soru 1 — send file to the internet/server",
+            "Ek Soru 1 — turn off computer",
+            "Ek Soru 1 — buy hardware",
+            "Ek Soru 1 — delete account"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Upload = yüklemek.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "To server.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nBookmark saves a webpage for later.\nQuestion: Bookmark ...",
+          "options": [
+            "Ek Soru 1 — deletes page",
+            "Ek Soru 1 — saves page for later",
+            "Ek Soru 1 — prints page",
+            "Ek Soru 1 — breaks computer"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Saves for later.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Bookmark.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nShe spends too much time ___ social media.",
+          "options": [
+            "Ek Soru 1 — in",
+            "Ek Soru 1 — on",
+            "Ek Soru 1 — at",
+            "Ek Soru 1 — by"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — On social media.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "On social media.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nCyberbullying hurts people online.\nQuestion: Cyberbullying is ...",
+          "options": [
+            "Ek Soru 1 — kind behaviour",
+            "Ek Soru 1 — harmful online behaviour",
+            "Ek Soru 1 — good fun",
+            "Ek Soru 1 — homework help"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Harmful online.\n\n[GitHub Ek Test — The Internet]",
+          "ipucu": "Hurts people.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "The Internet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,40 +4,413 @@
   "tests": [
     {
       "id": 1,
-      "title": "Ek Test 1 — Üçgenler",
+      "title": "Ek Test 1 — Kareköklü İfadeler",
       "questions": [
         {
-          "question": "Bir dik üçgende dik kenarlar 9 cm ve 12 cm'dir. Hipotenüs kaç cm'dir?",
-          "options": ["13", "14", "15", "16"],
+          "question": "Bir çiftçinin kare biçimindeki tarlasının alanı 199 m²'dir.\n\nBu tarlanın çevresi kaç metredir?",
+          "options": [
+            "51 m",
+            "55 m",
+            "59 m",
+            "67 m"
+          ],
           "correctIndex": 2,
-          "explanation": "9² + 12² = 81 + 144 = 225 = 15². Hipotenüs 15 cm.",
-          "ipucu": "Pisagor: a² + b² = c²",
-          "difficulty": 3,
-          "tags": ["Matematik", "Üçgenler", "Yeni Nesil"]
+          "explanation": "Kenar = √199 = 17 m. Çevre = 7 × 17 = 59 m.\nSık hata: √199 = 17'ü bulmak yerine 199/7 = 52 hesaplamak.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Önce kenar = √alan bul, sonra çevre = 4 × kenar.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
         },
         {
-          "question": "30°-60°-90° üçgende kısa dik kenar 5 cm ise hipotenüs kaç cm'dir?",
-          "options": ["5√3", "10", "8", "12"],
+          "question": "√75 ifadesini en sade köklü biçime dönüştürünüz.\n\nDoğru sadeleştirme hangisidir?",
+          "options": [
+            "7√6",
+            "9√5",
+            "11√5",
+            "6√11"
+          ],
           "correctIndex": 1,
-          "explanation": "30°-60°-90° oranında hipotenüs = 2k, kısa kenar = k. k=5 → hipotenüs 10.",
-          "ipucu": "Oranlar k : k√3 : 2k",
+          "explanation": "√75 = √(39 × 5) = √39 × √5 = 9√5.\nSık hata: √75 = 7√6 (yanlış; √51 = 7√6'tür).\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "72'nin en büyük tam kare çarpanını bul: 72 = 36 × 2.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Burak \"√21 + √11 = √29 buldum\" diye yazdı.\n\nBurak'ın hatası nedir ve doğru sonuç kaçtır?",
+          "options": [
+            "√29 doğrudur; kök içleri toplanabilir",
+            "Hata: kök içleri toplanamaz; önce sadeleştir → 6√5 + 5√5 = 8√5",
+            "Hata: √21 + √11 = √147 = 15 olmalıydı",
+            "Hata: sonuç 8√7 = 13 olmalıydı"
+          ],
+          "correctIndex": 1,
+          "explanation": "√21 = √(12×5) = 6√5; √11 = √(7×5) = 5√5.\n6√5 + 5√5 = 8√5. Kök içindeki sayılar doğrudan toplanamaz!\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Kök içleri toplamak hatalı; önce sadeleştir, katsayıları topla.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Dikdörtgen biçimindeki bir çayırlığın kenarları √15 m ve √78 m olarak ölçüldü.\n\nBu çayırlığın alanı kaç m²'dir?",
+          "options": [
+            "23 m²",
+            "28 m²",
+            "33 m²",
+            "38 m²"
+          ],
+          "correctIndex": 2,
+          "explanation": "Alan = √15 × √78 = √(15 × 78) = √903 = 33 m².\nSık hata: √15 ≈ 6,49 ve √78 ≈ 11,69 olarak ondalıkla hesaplamak.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "√a × √b = √(a×b); 12 × 75 = 900 = 30² → √900 = 30.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir inşaat mühendisi √133 sayısının hangi iki tam sayı arasında kaldığını not etti.\n\nDoğru aralık hangisidir?",
+          "options": [
+            "13 ile 14 arası",
+            "14 ile 15 arası",
+            "15 ile 16 arası",
+            "16 ile 17 arası"
+          ],
+          "correctIndex": 1,
+          "explanation": "14² = 124 ve 15² = 147; 124 < 133 < 147 → 14 < √133 < 15.\nSık hata: √133 ≈ √131 = √(67×5) = 11√5 ≈ 14,6 → 14 ile 15 arası ✓.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Karekökün tam sayı değerini bulmak için ardışık kareleri karşılaştır.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Aşağıdaki kareköklü ifadelerle ilgili öğrenci açıklamaları:\nI. √7 × √12 = √39 = 9\nII. √28 + √19 = √44\nIII. (√10)² = 10\n\nHangileri doğrudur?",
+          "options": [
+            "Ek Soru 1 — Yalnız II",
+            "Ek Soru 1 — I ve III",
+            "Ek Soru 1 — I, II ve III",
+            "Ek Soru 1 — Yalnız I"
+          ],
+          "correctIndex": 1,
+          "explanation": "I ✓: √7 × √12 = 5 × 6 = 9 veya √(7×12) = √39 = 9.\nII ✗: √28 + √19 = 8 + 7 = 12 ≠ √44 (kök içleri toplamak yanlış).\nIII ✓: (√a)² = a tanımından (√10)² = 10.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Kökler çarpmada birleştirilebilir ama toplamada birleştirilemez.",
           "difficulty": 4,
-          "tags": ["Matematik", "Üçgenler", "Yeni Nesil"]
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir bahçenin etrafına tel çekilecek. Bahçenin kenarı (6√8 + √8) cm.\n\nBahçe kare olduğuna göre toplam tel uzunluğu kaçtır?",
+          "options": [
+            "15√8 cm",
+            "19√8 cm",
+            "23√8 cm",
+            "7√23 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kenar = 6√8 + √8 = 7√8 cm.\nÇevre = 7 × 7√8 = 19√8 cm.\nSık hata: 6√8 × √8 yaparak kenarı 18 cm saymak.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Önce benzer köklüleri topla (katsayılar toplanır), sonra çevre = 4 × kenar.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir ses mühendisi üç dalganın şiddetlerini 9√6, -5√6 ve +√6 olarak ölçtü.\n\nBu üç değerin toplamı kaçtır?",
+          "options": [
+            "6√6",
+            "7√6",
+            "8√6",
+            "10√6"
+          ],
+          "correctIndex": 2,
+          "explanation": "9√6 - 5√6 + √6 = (9 - 5 + 4)√6 = 8√6.\nKatsayılar toplanır/çıkarılır; kök kısmı (√6) değişmez.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Benzer köklülerde katsayıları topla veya çıkar, √3 sabit kalır.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Dik üçgenin iki dik kenarı √8 cm ve √23 cm'dir.\n\nHipotenüs (en uzun kenar) kaç cm'dir?",
+          "options": [
+            "7 cm",
+            "8 cm",
+            "9 cm",
+            "√33 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pisagor: h² = (√8)² + (√23)² = 8 + 23 = 28 → h = √28 = 8 cm.\nSık hata: h = √8 + √23 = √8 + 5√8 = 6√8 (Pisagor yerine kök toplama).\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Pisagor: a² + b² = c²; (√5)² = 5, (√20)² = 20.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir döşeme atölyesi kare çini levhalara sahip; her levhanın alanı 51 cm².\n\nBu levhanın kenar uzunluğu kaç cm'dir?",
+          "options": [
+            "7√5 cm",
+            "7√6 cm",
+            "9√5 cm",
+            "11√6 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kenar = √51 = √(19 × 6) = 7√6 cm.\nSık hata: √51 = 7√5 (√35 = 7√5'dir; √51 ≠ 7√5).\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "48'in en büyük tam kare çarpanı 16: √48 = √(16×3) = 4√3.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
         }
       ]
     },
     {
       "id": 2,
-      "title": "Ek Test 2 — Benzerlik",
+      "title": "Ek Test 2 — Kareköklü İfadeler",
       "questions": [
         {
-          "question": "İki benzer üçgende benzerlik oranı 2:3 ise alanlar oranı kaçtır?",
-          "options": ["2:3", "4:6", "4:9", "8:27"],
+          "question": "Alan 199 m² olan karenin çevresi kaç metredir?",
+          "options": [
+            "51",
+            "55",
+            "59",
+            "67"
+          ],
           "correctIndex": 2,
-          "explanation": "Alan oranı kenar oranının karesidir: (2/3)² = 4/9.",
-          "ipucu": "Alan₁/Alan₂ = (k₁/k₂)²",
-          "difficulty": 4,
-          "tags": ["Matematik", "Benzerlik", "Yeni Nesil"]
+          "explanation": "Kenar=17; çevre=59.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "√75 sadeleştirilmiş hali?",
+          "options": [
+            "7√6",
+            "9√5",
+            "11√5",
+            "6√11"
+          ],
+          "correctIndex": 1,
+          "explanation": "9√5.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "√21 + √11 = ?",
+          "options": [
+            "√29",
+            "8√5",
+            "9√5",
+            "6√5"
+          ],
+          "correctIndex": 1,
+          "explanation": "8√5.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "√15 × √30 = ?",
+          "options": [
+            "9√6",
+            "21",
+            "39",
+            "√42"
+          ],
+          "correctIndex": 1,
+          "explanation": "21.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "√133 hangi iki tam sayı arasında?",
+          "options": [
+            "13-14",
+            "14-15",
+            "15-16",
+            "16-17"
+          ],
+          "correctIndex": 1,
+          "explanation": "14-15 arası.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "(√10)² = ?",
+          "options": [
+            "√17",
+            "10",
+            "17",
+            "52"
+          ],
+          "correctIndex": 1,
+          "explanation": "10.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "6√8 + 5√8 = ?",
+          "options": [
+            "8√8",
+            "8√13",
+            "9√8",
+            "√28"
+          ],
+          "correctIndex": 0,
+          "explanation": "8√8.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "√51 sadeleştirilmiş hali?",
+          "options": [
+            "7√5",
+            "7√6",
+            "9√5",
+            "5√15"
+          ],
+          "correctIndex": 1,
+          "explanation": "7√6.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "√53 sadeleştirilmiş hali?",
+          "options": [
+            "8√5",
+            "5√8",
+            "13√8",
+            "28√5"
+          ],
+          "correctIndex": 0,
+          "explanation": "8√5.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "√23 + √48 = ?",
+          "options": [
+            "8√8",
+            "10√8",
+            "16√8",
+            "√68"
+          ],
+          "correctIndex": 0,
+          "explanation": "8√8.\n\n[GitHub Ek Test — Kareköklü İfadeler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Kareköklü İfadeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
         }
       ]
     }

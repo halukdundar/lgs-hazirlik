@@ -1,0 +1,436 @@
+{
+  "topicId": "ataturk_donemi_dis_politikasi",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Atatürk Dönemi Türk Dış Politikası",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Atatürk dönemi dış politikasında 'Yurtta sulh, cihanda sulh' ilkesinin benimsenmesi aşağıdakilerden hangisini hedefler?",
+          "options": [
+            "Ek Soru 1 — Sürekli askeri yayılma",
+            "Ek Soru 1 — Barışçı, dengeli ve bağımsız ilişkiler kurma",
+            "Ek Soru 1 — İç politikayı dış güçlere bırakma",
+            "Ek Soru 1 — Sadece tek bir devlete bağlı kalma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bu ilke, Türkiye'nin hem içte huzuru hem dışta barış ve bağımsızlığı esas alan bir diplomasi yürütmesini ifade eder.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "İlkenin iki boyutu var: iç huzur ve dış barış.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Temel İlke",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Montrö Boğazlar Sözleşmesi'nin Türkiye açısından en önemli kazanımı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Musul sorununun çözülmesi",
+            "Ek Soru 1 — Boğazlar üzerinde tam egemenliğin güçlenmesi",
+            "Ek Soru 1 — Hatay'ın anavatana katılması",
+            "Ek Soru 1 — Nüfus mübadelesinin sona ermesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Montrö ile boğazlar rejimi Türkiye lehine düzenlenmiş, askeri ve idari denetim yetkisi artmıştır.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Montrö denince akla ilk olarak boğazlar gelir.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Montrö",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Musul sorununun Türkiye'nin istediği şekilde çözülememesinde aşağıdaki etkenlerden hangisi daha belirleyicidir?",
+          "options": [
+            "Ek Soru 1 — TBMM'nin konuyu gündeme almaması",
+            "Ek Soru 1 — İngiltere'nin bölgesel çıkarları ve uluslararası baskı",
+            "Ek Soru 1 — Türkiye'nin bölgeyi terk etmesi",
+            "Ek Soru 1 — Lozan'ın Musul'u kesin biçimde Türkiye'ye bırakması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Musul, özellikle İngiltere'nin Irak üzerindeki çıkarları nedeniyle Türkiye açısından zorlu bir diplomatik dosya olmuştur.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Sorunda büyük güç etkisini düşün.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Musul",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Türkiye'nin 1935'de Milletler Cemiyeti'ne davet edilerek üye olması, dış politikada hangi algıyı güçlendirmiştir?",
+          "options": [
+            "Ek Soru 1 — Türkiye'nin yalnızlaştığını",
+            "Ek Soru 1 — Türkiye'nin barışçı ve saygın bir aktör haline geldiğini",
+            "Ek Soru 1 — Türkiye'nin manda yönetimini kabul ettiğini",
+            "Ek Soru 1 — Türkiye'nin savaşa hazırlandığını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Milletler Cemiyeti üyeliği, Türkiye'nin uluslararası toplumda güvenilir ve barış odaklı bir devlet olarak kabul gördüğünü gösterir.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Davet edilmek, uluslararası saygınlık göstergesidir.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Milletler Cemiyeti",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Balkan Antantı'nın kurulmasında Türkiye'nin temel amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Batı sınırında güvenlik ve iş birliği ortamı oluşturmak",
+            "Ek Soru 1 — Yeni topraklar kazanmak",
+            "Ek Soru 1 — Boğazlar üzerinde yabancı denetimi artırmak",
+            "Ek Soru 1 — Ekonomik bağımsızlığı azaltmak"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Balkan Antantı, olası tehditlere karşı bölgesel dayanışma kurarak batı sınır güvenliğini sağlamayı amaçlamıştır.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Balkan Antantı bir güvenlik iş birliğidir.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Balkan Antantı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sadabat Paktı'nın Türkiye'nin dış politikasına katkısı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Doğu komşularıyla güvene dayalı ilişkileri güçlendirmesi",
+            "Ek Soru 1 — Batı bloğuna askeri katılım sağlaması",
+            "Ek Soru 1 — Lozan hükümlerini kaldırması",
+            "Ek Soru 1 — Nüfus mübadelesini başlatması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Sadabat Paktı, doğu sınırlarında istikrarı artıran ve komşularla dostluk temelini kuvvetlendiren bir girişimdir.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Sadabat = doğu komşularıyla iş birliği.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Sadabat Paktı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Hatay meselesinin çözümünde askeri çatışma yerine diplomatik adımların tercih edilmesi hangi ilke ile daha çok örtüşür?",
+          "options": [
+            "Ek Soru 1 — Yurtta sulh, cihanda sulh",
+            "Ek Soru 1 — Misak-ı Milli karşıtlığı",
+            "Ek Soru 1 — Mutlak tarafsızlık",
+            "Ek Soru 1 — Yayılmacılık"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Hatay sürecinde uluslararası hukuk ve diplomasi kanallarının kullanılması barışçı dış politika anlayışının sonucudur.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Soruda savaş yerine diplomasi vurgulanıyor.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Hatay",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir öğrenci, 'Atatürk dönemi dış politikası, riskleri azaltmak için çok taraflı denge arayışına dayanır.' diyor. Aşağıdakilerden hangisi bu yorumu en iyi destekler?",
+          "options": [
+            "Ek Soru 1 — Balkan Antantı ve Sadabat Paktı gibi bölgesel iş birlikleri",
+            "Ek Soru 1 — Sadece tek ülke ile ittifak yapılması",
+            "Ek Soru 1 — Uluslararası örgütlerden uzak durulması",
+            "Ek Soru 1 — Sürekli askeri müdahale politikası"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Farklı bölgelerde kurulan iş birliği mekanizmaları, Türkiye'nin denge ve güvenlik odaklı çok taraflı diplomasi izlediğini gösterir.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Denge arayışı -> birden çok ortaklı yapı.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Lozan'dan sonra bazı sorunların (Musul, boğazlar, mübadele) zamanla çözülmesi, Türkiye'nin dış politikada hangi yöntemi benimsediğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Sorunları erteleyip vazgeçme",
+            "Ek Soru 1 — Aşamalı ve gerçekçi diplomatik çözüm arayışı",
+            "Ek Soru 1 — Yalnızca askeri çözüm",
+            "Ek Soru 1 — Uluslararası hukuku reddetme"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Türkiye, tüm sorunları tek seferde değil, şartlara göre aşamalı diplomatik girişimlerle çözmeye çalışmıştır.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Hepsi aynı anda değil, süreç içinde çözülüyor.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Lozan Sonrası",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Atatürk döneminde dış politikadaki başarıların iç politikaya etkisi için en doğru değerlendirme hangisidir?",
+          "options": [
+            "Ek Soru 1 — İç reformları yavaşlatmıştır.",
+            "Ek Soru 1 — Bağımsızlık ve güvenlik ortamı sağlayarak reformlara zemin hazırlamıştır.",
+            "Ek Soru 1 — Meclis sistemini zayıflatmıştır.",
+            "Ek Soru 1 — Ekonomik planlamayı tamamen durdurmuştur."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Dışarıda güven ve istikrarın artması, içeride modernleşme adımlarının daha sağlam ilerlemesine katkı sunmuştur.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Dış güvenlik, iç dönüşüm için ortam oluşturur.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Genel Değerlendirme",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Atatürk Dönemi Türk Dış Politikası",
+      "questions": [
+        {
+          "question": "Ek Soru 2 — Atatürk dönemi dış politikasında 'Yurtta sulh, cihanda sulh' ilkesinin benimsenmesi aşağıdakilerden hangisini hedefler?",
+          "options": [
+            "Ek Soru 2 — Sürekli askeri yayılma",
+            "Ek Soru 2 — Barışçı, dengeli ve bağımsız ilişkiler kurma",
+            "Ek Soru 2 — İç politikayı dış güçlere bırakma",
+            "Ek Soru 2 — Sadece tek bir devlete bağlı kalma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Bu ilke, Türkiye'nin hem içte huzuru hem dışta barış ve bağımsızlığı esas alan bir diplomasi yürütmesini ifade eder.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "İlkenin iki boyutu var: iç huzur ve dış barış.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Temel İlke",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Montrö Boğazlar Sözleşmesi'nin Türkiye açısından en önemli kazanımı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 2 — Musul sorununun çözülmesi",
+            "Ek Soru 2 — Boğazlar üzerinde tam egemenliğin güçlenmesi",
+            "Ek Soru 2 — Hatay'ın anavatana katılması",
+            "Ek Soru 2 — Nüfus mübadelesinin sona ermesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Montrö ile boğazlar rejimi Türkiye lehine düzenlenmiş, askeri ve idari denetim yetkisi artmıştır.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Montrö denince akla ilk olarak boğazlar gelir.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Montrö",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Musul sorununun Türkiye'nin istediği şekilde çözülememesinde aşağıdaki etkenlerden hangisi daha belirleyicidir?",
+          "options": [
+            "Ek Soru 2 — TBMM'nin konuyu gündeme almaması",
+            "Ek Soru 2 — İngiltere'nin bölgesel çıkarları ve uluslararası baskı",
+            "Ek Soru 2 — Türkiye'nin bölgeyi terk etmesi",
+            "Ek Soru 2 — Lozan'ın Musul'u kesin biçimde Türkiye'ye bırakması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Musul, özellikle İngiltere'nin Irak üzerindeki çıkarları nedeniyle Türkiye açısından zorlu bir diplomatik dosya olmuştur.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Sorunda büyük güç etkisini düşün.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Musul",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Türkiye'nin 1937'de Milletler Cemiyeti'ne davet edilerek üye olması, dış politikada hangi algıyı güçlendirmiştir?",
+          "options": [
+            "Ek Soru 2 — Türkiye'nin yalnızlaştığını",
+            "Ek Soru 2 — Türkiye'nin barışçı ve saygın bir aktör haline geldiğini",
+            "Ek Soru 2 — Türkiye'nin manda yönetimini kabul ettiğini",
+            "Ek Soru 2 — Türkiye'nin savaşa hazırlandığını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Milletler Cemiyeti üyeliği, Türkiye'nin uluslararası toplumda güvenilir ve barış odaklı bir devlet olarak kabul gördüğünü gösterir.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Davet edilmek, uluslararası saygınlık göstergesidir.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Milletler Cemiyeti",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Balkan Antantı'nın kurulmasında Türkiye'nin temel amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 2 — Batı sınırında güvenlik ve iş birliği ortamı oluşturmak",
+            "Ek Soru 2 — Yeni topraklar kazanmak",
+            "Ek Soru 2 — Boğazlar üzerinde yabancı denetimi artırmak",
+            "Ek Soru 2 — Ekonomik bağımsızlığı azaltmak"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Balkan Antantı, olası tehditlere karşı bölgesel dayanışma kurarak batı sınır güvenliğini sağlamayı amaçlamıştır.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Balkan Antantı bir güvenlik iş birliğidir.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Balkan Antantı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Sadabat Paktı'nın Türkiye'nin dış politikasına katkısı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 2 — Doğu komşularıyla güvene dayalı ilişkileri güçlendirmesi",
+            "Ek Soru 2 — Batı bloğuna askeri katılım sağlaması",
+            "Ek Soru 2 — Lozan hükümlerini kaldırması",
+            "Ek Soru 2 — Nüfus mübadelesini başlatması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Sadabat Paktı, doğu sınırlarında istikrarı artıran ve komşularla dostluk temelini kuvvetlendiren bir girişimdir.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Sadabat = doğu komşularıyla iş birliği.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Sadabat Paktı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Hatay meselesinin çözümünde askeri çatışma yerine diplomatik adımların tercih edilmesi hangi ilke ile daha çok örtüşür?",
+          "options": [
+            "Ek Soru 2 — Yurtta sulh, cihanda sulh",
+            "Ek Soru 2 — Misak-ı Milli karşıtlığı",
+            "Ek Soru 2 — Mutlak tarafsızlık",
+            "Ek Soru 2 — Yayılmacılık"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Hatay sürecinde uluslararası hukuk ve diplomasi kanallarının kullanılması barışçı dış politika anlayışının sonucudur.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Soruda savaş yerine diplomasi vurgulanıyor.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Hatay",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Bir öğrenci, 'Atatürk dönemi dış politikası, riskleri azaltmak için çok taraflı denge arayışına dayanır.' diyor. Aşağıdakilerden hangisi bu yorumu en iyi destekler?",
+          "options": [
+            "Ek Soru 2 — Balkan Antantı ve Sadabat Paktı gibi bölgesel iş birlikleri",
+            "Ek Soru 2 — Sadece tek ülke ile ittifak yapılması",
+            "Ek Soru 2 — Uluslararası örgütlerden uzak durulması",
+            "Ek Soru 2 — Sürekli askeri müdahale politikası"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Farklı bölgelerde kurulan iş birliği mekanizmaları, Türkiye'nin denge ve güvenlik odaklı çok taraflı diplomasi izlediğini gösterir.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Denge arayışı -> birden çok ortaklı yapı.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Lozan'dan sonra bazı sorunların (Musul, boğazlar, mübadele) zamanla çözülmesi, Türkiye'nin dış politikada hangi yöntemi benimsediğini gösterir?",
+          "options": [
+            "Ek Soru 2 — Sorunları erteleyip vazgeçme",
+            "Ek Soru 2 — Aşamalı ve gerçekçi diplomatik çözüm arayışı",
+            "Ek Soru 2 — Yalnızca askeri çözüm",
+            "Ek Soru 2 — Uluslararası hukuku reddetme"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Türkiye, tüm sorunları tek seferde değil, şartlara göre aşamalı diplomatik girişimlerle çözmeye çalışmıştır.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Hepsi aynı anda değil, süreç içinde çözülüyor.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Lozan Sonrası",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Atatürk döneminde dış politikadaki başarıların iç politikaya etkisi için en doğru değerlendirme hangisidir?",
+          "options": [
+            "Ek Soru 2 — İç reformları yavaşlatmıştır.",
+            "Ek Soru 2 — Bağımsızlık ve güvenlik ortamı sağlayarak reformlara zemin hazırlamıştır.",
+            "Ek Soru 2 — Meclis sistemini zayıflatmıştır.",
+            "Ek Soru 2 — Ekonomik planlamayı tamamen durdurmuştur."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Dışarıda güven ve istikrarın artması, içeride modernleşme adımlarının daha sağlam ilerlemesine katkı sunmuştur.\n\n[GitHub Ek Test — Atatürk Dönemi Türk Dış Politikası]",
+          "ipucu": "Dış güvenlik, iç dönüşüm için ortam oluşturur.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk Dönemi Türk Dış Politikası",
+            "Genel Değerlendirme",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

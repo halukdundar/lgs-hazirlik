@@ -1,0 +1,438 @@
+{
+  "topicId": "eng_10",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Natural Forces",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the advice.\n\"Drop, cover and hold on during an earthquake. Stay away from windows.\"\nQuestion: What is the safest action?",
+          "options": [
+            "Ek Soru 1 — Run to balcony",
+            "Ek Soru 1 — Use elevator",
+            "Ek Soru 1 — Drop, cover and hold on",
+            "Ek Soru 1 — Stand near glass"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Verilen talimatta güvenli yöntem açıkça belirtilmiştir.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Üçlü güvenlik kalıbını seç.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Earthquake",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the weather bulletin.\n\"Heavy rain may cause flash floods in low areas tonight.\"\nQuestion: Who is at greater risk?",
+          "options": [
+            "Ek Soru 1 — People in low areas",
+            "Ek Soru 1 — People on high hills",
+            "Ek Soru 1 — People in deserts",
+            "Ek Soru 1 — People in airplanes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Bülten low areas için risk uyarısı veriyor.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Risk belirtilen bölgeyi bul.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Flood",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the warning.\n\"Secure loose balcony items and avoid unnecessary travel during storm.\"\nQuestion: Why secure balcony items?",
+          "options": [
+            "Ek Soru 1 — To block sunlight",
+            "Ek Soru 1 — To prevent wind accidents",
+            "Ek Soru 1 — To wash quickly",
+            "Ek Soru 1 — To increase weight"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Şiddetli rüzgarda savrulan nesneler tehlike yaratır.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Loose items + wind bağlantısını kur.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Storm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the report.\n\"After weeks without rain, soil dried and crops decreased.\"\nQuestion: Which natural event is described?",
+          "options": [
+            "Ek Soru 1 — Blizzard",
+            "Ek Soru 1 — Drought",
+            "Ek Soru 1 — Tsunami",
+            "Ek Soru 1 — Volcano"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Uzun süre yağış olmaması kuraklıktır.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Without rain ifadesine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Drought",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the emergency bag list.\nwater, flashlight, batteries, first-aid kit, whistle\nQuestion: This bag is prepared for ...",
+          "options": [
+            "Ek Soru 1 — school decoration",
+            "Ek Soru 1 — emergency situations",
+            "Ek Soru 1 — sports day",
+            "Ek Soru 1 — music class"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Liste afet/acil durum hazırlığı içindir.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Malzemelerin ortak kullanım amacını düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Preparedness",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the context.\nAfter an earthquake, teacher moved students to assembly area after shaking stopped.\nQuestion: Why assembly area?",
+          "options": [
+            "Ek Soru 1 — For photos",
+            "Ek Soru 1 — For safer open gathering",
+            "Ek Soru 1 — For lunch",
+            "Ek Soru 1 — For exams"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Assembly area güvenli toplanma noktasıdır.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "After shaking stopped kısmını yorumla.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Emergency Response",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the map note.\nRed zone: possible landslide after heavy rain\nGreen zone: low risk\nQuestion: Where should houses be avoided?",
+          "options": [
+            "Ek Soru 1 — Green zone",
+            "Ek Soru 1 — Red zone",
+            "Ek Soru 1 — Both zones",
+            "Ek Soru 1 — No difference"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Landslide riski yüksek olan red zone'da yapılaşma risklidir.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Yüksek riskli renk bölgesini seç.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Landslide",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the tsunami warning.\n\"If you feel strong coastal shaking, move to higher ground immediately.\"\nQuestion: Why higher ground?",
+          "options": [
+            "Ek Soru 1 — Better signal",
+            "Ek Soru 1 — Avoid incoming sea waves",
+            "Ek Soru 1 — Warmer air",
+            "Ek Soru 1 — Easier parking"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tsunami dalgalarından korunmak için yüksek yere çıkılır.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Coastal shaking + wave risk ilişkisini kur.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Tsunami",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the heatwave news.\n\"A ten-day heatwave led hospitals to warn elderly people to stay hydrated.\"\nQuestion: Which precaution is emphasized?",
+          "options": [
+            "Ek Soru 1 — Wear heavy coats",
+            "Ek Soru 1 — Drink enough water",
+            "Ek Soru 1 — Travel at noon",
+            "Ek Soru 1 — Close all windows forever"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Stay hydrated ifadesi su tüketimini vurgular.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Hydrated kelimesinin anlamına bak.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Heatwave",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the preparedness plan.\nSchool runs earthquake drills monthly and updates evacuation routes each term.\nQuestion: Main benefit of regular drills is ...",
+          "options": [
+            "Ek Soru 1 — longer classes",
+            "Ek Soru 1 — faster and calmer emergency response",
+            "Ek Soru 1 — fewer teachers",
+            "Ek Soru 1 — less communication"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Düzenli tatbikat kriz anında doğru ve hızlı hareketi sağlar.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Monthly drills ifadesinin sonucunu düşün.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Preparedness Culture",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Natural Forces",
+      "questions": [
+        {
+          "question": "Ek Soru 2 — Read the advice.\n\"Drop, cover and hold on during an earthquake. Stay away from windows.\"\nQuestion: What is the safest action?",
+          "options": [
+            "Ek Soru 2 — Run to balcony",
+            "Ek Soru 2 — Use elevator",
+            "Ek Soru 2 — Drop, cover and hold on",
+            "Ek Soru 2 — Stand near glass"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — Verilen talimatta güvenli yöntem açıkça belirtilmiştir.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Üçlü güvenlik kalıbını seç.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Earthquake",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the weather bulletin.\n\"Heavy rain may cause flash floods in low areas tonight.\"\nQuestion: Who is at greater risk?",
+          "options": [
+            "Ek Soru 2 — People in low areas",
+            "Ek Soru 2 — People on high hills",
+            "Ek Soru 2 — People in deserts",
+            "Ek Soru 2 — People in airplanes"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Bülten low areas için risk uyarısı veriyor.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Risk belirtilen bölgeyi bul.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Flood",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the warning.\n\"Secure loose balcony items and avoid unnecessary travel during storm.\"\nQuestion: Why secure balcony items?",
+          "options": [
+            "Ek Soru 2 — To block sunlight",
+            "Ek Soru 2 — To prevent wind accidents",
+            "Ek Soru 2 — To wash quickly",
+            "Ek Soru 2 — To increase weight"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Şiddetli rüzgarda savrulan nesneler tehlike yaratır.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Loose items + wind bağlantısını kur.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Storm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the report.\n\"After weeks without rain, soil dried and crops decreased.\"\nQuestion: Which natural event is described?",
+          "options": [
+            "Ek Soru 2 — Blizzard",
+            "Ek Soru 2 — Drought",
+            "Ek Soru 2 — Tsunami",
+            "Ek Soru 2 — Volcano"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Uzun süre yağış olmaması kuraklıktır.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Without rain ifadesine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Drought",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the emergency bag list.\nwater, flashlight, batteries, first-aid kit, whistle\nQuestion: This bag is prepared for ...",
+          "options": [
+            "Ek Soru 2 — school decoration",
+            "Ek Soru 2 — emergency situations",
+            "Ek Soru 2 — sports day",
+            "Ek Soru 2 — music class"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Liste afet/acil durum hazırlığı içindir.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Malzemelerin ortak kullanım amacını düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Preparedness",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the context.\nAfter an earthquake, teacher moved students to assembly area after shaking stopped.\nQuestion: Why assembly area?",
+          "options": [
+            "Ek Soru 2 — For photos",
+            "Ek Soru 2 — For safer open gathering",
+            "Ek Soru 2 — For lunch",
+            "Ek Soru 2 — For exams"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Assembly area güvenli toplanma noktasıdır.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "After shaking stopped kısmını yorumla.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Emergency Response",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the map note.\nRed zone: possible landslide after heavy rain\nGreen zone: low risk\nQuestion: Where should houses be avoided?",
+          "options": [
+            "Ek Soru 2 — Green zone",
+            "Ek Soru 2 — Red zone",
+            "Ek Soru 2 — Both zones",
+            "Ek Soru 2 — No difference"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Landslide riski yüksek olan red zone'da yapılaşma risklidir.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Yüksek riskli renk bölgesini seç.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Landslide",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the tsunami warning.\n\"If you feel strong coastal shaking, move to higher ground immediately.\"\nQuestion: Why higher ground?",
+          "options": [
+            "Ek Soru 2 — Better signal",
+            "Ek Soru 2 — Avoid incoming sea waves",
+            "Ek Soru 2 — Warmer air",
+            "Ek Soru 2 — Easier parking"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Tsunami dalgalarından korunmak için yüksek yere çıkılır.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Coastal shaking + wave risk ilişkisini kur.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Tsunami",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the heatwave news.\n\"A ten-day heatwave led hospitals to warn elderly people to stay hydrated.\"\nQuestion: Which precaution is emphasized?",
+          "options": [
+            "Ek Soru 2 — Wear heavy coats",
+            "Ek Soru 2 — Drink enough water",
+            "Ek Soru 2 — Travel at noon",
+            "Ek Soru 2 — Close all windows forever"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Stay hydrated ifadesi su tüketimini vurgular.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Hydrated kelimesinin anlamına bak.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Heatwave",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the preparedness plan.\nSchool runs earthquake drills monthly and updates evacuation routes each term.\nQuestion: Main benefit of regular drills is ...",
+          "options": [
+            "Ek Soru 2 — longer classes",
+            "Ek Soru 2 — faster and calmer emergency response",
+            "Ek Soru 2 — fewer teachers",
+            "Ek Soru 2 — less communication"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Düzenli tatbikat kriz anında doğru ve hızlı hareketi sağlar.\n\n[GitHub Ek Test — Natural Forces]",
+          "ipucu": "Monthly drills ifadesinin sonucunu düşün.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "Natural Forces",
+            "Preparedness Culture",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

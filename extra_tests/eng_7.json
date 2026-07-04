@@ -1,0 +1,428 @@
+{
+  "topicId": "eng_7",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Tourism",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the brochure.\nCity A: museums and historical streets\nCity B: beaches and nightlife\nQuestion: Which city suits a history lover?",
+          "options": [
+            "Ek Soru 1 — City A",
+            "Ek Soru 1 — City B",
+            "Ek Soru 1 — Both same",
+            "Ek Soru 1 — Neither"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Historical streets ve museums City A'dadır.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "History anahtarına uygun seçeneği seç.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Matching",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the travel plan.\nDay 4: Anıtkabir and museum\nDay 5: old town walk and local market\nQuestion: What is the focus of this trip?",
+          "options": [
+            "Ek Soru 1 — Adventure sports",
+            "Ek Soru 1 — Cultural exploration",
+            "Ek Soru 1 — Beach holiday",
+            "Ek Soru 1 — Shopping malls"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Plan kültür ve tarih ağırlıklıdır.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Aktivitelerin türünü sınıflandır.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Reading",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the hotel info.\nHotel Sun: 1203 TL/night\nHotel River: 953 TL/night\nQuestion: Which hotel is cheaper?",
+          "options": [
+            "Ek Soru 1 — Hotel Sun",
+            "Ek Soru 1 — Hotel River",
+            "Ek Soru 1 — Same price",
+            "Ek Soru 1 — Cannot compare"
+          ],
+          "correctIndex": 1,
+          "explanation": "953 TL daha düşük fiyattır.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Sayısal karşılaştırma yap.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Price",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nTourist: I have only one evening. What should I do?\nLocal: You should join the old town night tour.\nQuestion: Local person is ...",
+          "options": [
+            "Ek Soru 1 — asking a question",
+            "Ek Soru 1 — giving a suggestion",
+            "Ek Soru 1 — making a complaint",
+            "Ek Soru 1 — booking a flight"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — You should ifadesi tavsiye işlevi görür.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Should kalıbını tanı.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Suggestions",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the flyer.\n\"Museum Pass: valid for 75 hours, entry to 9 museums, skip-the-line access.\"\nQuestion: What is one advantage?",
+          "options": [
+            "Ek Soru 1 — Free hotel room",
+            "Ek Soru 1 — No queue waiting",
+            "Ek Soru 1 — Unlimited taxi rides",
+            "Ek Soru 1 — Airport transfer"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Skip-the-line ifadesi sıra beklememeyi anlatır.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Benefits kısmını oku.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Brochure",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the review.\n\"City center was beautiful, but transport was confusing for first-time visitors.\"\nQuestion: Which mixed opinion is given?",
+          "options": [
+            "Ek Soru 1 — Food and weather",
+            "Ek Soru 1 — Attractions and transportation",
+            "Ek Soru 1 — Price and language",
+            "Ek Soru 1 — Safety and hotels"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Olumlu yön şehir merkezi, olumsuz yön ulaşım olarak verilmiş.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "But öncesi-sonrası karşılaştırması yap.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Inference",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the family context.\nThey need a calm place, short walking distances and early dinner options for their child.\nQuestion: Which destination is best?",
+          "options": [
+            "Ek Soru 1 — Nightlife district",
+            "Ek Soru 1 — Quiet coastal town with family hotels",
+            "Ek Soru 1 — High-altitude trekking zone",
+            "Festival area open until 6 am"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Aile ihtiyaçlarını karşılayan tek seçenek sakin aile otelleridir.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Tüm koşulları birlikte değerlendir.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Decision",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the itinerary.\n12:00 city tour bus\n15:33 lunch break\n17:00 river cruise\nQuestion: What comes right after lunch?",
+          "options": [
+            "Ek Soru 1 — City tour",
+            "Ek Soru 1 — River cruise",
+            "Ek Soru 1 — Hotel check-in",
+            "Ek Soru 1 — Museum"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lunch'tan sonra 17:00 river cruise var.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Saat sırasını izle.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Itinerary",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the message.\n\"Our flight was delayed, so we moved the museum visit to tomorrow morning.\"\nQuestion: What did they do?",
+          "options": [
+            "Ek Soru 1 — Canceled trip",
+            "Ek Soru 1 — Rescheduled museum visit",
+            "Ek Soru 1 — Changed hotel",
+            "Ek Soru 1 — Bought new tickets only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Moved to tomorrow morning ifadesi yeniden planlamadır.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Moved ifadesine dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Problem Solving",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the goal.\nA student wants to improve English and learn local culture during summer.\nQuestion: Which option matches both goals?",
+          "options": [
+            "Ek Soru 1 — Staying alone in a remote cabin",
+            "Ek Soru 1 — Joining an international language camp in a historic town",
+            "Ek Soru 1 — Watching only online videos",
+            "Ek Soru 1 — One-day shopping trip"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Dil kampı ve tarihi şehir birlikte iki hedefi karşılar.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "İki hedefi aynı anda sağlayan seçeneği bul.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Multi-criteria",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Tourism",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the brochure.\nVisit the ancient castle and museum.\nQuestion: Tourist attractions?",
+          "options": [
+            "Ek Soru 1 — Castle and museum",
+            "Ek Soru 1 — Factory only",
+            "Ek Soru 1 — Hospital",
+            "Ek Soru 1 — School"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Castle and museum.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Brochure attractions.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\n'Souvenir' is ...",
+          "options": [
+            "Ek Soru 1 — a gift/reminder from a trip",
+            "Ek Soru 1 — a ticket",
+            "Ek Soru 1 — a passport",
+            "Ek Soru 1 — a visa"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Souvenir = hatıra.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "From a trip.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nBook hotels in advance during peak season.\nQuestion: Peak season tip?",
+          "options": [
+            "Ek Soru 1 — Book in advance",
+            "Ek Soru 1 — Never book",
+            "Ek Soru 1 — Arrive without plan",
+            "Ek Soru 1 — Skip hotels"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Book in advance.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Peak season.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nI'd like to ___ a room for two nights, please.",
+          "options": [
+            "Ek Soru 1 — book",
+            "Ek Soru 1 — cook",
+            "Ek Soru 1 — drive",
+            "Ek Soru 1 — paint"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Book a room.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Hotel booking.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nWhere is the nearest bus stop?\nIt's around the corner.\nQuestion: Bus stop location?",
+          "options": [
+            "Ek Soru 1 — Far away",
+            "Ek Soru 1 — Around the corner",
+            "Ek Soru 1 — In the sea",
+            "Ek Soru 1 — Unknown"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Around the corner.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Nearest bus stop.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\n'Landmark' means ...",
+          "options": [
+            "Ek Soru 1 — famous easily recognised place",
+            "Ek Soru 1 — small unknown shop",
+            "Ek Soru 1 — private home",
+            "Ek Soru 1 — empty field"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Landmark = simge yapı.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Famous place.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nTourists should respect local customs.\nQuestion: Tourists should ...",
+          "options": [
+            "Ek Soru 1 — Ignore locals",
+            "Ek Soru 1 — Respect local customs",
+            "Ek Soru 1 — Be rude",
+            "Ek Soru 1 — Break rules"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Respect customs.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Local customs.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nThe tour guide speaks English and Turkish ___ .",
+          "options": [
+            "Ek Soru 1 — fluently",
+            "Ek Soru 1 — fluent",
+            "Ek Soru 1 — fluency",
+            "Ek Soru 1 — fluencies"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Speaks fluently.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Adverb fluently.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nExchange money at official offices or banks.\nQuestion: Money exchange?",
+          "options": [
+            "Ek Soru 1 — Street strangers",
+            "Ek Soru 1 — Official offices or banks",
+            "Ek Soru 1 — Never exchange",
+            "Ek Soru 1 — Only at hotel minibar"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Official places.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Exchange money.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\n'Itinerary' is ...",
+          "options": [
+            "Ek Soru 1 — travel plan / schedule",
+            "Ek Soru 1 — suitcase",
+            "Ek Soru 1 — passport photo",
+            "Ek Soru 1 — flight delay"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Itinerary = gezi planı.\n\n[GitHub Ek Test — Tourism]",
+          "ipucu": "Travel schedule.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Tourism",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

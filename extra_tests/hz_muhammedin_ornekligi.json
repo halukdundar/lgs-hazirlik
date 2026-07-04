@@ -1,0 +1,418 @@
+{
+  "topicId": "hz_muhammedin_ornekligi",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Hz. Muhammed'in Örnekliği",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Mekkeliler Hz. Muhammed'e \"el-Emîn\" diyerek emanetlerini ona bırakıyordu.\n\nBu ünvan hangi özelliği vurgular?",
+          "options": [
+            "Ek Soru 1 — Doğruluk ve güvenilirlik",
+            "Ek Soru 1 — Cesaret",
+            "Ek Soru 1 — Zenginlik",
+            "Ek Soru 1 — Savaşçılık"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — el-Emîn, doğruluk ve güvenilirlik anlamına gelir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Emanet = güven.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Hz. Muhammed Mekke'nin fethinde \"Gidiniz, hepiniz serbestsiniz\" dedi.\n\nBu söz hangi özelliğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Merhametli ve affedici oluşu",
+            "Ek Soru 1 — Korkaklık",
+            "Ek Soru 1 — İntikam",
+            "Ek Soru 1 — Kibir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Fethte affedicilik ve merhamet örneği verilmiştir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Affetme.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Hz. Muhammed önemli kararlarda ashabıyla görüş alırdı.\n\nBu davranış hangi değeri yansıtır?",
+          "options": [
+            "Ek Soru 1 — İstişareye önem vermesi",
+            "Ek Soru 1 — Bencillik",
+            "Ek Soru 1 — Kibir",
+            "Ek Soru 1 — Tembellik"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İstişare, danışarak karar vermektir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Danışma.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Uhud Savaşı'nda Hz. Muhammed tebliğden vazgeçmedi.\n\nBu tutum hangi özelliğidir?",
+          "options": [
+            "Ek Soru 1 — Cesaret ve kararlılığı",
+            "Ek Soru 1 — Paniğe kapılma",
+            "Ek Soru 1 — Kaçış",
+            "Ek Soru 1 — Teslimiyet"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Zorluklarda kararlılık ve cesaret göstermiştir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Zorlukta devam.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vedâ Hutbesi'nde Hz. Muhammed hangi ilkeyi vurgulamıştır?",
+          "options": [
+            "Ek Soru 1 — Irk üstünlüğü yoktur; takva esastır",
+            "Ek Soru 1 — Araplar üstündür",
+            "Ek Soru 1 — Sadece zenginler değerlidir",
+            "Ek Soru 1 — Kadınlar miras alamaz"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Vedâ Hutbesi eşitlik ve takvayı vurgular.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Takva esas.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Hz. Muhammed \"Komşusu açken tok yatan bizden değildir\" buyurdu.\n\nBu hadis neyi vurgular?",
+          "options": [
+            "Ek Soru 1 — İnsanlara değer vermesi ve dayanışma",
+            "Ek Soru 1 — Sadece namaz",
+            "Ek Soru 1 — Sadece oruç",
+            "Ek Soru 1 — Ticaret yasağı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Komşu hakkı ve dayanışma önemlidir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Komşu hakkı.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kureyş Suresi kaçıncı suredir?",
+          "options": [
+            "106",
+            "108",
+            "109",
+            "110"
+          ],
+          "correctIndex": 2,
+          "explanation": "Kureyş Suresi 109. suredir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "106. sure.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kureyş Suresi'nde Kureyş kabilesine verilen nimetler nelerdir?",
+          "options": [
+            "Ek Soru 1 — Kış ve yaz ticaret yolculukları",
+            "Ek Soru 1 — Sadece yaz hasadı",
+            "Ek Soru 1 — Sadece deniz ticareti",
+            "Ek Soru 1 — Sadece hayvancılık"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kış ve yaz seyahatleri ile ticaret nimeti.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "İki mevsim ticareti.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kureyş Suresi'nde 'Rabbinin Rabbine kulluk et' ifadesi neyi öğütler?",
+          "options": [
+            "Ek Soru 1 — Tevhit ve ibadet",
+            "Ek Soru 1 — Putlara tapınma",
+            "Ek Soru 1 — Faiz",
+            "Ek Soru 1 — Hile"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Allah'a ibadet ve tevhid.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Tevhit.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Kureyşliler ticaret kervanlarıyla güvenli yolculuk yapıyordu.\n\nSure bu nimet karşılığında ne ister?",
+          "options": [
+            "Ek Soru 1 — Şükür ve ibadet",
+            "Ek Soru 1 — Daha fazla kâr",
+            "Ek Soru 1 — Savaş",
+            "Ek Soru 1 — Put yapımı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Nimet karşılığında Allah'a kulluk.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Şükür.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Hz. Muhammed'in Örnekliği",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Hz. Muhammed'in Örnekliği",
+      "questions": [
+        {
+          "question": "Test 11: Senaryo: Mekkeliler Hz. Muhammed'e \"el-Emîn\" diyerek emanetlerini ona bırakıyordu.\n\nBu ünvan hangi özelliği vurgular?",
+          "options": [
+            "Ek Soru 1 — Doğruluk ve güvenilirlik",
+            "Ek Soru 1 — Cesaret",
+            "Ek Soru 1 — Zenginlik",
+            "Ek Soru 1 — Savaşçılık"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — el-Emîn, doğruluk ve güvenilirlik anlamına gelir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Emanet = güven.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Hz. Muhammed Mekke'nin fethinde \"Gidiniz, hepiniz serbestsiniz\" dedi.\n\nBu söz hangi özelliğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Merhametli ve affedici oluşu",
+            "Ek Soru 1 — Korkaklık",
+            "Ek Soru 1 — İntikam",
+            "Ek Soru 1 — Kibir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Fethte affedicilik ve merhamet örneği verilmiştir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Affetme.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Hz. Muhammed önemli kararlarda ashabıyla görüş alırdı.\n\nBu davranış hangi değeri yansıtır?",
+          "options": [
+            "Ek Soru 1 — İstişareye önem vermesi",
+            "Ek Soru 1 — Bencillik",
+            "Ek Soru 1 — Kibir",
+            "Ek Soru 1 — Tembellik"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İstişare, danışarak karar vermektir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Danışma.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Uhud Savaşı'nda Hz. Muhammed tebliğden vazgeçmedi.\n\nBu tutum hangi özelliğidir?",
+          "options": [
+            "Ek Soru 1 — Cesaret ve kararlılığı",
+            "Ek Soru 1 — Paniğe kapılma",
+            "Ek Soru 1 — Kaçış",
+            "Ek Soru 1 — Teslimiyet"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Zorluklarda kararlılık ve cesaret göstermiştir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Zorlukta devam.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Vedâ Hutbesi'nde Hz. Muhammed hangi ilkeyi vurgulamıştır?",
+          "options": [
+            "Ek Soru 1 — Irk üstünlüğü yoktur; takva esastır",
+            "Ek Soru 1 — Araplar üstündür",
+            "Ek Soru 1 — Sadece zenginler değerlidir",
+            "Ek Soru 1 — Kadınlar miras alamaz"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Vedâ Hutbesi eşitlik ve takvayı vurgular.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Takva esas.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Hz. Muhammed \"Komşusu açken tok yatan bizden değildir\" buyurdu.\n\nBu hadis neyi vurgular?",
+          "options": [
+            "Ek Soru 1 — İnsanlara değer vermesi ve dayanışma",
+            "Ek Soru 1 — Sadece namaz",
+            "Ek Soru 1 — Sadece oruç",
+            "Ek Soru 1 — Ticaret yasağı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Komşu hakkı ve dayanışma önemlidir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Komşu hakkı.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Kureyş Suresi kaçıncı suredir?",
+          "options": [
+            "106",
+            "108",
+            "109",
+            "110"
+          ],
+          "correctIndex": 2,
+          "explanation": "Kureyş Suresi 109. suredir.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "106. sure.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Kureyş Suresi'nde Kureyş kabilesine verilen nimetler nelerdir?",
+          "options": [
+            "Ek Soru 1 — Kış ve yaz ticaret yolculukları",
+            "Ek Soru 1 — Sadece yaz hasadı",
+            "Ek Soru 1 — Sadece deniz ticareti",
+            "Ek Soru 1 — Sadece hayvancılık"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kış ve yaz seyahatleri ile ticaret nimeti.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "İki mevsim ticareti.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Kureyş Suresi'nde 'Rabbinin Rabbine kulluk et' ifadesi neyi öğütler?",
+          "options": [
+            "Ek Soru 1 — Tevhit ve ibadet",
+            "Ek Soru 1 — Putlara tapınma",
+            "Ek Soru 1 — Faiz",
+            "Ek Soru 1 — Hile"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Allah'a ibadet ve tevhid.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Tevhit.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Kureyşliler ticaret kervanlarıyla güvenli yolculuk yapıyordu.\n\nSure bu nimet karşılığında ne ister?",
+          "options": [
+            "Ek Soru 1 — Şükür ve ibadet",
+            "Ek Soru 1 — Daha fazla kâr",
+            "Ek Soru 1 — Savaş",
+            "Ek Soru 1 — Put yapımı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Nimet karşılığında Allah'a kulluk.\n\n[GitHub Ek Test — Hz. Muhammed'in Örnekliği]",
+          "ipucu": "Şükür.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Hz. Muhammed'in Örnekliği",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

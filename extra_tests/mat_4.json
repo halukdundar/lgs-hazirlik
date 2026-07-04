@@ -1,0 +1,417 @@
+{
+  "topicId": "mat_4",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Veri Analizi",
+      "questions": [
+        {
+          "question": "Senaryo: Maaş verisinde aykırı değer var.\n\nEn temsil edici ölçü hangisi?",
+          "options": [
+            "Medyan",
+            "Ortalama",
+            "Aralık",
+            "Standart sapma"
+          ],
+          "correctIndex": 0,
+          "explanation": "Aykırı değerde Medyan daha güvenilir.",
+          "ipucu": "Aykırı değer ortalamayı etkiler.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Bir sınıfın matematik sınavı notları frekans tablosunda verilmiştir:\nNot:    63   73   83   93  103\nKişi:    5    7    11    7    5\n\nBu verilerin modu ve medyanı sırasıyla kaçtır?",
+          "options": [
+            "Mod = 73, Medyan = 83",
+            "Mod = 83, Medyan = 83",
+            "Mod = 83, Medyan = 73",
+            "Mod = 73, Medyan = 73"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mod: En yüksek frekans = 11 kişi → Not = 83.\nMedyan: Toplam 23 kişi, 13. ve 14. kişi her ikisi de 83 grubunda → Medyan = 83.\nSık hata: Medyanı \"ortadaki iki not = 73 ve 93, ortalama = 83\" diye hesaplamak (frekans tablolarında sıralı liste oluşturmak gerekir).\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Frekans tablosunda önce sıralı listeyi zihinsel yaz; medyan = sıralı dizinin ortası.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir spor salonundaki 8 öğrencinin koşu süreleri (dakika): 11, 12, 11, 10, 13.\nAntrenör 9. bir öğrenci daha kaydetti; bu öğrencinin süresi 23 dakika.\n\nYeni ortalama, eski ortalamadan kaç dakika fazladır?",
+          "options": [
+            "5 dakika",
+            "8/6 ≈ 4,70 dakika",
+            "6 dakika",
+            "13 dakika"
+          ],
+          "correctIndex": 0,
+          "explanation": "Eski ortalama = (11+12+11+10+13)/8 = 45/8 = 11,7.\nYeni ortalama = (45+23)/9 = 65/9 ≈ 13,36.\nFark ≈ 5 dakika. (23 aykırı değer ortalamanın çok üstünde; medyan bu artıştan çok az etkilenirdi.)\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Aykırı değer ortalamaı yukarı çeker; önce eski toplamı bul, yeni değeri ekle, böl.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir öğrenci 8 sınavdan 75, 83, 71 ve 78 puan aldı. 8. sınavdan x puan alırsa ortalaması tam 78 olacak.\n\nx kaçtır?",
+          "options": [
+            "79",
+            "81",
+            "83",
+            "85"
+          ],
+          "correctIndex": 2,
+          "explanation": "(75 + 83 + 71 + 78 + x) / 8 = 78\n298 + x = 378\nx = 83.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Ortalama × sayı = toplam; toplam - bilinen dört not = 5. not.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Veri seti: 6, 8, 10, 12, 14\n\nBu veri seti için aşağıdaki ifadelerden hangileri doğrudur?\nI. Aritmetik ortalama 10'dir.\nII. Medyan 10'dir.\nIII. Mod 10'dir.",
+          "options": [
+            "Ek Soru 1 — Yalnız III",
+            "Ek Soru 1 — I ve II",
+            "Ek Soru 1 — I, II ve III",
+            "Ek Soru 1 — Yalnız I"
+          ],
+          "correctIndex": 1,
+          "explanation": "I ✓: (6+8+10+12+14)/8 = 38/8 = 10.\nII ✓: 8 elemanlı sıralı dizide ortadaki (6.) eleman 10'dir.\nIII ✗: Her değer bir kez geçiyor → tekrar eden değer yok → mod tanımsız.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Mod: en çok tekrar eden değer; tekrar eden yoksa mod tanımsızdır.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir kitabevinin haftalık satış verileri sütun grafiğinde gösterilmiştir:\nPzt: 43, Sal: 58, Çar: 38, Per: 63, Cum: 48, Cmt: 68\n\nEn yüksek ve en düşük satış günleri arasındaki fark kaçtır?",
+          "options": [
+            "23",
+            "28",
+            "33",
+            "38"
+          ],
+          "correctIndex": 2,
+          "explanation": "En yüksek: Cumartesi = 68, En düşük: Çarşamba = 38.\nFark = 68 - 38 = 33.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Maksimum ve minimumu bul, farkını al.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Kerem \"7 sayının ortalamasını bulmak için en büyük ve en küçük sayıyı toplayıp 5'ye böldüm.\"\nSayılar: 13, 23, 33, 43. Kerem'in bulduğu: (13+43)/5 = 28. Gerçek ortalama da 28.\n\nKerem'in kısayol yöntemi hangi durumda DAIMA doğru sonuç verir?",
+          "options": [
+            "Ek Soru 1 — Her zaman doğrudur",
+            "Ek Soru 1 — Hiçbir zaman doğru değildir",
+            "Ek Soru 1 — Sayılar eşit aralıklı (aritmetik dizi) olduğunda",
+            "Ek Soru 1 — Sayı adedi çift olduğunda"
+          ],
+          "correctIndex": 2,
+          "explanation": "Aritmetik dizide (eşit aralıklı) ortalama = (en küçük + en büyük)/5 formülü geçerlidir.\nÖrnek: 13, 23, 33, 43 → aralık 13 → ortalama = (13+43)/5 = 28 ✓.\nEşit aralıklı değilse (örn: 13, 14, 33, 43) yanlış verir.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Eşit aralıklı diziler için (a₁ + aₙ)/2 = ortalama.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Küçük bir işyerindeki 8 çalışanın maaşları: 4003, 4503, 5003, 5503, 20003 TL.\n\nMaaş dağılımını yeni işe girecek birine aktarmak için hangi merkezi eğilim ölçüsü daha temsil edici olur ve neden?",
+          "options": [
+            "Ortalama (7803 TL); tüm maaşları hesaba katar",
+            "Medyan (5003 TL); aykırı değerden (20003) etkilenmez, tipik maaşı gösterir",
+            "Ek Soru 1 — Mod; en çok tekrar eden değeri gösterir",
+            "Ek Soru 1 — Ortalama ve medyan eşit olduğundan fark etmez"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ortalama = (4003+4503+5003+5503+20003)/8 = 39003/8 = 7803 TL.\nMedyan = 5003 TL (ortadaki değer).\n20003 TL aykırı değeri ortalamanın 7803'e çıkmasına neden olur; bu 7 kişinin gerçek maaşını yanlış temsil eder.\nMedyan aykırı değerden az etkilenir → daha temsil edici.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Aykırı değer varsa medyan daha sağlıklı temsil eder.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Frekans tablosu:\nSkor:    8   13   18   23\nFrekans: 5    6    7    4\n\nBu dağılımın modu kaçtır?",
+          "options": [
+            "13",
+            "15",
+            "18",
+            "23"
+          ],
+          "correctIndex": 2,
+          "explanation": "Frekansı en yüksek olan skor modu verir.\nEn yüksek frekans = 7 → Skor = 18.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Frekans tablosunda mod = en yüksek frekanslı skor.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir gruptaki 7 öğrencinin not ortalaması 18'tir. Bu gruba 7 öğrenci daha katıldı; yeni katılanların not ortalaması 12'dur.\n\nTüm 11 öğrencinin not ortalaması kaçtır?",
+          "options": [
+            "13",
+            "14",
+            "15",
+            "16"
+          ],
+          "correctIndex": 2,
+          "explanation": "İlk grup toplamı = 7 × 18 = 63.\nYeni grup toplamı = 7 × 12 = 39.\nGenel ortalama = (63 + 39) / 11 = 99 / 11 = 15.\nSık hata: (18 + 12) / 5 = 15 (tesadüfen aynı çıkar ama yöntem sadece eşit gruplar için geçerli).\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Toplam = ortalama × kişi; iki grup toplamını birleştir, toplam kişiye böl.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Veri Analizi",
+      "questions": [
+        {
+          "question": "Sıralı veri seti: 7, 9, 11, 13, 15, 17, 19\n\nBu verinin birinci çeyreği (Q4) ve üçüncü çeyreği (Q6) kullanılarak çeyrekler açıklığı kaçtır?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "13"
+          ],
+          "correctIndex": 2,
+          "explanation": "Q4 = Alt yarı {7, 9, 11}'ın medyanı = 9.\nQ6 = Üst yarı {15, 17, 19}'nın medyanı = 17.\nÇeyrekler açıklığı = Q6 - Q4 = 17 - 9 = 11.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Veriyi ikiye böl; her yarının medyanı Q1 ve Q3; ÇA = Q3 - Q1.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "6,8,10,12,14 ortalaması?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctIndex": 1,
+          "explanation": "10.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "5,6,6,8,8,8,10 modu?",
+          "options": [
+            "6",
+            "8",
+            "10",
+            "5"
+          ],
+          "correctIndex": 1,
+          "explanation": "8.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "7,11,15,19,23 medyanı?",
+          "options": [
+            "11",
+            "15",
+            "13",
+            "19"
+          ],
+          "correctIndex": 1,
+          "explanation": "15.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "75,83,71,78; 8.not x ile ort 78 → x?",
+          "options": [
+            "79",
+            "81",
+            "83",
+            "85"
+          ],
+          "correctIndex": 2,
+          "explanation": "83.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Frekans 63(5),73(7),83(11),93(7),103(5) mod?",
+          "options": [
+            "73",
+            "83",
+            "93",
+            "63"
+          ],
+          "correctIndex": 1,
+          "explanation": "83.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "11,12,11,10,13 ortalaması?",
+          "options": [
+            "11",
+            "11,7",
+            "12",
+            "10"
+          ],
+          "correctIndex": 1,
+          "explanation": "11,7.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "13,23,33,43 ortalaması?",
+          "options": [
+            "23",
+            "28",
+            "33",
+            "38"
+          ],
+          "correctIndex": 1,
+          "explanation": "28.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Q4=9,Q6=17 çeyrekler açıklığı?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "13"
+          ],
+          "correctIndex": 2,
+          "explanation": "11.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "5,7,7,9,11 modu?",
+          "options": [
+            "5",
+            "7",
+            "9",
+            "11"
+          ],
+          "correctIndex": 1,
+          "explanation": "7.\n\n[GitHub Ek Test — Veri Analizi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Veri Analizi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

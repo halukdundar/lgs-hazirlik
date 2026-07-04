@@ -1,0 +1,418 @@
+{
+  "topicId": "mat_7",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Doğrusal Denklemler",
+      "questions": [
+        {
+          "question": "Bir taksi servisi açılış ücreti 13 TL alıyor, her km için 7 TL ücret uyguluyor. Yolcu 41 TL ödedi.\n\nBu yolcu kaç km gitmiştir?",
+          "options": [
+            "8 km",
+            "9 km",
+            "10 km",
+            "11 km"
+          ],
+          "correctIndex": 2,
+          "explanation": "7x + 13 = 41 → 7x = 31 → x = 10 km.\nSık hata: 41 ÷ 7 = 12,8 (açılış ücretini çıkarmadan bölmek).\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Sabit ücreti sağ tarafa geçir, sonra km başına fiyata böl.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Kantinde sandviç x TL, içecek y TL. Ahmet 5 sandviç + 4 içecek için 28 TL, Ayşe 4 sandviç + 5 içecek için 23 TL ödedi.\n\nSandviç kaç TL'dir?",
+          "options": [
+            "11 TL",
+            "12 TL",
+            "13 TL",
+            "15 TL"
+          ],
+          "correctIndex": 2,
+          "explanation": "5x + y = 28 ... (4)\nx + 5y = 23 ... (5)\n(4)'den y = 28 - 5x; (5)'ye koy: x + 5(28-5x) = 23 → x + 53 - 7x = 23 → -6x = -33 → x = 13 TL.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "İlk denklemden y'yi x cinsinden yaz, ikinciye geçir.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir sporcunun günlük koşu tablosu:\nGün:    4    5    6    7\nTur:   23   29   35   41\n\nBu doğrusal artışa göre 9. günde kaç tur koşar?",
+          "options": [
+            "47",
+            "51",
+            "53",
+            "57"
+          ],
+          "correctIndex": 2,
+          "explanation": "Her gün 9 tur artıyor. 8. gün = 41 + 9 = 47; 9. gün = 47 + 9 = 53.\nFormül: aₙ = 23 + (n-4)×9 → a₆ = 23 + 33 = 53.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Fark = 6; doğrusal dizide aₙ = a₁ + (n-1)×d.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "y = 6x - 9 doğrusu koordinat düzlemine çiziliyor.\n\nBu doğrunun x-eksenini kestiği noktanın koordinatı nedir?",
+          "options": [
+            "(-9, 0)",
+            "(-5, 0)",
+            "(5, 0)",
+            "(9, 0)"
+          ],
+          "correctIndex": 2,
+          "explanation": "x-eksenini kesmek → y = 0.\n6x - 9 = 0 → 6x = 9 → x = 5. Nokta: (5, 0).\nSık hata: y-kesim noktası (0,-9) ile karıştırmak.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "x-ekseninde y=0 olur; y=0 koy, x'i bul.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Babanın yaşı, oğlunun yaşının 7 katıdır. 8 yıl sonra baba 48 yaşında olacak.\n\nŞu an oğlun yaşı kaçtır?",
+          "options": [
+            "11",
+            "12",
+            "13",
+            "15"
+          ],
+          "correctIndex": 2,
+          "explanation": "Babanın şimdiki yaşı = 48 - 8 = 43.\n43 = 7x → x = 13. Oğul 13 yaşında.\nSık hata: \"8 yıl sonra baba=48, oğul=48/7=14,28\" demek.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Önce babanın şimdiki yaşını bul (45-5=40), sonra denklemi kur.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Zeynep \"6(x-7) = 21 denklemini çözdüm: 6x - 7 = 21, 6x = 25, x = 25/6 buldum\" dedi.\n\nHatası nedir ve doğru çözüm nedir?",
+          "options": [
+            "Hata yok; x = 25/6 doğrudur",
+            "Hata: Parantez açılırken 6×7=15 olmalı; doğrusu 6x-15=21 → x=13",
+            "Hata: 6 her iki tarafa bölünmeli; doğrusu x-7=9 → x=13",
+            "Ek Soru 1 — B ve C seçeneklerinin ikisi de aynı doğru sonucu verir"
+          ],
+          "correctIndex": 3,
+          "explanation": "6(x-7) = 21 → ya parantez aç: 6x-15=21→6x=33→x=13,\nya da her iki tarafı 6'e böl: x-7=9→x=13.\nZeynep'in hatası: 6×7=15 yerine sadece 7 çıkardı.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "İki yol: 3 böl sonra 4 ekle; veya parantezi 3 ile dağıt.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "İki internet paketi:\nPlan A: 53 TL aylık sabit + 8 TL/GB\nPlan B: Sabit ücret yok, 13 TL/GB\n\nKaç GB'dan itibaren Plan A daha ekonomik olur?",
+          "options": [
+            "8 GB",
+            "11 GB",
+            "13 GB",
+            "15 GB"
+          ],
+          "correctIndex": 2,
+          "explanation": "Plan A = Plan B eşitliğinden kırılma noktasını bul:\n53 + 8x = 13x → 53 = 8x → x = 13 GB.\n13 GB'dan itibaren Plan A daha ucuzdur.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "İki planı eşitle; eşitlik noktasının üstünde hangisi daha az?",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "y = 5x + 7 doğrusu hakkında:\nI. Doğru y-eksenini (0, 7) noktasında keser.\nII. Doğru x-eksenini (-5, 0) noktasında keser.\nIII. Doğrunun eğimi 7'tür.\n\nHangileri doğrudur?",
+          "options": [
+            "Ek Soru 1 — Yalnız I",
+            "Ek Soru 1 — I ve III",
+            "Ek Soru 1 — I ve II",
+            "Ek Soru 1 — I, II ve III"
+          ],
+          "correctIndex": 2,
+          "explanation": "I ✓: x=0 → y=7; y-ekseni kesimi (0,7).\nII ✓: y=0 → 5x+7=0 → x=-5; x-ekseni kesimi (-5,0).\nIII ✗: y = 5x + 7 biçiminde eğim = 5 (x'in katsayısı), 7 değil.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "y=mx+b'de m=eğim, b=y-ekseni kesimi. III'te m=2.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir çiftçi arazisini 6 çocuğuna eşit böldü. Büyük çocuk payının 4/7'ünü sattı ve elinde 63 dönüm kaldı.\n\nÇiftçinin toplam arazisi kaç dönümdür?",
+          "options": [
+            "183",
+            "243",
+            "323",
+            "363"
+          ],
+          "correctIndex": 1,
+          "explanation": "Büyük çocuğun payı = T/6 dönüm. 4/7'ünü sattı → 6/7'ü kaldı.\n(6/7) × (T/6) = 63 → T/7 = 63 → T = 243 dönüm.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Büyük çocuğun elinde kalan = payının 3/4'ü; denklemi kur.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir sayının iki katından 8 çıkarıldığında elde edilen sonuç, aynı sayının yarısına 10 eklenmesiyle aynı olduğu bilinmektedir.\n\nBu sayı kaçtır?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctIndex": 2,
+          "explanation": "5x - 8 = x/5 + 10\nHer iki tarafı 5 ile çarp: 7x - 13 = x + 17 → 6x = 27 → x = 11.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "\"İki katından 5 eksik\" = 2x-5; \"yarısına 7 fazla\" = x/2+7; eşitle.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Doğrusal Denklemler",
+      "questions": [
+        {
+          "question": "5x+8=16 → x?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "correctIndex": 1,
+          "explanation": "7.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x-10=6 → x?",
+          "options": [
+            "13",
+            "7",
+            "-7",
+            "10"
+          ],
+          "correctIndex": 0,
+          "explanation": "13.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "6x=18 → x?",
+          "options": [
+            "6",
+            "8",
+            "15",
+            "48"
+          ],
+          "correctIndex": 1,
+          "explanation": "8.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x/7=6 → x?",
+          "options": [
+            "10",
+            "15",
+            "4",
+            "0,78"
+          ],
+          "correctIndex": 1,
+          "explanation": "15.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "5x+6=14 → x?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "10"
+          ],
+          "correctIndex": 1,
+          "explanation": "7.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "8-x=5 → x?",
+          "options": [
+            "6",
+            "10",
+            "-6",
+            "5"
+          ],
+          "correctIndex": 0,
+          "explanation": "6.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "7x-11=0 → x?",
+          "options": [
+            "Ek Soru 1 — 0",
+            "5",
+            "7",
+            "-5"
+          ],
+          "correctIndex": 1,
+          "explanation": "5.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x+5x=12 → x?",
+          "options": [
+            "6",
+            "9",
+            "12",
+            "7,8"
+          ],
+          "correctIndex": 0,
+          "explanation": "6.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "13=5x+7 → x?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "10"
+          ],
+          "correctIndex": 1,
+          "explanation": "6.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x/5+4=8 → x?",
+          "options": [
+            "9",
+            "11",
+            "13",
+            "15"
+          ],
+          "correctIndex": 1,
+          "explanation": "11.\n\n[GitHub Ek Test — Doğrusal Denklemler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Doğrusal Denklemler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

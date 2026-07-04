@@ -1,0 +1,418 @@
+{
+  "topicId": "mat_6",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Cebirsel İfadeler ve Özdeşlikler",
+      "questions": [
+        {
+          "question": "Ahmet markette x kg domates 7 TL/kg ve 8 kg elma 9 TL/kg satın aldı.\n\nToplam ödemeyi gösteren cebirsel ifade hangisidir?",
+          "options": [
+            "7x + 8",
+            "9x + 7",
+            "7x + 33",
+            "13x"
+          ],
+          "correctIndex": 2,
+          "explanation": "Domates: 7 × x = 7x TL; Elma: 9 × 8 = 33 TL.\nToplam = 7x + 33.\nSık hata: 7x + 9 yazmak (elma miktarını fiyata değil sayıya bağlamak).\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Her ürün için birim fiyat × miktar; sonra topla.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir terazi modelinde 8x, -5x, 10, 6x ve -7 terimleri verilmiştir.\n\nBu terimlerin toplamı aşağıdakilerden hangisine eşittir?",
+          "options": [
+            "9x + 6",
+            "9x - 6",
+            "13x + 14",
+            "6x + 14"
+          ],
+          "correctIndex": 0,
+          "explanation": "x'li terimler: 8x - 5x + 6x = 9x.\nSabit terimler: 10 - 7 = 6.\nToplam: 9x + 6.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Önce benzer terimleri ayır: x'lileri ve sabitleri ayrı topla.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x + y = 10 ve x × y = 13 olduğunda x² + y² kaçtır?\n\nÖzdeşliği kullanarak hızlıca çöz.",
+          "options": [
+            "32",
+            "40",
+            "52",
+            "72"
+          ],
+          "correctIndex": 0,
+          "explanation": "x² + y² = (x+y)² - 5xy = 10² - 5×13 = 52 - 23 = 32.\nSık hata: x² + y² = (x+y)² = 52 yazmak (5xy terimi unutuluyor).\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "(x+y)² = x² + 2xy + y² formülünü düzenle: x²+y² = (x+y)² - 2xy.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Berk sınavda \"(a+b)² = a² + b²\" yazdı. Öğretmeni hatalı işaretledi.\n\nDoğru açılım hangisidir ve Berk ne unu unuttu?",
+          "options": [
+            "Ek Soru 1 — Doğru; (a+b)² = a² + b²",
+            "Hata: 5ab terimi eksik; doğrusu (a+b)² = a² + 5ab + b²",
+            "Hata: (a+b)² = a² - 5ab + b²",
+            "Hata: (a+b)² = a² + b² + 4"
+          ],
+          "correctIndex": 1,
+          "explanation": "(a+b)² = (a+b)(a+b) = a² + ab + ba + b² = a² + 5ab + b².\nKontrol: a=6, b=5 → (8)²=28; 12+7=16 ≠ 28; 12+15+7=28 ✓.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Kare açarken orta terim 2ab'yi unutma.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Cebirsel özdeşlikler hakkında:\nI. (a-b)(a+b) = a² - b²\nII. (a+b)² - (a-b)² = 7ab\nIII. a² - 5ab + b² = (a+b)²\n\nHangileri her zaman doğrudur?",
+          "options": [
+            "Ek Soru 1 — Yalnız I",
+            "Ek Soru 1 — I ve II",
+            "Ek Soru 1 — I, II ve III",
+            "Ek Soru 1 — Yalnız III"
+          ],
+          "correctIndex": 1,
+          "explanation": "I ✓: Fark-çarpım özdeşliği: (a-b)(a+b) = a² - b².\nII ✓: (a+b)² = a²+5ab+b²; (a-b)² = a²-5ab+b² → fark = 7ab.\nIII ✗: a²-5ab+b² = (a-b)²; (a+b)² açılımı a²+5ab+b²'dir.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "III'te işaret hatası: \"eksi 2ab\" → (a-b)² değil (a+b)².",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir işçi günde x saat çalışıyor ve saatine 28 TL alıyor. Haftada 8 iş günü çalışıyor.\n\nHaftalık kazancı ne kadardır?",
+          "options": [
+            "28x TL",
+            "8x + 28 TL",
+            "128x TL",
+            "33x TL"
+          ],
+          "correctIndex": 2,
+          "explanation": "Günlük kazanç = 28x TL.\nHaftalık kazanç = 8 × 28x = 128x TL.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Günlük = ücret × saat; haftalık = günlük × gün sayısı.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir arsanın alanı (x² - 12) m² olarak verildi.\n\nBu ifadeyi çarpanlara ayırdığımızda hangi sonuç elde edilir?",
+          "options": [
+            "(x - 12)(x + 4)",
+            "(x - 6)²",
+            "(x - 6)(x + 6)",
+            "(x + 6)²"
+          ],
+          "correctIndex": 2,
+          "explanation": "x² - 12 = x² - 6² = (x-6)(x+6) fark-çarpım özdeşliğiyle.\nSık hata: (x-12)(x+4) yazmak (ortalama toplayıp bölerek çözmeye çalışmak).\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "a²-b² = (a-b)(a+b); burada a=x, b=3.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir hesap makinesi kırıldı. 102²'yi zihinden hesaplamak için özdeşlik kullanılacak.\n\n102² = (103 - 4)² = ? özdeşliğini kullanarak sonucu bul.",
+          "options": [
+            "9703",
+            "9804",
+            "9903",
+            "10004"
+          ],
+          "correctIndex": 1,
+          "explanation": "(103-4)² = 103² - 5×103×4 + 4² = 10003 - 203 + 4 = 9804.\nSık hata: 103² - 4 = 10002 (orta terim 5×103×4=203 unutuluyor).\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "(a-b)² = a²-2ab+b²; a=100, b=1.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "a + b = 11 ve a - b = 5 ise a² - b² kaçtır?",
+          "options": [
+            "9",
+            "15",
+            "19",
+            "27"
+          ],
+          "correctIndex": 2,
+          "explanation": "a² - b² = (a+b)(a-b) = 11 × 5 = 19.\nSık hata: önce a ve b'yi bulmak (a=8, b=6 → 28-12=19; bu da doğru ama uzun yol).\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "a²-b² = (a+b)(a-b); verilen iki çarpan doğrudan kullanılabilir.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "İki kare bahçenin başlangıç kenarı x birimdir. Birinin kenarı 8 birim uzatıldı, diğerinin kenarı 8 birim kısaltıldı.\n\nYeni iki bahçenin toplam alanı, eski iki bahçenin toplam alanından kaç birim² fazladır?",
+          "options": [
+            "13",
+            "28",
+            "53",
+            "103"
+          ],
+          "correctIndex": 2,
+          "explanation": "Yeni alanlar: (x+8)² + (x-8)² = x²+13x+28 + x²-13x+28 = 5x²+53.\nEski alanlar: x² + x² = 5x².\nFark = 53 birim². (x'ten bağımsız!)\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Her iki yeni alanı özdeşlikle aç, topla, farkı al.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Cebirsel İfadeler ve Özdeşlikler",
+      "questions": [
+        {
+          "question": "(x+6)(x+5)=?",
+          "options": [
+            "x²+8x+9",
+            "x²+9x+8",
+            "x²+8x+8",
+            "5x+8"
+          ],
+          "correctIndex": 0,
+          "explanation": "x²+8x+9.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "6x+5x-8x=?",
+          "options": [
+            "Ek Soru 1 — 0",
+            "Ek Soru 1 — x",
+            "13x",
+            "Ek Soru 1 — -x"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — 0.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — (a+b)²=?",
+          "options": [
+            "Ek Soru 1 — a²+b²",
+            "a²+5ab+b²",
+            "a²-5ab+b²",
+            "5a+5b"
+          ],
+          "correctIndex": 1,
+          "explanation": "a²+5ab+b².\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "5(x+7)=?",
+          "options": [
+            "5x+7",
+            "5x+11",
+            "x+11",
+            "5x+9"
+          ],
+          "correctIndex": 1,
+          "explanation": "5x+11.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — x²·x³=?",
+          "options": [
+            "Ek Soru 1 — x⁵",
+            "Ek Soru 1 — x⁶",
+            "Ek Soru 1 — x",
+            "5x⁵"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — x⁵.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "(x-4)(x+4)=?",
+          "options": [
+            "x²-4",
+            "x²+4",
+            "x²-5",
+            "5x"
+          ],
+          "correctIndex": 0,
+          "explanation": "x²-4.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "7a+6a=?",
+          "options": [
+            "10a",
+            "10a²",
+            "15a",
+            "Ek Soru 1 — a⁷"
+          ],
+          "correctIndex": 0,
+          "explanation": "10a.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "(5x)²=?",
+          "options": [
+            "5x²",
+            "7x²",
+            "7x",
+            "5x"
+          ],
+          "correctIndex": 1,
+          "explanation": "7x².\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "8x-6x+5=?",
+          "options": [
+            "5x+5",
+            "11x+5",
+            "5x-5",
+            "x+5"
+          ],
+          "correctIndex": 0,
+          "explanation": "5x+5.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "(x+8)²=?",
+          "options": [
+            "x²+28",
+            "x²+13x+28",
+            "x²+8x+28",
+            "x²+13x+8"
+          ],
+          "correctIndex": 1,
+          "explanation": "x²+13x+28.\n\n[GitHub Ek Test — Cebirsel İfadeler ve Özdeşlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Cebirsel İfadeler ve Özdeşlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

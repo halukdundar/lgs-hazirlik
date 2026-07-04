@@ -1,0 +1,426 @@
+{
+  "topicId": "bir_kahraman_doguyor",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Bir Kahraman Doğuyor",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Selanik'te farklı milletlerin bir arada yaşadığı bir mahallede büyüyen Mustafa Kemal, çocukluk yıllarında farklı diller ve kültürlerle karşılaşmıştır. Bu durumun onun düşünce dünyasına en güçlü katkısı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Tek bir kimliği merkeze alan kapalı bir anlayış geliştirmesi",
+            "Ek Soru 1 — Farklılıklara karşı hoşgörü ve geniş bakış açısı kazanması",
+            "Ek Soru 1 — Sadece askeri konulara ilgi duyması",
+            "Ek Soru 1 — Siyasetten tamamen uzak durması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Çok kültürlü çevre, Mustafa Kemal'in toplumsal çeşitliliği tanımasına ve daha kapsayıcı bir bakış geliştirmesine katkı sağlamıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Soru, Selanik'in çok kültürlü yapısının etkisini soruyor.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir tarih kulübünde öğrenciler, Fransız İhtilali'nin Osmanlı üzerindeki etkilerini tartışıyor. Öğretmen, 'Bu etki özellikle çok uluslu devletler için parçalanma riskini artırdı.' diyor. Burada vurgulanan fikir akımı hangisidir?",
+          "options": [
+            "Ek Soru 1 — Liberalizm",
+            "Ek Soru 1 — Milliyetçilik",
+            "Ek Soru 1 — Sosyalizm",
+            "Ek Soru 1 — Mutlakiyetçilik"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Milliyetçilik, her milletin kendi devletini kurma düşüncesini güçlendirerek çok uluslu imparatorlukları zorlamıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Çok uluslu yapıyı en fazla zorlayan akımı düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Fikir Akımları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Mustafa Kemal, Manastır Askeri İdadisi yıllarında tarih ve edebiyat kitaplarını düzenli okuyarak hitabetini güçlendirmiştir. Bu bilgi, onun hangi yönünün erken yaşta geliştiğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Sadece fiziksel gücünü geliştirdiğini",
+            "Ek Soru 1 — Fikri derinlik ve ifade becerisi kazandığını",
+            "Ek Soru 1 — Denizcilik alanında uzmanlaştığını",
+            "Ek Soru 1 — Ekonomik reform planları yaptığını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Okuma alışkanlığı ve hitabet çalışmaları, Mustafa Kemal'in düşünsel birikimini ve ifade gücünü artırmıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Edebiyat ve hitabet ifadesine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Eğitim Hayatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Şam'da görev yapan genç bir subay, arkadaşlarıyla gizli bir cemiyet kurarak vatanın içinde bulunduğu duruma çözüm aramıştır. Bu olay, Mustafa Kemal'in hangi kişilik özelliğini öne çıkarır?",
+          "options": [
+            "Ek Soru 1 — Kararsızlık",
+            "Ek Soru 1 — Teşkilatçılık ve liderlik",
+            "Ek Soru 1 — Bilimsel tarafsızlık",
+            "Ek Soru 1 — Sanatsal üretkenlik"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Vatan ve Hürriyet Cemiyeti'nin kurulması, onun örgüt kurma ve insanları ortak hedefte toplama becerisini gösterir.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Cemiyet kurma eylemi hangi beceriyle ilişkilidir?",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Kişilik Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Trablusgarp'ta düzenli ordunun doğrudan müdahale edemediği şartlarda Mustafa Kemal'in yerel halkı örgütleyerek mücadeleyi sürdürmesi, aşağıdakilerden hangisinin göstergesidir?",
+          "options": [
+            "Ek Soru 1 — Diplomatik pasiflik",
+            "Ek Soru 1 — Koşullara göre çözüm üretme ve teşkilatçılık",
+            "Ek Soru 1 — Merkezden emir bekleme",
+            "Ek Soru 1 — Savaştan kaçınma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mustafa Kemal, imkanların sınırlı olduğu ortamda halkı örgütleyerek pratik ve etkili bir mücadele yöntemi geliştirmiştir.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Yerel halkı örgütleme ifadesine dikkat et.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Trablusgarp",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sofya Askeri Ataşeliği görevinde bulunan Mustafa Kemal, Avrupa siyasetini ve diplomatik ilişkileri yakından izleme fırsatı bulmuştur. Bu görevin ona en çok hangi alanda deneyim kazandırdığı söylenebilir?",
+          "options": [
+            "Ek Soru 1 — Deniz muharebeleri",
+            "Ek Soru 1 — Dış politika ve diplomasi",
+            "Ek Soru 1 — Tarım ekonomisi",
+            "Ek Soru 1 — Halk sağlığı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Ataşelik görevi, askeri temsilin yanında diplomatik gözlem ve uluslararası ilişki tecrübesi sağlar.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Ataşelik görevi askeri olduğu kadar diplomatik bir roldür.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Sofya Dönemi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir öğrenci, 'Mustafa Kemal'in düşüncelerinde Namık Kemal ve Ziya Gökalp gibi isimlerin etkisi vardır.' diyor. Bu tespitten hareketle aşağıdaki çıkarımlardan hangisi yapılabilir?",
+          "options": [
+            "Ek Soru 1 — Mustafa Kemal yalnızca askeri eğitimden etkilenmiştir.",
+            "Ek Soru 1 — Fikir hayatı hem yerli hem çağdaş kaynaklarla beslenmiştir.",
+            "Ek Soru 1 — Siyasi gelişmeleri takip etmemiştir.",
+            "Ek Soru 1 — Yalnızca ekonomik konularla ilgilenmiştir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mustafa Kemal'in fikir dünyası, farklı düşünürlerin eserleriyle şekillenmiş ve çok yönlü gelişmiştir.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Namık Kemal ve Ziya Gökalp ortak noktası: fikri etki.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Fikir Dünyası",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Osmanlıcılık, İslamcılık, Türkçülük ve Batıcılık akımlarının tartışıldığı bir dönemde yetişen Mustafa Kemal'in, bu ortamdan etkilenmesi en çok hangi sonucu doğurmuştur?",
+          "options": [
+            "Ek Soru 1 — Siyasi gelişmeleri görmezden gelmesi",
+            "Ek Soru 1 — Toplumsal sorunlara farklı çözümleri değerlendirebilmesi",
+            "Ek Soru 1 — Sadece geleneksel eğitimle yetinmesi",
+            "Ek Soru 1 — Askerlikten uzaklaşması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Farklı fikir akımlarını tanıması, sorunlara tek açıdan değil karşılaştırmalı bir yaklaşımla bakmasını sağlamıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Çok fikir akımı = çok yönlü değerlendirme.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Osmanlı Son Dönem",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "34 Mart Olayı'nın bastırılmasında görev alan Mustafa Kemal'in bu süreçte öne çıkması, onun hangi yönünü güçlendirmiştir?",
+          "options": [
+            "Ek Soru 1 — Uluslararası hukuk bilgisi",
+            "Ek Soru 1 — Kriz anında askeri karar alma ve uygulama becerisi",
+            "Ek Soru 1 — Ticari girişimcilik",
+            "Ek Soru 1 — Sanayi planlaması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hareket Ordusu içindeki görevi, Mustafa Kemal'in kriz anlarında etkili karar alabilen bir komutan olarak tanınmasını sağlamıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "31 Mart Olayı askeri bir krizdir.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "31 Mart Olayı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir belgeselde anlatıcı, 'Mustafa Kemal'in çocukluk ve gençlik yılları, onu yalnızca iyi bir asker değil aynı zamanda çağın sorunlarını okuyabilen bir lider yaptı.' diyor. Bu cümle en çok hangi genel yargıyı destekler?",
+          "options": [
+            "Ek Soru 1 — Liderlik doğuştan gelir, eğitimin etkisi yoktur.",
+            "Ek Soru 1 — Çok yönlü eğitim ve deneyim, liderlik niteliğini güçlendirir.",
+            "Ek Soru 1 — Askeri başarı için sosyal çevre gereksizdir.",
+            "Ek Soru 1 — Siyasi düşünce, askeri kariyeri zayıflatır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mustafa Kemal'in farklı şehirler, okullar ve görevlerde edindiği birikim liderliğinin temelini oluşturmuştur.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Soru, eğitim + deneyim ilişkisinin sonucunu arıyor.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Bir Kahraman Doğuyor",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Mustafa Kemal'in doğduğu şehir aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — İstanbul",
+            "Ek Soru 1 — Selanik",
+            "Ek Soru 1 — Ankara",
+            "Ek Soru 1 — Bursa"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mustafa Kemal 1884'de Selanik'te doğmuştur. Selanik, bugün Yunanistan'ın Thessaloniki şehridir.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Makedonya'da, Ege kıyısına yakın bir Osmanlı limanı şehri.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Mustafa Kemal, Çanakkale Savaşı'nda hangi cepheyi başarıyla savunmuştur?",
+          "options": [
+            "Ek Soru 1 — Güney Cephesi",
+            "Ek Soru 1 — Anafartalar Cephesi",
+            "Ek Soru 1 — Sina Cephesi",
+            "Ek Soru 1 — Kafkas Cephesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mustafa Kemal, Anafartalar'da düşman kuvvetlerini durdurarak Çanakkale'nin kaderini belirlemiştir.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Arıburnu ve Anafartalar bölgeleri Çanakkale'nin en kritik savunma noktalarıydı.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Size ölmeyi emrediyorum. Biz ölene kadar geçecek zaman içinde yerimize başka kuvvetler ve komutanlar gelebilir.\"\n\nBu emir aşağıdaki hangi savaşta verilmiştir?",
+          "options": [
+            "Ek Soru 1 — Kurtuluş Savaşı",
+            "Ek Soru 1 — Balkan Harbi",
+            "Ek Soru 1 — Çanakkale Savaşı",
+            "Ek Soru 1 — I. Dünya Savaşı Kafkas Cephesi"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Bu tarihi emir Mustafa Kemal tarafından Çanakkale'de Arıburnu'nda askerlerine verilmiştir.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Bu söz, askerlerin geri çekilmek yerine direnmesini sağlamak için söylenmiştir.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Mustafa Kemal hangi askeri okulda eğitim aldıktan sonra subay olmuştur?",
+          "options": [
+            "Ek Soru 1 — Darülfünun",
+            "Ek Soru 1 — Harp Akademisi",
+            "Ek Soru 1 — Galatasaray Lisesi",
+            "Ek Soru 1 — Mektebi Harbiye"
+          ],
+          "correctIndex": 3,
+          "explanation": "Mustafa Kemal Mektebi Harbiye'yi (Harp Okulu) 1908'te başarıyla tamamlamış ve kurmay subay olmuştur.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Osmanlı'nın en prestijli askeri okulu, bugün Kara Harp Okulu'nun atasıdır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi Mondros Mütarekesi'nin sonuçlarından biridir?",
+          "options": [
+            "Ek Soru 1 — Osmanlı, I. Dünya Savaşı'na katılmıştır.",
+            "Ek Soru 1 — Osmanlı kuvvetleri terhis edilmiş ve topraklar işgale açılmıştır.",
+            "Ek Soru 1 — Türk ordusu savaşı kazanmıştır.",
+            "Ek Soru 1 — İstanbul'un başkent yapılması kararlaştırılmıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Mondros Mütarekesi (33 Ekim 1921), Osmanlı'nın teslimiyetini simgeler; ordu dağıtılmış, stratejik noktalar işgale açılmıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Mondros = itilaf devletleri ile ateşkes → Osmanlı savaştan çekildi.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Mustafa Kemal, I. Dünya Savaşı'nda aşağıdaki cephelerden hangisinde komutanlık YAPMAMŞTIR?",
+          "options": [
+            "Ek Soru 1 — Çanakkale Cephesi",
+            "Ek Soru 1 — Kafkas Cephesi",
+            "Ek Soru 1 — Suriye Cephesi",
+            "Ek Soru 1 — Filistin Cephesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mustafa Kemal Çanakkale, Suriye ve Filistin cephelerinde görev yapmış; Kafkas Cephesi'nde bizzat komutanlık yapmamıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Kafkas Cephesi'nde Enver Paşa komutanlık yapmış ve Sarıkamış felaketi yaşanmıştır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Çanakkale Savaşı'nın sonucu aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — İtilaf devletleri Çanakkale'yi geçerek İstanbul'u almıştır.",
+            "Ek Soru 1 — Türk kuvvetleri yenilerek geri çekilmiştir.",
+            "Ek Soru 1 — İtilaf devletleri büyük kayıp vererek geri çekilmek zorunda kalmıştır.",
+            "Ek Soru 1 — Osmanlı ve İtilaf devletleri anlaşarak savaşı bitirmiştir."
+          ],
+          "correctIndex": 2,
+          "explanation": "Türk kuvvetlerinin kahramanca savunması, İtilaf devletlerini 253.000 kayıpla geri çekilmeye zorlamıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Çanakkale geçilemedi → Rusya'ya yardım ulaşamadı → Tarih değişti.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Mustafa Kemal'in matematiği çok sevdiği için ona öğretmeni tarafından hangi ikinci isim verilmiştir?",
+          "options": [
+            "Ek Soru 1 — Rıza",
+            "Ek Soru 1 — Kemal",
+            "Ek Soru 1 — Selanik",
+            "Ek Soru 1 — Atatürk"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Matematik öğretmeni Mustafa'ya \"Kemal\" adını vermiştir; bu isim \"mükemmel, olgun\" anlamına gelir.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Öğretmeni ona bu ismi başarısına ve üstün zekasına hayran kalarak vermiştir.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi I. Dünya Savaşı'nın Osmanlı Devleti üzerindeki etkilerinden biridir?",
+          "options": [
+            "Ek Soru 1 — Osmanlı savaştan galip ayrılmıştır.",
+            "Ek Soru 1 — Osmanlı toprakları genişlemiştir.",
+            "Ek Soru 1 — Osmanlı yenilmiş ve Mondros Ateşkesi imzalanmıştır.",
+            "Ek Soru 1 — Osmanlı tarafsız kalmıştır."
+          ],
+          "correctIndex": 2,
+          "explanation": "Osmanlı, İttifak Devletleri safında savaşa katılmış ve yenilmiştir. Sonucunda Mondros Mütarekesi (1921) imzalanmıştır.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "Osmanlı hangi blokta savaştı → Almanya ile → Almanya yenildi → Osmanlı da yenildi.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi Mustafa Kemal'in Çanakkale'deki başarısının önemini doğru açıklamaktadır?",
+          "options": [
+            "Ek Soru 1 — Osmanlı'nın I. Dünya Savaşı'nı kazanmasını sağlamıştır.",
+            "Ek Soru 1 — İtilaf devletlerinin Rusya'ya yardım göndermesini ve İstanbul'u almasını engellemiştir.",
+            "Ek Soru 1 — Balkan Savaşları'ndaki yenilginin intikamı alınmıştır.",
+            "Ek Soru 1 — Mustafa Kemal'e Osmanlı padişahı unvanı kazandırmıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Çanakkale zaferi; İstanbul'un işgalini, Rus cephesine deniz yoluyla ikmal ulaşmasını engellemiştir. Tarihsel önemi devasa büyüktür.\n\n[GitHub Ek Test — Bir Kahraman Doğuyor]",
+          "ipucu": "İtilaf devletlerinin amacı: Boğazları geç → İstanbul'u al → Rusya'ya destek ver.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Bir Kahraman Doğuyor",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "topicId": "eng_6",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Adventures",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the diary.\n\"Last weekend we hiked in the canyon. We reached the waterfall at noon.\"\nQuestion: When did they reach the waterfall?",
+          "options": [
+            "Ek Soru 1 — At sunrise",
+            "Ek Soru 1 — At noon",
+            "Ek Soru 1 — At midnight",
+            "Ek Soru 1 — In evening"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Metin doğrudan at noon bilgisini verir.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Zaman ifadesini doğrudan bul.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Reading",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nGuide: Did you wear your helmet while cycling?\nEmir: Yes, it protected me on rocky roads.\nQuestion: Why was the helmet important?",
+          "options": [
+            "Ek Soru 1 — It made him faster.",
+            "Ek Soru 1 — It gave safety.",
+            "Ek Soru 1 — It changed weather.",
+            "Ek Soru 1 — It carried luggage."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Protected me ifadesi güvenlik işlevini anlatır.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Protected kelimesine odaklan.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Safety",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the weather alert.\n\"Strong winds are expected after 17:00 in mountain areas.\"\nQuestion: What should hikers do?",
+          "options": [
+            "Ek Soru 1 — Climb higher",
+            "Ek Soru 1 — Ignore warning",
+            "Ek Soru 1 — Return earlier safely",
+            "Ek Soru 1 — Camp on cliff edge"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Riskli hava koşulunda erken dönüş en güvenli tercihtir.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Warning sonrası güvenli seçeneği seç.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Decision",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the camp note.\n\"We couldn't light a fire because everything was wet after heavy rain.\"\nQuestion: What caused the problem?",
+          "options": [
+            "Ek Soru 1 — No map",
+            "Ek Soru 1 — Wet conditions",
+            "Ek Soru 1 — No food",
+            "Ek Soru 1 — Late sunrise"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Everything was wet ifadesi nedeni açıklar.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Because cümlesini takip et.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Cause and Effect",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the timeline.\n11:00 left village\n13:33 crossed bridge\n16:00 reached summit\nQuestion: Which happened second?",
+          "options": [
+            "Ek Soru 1 — Reached summit",
+            "Ek Soru 1 — Crossed bridge",
+            "Ek Soru 1 — Left village",
+            "Ek Soru 1 — Returned home"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Saat sırasına göre ikinci olay bridge crossing'dir.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Saatleri küçükten büyüğe sırala.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Timeline",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nIpek: Were you scared during rafting?\nOzan: At first yes, but after the instructor briefing I felt confident.\nQuestion: What changed Ozan's feelings?",
+          "options": [
+            "Ek Soru 1 — River color",
+            "Ek Soru 1 — Instructor's briefing",
+            "Ek Soru 1 — Boat size",
+            "Ek Soru 1 — Sunny weather"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Güvenlik bilgilendirmesi korkuyu azaltmıştır.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "At first...but yapısına dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Inference",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the story.\n\"We got lost because we followed an unofficial path.\"\nQuestion: Which lesson is correct?",
+          "options": [
+            "Ek Soru 1 — Marked trails are safer.",
+            "Ek Soru 1 — Unofficial paths are always faster.",
+            "Ek Soru 1 — Maps are unnecessary.",
+            "Ek Soru 1 — Going alone is best."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Metin yanlış patikanın kaybolmaya yol açtığını söyler.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Because sonrası verilen nedeni yorumla.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Lesson",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the packing note.\n\"Nisa packed water, flashlight, whistle and first-aid kit.\"\nQuestion: This preparation is mainly for ...",
+          "options": [
+            "Ek Soru 1 — fashion",
+            "Ek Soru 1 — basic safety and survival",
+            "Ek Soru 1 — music performance",
+            "Ek Soru 1 — long shopping"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Malzemeler acil durum güvenliği için uygundur.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Eşyaların ortak amacını düşün.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Preparation",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the route context.\nNorth path is shorter but icy. South path is longer but stable.\nQuestion: Which is safer for beginners?",
+          "options": [
+            "Ek Soru 1 — North path",
+            "Ek Soru 1 — South path",
+            "Ek Soru 1 — Either one",
+            "Ek Soru 1 — None, without checking"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Başlangıç seviyesi için stabil zemin daha güvenlidir.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Safer ve beginners kelimelerine odaklan.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Risk Analysis",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the campfire talk.\nDeniz: I forgot to charge my phone.\nKaan: Next time use a checklist before leaving.\nQuestion: Kaan suggests ...",
+          "options": [
+            "Ek Soru 1 — buying new phone",
+            "Ek Soru 1 — better planning",
+            "Ek Soru 1 — canceling all trips",
+            "Ek Soru 1 — traveling without tech"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Checklist önerisi planlı hazırlık anlamına gelir.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Next time ifadesi tavsiye verir.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Advice",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Adventures",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the text.\nThey packed a tent, map and food for camping.\nQuestion: Where are they going?",
+          "options": [
+            "Ek Soru 1 — Shopping mall",
+            "Ek Soru 1 — Camping / outdoor adventure",
+            "Ek Soru 1 — School only",
+            "Ek Soru 1 — Hospital"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tent and map = camping.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Tent = çadır.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nHiking means ...",
+          "options": [
+            "Ek Soru 1 — walking in nature / mountains",
+            "Ek Soru 1 — swimming in pool",
+            "Ek Soru 1 — driving fast",
+            "Ek Soru 1 — sleeping"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Hiking = doğa yürüyüşü.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Nature walking.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nAlways tell someone your route before trekking.\nQuestion: Safety tip?",
+          "options": [
+            "Ek Soru 1 — Go secretly",
+            "Ek Soru 1 — Tell someone your route",
+            "Ek Soru 1 — No water",
+            "Ek Soru 1 — Walk at night only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tell route.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Before trekking.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nWe need a ___ to find direction in the forest.",
+          "options": [
+            "Ek Soru 1 — compass or map",
+            "Ek Soru 1 — television",
+            "Ek Soru 1 — sofa",
+            "Ek Soru 1 — microwave"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Compass/map for direction.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Find direction.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nThe river was too dangerous to cross alone.\nQuestion: Why not cross alone?",
+          "options": [
+            "Ek Soru 1 — Too shallow",
+            "Ek Soru 1 — Too dangerous",
+            "Ek Soru 1 — Too warm",
+            "Ek Soru 1 — Frozen"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Too dangerous.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Dangerous river.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nAn 'adventure' is ...",
+          "options": [
+            "Ek Soru 1 — boring routine",
+            "Ek Soru 1 — exciting unusual experience",
+            "Ek Soru 1 — only sleeping",
+            "Ek Soru 1 — office work"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Exciting experience.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Adventure.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nThey climbed the hill before sunset.\nQuestion: When climb?",
+          "options": [
+            "Ek Soru 1 — After midnight",
+            "Ek Soru 1 — Before sunset",
+            "Ek Soru 1 — Never",
+            "Ek Soru 1 — During storm"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Before sunset.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Timing.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nDon't forget to bring enough ___ on long walks.",
+          "options": [
+            "Ek Soru 1 — water",
+            "Ek Soru 1 — television",
+            "Ek Soru 1 — furniture",
+            "Ek Soru 1 — books only"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Water on long walks.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "Enough water.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nWas the trip exciting?\nYes, but exhausting too!\nQuestion: Trip was ...",
+          "options": [
+            "Ek Soru 1 — boring only",
+            "Ek Soru 1 — exciting and tiring",
+            "Ek Soru 1 — short and easy",
+            "Ek Soru 1 — indoors"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Exciting but exhausting.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "But = also tiring.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\n'Explore' means ...",
+          "options": [
+            "Ek Soru 1 — discover new places",
+            "Ek Soru 1 — stay home",
+            "Ek Soru 1 — hide",
+            "Ek Soru 1 — sleep"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Explore = keşfetmek.\n\n[GitHub Ek Test — Adventures]",
+          "ipucu": "New places.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Adventures",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

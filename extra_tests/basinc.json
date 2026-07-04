@@ -1,0 +1,418 @@
+{
+  "topicId": "basinc",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Basınç",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Ayni agirliktaki iki kutudan biri genis tabanla, digeri dar tabanla zemine konuyor.\n\nHangi kutu zemine daha buyuk basinc uygular?",
+          "options": [
+            "Ek Soru 1 — Genis tabanli",
+            "Ek Soru 1 — Dar tabanli",
+            "Ek Soru 1 — Ikisi esit",
+            "Ek Soru 1 — Zemine bagli degisir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Ayni kuvvette temas alani azaldikca basinç artar.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "P = F / A iliskisini hatirla.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Kar ayakkabisi normal ayakkabiya gore daha genis tabanlidir.\n\nBu tasarimin temel amaci nedir?",
+          "options": [
+            "Ek Soru 1 — Basinci artirmak",
+            "Ek Soru 1 — Basinci azaltmak",
+            "Ek Soru 1 — Agirligi artirmak",
+            "Ek Soru 1 — Sicakligi azaltmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yuzey alani artirilinca birim alana dusen kuvvet azalir ve batma zorlasir.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Temas alani buyurse basinç ne olur?",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Ayni sivinin bulundugu farkli sekildeki kaplarda esit derinlik noktalarina delik aciliyor.\n\nDeliklerden fiskirma uzakliklari neden benzerdir?",
+          "options": [
+            "Ek Soru 1 — Kap sekli belirleyicidir",
+            "Ek Soru 1 — Sivi miktari belirleyicidir",
+            "Ek Soru 1 — Esit derinlikte sivi basinci esittir",
+            "Ek Soru 1 — Taban alani belirleyicidir"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Sivi basinci derinlik ve yogunluga baglidir; kap sekli etkili degildir.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Ayni sivi + ayni derinlik ifadesini yakala.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: A kabinda su, B kabinda yag ayni derinliktedir. Suyun yogunlugu daha buyuktur.\n\nTabandaki basinç hangi kapta daha buyuktur?",
+          "options": [
+            "Ek Soru 1 — A",
+            "Ek Soru 1 — B",
+            "Ek Soru 1 — Esit",
+            "Ek Soru 1 — Belirlenemez"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Derinlik esitken yogunlugu buyuk olan sivinin olusturdugu basinç daha buyuktur.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "P = h.d.g iliskisinde yogunluk etkisini kullan.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Oto tamircisi hidrolik lift kullanarak araci az kuvvetle yukari kaldiriyor.\n\nBu duzenek hangi ilkeye dayanir?",
+          "options": [
+            "Ek Soru 1 — Arsimet ilkesi",
+            "Ek Soru 1 — Pascal prensibi",
+            "Ek Soru 1 — Bernoulli ilkesi",
+            "Ek Soru 1 — Atalet ilkesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sivilar uygulanan basinçi her yonde aynen ilettigi icin hidrolik sistemler calisir.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Sivida basinç iletimi ifadesine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Dag zirvesine cikildikca barometredeki deger dusuyor.\n\nBu durumun temel sebebi nedir?",
+          "options": [
+            "Ek Soru 1 — Yerin cekimi artar",
+            "Ek Soru 1 — Ustteki hava sutunu azalir",
+            "Ek Soru 1 — Sivi yogunlugu artar",
+            "Ek Soru 1 — Gunes isinlari azalir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yukseklere cikildikca uzerimizdeki hava miktari azalir, acik hava basinci duser.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Basinci olusturan hava sutununun agirligini dusun.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Pipetle icecek cekilirken pipet icindeki hava once azaltiliyor.\n\nSivinin yukselmesini saglayan basinç hangisidir?",
+          "options": [
+            "Ek Soru 1 — Kati basinç",
+            "Ek Soru 1 — Sivi basinç",
+            "Ek Soru 1 — Acik hava basinçi",
+            "Ek Soru 1 — Buhar basinçi"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Pipet icindeki basinç azalinca disardaki acik hava basinçi siviyi yukariya iter.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Disardan iten basinç turunu ara.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: Dort uygulama veriliyor: I-civi ucu sivriltme, II-kis lastigi disli yapi, III-hidrolik fren, IV-kar ayakkabisi.\n\nPascal prensibine ornek olan uygulama hangisidir?",
+          "options": [
+            "Ek Soru 1 — Yalniz I",
+            "Ek Soru 1 — Yalniz III",
+            "Ek Soru 1 — II ve IV",
+            "Ek Soru 1 — I ve II"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hidrolik fren sistemleri sivi basinç iletimi ile calisir.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Sivi bulunan kapali sistemleri dusun.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir ogrenci bicagini biletmeden domates kesmekte zorlanirken biledikten sonra daha kolay kestigini fark ediyor.\n\nBu durum hangi basinç degisimi ile aciklanir?",
+          "options": [
+            "Ek Soru 1 — Temas alani artar, basinç artar",
+            "Ek Soru 1 — Temas alani azalir, basinç artar",
+            "Ek Soru 1 — Kuvvet azalir, basinç artar",
+            "Ek Soru 1 — Kuvvet artar, basinç azalir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bicak ucu inceldikce temas alani azalir, ayni kuvvette basinç buyur.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Ayni kuvvet + daha kucuk alan sonucunu dusun.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Deney: Torricelli duzeneginde deniz seviyesinde civa yuksekligi 79 cm olculuyor.\n\nAyni duzenek daha yuksek rakima tasininca civa yuksekligi nasil degisir?",
+          "options": [
+            "Ek Soru 1 — Artar",
+            "Ek Soru 1 — Azalir",
+            "Ek Soru 1 — Ayni kalir",
+            "Ek Soru 1 — Iki katina cikar"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yuksekte acik hava basinçi azaldigi icin civa sutunu da daha kisa olur.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Rakim artisi basinçta azalma yapar.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Basınç",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Katı basıncı hangi formülle?",
+          "options": [
+            "Ek Soru 1 — F/A",
+            "Ek Soru 1 — A/F",
+            "Ek Soru 1 — F×A",
+            "Ek Soru 1 — F-A"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — P=F/A.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aynı kuvvetle dar yüzeyde basınç?",
+          "options": [
+            "Ek Soru 1 — Azalır",
+            "Ek Soru 1 — Artar",
+            "Ek Soru 1 — Değişmez",
+            "Ek Soru 1 — Sıfır"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Alan küçükse P büyük.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sıvı basıncı derinlikle?",
+          "options": [
+            "Ek Soru 1 — Azalır",
+            "Ek Soru 1 — Artar",
+            "Ek Soru 1 — Sabit",
+            "Ek Soru 1 — Sıfır"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — h artar P artar.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Açık hava basıncını kim gösterdi?",
+          "options": [
+            "Ek Soru 1 — Torricelli",
+            "Ek Soru 1 — Newton",
+            "Ek Soru 1 — Darwin",
+            "Ek Soru 1 — Galileo"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Torricelli.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Basınç birimi (SI)?",
+          "options": [
+            "Ek Soru 1 — Newton",
+            "Ek Soru 1 — Pascal",
+            "Ek Soru 1 — Joule",
+            "Ek Soru 1 — Watt"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Pascal.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Uçak kanadında basınç farkı?",
+          "options": [
+            "Ek Soru 1 — Kaldırma kuvveti",
+            "Ek Soru 1 — Ağırlık artar",
+            "Ek Soru 1 — Sürtünme yok",
+            "Ek Soru 1 — Isı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Bernoulli.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Pascal prensibi?",
+          "options": [
+            "Ek Soru 1 — Kapalı sıvıda basınç her yöne",
+            "Ek Soru 1 — Sadece aşağı",
+            "Ek Soru 1 — Sadece yukarı",
+            "Ek Soru 1 — Basınç yok"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Pascal.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Barometre ne ölçer?",
+          "options": [
+            "Ek Soru 1 — Sıcaklık",
+            "Ek Soru 1 — Açık hava basıncı",
+            "Ek Soru 1 — Hız",
+            "Ek Soru 1 — Kütle"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hava basıncı.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gaz basıncı hacim azalınca (sıcaklık sabit)?",
+          "options": [
+            "Ek Soru 1 — Azalır",
+            "Ek Soru 1 — Artar",
+            "Ek Soru 1 — Sabit",
+            "Ek Soru 1 — Sıfır"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Boyle.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Su seviyesinde sıvı basıncı sıfır mı?",
+          "options": [
+            "Ek Soru 1 — Evet",
+            "Ek Soru 1 — Hayır, derinlikle artar",
+            "Ek Soru 1 — Sabit sonsuz",
+            "Ek Soru 1 — Atmosfer yok"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Derinlikle artar.\n\n[GitHub Ek Test — Basınç]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Basınç",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

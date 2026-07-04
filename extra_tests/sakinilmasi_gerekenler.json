@@ -1,0 +1,418 @@
+{
+  "topicId": "sakinilmasi_gerekenler",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — İslam'ın Sakınılmasını İstediği Davranışlar",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Arkadaşının yokluğunda onun hakkında hoşlanmayacağı sözler söyleniyor.\n\nBu davranışa ne ad verilir?",
+          "options": [
+            "Ek Soru 1 — İftira",
+            "Ek Soru 1 — Gıybet",
+            "Ek Soru 1 — Haset",
+            "Ek Soru 1 — Riya"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Gıyabında hoşlanmayacağı şekilde konuşmaya gıybet denir.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Gıybet = arka planda konuşma.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir öğrenci, yapmadığı bir hırsızlığı başka birine yüklemeye çalışıyor.\n\nBu davranış hangi kavramdır?",
+          "options": [
+            "Ek Soru 1 — Gıybet",
+            "Ek Soru 1 — İftira",
+            "Ek Soru 1 — Haset",
+            "Ek Soru 1 — Tevekkül"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Asılsız suç yüklemek iftiradır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Asılsız suç = iftira.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir kişi arkadaşının başarılı olmasını içine sindiremiyor ve onun başarısız olmasını istiyor.\n\nBu tutum hangi davranıştır?",
+          "options": [
+            "Ek Soru 1 — Gıybet",
+            "Ek Soru 1 — Haset",
+            "Ek Soru 1 — Riya",
+            "Ek Soru 1 — Tevekkül"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Başkasının nimetini çekememek hasettir.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Kıskançlık = haset.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Namazı başkaları görsün diye abartılı şekilde kılan bir öğrenci.\n\nBu davranışa ne denir?",
+          "options": [
+            "Ek Soru 1 — Haset",
+            "Ek Soru 1 — Kibir",
+            "Ek Soru 1 — Riya",
+            "Ek Soru 1 — Gıybet"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — İbadeti gösteriş için yapmak riyadır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Gösteriş ibadeti = riya.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir esnaf, aldığı malın parasını ödemeyerek hakkı gasp ediyor.\n\nİslam'da bu tür haklara ne denir?",
+          "options": [
+            "Ek Soru 1 — Kader",
+            "Ek Soru 1 — Kul hakkı",
+            "Ek Soru 1 — Zekât",
+            "Ek Soru 1 — Sadaka"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İnsanların haklarını gasp etmek kul hakkıdır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "İnsan hakkı = kul hakkı.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Öğrenci 'Kul hakkı Allah affeder, sorun olmaz' diyor.\n\nDoğru anlayış hangisidir?",
+          "options": [
+            "Ek Soru 1 — Kul hakkı sahibinin rızası olmadan affedilmez",
+            "Ek Soru 1 — Kul hakkı yoktur",
+            "Ek Soru 1 — Sadece zekât önemlidir",
+            "Ek Soru 1 — Gıybet kul hakkı sayılmaz"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kul hakkı sahibinin affı gerekir; Allah dilerse affeder ama kul rızası şarttır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Kul hakkı özeldir.",
+          "difficulty": 4,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Sınavda kopya çekerek başkasının emeğini gasp eden öğrenci.\n\nBu davranış hangi gruba girer?",
+          "options": [
+            "Ek Soru 1 — İbadet",
+            "Ek Soru 1 — Sakınılması gereken haksızlık",
+            "Ek Soru 1 — Tevekkül",
+            "Ek Soru 1 — Zekât"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hile ve haksız kazanç sakınılması gereken davranışlardandır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Hile yasaktır.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Yalan söylemek İslam'da nasıl değerlendirilir?",
+          "options": [
+            "Ek Soru 1 — Mubah",
+            "Ek Soru 1 — Sakınılması gereken davranış",
+            "Ek Soru 1 — Farz",
+            "Ek Soru 1 — Vacip"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yalan doğruluğa aykırıdır; sakınılması gerekir.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Doğruluk esas.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: 'Gıybet ile iftira aynı şeydir' diyen öğrenci.\n\nDoğru açıklama hangisidir?",
+          "options": [
+            "Ek Soru 1 — Gıybet konuşma; iftira asılsız suç yüklemedir",
+            "Ek Soru 1 — İkisi de aynıdır",
+            "Ek Soru 1 — Gıybet daha ağırdır",
+            "Ek Soru 1 — İftira caizdir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Gıybet hoşlanılmayan konuşma; iftira yalan suç isnadıdır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Farkı bil.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Komşusunun eşyasını izinsiz alan bir kişi.\n\nBu davranış hangi yasak kapsamındadır?",
+          "options": [
+            "Ek Soru 1 — Sadaka",
+            "Ek Soru 1 — Hırsızlık – sakınılması gereken",
+            "Ek Soru 1 — Oruç",
+            "Ek Soru 1 — Hac"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hırsızlık kul hakkı gaspıdır; kesinlikle yasaktır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Hırsızlık yasak.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — İslam'ın Sakınılmasını İstediği Davranışlar",
+      "questions": [
+        {
+          "question": "Ek Soru 2 — Senaryo: Arkadaşının yokluğunda onun hakkında hoşlanmayacağı sözler söyleniyor.\n\nBu davranışa ne ad verilir?",
+          "options": [
+            "Ek Soru 2 — İftira",
+            "Ek Soru 2 — Gıybet",
+            "Ek Soru 2 — Haset",
+            "Ek Soru 2 — Riya"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Gıyabında hoşlanmayacağı şekilde konuşmaya gıybet denir.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Gıybet = arka planda konuşma.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Senaryo: Bir öğrenci, yapmadığı bir hırsızlığı başka birine yüklemeye çalışıyor.\n\nBu davranış hangi kavramdır?",
+          "options": [
+            "Ek Soru 2 — Gıybet",
+            "Ek Soru 2 — İftira",
+            "Ek Soru 2 — Haset",
+            "Ek Soru 2 — Tevekkül"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Asılsız suç yüklemek iftiradır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Asılsız suç = iftira.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Senaryo: Bir kişi arkadaşının başarılı olmasını içine sindiremiyor ve onun başarısız olmasını istiyor.\n\nBu tutum hangi davranıştır?",
+          "options": [
+            "Ek Soru 2 — Gıybet",
+            "Ek Soru 2 — Haset",
+            "Ek Soru 2 — Riya",
+            "Ek Soru 2 — Tevekkül"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Başkasının nimetini çekememek hasettir.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Kıskançlık = haset.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Senaryo: Namazı başkaları görsün diye abartılı şekilde kılan bir öğrenci.\n\nBu davranışa ne denir?",
+          "options": [
+            "Ek Soru 2 — Haset",
+            "Ek Soru 2 — Kibir",
+            "Ek Soru 2 — Riya",
+            "Ek Soru 2 — Gıybet"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — İbadeti gösteriş için yapmak riyadır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Gösteriş ibadeti = riya.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Senaryo: Bir esnaf, aldığı malın parasını ödemeyerek hakkı gasp ediyor.\n\nİslam'da bu tür haklara ne denir?",
+          "options": [
+            "Ek Soru 2 — Kader",
+            "Ek Soru 2 — Kul hakkı",
+            "Ek Soru 2 — Zekât",
+            "Ek Soru 2 — Sadaka"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — İnsanların haklarını gasp etmek kul hakkıdır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "İnsan hakkı = kul hakkı.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Senaryo: Öğrenci 'Kul hakkı Allah affeder, sorun olmaz' diyor.\n\nDoğru anlayış hangisidir?",
+          "options": [
+            "Ek Soru 2 — Kul hakkı sahibinin rızası olmadan affedilmez",
+            "Ek Soru 2 — Kul hakkı yoktur",
+            "Ek Soru 2 — Sadece zekât önemlidir",
+            "Ek Soru 2 — Gıybet kul hakkı sayılmaz"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Kul hakkı sahibinin affı gerekir; Allah dilerse affeder ama kul rızası şarttır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Kul hakkı özeldir.",
+          "difficulty": 4,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Senaryo: Sınavda kopya çekerek başkasının emeğini gasp eden öğrenci.\n\nBu davranış hangi gruba girer?",
+          "options": [
+            "Ek Soru 2 — İbadet",
+            "Ek Soru 2 — Sakınılması gereken haksızlık",
+            "Ek Soru 2 — Tevekkül",
+            "Ek Soru 2 — Zekât"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Hile ve haksız kazanç sakınılması gereken davranışlardandır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Hile yasaktır.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Yalan söylemek İslam'da nasıl değerlendirilir?",
+          "options": [
+            "Ek Soru 2 — Mubah",
+            "Ek Soru 2 — Sakınılması gereken davranış",
+            "Ek Soru 2 — Farz",
+            "Ek Soru 2 — Vacip"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Yalan doğruluğa aykırıdır; sakınılması gerekir.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Doğruluk esas.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Senaryo: 'Gıybet ile iftira aynı şeydir' diyen öğrenci.\n\nDoğru açıklama hangisidir?",
+          "options": [
+            "Ek Soru 2 — Gıybet konuşma; iftira asılsız suç yüklemedir",
+            "Ek Soru 2 — İkisi de aynıdır",
+            "Ek Soru 2 — Gıybet daha ağırdır",
+            "Ek Soru 2 — İftira caizdir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Gıybet hoşlanılmayan konuşma; iftira yalan suç isnadıdır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Farkı bil.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Senaryo: Komşusunun eşyasını izinsiz alan bir kişi.\n\nBu davranış hangi yasak kapsamındadır?",
+          "options": [
+            "Ek Soru 2 — Sadaka",
+            "Ek Soru 2 — Hırsızlık – sakınılması gereken",
+            "Ek Soru 2 — Oruç",
+            "Ek Soru 2 — Hac"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Hırsızlık kul hakkı gaspıdır; kesinlikle yasaktır.\n\n[GitHub Ek Test — İslam'ın Sakınılmasını İstediği Davranışlar]",
+          "ipucu": "Hırsızlık yasak.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Sakınılması Gereken Davranışlar",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

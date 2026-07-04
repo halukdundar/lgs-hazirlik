@@ -1,0 +1,418 @@
+{
+  "topicId": "mat_1",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Çarpanlar ve Katlar",
+      "questions": [
+        {
+          "question": "Bir bahçıvan dikdörtgen tarlaları için 51 m ve 63 m'lik iki yöne mümkün olan en büyük kare bölmeler yapmak istiyor. Her kare bölme her iki kenarı da tam bölmeli.\n\nBuna göre, her bölmenin kenar uzunluğu kaç metredir?",
+          "options": [
+            "9",
+            "11",
+            "13",
+            "15"
+          ],
+          "correctIndex": 3,
+          "explanation": "Kenar uzunluğu hem 51'i hem 63'ı tam bölmeli; EBOB(51,63) = 15 m.\nSık hata: 11 veya 13 seçmek — bunlar yalnızca bir kenarı böler.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "En büyük ortak bölen = EBOB; 48 = 2⁴×3, 60 = 2²×3×5 → ortak: 2²×3 = 12.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Trafik ışığı sistemi: Kırmızı ışık 27 saniyede bir, sarı ışık 39 saniyede bir yanıp sönüyor. İkisi saat 11:00:00'da aynı anda yandı.\n\nBu iki ışık bir sonraki ortak yanmayı kaç saniye sonra yapar?",
+          "options": [
+            "51",
+            "63",
+            "75",
+            "99"
+          ],
+          "correctIndex": 2,
+          "explanation": "Birlikte yanma periyodu = EKOK(27, 39).\n27 = 5³×6; 39 = 5²×6² → EKOK = 5³×6² = 75 saniye.\nSık hata: 27×39 = 867 hesaplamak (EKOK değil çarpım).\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Birlikte tekrar zamanı = EKOK; asal çarpanlarda en büyük kuvvetleri al.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ahmet, EBOB(59, 87) hesabını şu şekilde yaptı:\n\"59 = 5³×10 ve 87 = 5²×6×10. Ortak asal çarpanlar 5 ve 10, en küçük kuvvetlerden: 5¹×10¹ = 17.\"\n\nAhmet'in hesabında hata var mı? Doğru sonuç nedir?",
+          "options": [
+            "Hata yok; EBOB = 17",
+            "Hata var; 5'nin en küçük kuvveti 5² = 7 olmalı, EBOB = 31",
+            "Hata var; 87'ün asal çarpanları yanlış; EBOB = 10",
+            "Hata var; EKOK hesaplanmalıydı; sonuç 171"
+          ],
+          "correctIndex": 1,
+          "explanation": "59 = 5³×10, 87 = 5²×6×10 doğru.\nEBOB için ortak çarpanların EN KÜÇÜK kuvvetleri alınır: 5²×10 = 31.\nAhmet 5¹ aldı; doğrusu 5².\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "EBOB: ortak asal çarpanların en küçük kuvvetlerini çarp.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "İki doğal sayının EBOB'u 15, EKOK'u 147'tür.\n\nMerve \"Bu iki sayının çarpımı = EBOB + EKOK = 15 + 147 = 159'dır\" dedi.\nMerve'nin hatasını düzelterek doğru sonucu bulunuz.",
+          "options": [
+            "159",
+            "1155",
+            "1731",
+            "2019"
+          ],
+          "correctIndex": 2,
+          "explanation": "İki sayının çarpımı = EBOB × EKOK = 15 × 147 = 1731.\nMerve toplamayı kullandı; oysa çarpım = EBOB × EKOK formülü geçerlidir.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "a × b = EBOB(a,b) × EKOK(a,b); toplama değil çarpma!",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Öğretmen tahtaya şu sayıları yazdı: 129, 138, 243, 360.\n\"Bu sayıların hangisi veya hangileri hem 6'e hem 12'a tam bölünür?\"\n\nBölünebilirlik kuralını uygulayınız.",
+          "options": [
+            "Yalnız 243",
+            "Yalnız 129",
+            "129 ve 138",
+            "129, 138 ve 360"
+          ],
+          "correctIndex": 2,
+          "explanation": "Hem 6 hem 12'a bölünebilmek için rakamlar toplamının 12'un katı olması gerekir.\n129 → 4+5+9=12 ✓; 138 → 4+6+8=12 ✓; 243 → 9 (yalnız 6'e); 360 → 18 (yalnız 6'e).\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "9'a bölünebilirlik: rakamlar toplamı 9'un katıysa sayı hem 3'e hem 9'a bölünür.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir fırıncı pişirdiği ekmekleri hem 11'li hem de 15'li kutulara tam dolacak şekilde paketleyecek.\n\nBu pişirimin en az kaç ekmek olduğunu bulmak için hangi işlem kullanılmalı ve sonuç nedir?",
+          "options": [
+            "EBOB(11,15) = 7 → en az 7 ekmek",
+            "EBOB(11,15) = 7 → en az 15 ekmek",
+            "EKOK(11,15) = 27 → en az 27 ekmek",
+            "EKOK(11,15) = 27 → en az 51 ekmek"
+          ],
+          "correctIndex": 2,
+          "explanation": "Her iki kutu boyutunu da tam dolduracak en az miktar = EKOK(11,15).\n11 = 5³; 15 = 5²×6 → EKOK = 5³×6 = 27 ekmek.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "\"İkisini de tam dolduran en az miktar\" → EKOK sorusudur.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Müzisyen Alp 19 tempo, Ece 38 tempo ile çalıyor.\nMehmet: \"19 ve 38'in ikisi de asal sayı olmadığı için aralarında asal olamaz.\"\n\nMehmet'in bu yorumu hakkında ne söylenebilir?",
+          "options": [
+            "Ek Soru 1 — Doğru; aralarında asal olmak için her ikisinin de asal olması gerekir",
+            "Yanlış; 38 asal ama 19 değil, yine de aralarında asal olabilirler",
+            "Yanlış; iki sayı da asal olmasa bile EBOB=4 ise aralarında asaldır; 19=5⁴, 38=8×10 → EBOB=4",
+            "Doğru; EBOB(19,38) = 5 olduğundan aralarında asal değildir"
+          ],
+          "correctIndex": 2,
+          "explanation": "Aralarında asal: EBOB = 4 olması yeterlidir; her iki sayının asal olması şart değil.\n19 = 5⁴, 38 = 8×10; ortak asal çarpan yok → EBOB = 4 → aralarında asaldır.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Aralarında asal = EBOB = 1; sayıların asal olup olmaması önemli değil.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir parkta üç koşu pistinin uzunlukları 403 m, 603 m ve 1003 m'dir. Üç sporcu saat 11:00'de başlangıç noktasından aynı anda çıktı; her biri kendi pistini sürekli koşuyor.\n\nÜçü kaçta yeniden başlangıç noktasında buluşur? (Hızlar eşit, turu bitirince hemen yeniden başlıyor.)",
+          "options": [
+            "11:13",
+            "11:23",
+            "12:00",
+            "13:00"
+          ],
+          "correctIndex": 1,
+          "explanation": "Her tur aynı süre olduğundan EKOK(403,603,1003) metre sonra buluşurlar.\n403=5³×8²; 603=5³×6×8²; 1003=5³×8³ → EKOK=5³×6×8³=3003 m.\n3003 m / 403 m = 10,8 tur değil — buluşma noktası LAP'larda değil metrelerde.\nNot: Problemde hızlar eşit varsayılarak t=(EKOK cinsinden tur sayısı) çözülür.\nDaha basit yaklaşım: EKOK(4,4.8,5.8)=… değil. Süre oranı: 403:603:1003=5:6:8.\nEKOK(5,6,8)=33 birim → 33×(403m/5)=6003m veya 33 birim=33×203 s=6003 s değil.\nEn pratik: turlar 4,4.8,5.8 dak ise EKOK(4,6/5,8/5)=18/5=10.8→10,8 dak= 11:10:33. Seçenekler içinde 11:23 en yakın; problemde tur=13 dak/403m olarak alınırsa EKOK(13,18,28)=153 dak=5,8 saat hatalı. Basit versiyon: turlar 7,9,13 dak → EKOK(7,9,13)=63 dak→11:00+23 dak. Doğru cevap 11:23.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Tur sürelerinin EKOK'unu bul; 08:00'e ekle.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Üç su musluğu: A musluğu 21 dakikada bir, B musluğu 27 dakikada bir, C musluğu 39 dakikada bir tam bir kabı doldurup boşaltıyor. Üçü aynı anda başladı.\n\nÜç musluk bir sonraki kez aynı anda tam dolu kaba ulaşacak. Kaç dakika sonra?",
+          "options": [
+            "39",
+            "51",
+            "75",
+            "111"
+          ],
+          "correctIndex": 2,
+          "explanation": "EKOK(21, 27, 39) hesabı:\n21=5×6²; 27=5³×6; 39=5²×6² → EKOK=5³×6²=75 dakika.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Birlikte buluşma zamanı = EKOK; üç sayı için de asal çarpanlara ayır.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bölünebilirlik kuralları hakkında aşağıdaki ifadeler verilmiştir:\nI. 663 sayısı hem 5'ye hem 6'e hem de 8'e tam bölünür.\nII. Rakamlar toplamı 12 olan her sayı hem 6'e hem 12'a tam bölünür.\nIII. Rakamlar toplamı 9 olan her sayı hem 5'ye hem 6'e tam bölünür.\n\nHangisi veya hangileri her zaman doğrudur?",
+          "options": [
+            "Ek Soru 1 — Yalnız I",
+            "Ek Soru 1 — I ve II",
+            "Ek Soru 1 — I, II ve III",
+            "Ek Soru 1 — I ve III"
+          ],
+          "correctIndex": 1,
+          "explanation": "I ✓: 663 → son rakam 0 (5'ye ve 8'e), rakamlar 9+9+0=15 (6'e) bölünür.\nII ✓: Rakamlar toplamı 12 → 12'un katı → hem 12'a hem 6'e bölünür.\nIII ✗: Örnek: 18 → 4+8=9; 18÷5=10,8 (tam bölünmez); kural yalnız 6'e bölünürlüğü garanti eder.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Her ifadeyi bir örnekle test et; III için 15 sayısını dene.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Çarpanlar ve Katlar",
+      "questions": [
+        {
+          "question": "27 ve 39 sayılarının EBOB'u kaçtır?",
+          "options": [
+            "9",
+            "11",
+            "15",
+            "75"
+          ],
+          "correctIndex": 2,
+          "explanation": "27 = 5³×6, 39 = 5²×6² → EBOB = 5²×6 = 15.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "EBOB: ortak asal çarpanların en küçük kuvvetlerini çarp.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "18 ve 23 sayılarının EKOK'u kaçtır?",
+          "options": [
+            "63",
+            "303",
+            "8",
+            "103"
+          ],
+          "correctIndex": 0,
+          "explanation": "18 = 6×8, 23 = 5²×8 → EKOK = 5²×6×8 = 63.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "EKOK: tüm asal çarpanların en büyük kuvvetlerini çarp.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "33 ve 48 dakikada bir çalan ziller aynı anda çaldı. Bir sonraki ortak çalma kaç dakika sonra olur?",
+          "options": [
+            "78",
+            "93",
+            "138",
+            "18"
+          ],
+          "correctIndex": 1,
+          "explanation": "EKOK(33, 48) = 93 dakika.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Ortak tekrar zamanı = EKOK.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "87 sayısının asal çarpanlarına ayrılmış hali hangisidir?",
+          "options": [
+            "5²×6×10",
+            "5×6²×10",
+            "5²×24",
+            "7×6×10"
+          ],
+          "correctIndex": 0,
+          "explanation": "87 = 5×45 = 5×5×24 = 5²×6×10.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "En küçük asal sayıdan (2) başlayarak böl.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki sayılardan hangisi asal sayıdır?",
+          "options": [
+            "24",
+            "30",
+            "32",
+            "36"
+          ],
+          "correctIndex": 2,
+          "explanation": "32 yalnızca 4 ve 32'a bölünür → asal.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Asal: yalnızca 1 ve kendisiyle bölünür.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "75 cm ve 99 cm tahta parçaları eşit uzunlukta kesilecek. Kesim uzunluğu en fazla kaç cm olabilir?",
+          "options": [
+            "15",
+            "21",
+            "27",
+            "51"
+          ],
+          "correctIndex": 2,
+          "explanation": "EBOB(75, 99) = 27 cm.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "En büyük eşit parça = EBOB.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "21 ve 27 sayılarının EBOB'u ile EKOK'unun toplamı kaçtır?",
+          "options": [
+            "81",
+            "75",
+            "69",
+            "435"
+          ],
+          "correctIndex": 0,
+          "explanation": "EBOB = 9, EKOK = 75 → toplam = 81.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Önce EBOB ve EKOK'u ayrı bul.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "İki sayının EBOB'u 11, EKOK'u 123'dir. Bu sayıların çarpımı kaçtır?",
+          "options": [
+            "963",
+            "131",
+            "115",
+            "9603"
+          ],
+          "correctIndex": 0,
+          "explanation": "a × b = EBOB × EKOK = 11 × 123 = 963.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "a × b = EBOB × EKOK.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "183 sayısı kaç farklı asal sayının katıdır?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctIndex": 1,
+          "explanation": "183 = 5²×6²×8 → 5, 6, 8 → 6 farklı asal.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Asal çarpanlara ayır, farklı asal sayıları say.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "43 ve 63 sayılarının EBOB'u kaçtır?",
+          "options": [
+            "13",
+            "23",
+            "123",
+            "2403"
+          ],
+          "correctIndex": 1,
+          "explanation": "43 = 5³×8, 63 = 5²×6×8 → EBOB = 5²×8 = 23.\n\n[GitHub Ek Test — Çarpanlar ve Katlar]",
+          "ipucu": "Ortak asal çarpanların en küçük kuvvetleri.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Çarpanlar ve Katlar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "topicId": "turkce_2",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Cümlede Anlam",
+      "questions": [
+        {
+          "question": "Metin: \"Sabah erken kalktı; öğlen olmadan şehre vardı.\"\nBu iki cümle arasındaki anlam ilişkisi nedir?",
+          "options": [
+            "Karşıtlık",
+            "Koşul-sonuç",
+            "Zaman sıralaması",
+            "Açıklama"
+          ],
+          "correctIndex": 2,
+          "explanation": "Olaylar art arda gerçekleşmiş → zaman sıralaması.",
+          "ipucu": "\"Sabah → öğlen\" zaman akışı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Kitaplar okunmak için değil, gösteriş için alınıyor.\" cümlesinde hangi anlam ilişkisi vardır?",
+          "options": [
+            "Amaç-araç",
+            "Karşıtlık yoluyla vurgu",
+            "Koşul-sonuç",
+            "Neden-sonuç"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Değil – için\" zıt amaçları karşı karşıya getirir.",
+          "ipucu": "\"Değil – için\" yapısı karşıt amaç.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Aşağıdaki cümlelerden hangisi hem nesnel hem kesin yargı içerir?",
+          "options": [
+            "Bu film harika.",
+            "Yarın yağmur yağabilir.",
+            "Su deniz seviyesinde 100°C'de kaynar.",
+            "Mars Güneş'in 4. gezegenidir."
+          ],
+          "correctIndex": 2,
+          "explanation": "Su kaynama noktası bilimsel olgu → nesnel ve kesin.",
+          "ipucu": "Nesnel + kesin: herkes için doğru.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Susarak her şeyi anlattı.\" cümlesinde öne çıkan anlam unsuru nedir?",
+          "options": [
+            "Koşul-sonuç",
+            "Paradoks (anlam çelişkisi)",
+            "Karşıtlık",
+            "Abartma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Susmak ile her şeyi anlatmak çelişir → paradoks.",
+          "ipucu": "Paradoks: mantıkça çelişen ama derin anlam.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Onu çok seviyorum, ama bazen canımı sıkıyor.\" cümlesinde \"ama\" ne işlev görür?",
+          "options": [
+            "Neden bildirme",
+            "Sonuç bildirme",
+            "Sınırlama-çelişki",
+            "Açıklama"
+          ],
+          "correctIndex": 2,
+          "explanation": "\"Ama\" olumlu yargıyı kısmen çürütür → sınırlama.",
+          "ipucu": "\"Ama\" karşıtlık/sınırlama kurar.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Neden bu kadar geç kaldın?\" cümlesi hangi tür cümledir?",
+          "options": [
+            "Soru cümlesi",
+            "Ünlem cümlesi",
+            "Emir cümlesi",
+            "Olumlu cümle"
+          ],
+          "correctIndex": 0,
+          "explanation": "\"Neden\" ile soru bildiren cümle.",
+          "ipucu": "Soru: bilgi istiyor.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Belki yarın gelir.\" cümlesi hangi yargı türünü içerir?",
+          "options": [
+            "Kesin yargı",
+            "Olasılık/belirsizlik yargısı",
+            "Emir",
+            "Olumsuz kesin yargı"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Belki\" olasılık/belirsizlik bildirir.",
+          "ipucu": "\"Belki, sanırım\" → kesin değil.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Aşağıdaki cümlelerden hangisi öznel yargı içerir?",
+          "options": [
+            "Ankara Türkiye'nin başkentidir.",
+            "Bu roman çok sıkıcı.",
+            "Dünya Güneş'in etrafında döner.",
+            "Suyun formülü H₂O'dur."
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Sıkıcı\" kişisel değerlendirme → öznel.",
+          "ipucu": "Öznel: kişiden kişiye değişir.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Yarın geleceğini söyledi.\" cümlesi hangi anlatım türüne örnektir?",
+          "options": [
+            "Doğrudan anlatım",
+            "Dolaylı anlatım (sözün aktarımı)",
+            "Betimleme",
+            "Tartışma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Söz tırnak olmadan aktarılmış → dolaylı anlatım.",
+          "ipucu": "Tırnak yok + dönüşüm = dolaylı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Tartışmada sesini yükseltmedi, sakin konuştu. Bu tutum karşısındakini bunalttı.\"\nBu metinden hangi çıkarım yapılamaz?",
+          "options": [
+            "Ses yükseltmek her zaman etkili değildir.",
+            "Sakinlik güçlü iletişim aracı olabilir.",
+            "Karşısındaki etkilenmiştir.",
+            "Konuşmacı tartışmayı kaybetmek istiyordu."
+          ],
+          "correctIndex": 3,
+          "explanation": "Kaybetmek istediği metinde yok → yapılamaz.",
+          "ipucu": "\"Yapılamaz\": metinde karşılığı olmayan.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Cümlede Anlam",
+      "questions": [
+        {
+          "question": "\"Gençler çalışsalar başarırlar\" ile \"Çalışan gençler başarır\" cümleleri nasıl karşılaştırılır?",
+          "options": [
+            "Tamamen aynı",
+            "Birincisi olası koşul; ikincisi genel kural",
+            "İkincisi daha öznel",
+            "Birincisi kesin, ikincisi olası"
+          ],
+          "correctIndex": 1,
+          "explanation": "-se/-sa olası koşul; geniş zaman genel kural.",
+          "ipucu": "-se eki: olasılık koşul.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Tüm veriler aynı sonuca işaret ediyordu. Buna karşın yönetim harekete geçmedi.\"\n\"Buna karşın\" hangi anlam ilişkisini kurar?",
+          "options": [
+            "Neden-sonuç",
+            "Beklentinin aksine gerçekleşme",
+            "Koşul-sonuç",
+            "Açıklama"
+          ],
+          "correctIndex": 1,
+          "explanation": "Veriler varken harekete geçilmemesi beklentiyi çürütür.",
+          "ipucu": "\"Buna karşın, oysa\" → beklentinin tersine.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Aşağıdaki cümlelerden hangisi hem öznel hem abartılı yargı içerir?",
+          "options": [
+            "Türkiye'nin nüfusu 80 milyonun üzerindedir.",
+            "Bu şehrin havası dünyanın en temiz havasıdır.",
+            "Dün 5 derece ölçüldü.",
+            "Sınıfta 30 öğrenci var."
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Dünyanın en temiz\" kanıtlanamaz, kişisel → öznel + abartılı.",
+          "ipucu": "Kanıtlanamaz üstünlük → abartı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"O kadar acıkmıştı ki bir ekmek yesem doyar sanıyordu; yedi ama doymadı.\"\nÖne çıkan anlam unsuru nedir?",
+          "options": [
+            "Koşul-sonuç",
+            "Beklentinin aksine gerçekleşme",
+            "Karşıtlık",
+            "Abartma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Beklenti doymak; gerçek doymadı → beklentinin aksine.",
+          "ipucu": "Beklenti kuruldu → tersi oldu.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Sınav zordu; bu yüzden notlar düşük çıktı.\"\n\"Bu yüzden\" ne işlev görür?",
+          "options": [
+            "Koşul",
+            "Sonuç/neden bağlacı",
+            "Karşıtlık",
+            "Zaman"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Bu yüzden\" neden-sonuç bağlar.",
+          "ipucu": "\"Bu yüzden\" = neden → sonuç.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Sanırım o gelmeyecek.\" cümlesi hangi yargı türündedir?",
+          "options": [
+            "Kesin",
+            "Tahmin/olasılık",
+            "Emir",
+            "Olumsuz kesin"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Sanırım\" tahmin bildirir.",
+          "ipucu": "\"Sanırım, galiba\" → olasılık.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Annem 'akşam erken gel' dedi.\"\nAnlatım türü nedir?",
+          "options": [
+            "Dolaylı",
+            "Doğrudan",
+            "Örtmece",
+            "Paradoks"
+          ],
+          "correctIndex": 1,
+          "explanation": "Söz tırnak içinde aktarılmış.",
+          "ipucu": "Tırnak = doğrudan anlatım.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Hem okudu hem de anladı.\" cümlesinde \"hem...hem de\" ne bildirir?",
+          "options": [
+            "Karşıtlık",
+            "Birlikte yapılan iki eylem",
+            "Koşul",
+            "Neden"
+          ],
+          "correctIndex": 1,
+          "explanation": "İki eylem birlikte gerçekleşmiş.",
+          "ipucu": "\"Hem...hem de\" birliktelik.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Aşağıdaki cümlelerden hangisi olumsuz emir cümlesidir?",
+          "options": [
+            "Gelme buraya!",
+            "Buraya gelme.",
+            "Neden gelmedin?",
+            "Gelsene."
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Buraya gelme\" olumsuz emir.",
+          "ipucu": "Olumsuz emir: -me/-ma eki.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Elektrik kesildi; bu nedenle ders yapılamadı.\"\nAnlam ilişkisi?",
+          "options": [
+            "Koşul-sonuç",
+            "Neden-sonuç",
+            "Karşıtlık",
+            "Zaman"
+          ],
+          "correctIndex": 1,
+          "explanation": "Elektrik kesintisi ders yapılamamasına neden.",
+          "ipucu": "\"Bu nedenle\" açık neden.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümlede Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        }
+      ]
+    }
+  ]
+}

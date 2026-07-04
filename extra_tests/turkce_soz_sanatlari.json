@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_soz_sanatlari",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Söz Sanatları (Edebi Sanatlar)",
+      "questions": [
+        {
+          "question": "\"Zaman seni yavaşça eritiyor, tıpkı güneşin buzu eritmesi gibi.\"\n\nBu cümlede kullanılan söz sanatı aşağıdakilerden hangisidir?",
+          "options": [
+            "Kişileştirme (teşhis)",
+            "Teşbih (benzetme)",
+            "Kinaye",
+            "Telmih"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cümlede \"zaman\" ile \"güneşin buzu eritmesi\" karşılaştırılmaktadır. \"Tıpkı … gibi\" benzetme edatı ve her iki taraf da açıkça verildiğinden bu teşbih (benzetme) sanatıdır. Kişileştirme için zamana insan özelliği verilmesi, kinaye için mecazlı kullanım, telmih için tarihî/edebi bir olaya gönderme gerekir.\n\nKaynak: MEB LGS 2024 A kitapçığı, Türkçe Soru 22. Doğru cevap: B.",
+          "ipucu": "\"Tıpkı … gibi\" kalıbı hangi sanatın belirtisidir?",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "MEB Çıkmış Soru",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Çocuklar sahada rüzgâr gibi koştu.\" cümlesinde kullanılan söz sanatı nedir?",
+          "options": [
+            "Ek Soru 1 — Abartma",
+            "Ek Soru 1 — Kişileştirme",
+            "Ek Soru 1 — Teşbih",
+            "Ek Soru 1 — Ad aktarması"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Gibi\" benzetme edatı iki unsuru (çocuklar – rüzgâr) karşılaştırmaktadır. Benzetme edatı olan her karşılaştırma teşbihtir.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "\"Gibi / kadar / sanki / -mış gibi\" benzetme edatlarını gördüğünde → teşbih. Edat yoksa istiare olabilir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Bahar gelince çiçekler güler, ağaçlar dans eder.\" cümlesinde kullanılan söz sanatı nedir?",
+          "options": [
+            "Ek Soru 1 — Teşbih",
+            "Ek Soru 1 — Tezat",
+            "Ek Soru 1 — Abartma",
+            "Ek Soru 1 — Kişileştirme"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Gülmek\" ve \"dans etmek\" insana özgü eylemler, cansız varlıklara (çiçek, ağaç) atfedilmiştir. Cansıza insan özelliği vermek → kişileştirme (teşhis).\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Kişileştirme testi: sözcük cansız bir varlık mı? Ve ona insan eylemi/duygusu mu verilmiş? İkisi de evet → kişileştirme.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"O kadar çok ağladı ki gözyaşları sel oldu.\" cümlesinde kullanılan söz sanatı nedir?",
+          "options": [
+            "Ek Soru 1 — Teşbih",
+            "Ek Soru 1 — Abartma",
+            "Ek Soru 1 — Tezat",
+            "Ek Soru 1 — İstiare"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Gözyaşlarının sel olması fiziksel olarak mümkün değildir; gerçek olamayacak ölçüde büyütme yapılmıştır. Bu abartma (mübalağa) sanatıdır.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Abartma testi: cümle gerçek mi yoksa imkânsız bir ölçek mi içeriyor? \"Sel oldu, deniz kadar, dağları taşır\" → gerçek olamaz → abartma.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Gülerek ağlıyor, sevinçle hüzünleniyor.\" cümlesinde hangi söz sanatı kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Teşbih",
+            "Ek Soru 1 — Abartma",
+            "Ek Soru 1 — Tezat",
+            "Ek Soru 1 — Kişileştirme"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Gülmek-ağlamak\" ve \"sevinç-hüzün\" birbiriyle zıt kavramlardır ve bir arada kullanılmıştır. Zıt kavramların bir arada bulunması → tezat sanatı.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Tezat testi: cümlede birbirinin karşıtı anlamdaki sözcükler bir arada mı? \"Güler-ağlar, genç-yaşlı, sıcak-soğuk\" → tezat.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Dünya bu gelişmeden çok etkilendi.\" cümlesinde \"dünya\" kelimesinin kullanımı hangi söz sanatına örnektir?",
+          "options": [
+            "Ek Soru 1 — Abartma – gerçek olamayacak kadar büyütülmüş",
+            "Ek Soru 1 — Tezat – zıt kavramlar bir arada",
+            "Ek Soru 1 — Ad aktarması – bütün (dünya) söylenip parça (insanlar/ülkeler) kastedilmiş",
+            "Ek Soru 1 — Kişileştirme"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Dünya\" gerçekte tüm gezegenin etkilendiğini değil, bazı insanların/ülkelerin etkilendiğini ifade eder. Bütünü söyleyip parçayı kastetmek → ad aktarması (mecaz-ı mürsel).\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Ad aktarması: bir bütün adının parçası için, ya da bir parça adının bütünü için kullanılması. \"Ankara karar aldı\" (şehir = hükümet), \"dünya etkilendi\" (gezegen = insanlar).",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Aslanım, bu zorlu sınavdan asla çekinme!\" cümlesinde bir öğrenciye sesleniyor ve \"aslan\" söyleniyor. Hangi söz sanatı kullanılmaktadır?",
+          "options": [
+            "Ek Soru 1 — Teşbih – \"gibi\" edatı var",
+            "Ek Soru 1 — Tezat",
+            "Ek Soru 1 — Açık istiare – benzetilen (aslan) söylenmiş, benzeyen (öğrenci) söylenmemiş",
+            "Ek Soru 1 — Kişileştirme"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Benzetme edatı (\"gibi\") kullanılmamış; ancak öğrenci \"aslan\" olarak adlandırılmıştır. Benzetilen (aslan) söylenmiş, benzeyen (öğrenci) cümlede söylenmemiş. Bu açık istiaredir.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Açık istiare: benzetme edatı YOK + benzetilen (aslan, kartal, gül…) SÖYLENMİŞ + benzeyen (gerçek kişi/şey) SÖYLENMEMİŞ. Edat varsa teşbih.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Pembe yanakları kiraz gibi kızarmıştı.\" cümlesindeki teşbihin unsurlarını doğru veren seçenek hangisidir?",
+          "options": [
+            "Ek Soru 1 — Benzeyen: kiraz, benzetilen: yanaklar, edat: gibi",
+            "Ek Soru 1 — Benzeyen: yanaklar, benzetilen: kiraz, edat: gibi, benzetme yönü: kırmızılık/kızarma",
+            "Ek Soru 1 — Benzeyen: kiraz, benzetilen: kızarmak, edat: gibi",
+            "Ek Soru 1 — Benzeyen: pembe, benzetilen: kiraz, edat: yok"
+          ],
+          "correctIndex": 1,
+          "explanation": "Teşbihin 7 unsuru: benzeyen (yanaklar – asıl konu), benzetilen (kiraz – karşılaştırılan), benzetme edatı (gibi), benzetme yönü (kırmızılık). B tüm unsurları doğru sıralamıştır.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Teşbih 4 unsuru: BENZEYen (asıl nesne) + BENZETİLen (karşılaştırılan) + EDAT (gibi/kadar) + YÖN (ortak özellik). B-E-Y şablonunu kullan.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Dağlar susuyor, dereler fısıldıyor.\" dizesinde hangi söz sanatı baskın biçimde kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Tezat",
+            "Ek Soru 1 — Abartma",
+            "Ek Soru 1 — Kişileştirme",
+            "Ek Soru 1 — Ad aktarması"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Susmak\" ve \"fısıldamak\" insana özgü eylemler, cansız varlıklara (dağlar, dereler) atfedilmiştir. Bu kişileştirme sanatıdır.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Kişileştirme: cansız varlıklara insan eylemi (konuşmak, susmak, düşünmek, ağlamak) verilmesidir. \"Dağ susuyor\" → dağ cansız ama susmak insana özgü → kişileştirme.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerden hangisinde teşbih (benzetme) söz sanatı yoktur?",
+          "options": [
+            "Ek Soru 1 — Sesi bal kadar tatlıydı.",
+            "Ek Soru 1 — Kar yağıyor, her yer beyaza bürünüyor.",
+            "Ek Soru 1 — Çalışkanlığı karınca gibi bir taşımacılığa benziyordu.",
+            "Ek Soru 1 — Gözleri kömür kadar kararmıştı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B cümlesinde herhangi bir benzetme edatı (gibi, kadar, sanki) ve iki unsur karşılaştırması yoktur; doğrudan fiziksel betimleme yapılmaktadır. A, C, D'de \"kadar/gibi\" benzetme edatı vardır.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "\"Teşbih yok\" sorusunda: benzetme edatı arama. \"gibi, kadar, sanki, -mış gibi\" varsa teşbih var, yoksa teşbih yok.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Söz Sanatları (Edebi Sanatlar)",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+          "options": [
+            "Ek Soru 1 — \"Güneş bir aslan gibi ufku tutuşturdu.\" – Teşbih",
+            "Ek Soru 1 — \"Dağlar fısıldıyor, ovalar suskunlaşıyor.\" – Kişileştirme",
+            "Ek Soru 1 — \"Bu kadar zorlu görev karşısında Ankara sessiz kaldı.\" – Abartma",
+            "Ek Soru 1 — \"O kadar ağladı ki nehirler taştı.\" – Abartma"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Ankara sessiz kaldı\" ifadesinde \"Ankara\" şehir adı söylenip Türk hükümeti/devleti kastedilmektedir. Bu ad aktarması (mecaz-ı mürsel) sanatıdır, abartma değil.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Ad aktarması sinyal: yer adı (Ankara, Brüksel, Washington) söylenip o yerde karar alan kurum/kişi kastediliyorsa → ad aktarması. Ölçek büyütme yoksa abartma değil.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Çocuklar sahada rüzgâr gibi koştu.\" cümlesinde kullanılan söz sanatı nedir?",
+          "options": [
+            "Ek Soru 2 — Abartma",
+            "Ek Soru 2 — Kişileştirme",
+            "Ek Soru 2 — Teşbih",
+            "Ek Soru 2 — Ad aktarması"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Gibi\" benzetme edatı iki unsuru (çocuklar – rüzgâr) karşılaştırmaktadır. Benzetme edatı olan her karşılaştırma teşbihtir.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "\"Gibi / kadar / sanki / -mış gibi\" benzetme edatlarını gördüğünde → teşbih. Edat yoksa istiare olabilir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Bahar gelince çiçekler güler, ağaçlar dans eder.\" cümlesinde kullanılan söz sanatı nedir?",
+          "options": [
+            "Ek Soru 2 — Teşbih",
+            "Ek Soru 2 — Tezat",
+            "Ek Soru 2 — Abartma",
+            "Ek Soru 2 — Kişileştirme"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 2 — \"Gülmek\" ve \"dans etmek\" insana özgü eylemler, cansız varlıklara (çiçek, ağaç) atfedilmiştir. Cansıza insan özelliği vermek → kişileştirme (teşhis).\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Kişileştirme testi: sözcük cansız bir varlık mı? Ve ona insan eylemi/duygusu mu verilmiş? İkisi de evet → kişileştirme.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"O kadar çok ağladı ki gözyaşları sel oldu.\" cümlesinde kullanılan söz sanatı nedir?",
+          "options": [
+            "Ek Soru 2 — Teşbih",
+            "Ek Soru 2 — Abartma",
+            "Ek Soru 2 — Tezat",
+            "Ek Soru 2 — İstiare"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Gözyaşlarının sel olması fiziksel olarak mümkün değildir; gerçek olamayacak ölçüde büyütme yapılmıştır. Bu abartma (mübalağa) sanatıdır.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Abartma testi: cümle gerçek mi yoksa imkânsız bir ölçek mi içeriyor? \"Sel oldu, deniz kadar, dağları taşır\" → gerçek olamaz → abartma.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Gülerek ağlıyor, sevinçle hüzünleniyor.\" cümlesinde hangi söz sanatı kullanılmıştır?",
+          "options": [
+            "Ek Soru 2 — Teşbih",
+            "Ek Soru 2 — Abartma",
+            "Ek Soru 2 — Tezat",
+            "Ek Soru 2 — Kişileştirme"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Gülmek-ağlamak\" ve \"sevinç-hüzün\" birbiriyle zıt kavramlardır ve bir arada kullanılmıştır. Zıt kavramların bir arada bulunması → tezat sanatı.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Tezat testi: cümlede birbirinin karşıtı anlamdaki sözcükler bir arada mı? \"Güler-ağlar, genç-yaşlı, sıcak-soğuk\" → tezat.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Dünya bu gelişmeden çok etkilendi.\" cümlesinde \"dünya\" kelimesinin kullanımı hangi söz sanatına örnektir?",
+          "options": [
+            "Ek Soru 2 — Abartma – gerçek olamayacak kadar büyütülmüş",
+            "Ek Soru 2 — Tezat – zıt kavramlar bir arada",
+            "Ek Soru 2 — Ad aktarması – bütün (dünya) söylenip parça (insanlar/ülkeler) kastedilmiş",
+            "Ek Soru 2 — Kişileştirme"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Dünya\" gerçekte tüm gezegenin etkilendiğini değil, bazı insanların/ülkelerin etkilendiğini ifade eder. Bütünü söyleyip parçayı kastetmek → ad aktarması (mecaz-ı mürsel).\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Ad aktarması: bir bütün adının parçası için, ya da bir parça adının bütünü için kullanılması. \"Ankara karar aldı\" (şehir = hükümet), \"dünya etkilendi\" (gezegen = insanlar).",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Aslanım, bu zorlu sınavdan asla çekinme!\" cümlesinde bir öğrenciye sesleniyor ve \"aslan\" söyleniyor. Hangi söz sanatı kullanılmaktadır?",
+          "options": [
+            "Ek Soru 2 — Teşbih – \"gibi\" edatı var",
+            "Ek Soru 2 — Tezat",
+            "Ek Soru 2 — Açık istiare – benzetilen (aslan) söylenmiş, benzeyen (öğrenci) söylenmemiş",
+            "Ek Soru 2 — Kişileştirme"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — Benzetme edatı (\"gibi\") kullanılmamış; ancak öğrenci \"aslan\" olarak adlandırılmıştır. Benzetilen (aslan) söylenmiş, benzeyen (öğrenci) cümlede söylenmemiş. Bu açık istiaredir.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Açık istiare: benzetme edatı YOK + benzetilen (aslan, kartal, gül…) SÖYLENMİŞ + benzeyen (gerçek kişi/şey) SÖYLENMEMİŞ. Edat varsa teşbih.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Pembe yanakları kiraz gibi kızarmıştı.\" cümlesindeki teşbihin unsurlarını doğru veren seçenek hangisidir?",
+          "options": [
+            "Ek Soru 2 — Benzeyen: kiraz, benzetilen: yanaklar, edat: gibi",
+            "Ek Soru 2 — Benzeyen: yanaklar, benzetilen: kiraz, edat: gibi, benzetme yönü: kırmızılık/kızarma",
+            "Ek Soru 2 — Benzeyen: kiraz, benzetilen: kızarmak, edat: gibi",
+            "Ek Soru 2 — Benzeyen: pembe, benzetilen: kiraz, edat: yok"
+          ],
+          "correctIndex": 1,
+          "explanation": "Teşbihin 9 unsuru: benzeyen (yanaklar – asıl konu), benzetilen (kiraz – karşılaştırılan), benzetme edatı (gibi), benzetme yönü (kırmızılık). B tüm unsurları doğru sıralamıştır.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Teşbih 4 unsuru: BENZEYen (asıl nesne) + BENZETİLen (karşılaştırılan) + EDAT (gibi/kadar) + YÖN (ortak özellik). B-E-Y şablonunu kullan.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Dağlar susuyor, dereler fısıldıyor.\" dizesinde hangi söz sanatı baskın biçimde kullanılmıştır?",
+          "options": [
+            "Ek Soru 2 — Tezat",
+            "Ek Soru 2 — Abartma",
+            "Ek Soru 2 — Kişileştirme",
+            "Ek Soru 2 — Ad aktarması"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Susmak\" ve \"fısıldamak\" insana özgü eylemler, cansız varlıklara (dağlar, dereler) atfedilmiştir. Bu kişileştirme sanatıdır.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "Kişileştirme: cansız varlıklara insan eylemi (konuşmak, susmak, düşünmek, ağlamak) verilmesidir. \"Dağ susuyor\" → dağ cansız ama susmak insana özgü → kişileştirme.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Aşağıdaki cümlelerden hangisinde teşbih (benzetme) söz sanatı yoktur?",
+          "options": [
+            "Ek Soru 2 — Sesi bal kadar tatlıydı.",
+            "Ek Soru 2 — Kar yağıyor, her yer beyaza bürünüyor.",
+            "Ek Soru 2 — Çalışkanlığı karınca gibi bir taşımacılığa benziyordu.",
+            "Ek Soru 2 — Gözleri kömür kadar kararmıştı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — B cümlesinde herhangi bir benzetme edatı (gibi, kadar, sanki) ve iki unsur karşılaştırması yoktur; doğrudan fiziksel betimleme yapılmaktadır. A, C, D'de \"kadar/gibi\" benzetme edatı vardır.\n\n[GitHub Ek Test — Söz Sanatları (Edebi Sanatlar)]",
+          "ipucu": "\"Teşbih yok\" sorusunda: benzetme edatı arama. \"gibi, kadar, sanki, -mış gibi\" varsa teşbih var, yoksa teşbih yok.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Söz Sanatları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

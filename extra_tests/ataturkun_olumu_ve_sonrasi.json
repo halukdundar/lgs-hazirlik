@@ -1,0 +1,436 @@
+{
+  "topicId": "ataturkun_olumu_ve_sonrasi",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Atatürk'ün Ölümü ve Sonrası",
+      "questions": [
+        {
+          "question": "13 Kasım 1941'de Atatürk'ün vefat haberi yayıldığında ülkede resmi yas ilan edilmiş ve devlet kurumları ortak bir anma programı uygulamıştır. Bu tutum aşağıdakilerden hangisini gösterir?",
+          "options": [
+            "Ek Soru 1 — Yönetimde belirsizlik yaşanmadığını ve kurumsal sürekliliğin korunduğunu",
+            "Ek Soru 1 — Devlet kurumlarının işlevsiz hale geldiğini",
+            "Ek Soru 1 — Cumhuriyet rejiminin sona erdiğini",
+            "Ek Soru 1 — Meclisin kapatıldığını"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Atatürk'ün vefatı sonrası kurumların düzenli işlemesi, devlet yapısının kişilere bağlı olmadan sürdüğünü göstermiştir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Soru, kriz anında devletin sürekliliğine odaklanıyor.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "10 Kasım",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Atatürk'ün naaşının önce Etnografya Müzesi'nde muhafaza edilip ardından Anıtkabir'e nakledilmesi hangi gereklilikle açıklanır?",
+          "options": [
+            "Ek Soru 1 — Anıtkabir'in inşa sürecinin tamamlanmasını bekleme gereği",
+            "Ek Soru 1 — Ankara'nın başkent olmaktan çıkarılması",
+            "Ek Soru 1 — Meclis kararı alınamaması",
+            "Ek Soru 1 — Dış baskılar nedeniyle definin ertelenmesi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Anıtkabir inşası tamamlanana kadar geçici bir devlet düzenlemesi yapılmıştır.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Süreç iki aşamalı: geçici mekan ve kalıcı mekan.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Anıtkabir",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — II. Dünya Savaşı sırasında Türkiye'nin savaşa fiilen girmemesi, dış politikada hangi yaklaşımın benimsendiğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Yayılmacı strateji",
+            "Ek Soru 1 — Dengeci ve temkinli tarafsızlık",
+            "Ek Soru 1 — Tek blokla koşulsuz ittifak",
+            "Ek Soru 1 — Tam izolasyon"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Türkiye, savaş boyunca dengeli diplomasi yürüterek ulusal güvenliği korumaya çalışmıştır.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Temel amaç savaştan uzak kalmaktır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "II. Dünya Savaşı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Savaş yıllarında uygulanan karne sistemi ve benzeri tedbirler, devletin hangi soruna çözüm üretme çabasını yansıtır?",
+          "options": [
+            "Ek Soru 1 — Eğitim müfredatı düzenleme",
+            "Ek Soru 1 — Kıtlık ve dağıtım dengesizliğini kontrol etme",
+            "Ek Soru 1 — Yerel seçimleri artırma",
+            "Ek Soru 1 — Sanat faaliyetlerini sınırlama"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Karne sistemi, sınırlı kaynakların adil ve kontrollü dağıtımı için uygulanmıştır.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Karne sistemi doğrudan temel ihtiyaç maddeleriyle ilgilidir.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Karne Sistemi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Milli Korunma Kanunu'nun yürürlüğe girmesi, savaş koşullarında devletin ekonomiyle ilgili hangi rolünü artırmıştır?",
+          "options": [
+            "Ek Soru 1 — Piyasanın tamamen serbest bırakılmasını",
+            "Ek Soru 1 — Olağanüstü koşullarda düzenleyici ve müdahaleci rolünü",
+            "Ek Soru 1 — Tarımın yasaklanmasını",
+            "Ek Soru 1 — Dış ticaretin durdurulmasını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kanun, savaş ekonomisinde üretim ve dağıtımı düzenlemek için devlete geniş müdahale yetkisi vermiştir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Kanunun adı, devletin koruyucu rolünü çağrıştırır.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Milli Korunma Kanunu",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Atatürk sonrası cumhurbaşkanlığı seçiminin TBMM tarafından kısa sürede yapılması hangi siyasi ilkeyi güçlendirir?",
+          "options": [
+            "Ek Soru 1 — Meclis egemenliğine dayalı anayasal süreklilik",
+            "Ek Soru 1 — Askeri yönetim",
+            "Ek Soru 1 — Saltanat düzeni",
+            "Ek Soru 1 — Yerel özerklik"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — TBMM'nin yeni cumhurbaşkanını seçmesi, anayasal düzenin kesintisiz sürdüğünü gösterir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Seçim organı olarak TBMM'nin rolüne odaklan.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Siyasi Süreklilik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir tarih yazısında, 'Atatürk'ün vefatından sonra da inkılapların korunması, kurumların yerleştiğini gösterir.' deniyor. Bu yorumun dayanağı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — İnkılapların tamamen kaldırılması",
+            "Ek Soru 1 — Devlet politikalarında temel cumhuriyet çizgisinin devam etmesi",
+            "Ek Soru 1 — Meclisin kapatılması",
+            "Ek Soru 1 — Yabancı manda yönetimine geçilmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İnkılapların sürmesi, sistemin kişiden bağımsız biçimde kurumsallaştığını ortaya koyar.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Odak nokta devamlılıktır.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — II. Dünya Savaşı yıllarında genç nüfusun uzun süre silah altında tutulması ekonomik olarak hangi sonucu doğurmuştur?",
+          "options": [
+            "Ek Soru 1 — Üretim kapasitesinin düşmesi",
+            "Ek Soru 1 — Sanayide ani patlama yaşanması",
+            "Ek Soru 1 — Vergilerin kaldırılması",
+            "Ek Soru 1 — İthalatın tamamen durması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İşgücü kaybı nedeniyle tarım ve üretim alanlarında daralma yaşanmıştır.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Genç nüfusun üretimdeki payını düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Savaş Ekonomisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Atatürk'ün 'en büyük eserim' dediği Türkiye Cumhuriyeti'nin onun ölümünden sonra da sürmesi, aşağıdaki kavramlardan hangisiyle en çok ilişkilidir?",
+          "options": [
+            "Ek Soru 1 — Kişisel yönetim",
+            "Ek Soru 1 — Kurumsal devlet yapısı ve milli egemenlik",
+            "Ek Soru 1 — Hanedan sürekliliği",
+            "Ek Soru 1 — Merkezi otoritenin kaldırılması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Cumhuriyetin devamı, devletin kurumlara ve millet iradesine dayanan yapısını gösterir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Kişiler değil kurumlar belirleyici olmalı.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Cumhuriyet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Atatürk'ün ölümü sonrası dönem için aşağıdaki genel değerlendirmelerden hangisi en isabetlidir?",
+          "options": [
+            "Ek Soru 1 — Türkiye dış politikada tamamen pasif kalmıştır.",
+            "Ek Soru 1 — Türkiye içeride kurumsal sürekliliği, dışarıda ise temkinli dengeyi korumuştur.",
+            "Ek Soru 1 — Tüm inkılaplar geri çevrilmiştir.",
+            "Ek Soru 1 — Ekonomik sorunlar hiç yaşanmamıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Dönemde hem devlet kurumları işlerliğini sürdürmüş hem de savaş ortamında denge politikası izlenmiştir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Hem içte süreklilik hem dışta denge vurgusunu ara.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Genel Değerlendirme",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Atatürk'ün Ölümü ve Sonrası",
+      "questions": [
+        {
+          "question": "15 Kasım 1943'de Atatürk'ün vefat haberi yayıldığında ülkede resmi yas ilan edilmiş ve devlet kurumları ortak bir anma programı uygulamıştır. Bu tutum aşağıdakilerden hangisini gösterir?",
+          "options": [
+            "Ek Soru 2 — Yönetimde belirsizlik yaşanmadığını ve kurumsal sürekliliğin korunduğunu",
+            "Ek Soru 2 — Devlet kurumlarının işlevsiz hale geldiğini",
+            "Ek Soru 2 — Cumhuriyet rejiminin sona erdiğini",
+            "Ek Soru 2 — Meclisin kapatıldığını"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Atatürk'ün vefatı sonrası kurumların düzenli işlemesi, devlet yapısının kişilere bağlı olmadan sürdüğünü göstermiştir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Soru, kriz anında devletin sürekliliğine odaklanıyor.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "10 Kasım",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Atatürk'ün naaşının önce Etnografya Müzesi'nde muhafaza edilip ardından Anıtkabir'e nakledilmesi hangi gereklilikle açıklanır?",
+          "options": [
+            "Ek Soru 2 — Anıtkabir'in inşa sürecinin tamamlanmasını bekleme gereği",
+            "Ek Soru 2 — Ankara'nın başkent olmaktan çıkarılması",
+            "Ek Soru 2 — Meclis kararı alınamaması",
+            "Ek Soru 2 — Dış baskılar nedeniyle definin ertelenmesi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Anıtkabir inşası tamamlanana kadar geçici bir devlet düzenlemesi yapılmıştır.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Süreç iki aşamalı: geçici mekan ve kalıcı mekan.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Anıtkabir",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — II. Dünya Savaşı sırasında Türkiye'nin savaşa fiilen girmemesi, dış politikada hangi yaklaşımın benimsendiğini gösterir?",
+          "options": [
+            "Ek Soru 2 — Yayılmacı strateji",
+            "Ek Soru 2 — Dengeci ve temkinli tarafsızlık",
+            "Ek Soru 2 — Tek blokla koşulsuz ittifak",
+            "Ek Soru 2 — Tam izolasyon"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Türkiye, savaş boyunca dengeli diplomasi yürüterek ulusal güvenliği korumaya çalışmıştır.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Temel amaç savaştan uzak kalmaktır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "II. Dünya Savaşı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Savaş yıllarında uygulanan karne sistemi ve benzeri tedbirler, devletin hangi soruna çözüm üretme çabasını yansıtır?",
+          "options": [
+            "Ek Soru 2 — Eğitim müfredatı düzenleme",
+            "Ek Soru 2 — Kıtlık ve dağıtım dengesizliğini kontrol etme",
+            "Ek Soru 2 — Yerel seçimleri artırma",
+            "Ek Soru 2 — Sanat faaliyetlerini sınırlama"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Karne sistemi, sınırlı kaynakların adil ve kontrollü dağıtımı için uygulanmıştır.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Karne sistemi doğrudan temel ihtiyaç maddeleriyle ilgilidir.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Karne Sistemi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Milli Korunma Kanunu'nun yürürlüğe girmesi, savaş koşullarında devletin ekonomiyle ilgili hangi rolünü artırmıştır?",
+          "options": [
+            "Ek Soru 2 — Piyasanın tamamen serbest bırakılmasını",
+            "Ek Soru 2 — Olağanüstü koşullarda düzenleyici ve müdahaleci rolünü",
+            "Ek Soru 2 — Tarımın yasaklanmasını",
+            "Ek Soru 2 — Dış ticaretin durdurulmasını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Kanun, savaş ekonomisinde üretim ve dağıtımı düzenlemek için devlete geniş müdahale yetkisi vermiştir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Kanunun adı, devletin koruyucu rolünü çağrıştırır.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Milli Korunma Kanunu",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Atatürk sonrası cumhurbaşkanlığı seçiminin TBMM tarafından kısa sürede yapılması hangi siyasi ilkeyi güçlendirir?",
+          "options": [
+            "Ek Soru 2 — Meclis egemenliğine dayalı anayasal süreklilik",
+            "Ek Soru 2 — Askeri yönetim",
+            "Ek Soru 2 — Saltanat düzeni",
+            "Ek Soru 2 — Yerel özerklik"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — TBMM'nin yeni cumhurbaşkanını seçmesi, anayasal düzenin kesintisiz sürdüğünü gösterir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Seçim organı olarak TBMM'nin rolüne odaklan.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Siyasi Süreklilik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Bir tarih yazısında, 'Atatürk'ün vefatından sonra da inkılapların korunması, kurumların yerleştiğini gösterir.' deniyor. Bu yorumun dayanağı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 2 — İnkılapların tamamen kaldırılması",
+            "Ek Soru 2 — Devlet politikalarında temel cumhuriyet çizgisinin devam etmesi",
+            "Ek Soru 2 — Meclisin kapatılması",
+            "Ek Soru 2 — Yabancı manda yönetimine geçilmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — İnkılapların sürmesi, sistemin kişiden bağımsız biçimde kurumsallaştığını ortaya koyar.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Odak nokta devamlılıktır.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — II. Dünya Savaşı yıllarında genç nüfusun uzun süre silah altında tutulması ekonomik olarak hangi sonucu doğurmuştur?",
+          "options": [
+            "Ek Soru 2 — Üretim kapasitesinin düşmesi",
+            "Ek Soru 2 — Sanayide ani patlama yaşanması",
+            "Ek Soru 2 — Vergilerin kaldırılması",
+            "Ek Soru 2 — İthalatın tamamen durması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — İşgücü kaybı nedeniyle tarım ve üretim alanlarında daralma yaşanmıştır.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Genç nüfusun üretimdeki payını düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Savaş Ekonomisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Atatürk'ün 'en büyük eserim' dediği Türkiye Cumhuriyeti'nin onun ölümünden sonra da sürmesi, aşağıdaki kavramlardan hangisiyle en çok ilişkilidir?",
+          "options": [
+            "Ek Soru 2 — Kişisel yönetim",
+            "Ek Soru 2 — Kurumsal devlet yapısı ve milli egemenlik",
+            "Ek Soru 2 — Hanedan sürekliliği",
+            "Ek Soru 2 — Merkezi otoritenin kaldırılması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Cumhuriyetin devamı, devletin kurumlara ve millet iradesine dayanan yapısını gösterir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Kişiler değil kurumlar belirleyici olmalı.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Cumhuriyet",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Atatürk'ün ölümü sonrası dönem için aşağıdaki genel değerlendirmelerden hangisi en isabetlidir?",
+          "options": [
+            "Ek Soru 2 — Türkiye dış politikada tamamen pasif kalmıştır.",
+            "Ek Soru 2 — Türkiye içeride kurumsal sürekliliği, dışarıda ise temkinli dengeyi korumuştur.",
+            "Ek Soru 2 — Tüm inkılaplar geri çevrilmiştir.",
+            "Ek Soru 2 — Ekonomik sorunlar hiç yaşanmamıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Dönemde hem devlet kurumları işlerliğini sürdürmüş hem de savaş ortamında denge politikası izlenmiştir.\n\n[GitHub Ek Test — Atatürk'ün Ölümü ve Sonrası]",
+          "ipucu": "Hem içte süreklilik hem dışta denge vurgusunu ara.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürk'ün Ölümü ve Sonrası",
+            "Genel Değerlendirme",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "topicId": "kader_inanci",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Kader İnancı",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Elif sınavına hazırlanmak için haftalık plan yapıyor, düzenli tekrar ediyor ve sınav sabahı dua ediyor.\n\nBu duruma göre, Elif’in yaklaşımı hangi kavramı en doğru biçimde yansıtır?",
+          "options": [
+            "Ek Soru 1 — Kaderi bahane etme",
+            "Ek Soru 1 — Tedbiri terk etme",
+            "Ek Soru 1 — Tevekkül",
+            "Ek Soru 1 — Sorumluluktan kaçma"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Tevekkül, önce gerekli gayreti gösterip ardından sonucu Allah’a bırakmaktır.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Önce emek, sonra Allah’a güven.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Durum: Bir öğrenci hiç çalışmadığı hâlde başarısız olunca “Kaderim böyleymiş.” diyerek sorumluluk almak istemiyor.\n\nBu duruma göre, öğrencinin yaptığı temel yanlış nedir?",
+          "options": [
+            "Ek Soru 1 — Kaderi doğru anlaması",
+            "Ek Soru 1 — Cüzi iradeyi kullanması",
+            "Ek Soru 1 — Kaderi yanlış yorumlayıp sorumluluktan kaçması",
+            "Ek Soru 1 — Toplumsal yasalara uyması"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — İnsan, seçebildiği davranışlardan sorumludur; kader tembelliğe mazeret değildir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Tercih varsa sorumluluk da vardır.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Mert deprem çantası hazırlıyor, ailesiyle toplanma planı yapıyor ve bina güvenliğini kontrol ettiriyor.\n\nBu duruma göre, Mert’in davranışı kader inancı açısından nasıl değerlendirilir?",
+          "options": [
+            "Ek Soru 1 — Kaderi inkâr",
+            "Ek Soru 1 — Tedbir alıp Allah’a güvenme",
+            "Ek Soru 1 — Korkuya teslim olma",
+            "Ek Soru 1 — Sorumluluktan kaçma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İslam’da tedbir almak, tevekkülün bir parçasıdır ve doğru kader anlayışını gösterir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Tevekkül, tedbirsizlik değildir.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Durum: Doktorlar tedavi planı hazırlıyor, hasta da ilaçlarını düzenli kullanıyor ve bir süre sonra iyileşme gerçekleşiyor.\n\nBu duruma göre, “kaza” kavramını en iyi karşılayan ifade hangisidir?",
+          "options": [
+            "Ek Soru 1 — Hastalığın sebebi",
+            "Ek Soru 1 — Tedavi planı",
+            "Ek Soru 1 — Allah’ın her şeyi bilmesi",
+            "Ek Soru 1 — Takdir edilen sonucun gerçekleşmesi"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — Kaza, Allah’ın takdir ettiği durumun zamanı geldiğinde meydana gelmesidir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Planlanan şeyin gerçekleşmesi boyutunu düşün.",
+          "difficulty": 4,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir öğrenci \"Hz. Musa'nın asasının yılana dönmesi ve Kızıldeniz'in yarılması\" olaylarını okuyor.\n\nBu olaylar Hz. Musa ile ilgili hangi kavramı örnekler?",
+          "options": [
+            "Ek Soru 1 — Kader",
+            "Ek Soru 1 — Mucize",
+            "Ek Soru 1 — Sünnet",
+            "Ek Soru 1 — Tevekkül"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Peygamberlere verilen olağanüstü olaylar mucize olarak adlandırılır.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Peygamberlere özgü olağanüstü olay.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Hz. Musa, Firavun'un zulmü altındaki halkına tebliği bırakmayarak mücadelesini sürdürdü.\n\nBu davranış hangi peygamber özelliğini öne çıkarır?",
+          "options": [
+            "Ek Soru 1 — İsmet",
+            "Ek Soru 1 — Fetanet",
+            "Ek Soru 1 — Tebliğ ve sabır",
+            "Ek Soru 1 — Emanet"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Peygamberler her koşulda Allah'ın mesajını iletmekle yükümlüdür; sabır bu görevin parçasıdır.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Mesajı iletme ve dayanma.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Hz. Musa Tur Dağı'na çıktığında Allah ile doğrudan konuştu.\n\nBu özellik Hz. Musa'ya hangi ünvanı kazandırmıştır?",
+          "options": [
+            "Ek Soru 1 — Halilullah",
+            "Ek Soru 1 — Kelimullah",
+            "Ek Soru 1 — Ruhullah",
+            "Ek Soru 1 — Nebiyullah"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Kelimullah\" Allah ile konuşan anlamına gelir ve Hz. Musa'ya verilmiş özel bir ünvandır.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Allah ile konuşmak.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir öğrenci Kur'an'dan en büyük ayet hangisidir diye araştırıyor.\n\nAyet el-Kürsi hangi surededir?",
+          "options": [
+            "Ek Soru 1 — Fatiha",
+            "Ek Soru 1 — Bakara",
+            "Ek Soru 1 — Al-i İmran",
+            "Ek Soru 1 — Yasin"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ayet el-Kürsi Bakara suresi'nin 258. ayetidir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "En uzun sure.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Ayet el-Kürsi'nde \"Onu ne uyuklama ne de uyku tutar\" ifadesi geçmektedir.\n\nBu ifade Allah'ın hangi özelliğini anlatır?",
+          "options": [
+            "Ek Soru 1 — Rızık verme",
+            "Ek Soru 1 — Daima uyanık ve her şeyi gözetme (Kayyum)",
+            "Ek Soru 1 — Merhamet",
+            "Ek Soru 1 — Yaratma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kayyum sıfatı; Allah'ın her şeyi daimî olarak ayakta tutması ve gözetmesidir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Hiç uyumayan, sürekli gözetleyen.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Ayet el-Kürsi \"Allah'tan başka ilah yoktur\" ifadesiyle başlar.\n\nBu başlangıç hangi temel inancın özüdür?",
+          "options": [
+            "Ek Soru 1 — Nübüvvet",
+            "Ek Soru 1 — Tevhid",
+            "Ek Soru 1 — Ahiret",
+            "Ek Soru 1 — Kader"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Allah'ın tek ve benzersiz olduğu inancı tevhiddir; Ayet el-Kürsi bunun özlü ifadesidir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Allah'ın birliği.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kader İnancı",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Kader İnancı",
+      "questions": [
+        {
+          "question": "Test 11: Senaryo: Elif sınavına hazırlanmak için haftalık plan yapıyor, düzenli tekrar ediyor ve sınav sabahı dua ediyor.\n\nBu duruma göre, Elif’in yaklaşımı hangi kavramı en doğru biçimde yansıtır?",
+          "options": [
+            "Ek Soru 1 — Kaderi bahane etme",
+            "Ek Soru 1 — Tedbiri terk etme",
+            "Ek Soru 1 — Tevekkül",
+            "Ek Soru 1 — Sorumluluktan kaçma"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Tevekkül, önce gerekli gayreti gösterip ardından sonucu Allah’a bırakmaktır.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Önce emek, sonra Allah’a güven.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Durum: Bir öğrenci hiç çalışmadığı hâlde başarısız olunca “Kaderim böyleymiş.” diyerek sorumluluk almak istemiyor.\n\nBu duruma göre, öğrencinin yaptığı temel yanlış nedir?",
+          "options": [
+            "Ek Soru 1 — Kaderi doğru anlaması",
+            "Ek Soru 1 — Cüzi iradeyi kullanması",
+            "Ek Soru 1 — Kaderi yanlış yorumlayıp sorumluluktan kaçması",
+            "Ek Soru 1 — Toplumsal yasalara uyması"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — İnsan, seçebildiği davranışlardan sorumludur; kader tembelliğe mazeret değildir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Tercih varsa sorumluluk da vardır.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Mert deprem çantası hazırlıyor, ailesiyle toplanma planı yapıyor ve bina güvenliğini kontrol ettiriyor.\n\nBu duruma göre, Mert’in davranışı kader inancı açısından nasıl değerlendirilir?",
+          "options": [
+            "Ek Soru 1 — Kaderi inkâr",
+            "Ek Soru 1 — Tedbir alıp Allah’a güvenme",
+            "Ek Soru 1 — Korkuya teslim olma",
+            "Ek Soru 1 — Sorumluluktan kaçma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İslam’da tedbir almak, tevekkülün bir parçasıdır ve doğru kader anlayışını gösterir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Tevekkül, tedbirsizlik değildir.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Durum: Doktorlar tedavi planı hazırlıyor, hasta da ilaçlarını düzenli kullanıyor ve bir süre sonra iyileşme gerçekleşiyor.\n\nBu duruma göre, “kaza” kavramını en iyi karşılayan ifade hangisidir?",
+          "options": [
+            "Ek Soru 1 — Hastalığın sebebi",
+            "Ek Soru 1 — Tedavi planı",
+            "Ek Soru 1 — Allah’ın her şeyi bilmesi",
+            "Ek Soru 1 — Takdir edilen sonucun gerçekleşmesi"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — Kaza, Allah’ın takdir ettiği durumun zamanı geldiğinde meydana gelmesidir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Planlanan şeyin gerçekleşmesi boyutunu düşün.",
+          "difficulty": 4,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Bir öğrenci \"Hz. Musa'nın asasının yılana dönmesi ve Kızıldeniz'in yarılması\" olaylarını okuyor.\n\nBu olaylar Hz. Musa ile ilgili hangi kavramı örnekler?",
+          "options": [
+            "Ek Soru 1 — Kader",
+            "Ek Soru 1 — Mucize",
+            "Ek Soru 1 — Sünnet",
+            "Ek Soru 1 — Tevekkül"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Peygamberlere verilen olağanüstü olaylar mucize olarak adlandırılır.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Peygamberlere özgü olağanüstü olay.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Hz. Musa, Firavun'un zulmü altındaki halkına tebliği bırakmayarak mücadelesini sürdürdü.\n\nBu davranış hangi peygamber özelliğini öne çıkarır?",
+          "options": [
+            "Ek Soru 1 — İsmet",
+            "Ek Soru 1 — Fetanet",
+            "Ek Soru 1 — Tebliğ ve sabır",
+            "Ek Soru 1 — Emanet"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Peygamberler her koşulda Allah'ın mesajını iletmekle yükümlüdür; sabır bu görevin parçasıdır.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Mesajı iletme ve dayanma.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Hz. Musa Tur Dağı'na çıktığında Allah ile doğrudan konuştu.\n\nBu özellik Hz. Musa'ya hangi ünvanı kazandırmıştır?",
+          "options": [
+            "Ek Soru 1 — Halilullah",
+            "Ek Soru 1 — Kelimullah",
+            "Ek Soru 1 — Ruhullah",
+            "Ek Soru 1 — Nebiyullah"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Kelimullah\" Allah ile konuşan anlamına gelir ve Hz. Musa'ya verilmiş özel bir ünvandır.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Allah ile konuşmak.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Bir öğrenci Kur'an'dan en büyük ayet hangisidir diye araştırıyor.\n\nAyet el-Kürsi hangi surededir?",
+          "options": [
+            "Ek Soru 1 — Fatiha",
+            "Ek Soru 1 — Bakara",
+            "Ek Soru 1 — Al-i İmran",
+            "Ek Soru 1 — Yasin"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ayet el-Kürsi Bakara suresi'nin 258. ayetidir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "En uzun sure.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Ayet el-Kürsi'nde \"Onu ne uyuklama ne de uyku tutar\" ifadesi geçmektedir.\n\nBu ifade Allah'ın hangi özelliğini anlatır?",
+          "options": [
+            "Ek Soru 1 — Rızık verme",
+            "Ek Soru 1 — Daima uyanık ve her şeyi gözetme (Kayyum)",
+            "Ek Soru 1 — Merhamet",
+            "Ek Soru 1 — Yaratma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kayyum sıfatı; Allah'ın her şeyi daimî olarak ayakta tutması ve gözetmesidir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Hiç uyumayan, sürekli gözetleyen.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Ayet el-Kürsi \"Allah'tan başka ilah yoktur\" ifadesiyle başlar.\n\nBu başlangıç hangi temel inancın özüdür?",
+          "options": [
+            "Ek Soru 1 — Nübüvvet",
+            "Ek Soru 1 — Tevhid",
+            "Ek Soru 1 — Ahiret",
+            "Ek Soru 1 — Kader"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Allah'ın tek ve benzersiz olduğu inancı tevhiddir; Ayet el-Kürsi bunun özlü ifadesidir.\n\n[GitHub Ek Test — Kader İnancı]",
+          "ipucu": "Allah'ın birliği.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kader İnancı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

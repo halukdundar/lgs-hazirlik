@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_10",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Anlatım Bozuklukları",
+      "questions": [
+        {
+          "question": "\"Ben ve arkadaşım bu projeyi tamamladım.\" cümlesindeki anlatım bozukluğunun türü nedir?",
+          "options": [
+            "Gereksiz sözcük kullanımı",
+            "Özne-yüklem kişi uyumsuzluğu",
+            "Anlam belirsizliği",
+            "Bağlaç uyumsuzluğu"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Ben ve arkadaşım\" çoğul özne oluşturur (biz); yüklem \"tamamladık\" olmalıdır. \"Tamamladım\" tekil 1. şahıs biçimi çoğul özneyle uyuşmuyor; özne-yüklem kişi uyumsuzluğu budur.\n\nKaynak: MEB LGS 2024 A kitapçığı, Türkçe Soru 22. Doğru cevap: B.",
+          "ipucu": "\"Ben ve arkadaşım\" kaç kişi? Yüklem kaç kişilik?",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "MEB Çıkmış Soru",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Bu kitap hem çok güzel yazılmış hem de hiç okunmaya değmez.\" cümlesindeki anlatım bozukluğunun türü nedir?",
+          "options": [
+            "Ek Soru 1 — Özne-yüklem uyumsuzluğu",
+            "Ek Soru 1 — Gereksiz sözcük kullanımı",
+            "Ek Soru 1 — Anlam çelişkisi",
+            "Ek Soru 1 — Eksik öge"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Hem güzel yazılmış hem de okunmaya değmez\" ifadelerinde birbiriyle çelişen yargılar yer almaktadır; güzel yazılmış bir eser okunmaya değer. Bu anlam çelişkisidir.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Anlam çelişkisi: aynı varlık ya da durum için hem olumlu hem de olumsuz/zıt nitelemeler bir arada kullanılmışsa çelişki vardır.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde gereksiz sözcük bulunmaktadır?",
+          "options": [
+            "Ek Soru 1 — Dün akşam sinemaya gittik.",
+            "Ek Soru 1 — Kitabı bitirdim.",
+            "Ek Soru 1 — Bu etkinlik hem yararlı hem de faydalıydı.",
+            "Ek Soru 1 — Sınava iyi hazırlandı."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Yararlı\" ve \"faydalı\" sözcükleri Türkçe ve Arapça kökenli eş anlamlılardır; ikisini birden kullanmak gereksiz tekrara yol açar. A, B, D'de gereksiz sözcük yoktur.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Gereksiz sözcük: bir cümlede aynı anlama gelen iki sözcük bir arada kullanılmışsa biri gereksizdir. \"Hem yararlı hem faydalı, hem dürüst hem doğru\" klasik örneklerdir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Ahmet hem başarılı hem de çalıştı.\" cümlesindeki anlatım bozukluğunun nedeni nedir?",
+          "options": [
+            "Ek Soru 1 — Özne eksik",
+            "Ek Soru 1 — \"Hem...hem de\" bağlacının iki yanındaki yapılar eşdeğer değil",
+            "Ek Soru 1 — Gereksiz sözcük kullanılmış",
+            "Ek Soru 1 — Anlam çelişkisi var"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Hem...hem de\" bağlacının iki yanındaki yapılar eşdeğer (aynı türden) olmalıdır. \"Başarılı\" (sıfat) ile \"çalıştı\" (fiil) eşdeğer değildir. Doğrusu: \"hem başarılı hem de çalışkandı.\"\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "\"Hem...hem de\" testinde: bağlacın solunu ve sağını ayrı ayrı yaz. İkisi de sıfat mı? İkisi de fiil mi? Yoksa bir sıfat + bir fiil mi? Eşdeğer değilse bozukluktur.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Annem rafa koydu.\" cümlesinde anlatım bozukluğunun sebebi nedir?",
+          "options": [
+            "Ek Soru 1 — Yüklem eksik",
+            "Ek Soru 1 — Özne eksik",
+            "Ek Soru 1 — Nesne eksik — \"neyi koydu?\" sorusu yanıtsız",
+            "Ek Soru 1 — Bozukluk yoktur; gizli özne kullanılmıştır."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Koydu\" fiili geçişli bir fiildir; \"neyi koydu?\" sorusunun yanıtlanması gerekir. Ancak cümlede bu soruyu yanıtlayan nesne verilmemiştir. Bu eksik öge bozukluğudur.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Eksik öge testi: geçişli fiiller nesne ister. Yükleme \"neyi? kimi?\" sor; yanıt yoksa nesne eksiktir. Geçişsiz fiillerde (koştu, güldü) nesne aranmaz.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Sınıftaki öğrenci ve öğretmenler toplantıya katıldı.\" cümlesindeki bozukluğun nedeni nedir?",
+          "options": [
+            "Ek Soru 1 — Özne-yüklem kişi uyumsuzluğu",
+            "Ek Soru 1 — Çoğul özne tekil yüklemle kullanılmış",
+            "Ek Soru 1 — Anlam çelişkisi",
+            "Ek Soru 1 — Bozukluk yoktur."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Öğrenci ve öğretmenler\" çoğul özne oluşturmaktadır. Yüklem \"katıldı\" (tekil) yerine \"katıldılar\" (çoğul) olmalıdır.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Çoğul özne (iki ya da daha fazla kişi/şey) → yüklem çoğul olmalı. \"A ve B\" yapısında tek kişi gibi davranma; \"A ve B geldi\" → \"geldiler\" gerekir.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde anlam çelişkisi vardır?",
+          "options": [
+            "Ek Soru 1 — Çok çalıştı ama başarılı olamadı.",
+            "Ek Soru 1 — Hem kitap hem de sınav kâğıdı masadadır.",
+            "Ek Soru 1 — Bu ürün hem çok pahalı hem de ucuz satılmaktadır.",
+            "Ek Soru 1 — Koşarak geldi; bu nedenle yoruldu."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Hem pahalı hem de ucuz\" ifadesi birbiriyle çelişen iki nitelemeyi bir arada kullanmaktadır; aynı ürün hem pahalı hem ucuz olamaz. A karşıtlık ilişkisi, B sıralama, D neden-sonuç içerir.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Çelişki testi: iki niteleme aynı anda geçerli olabiliyor mu? \"Hem sıcak hem soğuk, hem pahalı hem ucuz\" → gerçekte mümkün değil → anlam çelişkisi.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde sözcük yanlış anlamda kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Araştırmacı bulguları titizlikle inceledi.",
+            "Ek Soru 1 — Hava çok sıcak; gölgede serin.",
+            "Ek Soru 1 — Öğrenci metni yavaş yavaş ezberledi; çok acele etti.",
+            "Ek Soru 1 — Toplantı salonunda herkes sakin oturuyordu."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Yavaş yavaş ezberledi\" ve \"çok acele etti\" ifadeleri birbirini çeliştirir; yavaş yavaş yapılan bir eylem aceleli olamaz. Bu anlam uyuşmazlığı/çelişki içeren bir kullanımdır.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Aynı cümlede veya ardışık cümlelerde zıt anlamlı zarflar ya da ifadeler kullanılmışsa anlam bozukluğu var demektir.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+          "options": [
+            "Ek Soru 1 — Hem başarılı hem de başarısız bir öğrenci olduğunu söyledi.",
+            "Ek Soru 1 — Ne yüzmeyi ne de koşmayı seviyordu.",
+            "Ek Soru 1 — Kitap hem yararlı hem de faydalıydı.",
+            "Ek Soru 1 — Ben ve arkadaşım bu işi hallederim."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Ne...ne de\" bağlacının her iki yanında da nesne (yüzmeyi, koşmayı) paralel yapıda kullanılmış; bozukluk yoktur. A çelişkili, C gereksiz sözcük (\"yararlı = faydalı\"), D özne-yüklem uyumsuz (\"hallederim\" → \"hallederiz\").\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "\"Hangisinde bozukluk yok?\" sorusunda: her seçeneği bilinen bozukluk türleriyle tek tek kontrol et. Bozukluk içermeyeni bul.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde altı çizili deyim yanlış kullanılmıştır?\nA) Arkadaşları onu uyarınca can kulağıyla dinledi.\nB) Proje için haftalarca çalıştı; emeği suya düştü.\nC) Hata yaptığını anlayınca pişmanlıkla yüzü asıldı.\nD) Sınav sonuçlarını görünce öğrencinin gözü dört açıldı ve derin derin uyumaya başladı.",
+          "options": [
+            "Ek Soru 1 — A – \"can kulağıyla dinlemek\" yanlış kullanılmış",
+            "Ek Soru 1 — B – \"emeği suya düşmek\" yanlış kullanılmış",
+            "Ek Soru 1 — C – \"yüz asmak\" yanlış kullanılmış",
+            "Ek Soru 1 — D – \"gözü dört açmak\" yanlış kullanılmış"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Gözü dört açmak\" deyimi \"çok dikkatli ve uyanık olmak\" anlamındadır. \"Derin derin uyumak\" eylemiyle birlikte kullanımı bu anlamla çelişmektedir. A, B, C'deki deyimler bağlamlarında doğru kullanılmıştır.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Deyim testi: deyimin sözlük anlamını hatırla ve cümledeki bağlamla karşılaştır. \"Gözü dört açmak\" = uyanık olmak → uyumakla birlikte kullanılamaz.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Anlatım Bozuklukları",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — \"Ne kadar okursan başarırsın.\" cümlesindeki anlatım bozukluğu nedir?",
+          "options": [
+            "Ek Soru 1 — \"Ne kadar...o kadar\" kalıbı tamamlanmamış.",
+            "Ek Soru 1 — Bozukluk yoktur; koşul cümlesi doğru kurulmuş.",
+            "Ek Soru 1 — Özne eksik.",
+            "Ek Soru 1 — Zaman uyumsuzluğu var."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — \"Ne kadar\" ile başlayan orantı yapısının ikinci yarısı \"o kadar\" ile tamamlanmalıdır: \"Ne kadar okursan o kadar başarırsın.\" \"Ne kadar...sın\" yapısı bağlaç uyumsuzluğu oluşturur.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "\"Ne kadar\" kalıbı: \"Ne kadar __ -sa, o kadar __ -r\" şablonunu takip eder. Şablon tamamlanmamışsa bağlaç uyumsuzluğu bozukluğudur.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Bu kitap hem çok güzel yazılmış hem de hiç okunmaya değmez.\" cümlesindeki anlatım bozukluğunun türü nedir?",
+          "options": [
+            "Ek Soru 2 — Özne-yüklem uyumsuzluğu",
+            "Ek Soru 2 — Gereksiz sözcük kullanımı",
+            "Ek Soru 2 — Anlam çelişkisi",
+            "Ek Soru 2 — Eksik öge"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Hem güzel yazılmış hem de okunmaya değmez\" ifadelerinde birbiriyle çelişen yargılar yer almaktadır; güzel yazılmış bir eser okunmaya değer. Bu anlam çelişkisidir.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Anlam çelişkisi: aynı varlık ya da durum için hem olumlu hem de olumsuz/zıt nitelemeler bir arada kullanılmışsa çelişki vardır.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Aşağıdaki cümlelerin hangisinde gereksiz sözcük bulunmaktadır?",
+          "options": [
+            "Ek Soru 2 — Dün akşam sinemaya gittik.",
+            "Ek Soru 2 — Kitabı bitirdim.",
+            "Ek Soru 2 — Bu etkinlik hem yararlı hem de faydalıydı.",
+            "Ek Soru 2 — Sınava iyi hazırlandı."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Yararlı\" ve \"faydalı\" sözcükleri Türkçe ve Arapça kökenli eş anlamlılardır; ikisini birden kullanmak gereksiz tekrara yol açar. A, B, D'de gereksiz sözcük yoktur.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Gereksiz sözcük: bir cümlede aynı anlama gelen iki sözcük bir arada kullanılmışsa biri gereksizdir. \"Hem yararlı hem faydalı, hem dürüst hem doğru\" klasik örneklerdir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Ahmet hem başarılı hem de çalıştı.\" cümlesindeki anlatım bozukluğunun nedeni nedir?",
+          "options": [
+            "Ek Soru 2 — Özne eksik",
+            "Ek Soru 2 — \"Hem...hem de\" bağlacının iki yanındaki yapılar eşdeğer değil",
+            "Ek Soru 2 — Gereksiz sözcük kullanılmış",
+            "Ek Soru 2 — Anlam çelişkisi var"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — \"Hem...hem de\" bağlacının iki yanındaki yapılar eşdeğer (aynı türden) olmalıdır. \"Başarılı\" (sıfat) ile \"çalıştı\" (fiil) eşdeğer değildir. Doğrusu: \"hem başarılı hem de çalışkandı.\"\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "\"Hem...hem de\" testinde: bağlacın solunu ve sağını ayrı ayrı yaz. İkisi de sıfat mı? İkisi de fiil mi? Yoksa bir sıfat + bir fiil mi? Eşdeğer değilse bozukluktur.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Annem rafa koydu.\" cümlesinde anlatım bozukluğunun sebebi nedir?",
+          "options": [
+            "Ek Soru 2 — Yüklem eksik",
+            "Ek Soru 2 — Özne eksik",
+            "Ek Soru 2 — Nesne eksik — \"neyi koydu?\" sorusu yanıtsız",
+            "Ek Soru 2 — Bozukluk yoktur; gizli özne kullanılmıştır."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Koydu\" fiili geçişli bir fiildir; \"neyi koydu?\" sorusunun yanıtlanması gerekir. Ancak cümlede bu soruyu yanıtlayan nesne verilmemiştir. Bu eksik öge bozukluğudur.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Eksik öge testi: geçişli fiiller nesne ister. Yükleme \"neyi? kimi?\" sor; yanıt yoksa nesne eksiktir. Geçişsiz fiillerde (koştu, güldü) nesne aranmaz.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — \"Sınıftaki öğrenci ve öğretmenler toplantıya katıldı.\" cümlesindeki bozukluğun nedeni nedir?",
+          "options": [
+            "Ek Soru 2 — Özne-yüklem kişi uyumsuzluğu",
+            "Ek Soru 2 — Çoğul özne tekil yüklemle kullanılmış",
+            "Ek Soru 2 — Anlam çelişkisi",
+            "Ek Soru 2 — Bozukluk yoktur."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — \"Öğrenci ve öğretmenler\" çoğul özne oluşturmaktadır. Yüklem \"katıldı\" (tekil) yerine \"katıldılar\" (çoğul) olmalıdır.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Çoğul özne (iki ya da daha fazla kişi/şey) → yüklem çoğul olmalı. \"A ve B\" yapısında tek kişi gibi davranma; \"A ve B geldi\" → \"geldiler\" gerekir.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Aşağıdaki cümlelerin hangisinde anlam çelişkisi vardır?",
+          "options": [
+            "Ek Soru 2 — Çok çalıştı ama başarılı olamadı.",
+            "Ek Soru 2 — Hem kitap hem de sınav kâğıdı masadadır.",
+            "Ek Soru 2 — Bu ürün hem çok pahalı hem de ucuz satılmaktadır.",
+            "Ek Soru 2 — Koşarak geldi; bu nedenle yoruldu."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Hem pahalı hem de ucuz\" ifadesi birbiriyle çelişen iki nitelemeyi bir arada kullanmaktadır; aynı ürün hem pahalı hem ucuz olamaz. A karşıtlık ilişkisi, B sıralama, D neden-sonuç içerir.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Çelişki testi: iki niteleme aynı anda geçerli olabiliyor mu? \"Hem sıcak hem soğuk, hem pahalı hem ucuz\" → gerçekte mümkün değil → anlam çelişkisi.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Aşağıdaki cümlelerin hangisinde sözcük yanlış anlamda kullanılmıştır?",
+          "options": [
+            "Ek Soru 2 — Araştırmacı bulguları titizlikle inceledi.",
+            "Ek Soru 2 — Hava çok sıcak; gölgede serin.",
+            "Ek Soru 2 — Öğrenci metni yavaş yavaş ezberledi; çok acele etti.",
+            "Ek Soru 2 — Toplantı salonunda herkes sakin oturuyordu."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — \"Yavaş yavaş ezberledi\" ve \"çok acele etti\" ifadeleri birbirini çeliştirir; yavaş yavaş yapılan bir eylem aceleli olamaz. Bu anlam uyuşmazlığı/çelişki içeren bir kullanımdır.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Aynı cümlede veya ardışık cümlelerde zıt anlamlı zarflar ya da ifadeler kullanılmışsa anlam bozukluğu var demektir.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+          "options": [
+            "Ek Soru 2 — Hem başarılı hem de başarısız bir öğrenci olduğunu söyledi.",
+            "Ek Soru 2 — Ne yüzmeyi ne de koşmayı seviyordu.",
+            "Ek Soru 2 — Kitap hem yararlı hem de faydalıydı.",
+            "Ek Soru 2 — Ben ve arkadaşım bu işi hallederim."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — \"Ne...ne de\" bağlacının her iki yanında da nesne (yüzmeyi, koşmayı) paralel yapıda kullanılmış; bozukluk yoktur. A çelişkili, C gereksiz sözcük (\"yararlı = faydalı\"), D özne-yüklem uyumsuz (\"hallederim\" → \"hallederiz\").\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "\"Hangisinde bozukluk yok?\" sorusunda: her seçeneği bilinen bozukluk türleriyle tek tek kontrol et. Bozukluk içermeyeni bul.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Aşağıdaki cümlelerin hangisinde altı çizili deyim yanlış kullanılmıştır?\nA) Arkadaşları onu uyarınca can kulağıyla dinledi.\nB) Proje için haftalarca çalıştı; emeği suya düştü.\nC) Hata yaptığını anlayınca pişmanlıkla yüzü asıldı.\nD) Sınav sonuçlarını görünce öğrencinin gözü dört açıldı ve derin derin uyumaya başladı.",
+          "options": [
+            "Ek Soru 2 — A – \"can kulağıyla dinlemek\" yanlış kullanılmış",
+            "Ek Soru 2 — B – \"emeği suya düşmek\" yanlış kullanılmış",
+            "Ek Soru 2 — C – \"yüz asmak\" yanlış kullanılmış",
+            "Ek Soru 2 — D – \"gözü dört açmak\" yanlış kullanılmış"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 2 — \"Gözü dört açmak\" deyimi \"çok dikkatli ve uyanık olmak\" anlamındadır. \"Derin derin uyumak\" eylemiyle birlikte kullanımı bu anlamla çelişmektedir. A, B, C'deki deyimler bağlamlarında doğru kullanılmıştır.\n\n[GitHub Ek Test — Anlatım Bozuklukları]",
+          "ipucu": "Deyim testi: deyimin sözlük anlamını hatırla ve cümledeki bağlamla karşılaştır. \"Gözü dört açmak\" = uyanık olmak → uyumakla birlikte kullanılamaz.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Anlatım Bozuklukları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

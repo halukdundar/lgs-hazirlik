@@ -1,0 +1,427 @@
+{
+  "topicId": "milli_uyanis",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Milli Uyanış",
+      "questions": [
+        {
+          "question": "Mondros Ateşkes Antlaşması'nın 10. maddesine dayanarak birçok bölge işgal edilmiştir. Bu maddenin milli mücadele açısından en önemli sonucu aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Osmanlı ordusunun güçlenmesi",
+            "Ek Soru 1 — İşgallerin hukuki gerekçe görünümü kazanması",
+            "Ek Soru 1 — Meclis-i Mebusan'ın yetkilerinin artması",
+            "Ek Soru 1 — Boğazların tamamen Türk denetimine geçmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "10. madde, İtilaf Devletlerine geniş müdahale alanı vererek işgallerin önünü açmıştır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "7. madde işgal sürecini hızlandıran bir dayanak oldu.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Mondros",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İzmir'in işgal haberini alan bir kasabada halk, silahlı direniş için kendi imkanlarıyla birlikler kuruyor. Bu birliklerin genel adı nedir?",
+          "options": [
+            "Ek Soru 1 — Düzenli Ordu",
+            "Ek Soru 1 — Kuvayı Milliye",
+            "Ek Soru 1 — Temsil Heyeti",
+            "Ek Soru 1 — Mebusan Meclisi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İşgallere karşı yerel halkın oluşturduğu gönüllü direniş güçleri Kuvayı Milliye olarak adlandırılır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Başlangıçta yerel ve gönüllü karakterli güçleri düşün.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Kuvayı Milliye",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Amasya Genelgesi'nde 'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.' kararı alınmıştır. Bu ifade aşağıdakilerden hangisini doğrudan vurgular?",
+          "options": [
+            "Ek Soru 1 — Saltanatın mutlak yetkisini",
+            "Ek Soru 1 — Ulusal egemenlik anlayışını",
+            "Ek Soru 1 — Manda ve himaye düşüncesini",
+            "Ek Soru 1 — Yabancı devlet korumasını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Karar, kurtuluşun halkın iradesiyle gerçekleşeceğini söyleyerek ulusal egemenlik fikrini öne çıkarır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Anahtar ifade: milletin azmi ve kararı.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Amasya Genelgesi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Erzurum Kongresi toplanış amacı bakımından bölgesel olmasına rağmen aldığı kararlar ulusal nitelik taşımıştır. Bu durum aşağıdaki yorumlardan hangisini destekler?",
+          "options": [
+            "Ek Soru 1 — Kongre yalnızca Doğu Anadolu sorunlarıyla sınırlı kalmıştır.",
+            "Ek Soru 1 — Yerel bir toplantı, ülke geneline yönelik milli hedefler üretmiştir.",
+            "Ek Soru 1 — Kongrede dış devletlerin istekleri belirleyici olmuştur.",
+            "Ek Soru 1 — Kongre sadece ekonomik kararlar almıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Erzurum'da alınan kararlar, vatanın bütünlüğü gibi tüm ülkeyi ilgilendiren esaslar içerir.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Bölgesel toplanış + ulusal karar birlikteliğine odaklan.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Erzurum Kongresi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sivas Kongresi'nde yararlı cemiyetlerin tek çatı altında birleştirilmesi hangi amaca hizmet etmiştir?",
+          "options": [
+            "Ek Soru 1 — Bölgesel direnişleri birbirinden ayırmaya",
+            "Ek Soru 1 — Milli mücadelede dağınıklığı azaltıp birlik sağlamaya",
+            "Ek Soru 1 — İstanbul Hükümeti'ne bağlılığı artırmaya",
+            "Ek Soru 1 — Askeri mücadeleyi sonlandırmaya"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Cemiyetlerin birleşmesi, ortak hedef etrafında ulusal direnişin koordinasyonunu güçlendirmiştir.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Bir çatı altında toplanmanın sonucu birliktir.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Sivas Kongresi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir öğrenci, 'Havza Genelgesi ile halk ilk kez sistemli şekilde işgalleri protestoya çağrıldı.' diyor. Bu tespit, Havza Genelgesi'nin hangi yönünü vurgular?",
+          "options": [
+            "Ek Soru 1 — Askeri zafer ilanı olduğunu",
+            "Ek Soru 1 — Ulusal bilinci harekete geçiren ilk adımlardan biri olduğunu",
+            "Ek Soru 1 — Barış antlaşması niteliği taşıdığını",
+            "Ek Soru 1 — Saltanat yetkisini genişlettiğini"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Havza Genelgesi, halkı miting ve protestoya yönlendirerek milli bilincin uyanmasında etkili olmuştur.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Protesto çağrısı = halkı harekete geçirme.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Havza Genelgesi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Son Osmanlı Mebusan Meclisi'nde kabul edilen Misak-ı Milli kararları, Ankara'daki milli mücadeleyi nasıl etkilemiştir?",
+          "options": [
+            "Ek Soru 1 — Mücadeleyi gereksiz hale getirmiştir.",
+            "Ek Soru 1 — Milli hedefleri resmileştirerek meşruiyeti artırmıştır.",
+            "Ek Soru 1 — İşgalleri tamamen durdurmuştur.",
+            "Ek Soru 1 — Kuvayı Milliye'yi dağıtmıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Misak-ı Milli, milli sınır ve bağımsızlık hedeflerini resmi karar haline getirerek mücadeleye siyasi dayanak sağlamıştır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Misak-ı Milli = milli hedeflerin ilanı.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Misak-ı Milli",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İtilaf Devletleri, Anadolu'daki direnişi zayıflatmak için İstanbul Hükümeti üzerinde baskı kurmuştur. Buna rağmen Anadolu hareketinin güçlenmesi aşağıdakilerden hangisiyle daha çok açıklanabilir?",
+          "options": [
+            "Ek Soru 1 — Yerel örgütlenmenin ulusal programa dönüşmesiyle",
+            "Ek Soru 1 — Osmanlı ordusunun tüm cephelerde zafer kazanmasıyla",
+            "Ek Soru 1 — İtilafların Anadolu'yu desteklemesiyle",
+            "Ek Soru 1 — Manda yönetiminin kabul edilmesiyle"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kongreler ve Temsil Heyeti sayesinde yerel direniş ulusal bir hedefe bağlanmış ve hareket güç kazanmıştır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Yerelden ulusala geçiş sürecini düşün.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Temsil Heyeti",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Amasya Görüşmeleri'nde İstanbul Hükümeti'nin Temsil Heyeti'ni muhatap alması, milli mücadele açısından hangi sonucu doğurmuştur?",
+          "options": [
+            "Ek Soru 1 — Temsil Heyeti'nin siyasal ağırlığını artırmıştır.",
+            "Ek Soru 1 — Kuvayı Milliye'nin görevini bitirmiştir.",
+            "Ek Soru 1 — Meclis'in açılmasını engellemiştir.",
+            "Ek Soru 1 — İşgalleri meşrulaştırmıştır."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İstanbul Hükümeti'nin Temsil Heyeti'ni muhatap kabul etmesi, Anadolu hareketinin siyasi meşruiyetini yükseltmiştir.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Muhatap alınmak = siyasi tanınma.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Amasya Görüşmeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir öğretmen, 'Milli Uyanış dönemi, sadece silahlı direniş değil; aynı zamanda siyasi örgütlenme dönemidir.' diyor. Aşağıdakilerden hangisi bu yorumu en iyi destekler?",
+          "options": [
+            "Ek Soru 1 — Kongrelerde temsil ve karar mekanizmalarının kurulması",
+            "Ek Soru 1 — Cephelerde ağır silahların kullanılması",
+            "Ek Soru 1 — Sarayın tüm kararları tek başına alması",
+            "Ek Soru 1 — Yabancı manda tekliflerinin kabul edilmesi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kongreler yoluyla temsil, karar alma ve ortak program oluşturulması, sürecin siyasi örgütlenme yönünü gösterir.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Siyasi örgütlenme denince kongre ve temsil yapıları akla gelir.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Milli Uyanış",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Milli Uyanış",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Mustafa Kemal'in Anadolu'ya geçişinin resmi başlangıç tarihi aşağıdakilerden hangisidir?",
+          "options": [
+            "26 Nisan 1923",
+            "22 Mayıs 1922",
+            "33 Ağustos 1925",
+            "32 Ekim 1926"
+          ],
+          "correctIndex": 1,
+          "explanation": "22 Mayıs 1922, Mustafa Kemal'in Samsun'a çıkış tarihidir ve Millî Mücadele'nin simgesel başlangıcıdır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Samsun'a çıkış = Millî Mücadele'nin fitili. Bu tarih aynı zamanda Gençlik ve Spor Bayramı olarak kutlanmaktadır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Amasya Genelgesi'nin en önemli özelliği nedir?",
+          "options": [
+            "Ek Soru 1 — İstanbul Hükümeti'ne bağlılığı ilan etmiştir.",
+            "Ek Soru 1 — Millî egemenliğin ve bağımsızlığın temel ilkelerini ortaya koymuştur.",
+            "Ek Soru 1 — Saltanatı kaldırmıştır.",
+            "Ek Soru 1 — Cumhuriyeti ilan etmiştir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Milletin istiklalini yine milletin azim ve kararı kurtaracaktır\" ilkesiyle Amasya Genelgesi, millî egemenlik temelli kurtuluş mücadelesinin ilanıdır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Amasya Genelgesi → \"tehlike büyük, İstanbul yetersiz, millet kendi kaderini belirlemelidir\".",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Erzurum ve Sivas kongrelerinin ortak amacı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Osmanlı padişahına bağlılık bildirmek",
+            "Ek Soru 1 — Millî direniş örgütleyerek bağımsızlığı sağlamak",
+            "Ek Soru 1 — Yabancı devletlerle işbirliği yapmak",
+            "Ek Soru 1 — Yalnızca doğu illerini kurtarmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Her iki kongre de işgallere karşı millî direniş ve bağımsızlık hedefiyle toplanmıştır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Erzurum (doğu odaklı) + Sivas (ulusal kapsam) → ikisi de millî direniş amaçlıdır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?",
+          "options": [
+            "22 Mayıs 1922",
+            "26 Nisan 1923",
+            "32 Ekim 1926",
+            "13 Ağustos 1923"
+          ],
+          "correctIndex": 1,
+          "explanation": "TBMM 26 Nisan 1923'de Ankara'da açılmıştır; bu tarih Ulusal Egemenlik ve Çocuk Bayramı olarak kutlanmaktadır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "23 Nisan = TBMM + Çocuk Bayramı.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kuvayı Milliye birlikleri esas olarak kimlerden oluşmaktadır?",
+          "options": [
+            "Ek Soru 1 — Düzenli ordu subaylarından",
+            "Ek Soru 1 — Halkın gönüllü katılımıyla oluşan düzensiz direniş gruplarından",
+            "Ek Soru 1 — Yabancı paralı askerlerden",
+            "Ek Soru 1 — İstanbul Hükümeti'nin gönderdiği kuvvetlerden"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kuvayı Milliye, halkın kendi öncülüğüyle oluşturduğu gönüllü direniş birliklerinden oluşmaktadır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Kuvayı Milliye = halk hareketi, düzenli ordu değil.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi Misak-ı Millî'nin temel ilkesidir?",
+          "options": [
+            "Ek Soru 1 — Osmanlı İmparatorluğu'nun tüm eski topraklarının geri alınması",
+            "Ek Soru 1 — Millî sınırlar içindeki topraklarda tam bağımsızlık",
+            "Ek Soru 1 — Yabancı manda ve himayesinin kabul edilmesi",
+            "Ek Soru 1 — Saltanatın korunması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Misak-ı Millî, Türk milletinin yoğunlukla yaşadığı sınırlar içinde tam bağımsızlık ilkesini esas almıştır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Misak-ı Millî = millî sınırlar + tam bağımsızlık; eski imparatorluğun tüm toprakları değil.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Mustafa Kemal hangi görevle Samsun'a gönderilmiştir?",
+          "options": [
+            "Ek Soru 1 — Anadolu'da millî kuvvetleri örgütlemek için",
+            "Ek Soru 1 — Doğu Anadolu'daki Rum çetelerini denetim altına almak için",
+            "Ek Soru 1 — İstanbul'un savunmasını koordine etmek için",
+            "Ek Soru 1 — İtilaf devletleriyle müzakere yürütmek için"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mustafa Kemal, Doğu Anadolu'daki Türk-Rum çatışmalarını yatıştırmak amacıyla İstanbul Hükümeti tarafından Samsun'a gönderilmiştir. Ancak o bu görevi millî örgütlenme için kullanmıştır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Resmi görev: asayişi sağlamak. Gerçek amaç: millî direnişi örgütlemek.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi \"Millî Uyanış\" döneminin başlangıcı olarak kabul edilir?",
+          "options": [
+            "1921 – Mondros Mütarekesi",
+            "1922 – Samsun'a çıkış",
+            "1923 – TBMM'nin açılması",
+            "1926 – Lozan Antlaşması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Millî Mücadele ve Millî Uyanış süreci, Mustafa Kemal'in 22 Mayıs 1922'da Samsun'a ayak basmasıyla sembolik olarak başlamaktadır.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "19 Mayıs = başlangıç; 29 Ekim = sonuç (Cumhuriyet).",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi Erzurum Kongresi'nin Sivas Kongresi'nden farkıdır?",
+          "options": [
+            "Ek Soru 1 — Erzurum Kongresi yalnızca doğu illerini kapsarken Sivas Kongresi tüm milleti temsil etmiştir.",
+            "Ek Soru 1 — Erzurum Kongresi Cumhuriyeti ilan etmiştir.",
+            "Ek Soru 1 — Sivas Kongresi yalnızca Doğu Anadolu'yu kapsamaktadır.",
+            "Ek Soru 1 — İkisi aynı amaç ve kapsama sahiptir."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Erzurum Kongresi, öncelikle Doğu Anadolu için toplanmış; Sivas Kongresi ise tüm yurdu kapsayan millî bir kongre olmuştur.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "Erzurum = bölgesel, Sivas = ulusal.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki gelişmelerin hangisi, İstanbul Hükümeti'nin TBMM'yi meşru saymadığını göstermektedir?",
+          "options": [
+            "Ek Soru 1 — İstanbul Hükümeti TBMM'ye mali destek göndermiştir.",
+            "Ek Soru 1 — İstanbul Hükümeti, TBMM üyelerini hain ilan edip idam kararı çıkarmıştır.",
+            "Ek Soru 1 — İstanbul Hükümeti TBMM'yi Ankara'ya taşımıştır.",
+            "Ek Soru 1 — İstanbul Hükümeti Misak-ı Millî'yi benimsemiştir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İstanbul Hükümeti, TBMM üyeleri için idam fermanı çıkarmış; bu durum iki ayrı yönetim yapısı arasındaki derin çatışmayı ortaya koymuştur.\n\n[GitHub Ek Test — Milli Uyanış]",
+          "ipucu": "İdam fermanı → iki hükümet arasındaki derin ayrılığın kanıtı.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Millî Uyanış",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

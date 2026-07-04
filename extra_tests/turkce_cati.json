@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_cati",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Fiilde Çatı",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — \"Okuldaki duvarlar boyandı.\" cümlesinin fiilinin çatısı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Etken – geçişli",
+            "Ek Soru 1 — Edilgen",
+            "Ek Soru 1 — Dönüşlü",
+            "Ek Soru 1 — İşteş"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Boyandı\" fiili \"-n\" edilgen ekini almıştır. Özne olan \"duvarlar\" eylemi yapmıyor, aksine eylemden etkileniyor. Bu edilgen çatıdır.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Edilgen çatı eki: \"-ıl/-il/-ul/-ül/-n\". Ek varsa ve özne eylemi yapmıyorsa edilgendir. \"Duvarlar boyandı\" → kim boyadı? belirsiz → edilgen.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Annem akşam yemek pişirdi.\" cümlesindeki fiilin çatısı nedir?",
+          "options": [
+            "Ek Soru 1 — Edilgen",
+            "Ek Soru 1 — Dönüşlü",
+            "Ek Soru 1 — Etken – geçişli",
+            "Ek Soru 1 — Etken – geçişsiz"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Pişirdi\" fiilinde özne \"annem\" eylemi kendisi yapmaktadır (etken). \"Neyi pişirdi? yemek\" → nesne var, yani geçişlidir. Birlikte: etken-geçişli.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Etken: özne eylemi kendisi yapıyor. Geçişli: fiile \"neyi? kimi?\" sorusu sorulabiliyor ve yanıt var. İki özellik birlikte olabilir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Çocuk sabah uyandığında hemen giyindi.\" cümlesindeki \"giyindi\" fiilinin çatısı nedir?",
+          "options": [
+            "Ek Soru 1 — Edilgen – geçişsiz",
+            "Ek Soru 1 — Etken – geçişli",
+            "Ek Soru 1 — Dönüşlü – geçişsiz",
+            "Ek Soru 1 — İşteş – geçişsiz"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Giyindi\" fiili \"-in\" dönüşlü ekini almıştır. Özne (çocuk) eylemi kendi üzerine gerçekleştiriyor: kendini giydirdi. Bu dönüşlü çatıdır. \"Neyi giydirdi?\" nesne alamaz → geçişsiz.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Dönüşlü eki \"-ın/-in/-un/-ün\": özne eylemi kendine yapıyor. \"Yıkandı, giyindi, tarandı\" → özne kendi bedenine eylem yapıyor → dönüşlü.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Eski arkadaşlar buluşunca kucaklaştı.\" cümlesindeki \"kucaklaştı\" fiilinin çatısı hangisidir?",
+          "options": [
+            "Ek Soru 1 — Etken – geçişli",
+            "Ek Soru 1 — Edilgen – geçişsiz",
+            "Ek Soru 1 — Dönüşlü – geçişsiz",
+            "Ek Soru 1 — İşteş – geçişsiz"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Kucaklaştı\" fiili \"-laş\" işteş ekini içermekte ve karşılıklı bir eylemi bildirmektedir: arkadaşlar birbirini kucakladı. \"Neyi kucaklaştı?\" sorusu yanıtsız → geçişsiz. İşteş-geçişsiz.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "İşteş çatı: \"-ış/-iş/-uş/-üş\" veya \"-laş/-leş\" ekleri + eylem iki ya da daha fazla kişi arasında karşılıklı/birlikte. \"Buluştular, kucaklaştılar, görüştüler\" klasik örnekler.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerden hangisinde geçişsiz fiil kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Öğretmen soruyu sordu.",
+            "Ek Soru 1 — Annem pastayı pişirdi.",
+            "Ek Soru 1 — Çocuk bahçede güldü.",
+            "Ek Soru 1 — Öğrenci kitabı okudu."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Güldü\" fiiline \"neyi güldü?\" sorusu sorulduğunda yanıt alınamaz → nesne almıyor → geçişsiz. A \"soruyu\", B \"pastayı\", D \"kitabı\" nesne alıyor → geçişli.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Geçişli test: \"neyi? kimi?\" sor. Yanıt varsa geçişli, yoksa geçişsiz. \"Koştu, güldü, uyudu\" gibi doğal eylemler genellikle geçişsizdir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde edilgen çatılı fiil kullanılmamıştır?",
+          "options": [
+            "Ek Soru 1 — Kapı kapatıldı.",
+            "Ek Soru 1 — Ödev yapıldı.",
+            "Ek Soru 1 — Öğrenci hızlı koştu.",
+            "Ek Soru 1 — Sınav ertelendi."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Koştu\" fiili etken çatılıdır; özne eylemi kendisi yapmaktadır. \"-ıl, -ıl, -n\" gibi edilgen eki içermez. A \"-ıl\", B \"-ıl\", D \"-n\" eki alarak edilgen yapı oluşturmuştur.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Edilgen olmayan fiiller: edilgen eki yok (-ıl/-il/-ul/-ül/-n) ve özne eylemi kendi yapıyor. \"Koştu, güldü, geldi\" → etken, geçişsiz.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Çocuklar bahçede birbirleriyle oynaştı.\" cümlesindeki fiilin çatısını belirleyen özellik nedir?",
+          "options": [
+            "Ek Soru 1 — \"-n\" eki edilgen yapı oluşturmuştur.",
+            "Ek Soru 1 — Fiil geçişlidir; nesne almaktadır.",
+            "Ek Soru 1 — \"-ş\" eki ve karşılıklı eylem işteş çatıyı göstermektedir.",
+            "Ek Soru 1 — Özne eylemi kendine yaptığı için dönüşlüdür."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Oynaştı\" fiilinde \"-aş\" işteş çatı eki bulunmaktadır; \"birbirleriyle\" ifadesi de karşılıklı eylemi pekiştirmektedir. Bu işteş çatı özelliklerinin birlikte görülmesidir.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "\"Birbirleriyle, birbirini, beraberce\" gibi ifadeler işteş çatının ipucudur. Bu ifadelerle birlikte kullanılan fiil genellikle işteş çatılıdır.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Yollar süpürüldü, bahçeler sulandı.\" cümlelerinde fiillerin çatıları hakkında doğru yargı hangisidir?",
+          "options": [
+            "Ek Soru 1 — Her iki fiil de dönüşlü çatılıdır.",
+            "Ek Soru 1 — Her iki fiil de etken-geçişlidir.",
+            "Ek Soru 1 — Her iki fiil de edilgen çatılıdır.",
+            "Ek Soru 1 — İlk fiil edilgen, ikinci fiil işteştir."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Süpürüldü\" → \"-ül\" edilgen eki; \"sulandı\" → \"-n\" edilgen eki almıştır. Her iki fiilde de özne eylemi yapmıyor, aksine etkileniyor. Her ikisi de edilgendir.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Çoklu fiil sorularında her fiili ayrı ayrı analiz et. Edilgen eki aramak için: \"-ıl/-il/-ul/-ül\" veya \"-n\" var mı?",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerden hangisinde geçişli fiil kullanılmamıştır?",
+          "options": [
+            "Ek Soru 1 — Annem çorbayı pişirdi.",
+            "Ek Soru 1 — Öğrenci ödevi teslim etti.",
+            "Ek Soru 1 — Saat gece yarısı çaldı.",
+            "Ek Soru 1 — Usta tabelayı astı."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Saat çaldı\" ifadesinde \"saat çalmak\" = zil/çan sesi çıkarmak anlamındadır; \"neyi çaldı?\" sorusu bu bağlamda yanıtsız kalır → geçişsiz. A, B, D nesne alan geçişli kullanımlardır.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Dikkat: \"çalmak\" fiili farklı anlamlarda geçişli (kapıyı çalmak, müzik çalmak) veya geçişsiz (saat çaldı) olabilir. Bağlamı değerlendir.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Yarışmacılar sahnede birbirleriyle selamlaştı; ardından ödüller dağıtıldı.\" cümlesinde fiillerin çatıları sırasıyla hangisidir?",
+          "options": [
+            "Ek Soru 1 — İşteş – Edilgen",
+            "Ek Soru 1 — Edilgen – İşteş",
+            "Ek Soru 1 — Dönüşlü – Etken",
+            "Ek Soru 1 — Etken – Edilgen"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — \"Selamlaştı\" → \"-laş\" işteş eki + karşılıklı eylem → işteş çatı. \"Dağıtıldı\" → \"-ıl\" edilgen eki + özne eylemi yapmıyor → edilgen çatı. Sıralama: işteş – edilgen.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Sıralı çatı sorularında her yüklemi ayrı ayrı analiz et. Önce ek türünü bul (\"-laş\" = işteş, \"-ıl\" = edilgen), sonra öznenin eylemi yapıp yapmadığını kontrol et.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Fiilde Çatı",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — \"Pencere açıldı.\" cümlesinde fiil hangi çatıdadır?",
+          "options": [
+            "Ek Soru 1 — Etken",
+            "Ek Soru 1 — Edilgen",
+            "Ek Soru 1 — Dönüşlü",
+            "Ek Soru 1 — İşteş"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Açıldı\" → -ıl- edilgen eki → özne eylemi yapmıyor, eylemden etkileniyor → edilgen çatı.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "-il/-ıl/-ul/-ül ekleri edilgen çatı işareti.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Çocuk yıkandı.\" cümlesindeki fiil hangi çatıdadır?",
+          "options": [
+            "Ek Soru 1 — Edilgen",
+            "Ek Soru 1 — Dönüşlü",
+            "Ek Soru 1 — Ettirgen",
+            "Ek Soru 1 — Etken"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Yıkandı\" → -n- dönüşlü eki → özne eylemi kendine yapıyor → dönüşlü çatı.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Dönüşlü: özne eylemi kendine uygular. \"-n-\" eki.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğretmen öğrenciye ödevi yaptırdı.\" cümlesindeki yüklem hangi çatıdadır?",
+          "options": [
+            "Ek Soru 1 — Etken",
+            "Ek Soru 1 — Edilgen",
+            "Ek Soru 1 — Ettirgen",
+            "Ek Soru 1 — İşteş"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Yaptırdı\" → -tır- ettirgen eki → özne eylemi başkasına yaptırıyor → ettirgen çatı.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Ettirgen: özne eylemi kendisi yapmaz, başkasına yaptırır. \"-tır/-dır/-t/-r\" ekleri.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Arkadaşlar el sıkıştı.\" cümlesindeki yüklem hangi çatıdadır?",
+          "options": [
+            "Ek Soru 1 — Etken",
+            "Ek Soru 1 — Edilgen",
+            "Ek Soru 1 — Dönüşlü",
+            "Ek Soru 1 — İşteş"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Sıkıştı\" → -ş- işteş eki → iki ya da daha fazla özne eylemi birlikte yapıyor → işteş çatı.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "İşteş: iki ya da daha fazla özne eylemi karşılıklı/birlikte yapar. \"-ş-\" eki.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Etken çatılı fiil hangi özelliği taşır?",
+          "options": [
+            "Ek Soru 1 — Özne eylemi başkasına yaptırır.",
+            "Ek Soru 1 — Özne eylemi kendine yapar.",
+            "Ek Soru 1 — Özne eylemi doğrudan kendisi gerçekleştirir.",
+            "Ek Soru 1 — Eylemin öznesi belirsizdir."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Etken çatı: özne eylemi bizzat kendisi gerçekleştirir. \"Ali koştu\" → Ali bizzat koşuyor.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Etken = aktif. Özne eylemi doğrudan yapıyor.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde edilgen çatılı fiil vardır?",
+          "options": [
+            "Ek Soru 1 — Ali kitap okudu.",
+            "Ek Soru 1 — Kitap okundu.",
+            "Ek Soru 1 — Ali kitap okuttu.",
+            "Ek Soru 1 — Ali kitap okudu, Ali okuttu."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Kitap okundu\" → -un- edilgen eki → özne belirsiz ya da eylemin nesnesi öne çıkmış → edilgen çatı.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Edilgen: \"kim yaptı?\" belirsiz. Nesne özne konumuna geçer.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Saçını tarattı.\" cümlesindeki yüklem hangi çatıdadır?",
+          "options": [
+            "Ek Soru 1 — Etken",
+            "Ek Soru 1 — Dönüşlü",
+            "Ek Soru 1 — Ettirgen",
+            "Ek Soru 1 — İşteş"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Tarattı\" → -t- ettirgen eki → özne saçı kendisi taramıyor, başkasına taratıyor → ettirgen.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Saçı kim tarıyor? Başkası → ettirgen.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğrenciler tartıştı.\" cümlesindeki yüklem hangi çatıdadır?",
+          "options": [
+            "Ek Soru 1 — Etken",
+            "Ek Soru 1 — Dönüşlü",
+            "Ek Soru 1 — Edilgen",
+            "Ek Soru 1 — İşteş"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Tartıştı\" → -ış- işteş eki → öğrenciler birlikte/karşılıklı tartışıyor → işteş.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "\"Tartışmak\" zaten karşılıklı yapılan eylem → işteş çatı.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Edilgen ve dönüşlü çatıyı ayırt etmek için hangi soru sorulur?",
+          "options": [
+            "Ek Soru 1 — Kim yaptı?",
+            "Ek Soru 1 — Nesne var mı?",
+            "Ek Soru 1 — Özne eylemi kendine mi yapıyor, yoksa dışarıdan mı etkileniyor?",
+            "Ek Soru 1 — Kaç kişi var?"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Dönüşlü: özne eylemi kendine yapıyor (yıkandı = kendini yıkadı). Edilgen: dışarıdan etkileniyor, özne belirsiz.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Kendine yapma → dönüşlü. Dışarıdan etkilenme → edilgen.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğrenciler sınıflandırıldı.\" cümlesindeki yüklem hangi çatıdadır?",
+          "options": [
+            "Ek Soru 1 — Etken",
+            "Ek Soru 1 — Ettirgen",
+            "Ek Soru 1 — Edilgen",
+            "Ek Soru 1 — Dönüşlü"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Sınıflandırıldı\" → -ıl- edilgen eki → öğrenciler başkası tarafından sınıflandırılıyor → edilgen.\n\n[GitHub Ek Test — Fiilde Çatı]",
+          "ipucu": "Kim sınıflandırdı? Belirsiz → edilgen.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilde Çatı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

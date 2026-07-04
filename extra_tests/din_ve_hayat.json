@@ -1,0 +1,418 @@
+{
+  "topicId": "din_ve_hayat",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Din ve Hayat",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir fabrikada iş güvenliği eğitimi veriliyor ve koruyucu ekipman kullanımı zorunlu tutuluyor.\n\nBu duruma göre, bu uygulama dinin hangi temel amacına daha çok hizmet eder?",
+          "options": [
+            "Ek Soru 1 — Neslin korunması",
+            "Ek Soru 1 — Canın korunması",
+            "Ek Soru 1 — Malın korunması",
+            "Ek Soru 1 — Dinin korunması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İnsan hayatını korumaya yönelik tedbirler canın korunması ilkesini gerçekleştirir.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Öncelik yaşam hakkı.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Durum: Okulda bağımlılıkla mücadele seminerleri düzenlenerek öğrenciler bilinçlendiriliyor.\n\nBu duruma göre, bu çalışma hangi değerin korunmasına yöneliktir?",
+          "options": [
+            "Ek Soru 1 — Aklın korunması",
+            "Ek Soru 1 — Malın korunması",
+            "Ek Soru 1 — Neslin korunması",
+            "Ek Soru 1 — Makamın korunması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Bağımlılık yapan maddeler zihne zarar verdiğinden bu mücadele aklın korunmasıyla ilgilidir.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Zihinsel sağlığı koruma.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir esnaf, müşteriye hatalı ürün verdiğini fark edince ürünü değiştirip özür diliyor.\n\nBu duruma göre, bu davranış hangi ilkeyi destekler?",
+          "options": [
+            "Ek Soru 1 — Haksız kazanç",
+            "Ek Soru 1 — Dürüst ticaret ve malın korunması",
+            "Ek Soru 1 — Sorumluluktan kaçış",
+            "Ek Soru 1 — Gösteriş"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Dürüstlük ve güvene dayalı ticaret, kul hakkını gözetir ve mal emniyetini korur.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Ticarette güven ilişkisi.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Durum: Aile danışmanlık merkezinde iletişim, sorumluluk ve saygı eğitimleri veriliyor.\n\nBu duruma göre, bu çalışmalar en çok hangi değeri korur?",
+          "options": [
+            "Ek Soru 1 — Neslin korunması",
+            "Ek Soru 1 — Faizin korunması",
+            "Ek Soru 1 — Rekabetin korunması",
+            "Ek Soru 1 — Makamın korunması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Aile kurumunun güçlenmesi, sağlıklı nesillerin yetişmesine katkı sağlar.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Aile ve kuşak devamlılığı.",
+          "difficulty": 4,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Yusuf (a.s.) kardeşleri tarafından kuyuya atıldı.\n\nBu olay hangi ahlaki dersi öne çıkarır?",
+          "options": [
+            "Ek Soru 1 — İhanet ve kıskançlığın sonuçları",
+            "Ek Soru 1 — Ticaret ahlakı",
+            "Ek Soru 1 — Oruç ibadeti",
+            "Ek Soru 1 — Zekât nisabı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kardeşlerinin kıskançlığı Yusuf kıssasının başlangıcıdır.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Kıskançlık → ihanet.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Hz. Yusuf'un rüyasını yorumlayan kimdir?",
+          "options": [
+            "Ek Soru 1 — Kardeşleri",
+            "Ek Soru 1 — Hz. Yakub",
+            "Ek Soru 1 — Firavun",
+            "Ek Soru 1 — Hz. Musa"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hz. Yakub oğlunun rüyasının güzel bir geleceğe işaret ettiğini söyledi.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Baba figürü.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Hz. Yusuf zindanda iken hapis arkadaşlarının rüyalarını doğru yorumladı.\n\nBu hangi özelliğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Sabır ve fetanet",
+            "Ek Soru 1 — Kıskançlık",
+            "Ek Soru 1 — Tembellik",
+            "Ek Soru 1 — İsyan"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Zor şartlarda bile doğru yorum ve sabır gösterdi.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Zorlukta bilgelik.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Asr Suresi kaçıncı suredir?",
+          "options": [
+            "104",
+            "106",
+            "110",
+            "115"
+          ],
+          "correctIndex": 1,
+          "explanation": "Asr Suresi 106. suredir.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "103. sure.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Asr Suresi'nde kurtuluş için sayılan ilk özellik hangisidir?",
+          "options": [
+            "Ek Soru 1 — İman",
+            "Ek Soru 1 — Namaz",
+            "Ek Soru 1 — Oruç",
+            "Ek Soru 1 — Hac"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İman ile başlar.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "İman esas.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — 'Asr' suresinde geçen 'asr' kelimesi neyi simgeler?",
+          "options": [
+            "Ek Soru 1 — Zaman / çağ",
+            "Ek Soru 1 — Gece",
+            "Ek Soru 1 — Deniz",
+            "Ek Soru 1 — Dağ"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Asr zamanı ve çağı simgeler.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Zaman.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Din ve Hayat",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Din ve Hayat",
+      "questions": [
+        {
+          "question": "Test 11: Senaryo: Bir fabrikada iş güvenliği eğitimi veriliyor ve koruyucu ekipman kullanımı zorunlu tutuluyor.\n\nBu duruma göre, bu uygulama dinin hangi temel amacına daha çok hizmet eder?",
+          "options": [
+            "Ek Soru 1 — Neslin korunması",
+            "Ek Soru 1 — Canın korunması",
+            "Ek Soru 1 — Malın korunması",
+            "Ek Soru 1 — Dinin korunması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İnsan hayatını korumaya yönelik tedbirler canın korunması ilkesini gerçekleştirir.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Öncelik yaşam hakkı.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Durum: Okulda bağımlılıkla mücadele seminerleri düzenlenerek öğrenciler bilinçlendiriliyor.\n\nBu duruma göre, bu çalışma hangi değerin korunmasına yöneliktir?",
+          "options": [
+            "Ek Soru 1 — Aklın korunması",
+            "Ek Soru 1 — Malın korunması",
+            "Ek Soru 1 — Neslin korunması",
+            "Ek Soru 1 — Makamın korunması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Bağımlılık yapan maddeler zihne zarar verdiğinden bu mücadele aklın korunmasıyla ilgilidir.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Zihinsel sağlığı koruma.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Bir esnaf, müşteriye hatalı ürün verdiğini fark edince ürünü değiştirip özür diliyor.\n\nBu duruma göre, bu davranış hangi ilkeyi destekler?",
+          "options": [
+            "Ek Soru 1 — Haksız kazanç",
+            "Ek Soru 1 — Dürüst ticaret ve malın korunması",
+            "Ek Soru 1 — Sorumluluktan kaçış",
+            "Ek Soru 1 — Gösteriş"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Dürüstlük ve güvene dayalı ticaret, kul hakkını gözetir ve mal emniyetini korur.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Ticarette güven ilişkisi.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Durum: Aile danışmanlık merkezinde iletişim, sorumluluk ve saygı eğitimleri veriliyor.\n\nBu duruma göre, bu çalışmalar en çok hangi değeri korur?",
+          "options": [
+            "Ek Soru 1 — Neslin korunması",
+            "Ek Soru 1 — Faizin korunması",
+            "Ek Soru 1 — Rekabetin korunması",
+            "Ek Soru 1 — Makamın korunması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Aile kurumunun güçlenmesi, sağlıklı nesillerin yetişmesine katkı sağlar.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Aile ve kuşak devamlılığı.",
+          "difficulty": 4,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Yusuf (a.s.) kardeşleri tarafından kuyuya atıldı.\n\nBu olay hangi ahlaki dersi öne çıkarır?",
+          "options": [
+            "Ek Soru 1 — İhanet ve kıskançlığın sonuçları",
+            "Ek Soru 1 — Ticaret ahlakı",
+            "Ek Soru 1 — Oruç ibadeti",
+            "Ek Soru 1 — Zekât nisabı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kardeşlerinin kıskançlığı Yusuf kıssasının başlangıcıdır.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Kıskançlık → ihanet.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Hz. Yusuf'un rüyasını yorumlayan kimdir?",
+          "options": [
+            "Ek Soru 1 — Kardeşleri",
+            "Ek Soru 1 — Hz. Yakub",
+            "Ek Soru 1 — Firavun",
+            "Ek Soru 1 — Hz. Musa"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hz. Yakub oğlunun rüyasının güzel bir geleceğe işaret ettiğini söyledi.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Baba figürü.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Hz. Yusuf zindanda iken hapis arkadaşlarının rüyalarını doğru yorumladı.\n\nBu hangi özelliğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Sabır ve fetanet",
+            "Ek Soru 1 — Kıskançlık",
+            "Ek Soru 1 — Tembellik",
+            "Ek Soru 1 — İsyan"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Zor şartlarda bile doğru yorum ve sabır gösterdi.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Zorlukta bilgelik.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Asr Suresi kaçıncı suredir?",
+          "options": [
+            "104",
+            "106",
+            "110",
+            "115"
+          ],
+          "correctIndex": 1,
+          "explanation": "Asr Suresi 106. suredir.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "103. sure.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Asr Suresi'nde kurtuluş için sayılan ilk özellik hangisidir?",
+          "options": [
+            "Ek Soru 1 — İman",
+            "Ek Soru 1 — Namaz",
+            "Ek Soru 1 — Oruç",
+            "Ek Soru 1 — Hac"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İman ile başlar.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "İman esas.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: 'Asr' suresinde geçen 'asr' kelimesi neyi simgeler?",
+          "options": [
+            "Ek Soru 1 — Zaman / çağ",
+            "Ek Soru 1 — Gece",
+            "Ek Soru 1 — Deniz",
+            "Ek Soru 1 — Dağ"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Asr zamanı ve çağı simgeler.\n\n[GitHub Ek Test — Din ve Hayat]",
+          "ipucu": "Zaman.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Din ve Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

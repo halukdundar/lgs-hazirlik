@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_metin_gorsel",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Metin Türleri ve Görsel Okuma",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Metin: \"Bir varmış bir yokmuş; evvel zaman içinde...\"\n\nBu metnin türü aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Öyküleyici (hikâye)",
+            "Ek Soru 1 — Bilgilendirici",
+            "Ek Soru 1 — Tartışmacı makale",
+            "Ek Soru 1 — Betimleyici şiir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Olay anlatımı ve masal kalıpları öyküleyici metni gösterir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Olay anlatılıyor mu?",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Bence okullarda cep telefonu kullanımı sınırlandırılmalıdır. Çünkü dikkat dağınıklığına yol açar.\"\n\nBu metnin türü hangisidir?",
+          "options": [
+            "Ek Soru 1 — Hikâye",
+            "Ek Soru 1 — Deneme / makale",
+            "Ek Soru 1 — Fıkra",
+            "Ek Soru 1 — Anı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Görüş bildirme ve gerekçe sunma deneme/makale özelliğidir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Görüş + kanıt",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir paragraf kişi ve mekânı duyularla tasvir ediyor, olay akışı yok.\n\nBu metin hangi türe girer?",
+          "options": [
+            "Ek Soru 1 — Öyküleyici",
+            "Ek Soru 1 — Betimleyici",
+            "Ek Soru 1 — Bilgilendirici",
+            "Ek Soru 1 — Soruşturmacı haber"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tasvir ve duyularla anlatım betimleyici metindir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Tasvir var mı?",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Fotosentez, bitkilerin güneş ışığını kullanarak besin üretmesidir.\"\n\nBu cümle hangi metin türünde sık görülür?",
+          "options": [
+            "Ek Soru 1 — Öyküleyici",
+            "Ek Soru 1 — Bilgilendirici / açıklayıcı",
+            "Ek Soru 1 — Eleştiri",
+            "Ek Soru 1 — Gezi yazısı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tanım ve bilgi verme bilgilendirici metne özgüdür.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Bilgi aktarımı",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Yazar bir konuda okuyucuyu ikna etmeye çalışıyor.\n\nBu amaç hangi metin türüne işaret eder?",
+          "options": [
+            "Ek Soru 1 — Betimleyici",
+            "Ek Soru 1 — Tartışmacı",
+            "Ek Soru 1 — Masal",
+            "Ek Soru 1 — Günlük"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İkna ve görüş savunma tartışmacı metindir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "İkna amacı",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Grafik: Pasta grafiği — Spor %43, Bilim %28, Sanat %23, Müzik %18.\n\nBu grafiğe göre hangi yargı doğrudur?",
+          "options": [
+            "Ek Soru 1 — Müzik en çok tercih edilmiştir",
+            "Ek Soru 1 — Spor kulübü en yüksek orana sahiptir",
+            "Ek Soru 1 — Sanat ve bilim toplamı sporun iki katıdır",
+            "Ek Soru 1 — Grafikten hiçbir sonuç çıkarılamaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "En büyük dilim %43 ile Spor kulübüdür.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Yüzdeleri karşılaştır.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: 7 şehrin kitap satışı (bin): İstanbul 853, Ankara 623, İzmir 483, Bursa 313.\n\nHangisi yanlıştır?",
+          "options": [
+            "Ek Soru 1 — İstanbul en yüksek satışa sahiptir",
+            "Ek Soru 1 — Ankara İzmir'den daha az satmıştır",
+            "Ek Soru 1 — İzmir Bursa'dan fazla satmıştır",
+            "Ek Soru 1 — Bursa en düşük satışa sahiptir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ankara 623 > İzmir 483; daha az değil daha fazla.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Sayıları doğrudan kıyasla.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Senaryo: Çizgi grafikte 2023–2027 arası satışlar sürekli artıyor.\n\nBu grafik türü neyi göstermek için kullanılır?",
+          "options": [
+            "Ek Soru 1 — Oran",
+            "Ek Soru 1 — Zaman içinde değişim / trend",
+            "Ek Soru 1 — Sadece karşılaştırma",
+            "Ek Soru 1 — Coğrafi dağılım"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Çizgi grafik zaman içindeki değişimi gösterir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Trend = çizgi grafik",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Görsel: Bir infografikte eksen birimi yazmıyor.\n\nSınavda ilk yapılması gereken nedir?",
+          "options": [
+            "Ek Soru 1 — Görseli yorumlamadan cevap işaretle",
+            "Ek Soru 1 — Başlık, birim ve lejantı kontrol et",
+            "Ek Soru 1 — En büyük sütunu seç",
+            "Ek Soru 1 — Metni okumadan geç"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Eksik birim ve başlık yorumu yanıltır; önce kontrol edilir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Birim kontrolü",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Paragraf bir tablo verisi anlatıyor; soru tabloda olmayan gelecek tahmini istiyor.\n\nDoğru yaklaşım hangisidir?",
+          "options": [
+            "Ek Soru 1 — Tahmini kesin bilgi say",
+            "Ek Soru 1 — Tabloda verilmeyen kesin yargı kurma",
+            "Ek Soru 1 — En uzun seçeneği seç",
+            "Ek Soru 1 — Paragrafı yok say"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Görselde/tablonun dışında kesin çıkarım yapılmamalıdır.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Veride yoksa çıkarılamaz",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Metin Türleri ve Görsel Okuma",
+      "questions": [
+        {
+          "question": "Test 6: Grafik: Pasta grafiği — Spor %43, Bilim %28, Sanat %23, Müzik %18.\n\nBu grafiğe göre hangi yargı doğrudur?",
+          "options": [
+            "Ek Soru 1 — Müzik en çok tercih edilmiştir",
+            "Ek Soru 1 — Spor kulübü en yüksek orana sahiptir",
+            "Ek Soru 1 — Sanat ve bilim toplamı sporun iki katıdır",
+            "Ek Soru 1 — Grafikten hiçbir sonuç çıkarılamaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "En büyük dilim %43 ile Spor kulübüdür.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Yüzdeleri karşılaştır.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 6: Tablo: 7 şehrin kitap satışı (bin): İstanbul 853, Ankara 623, İzmir 483, Bursa 313.\n\nHangisi yanlıştır?",
+          "options": [
+            "Ek Soru 1 — İstanbul en yüksek satışa sahiptir",
+            "Ek Soru 1 — Ankara İzmir'den daha az satmıştır",
+            "Ek Soru 1 — İzmir Bursa'dan fazla satmıştır",
+            "Ek Soru 1 — Bursa en düşük satışa sahiptir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ankara 623 > İzmir 483; daha az değil daha fazla.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Sayıları doğrudan kıyasla.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 6: Senaryo: Çizgi grafikte 2023–2027 arası satışlar sürekli artıyor.\n\nBu grafik türü neyi göstermek için kullanılır?",
+          "options": [
+            "Ek Soru 1 — Oran",
+            "Ek Soru 1 — Zaman içinde değişim / trend",
+            "Ek Soru 1 — Sadece karşılaştırma",
+            "Ek Soru 1 — Coğrafi dağılım"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Çizgi grafik zaman içindeki değişimi gösterir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Trend = çizgi grafik",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 7: Grafik: Pasta grafiği — Spor %43, Bilim %28, Sanat %23, Müzik %18.\n\nBu grafiğe göre hangi yargı doğrudur?",
+          "options": [
+            "Ek Soru 1 — Müzik en çok tercih edilmiştir",
+            "Ek Soru 1 — Spor kulübü en yüksek orana sahiptir",
+            "Ek Soru 1 — Sanat ve bilim toplamı sporun iki katıdır",
+            "Ek Soru 1 — Grafikten hiçbir sonuç çıkarılamaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "En büyük dilim %43 ile Spor kulübüdür.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Yüzdeleri karşılaştır.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 7: Tablo: 7 şehrin kitap satışı (bin): İstanbul 853, Ankara 623, İzmir 483, Bursa 313.\n\nHangisi yanlıştır?",
+          "options": [
+            "Ek Soru 1 — İstanbul en yüksek satışa sahiptir",
+            "Ek Soru 1 — Ankara İzmir'den daha az satmıştır",
+            "Ek Soru 1 — İzmir Bursa'dan fazla satmıştır",
+            "Ek Soru 1 — Bursa en düşük satışa sahiptir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ankara 623 > İzmir 483; daha az değil daha fazla.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Sayıları doğrudan kıyasla.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 7: Senaryo: Çizgi grafikte 2023–2027 arası satışlar sürekli artıyor.\n\nBu grafik türü neyi göstermek için kullanılır?",
+          "options": [
+            "Ek Soru 1 — Oran",
+            "Ek Soru 1 — Zaman içinde değişim / trend",
+            "Ek Soru 1 — Sadece karşılaştırma",
+            "Ek Soru 1 — Coğrafi dağılım"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Çizgi grafik zaman içindeki değişimi gösterir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Trend = çizgi grafik",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 8: Grafik: Pasta grafiği — Spor %43, Bilim %28, Sanat %23, Müzik %18.\n\nBu grafiğe göre hangi yargı doğrudur?",
+          "options": [
+            "Ek Soru 1 — Müzik en çok tercih edilmiştir",
+            "Ek Soru 1 — Spor kulübü en yüksek orana sahiptir",
+            "Ek Soru 1 — Sanat ve bilim toplamı sporun iki katıdır",
+            "Ek Soru 1 — Grafikten hiçbir sonuç çıkarılamaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "En büyük dilim %43 ile Spor kulübüdür.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Yüzdeleri karşılaştır.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 8: Tablo: 7 şehrin kitap satışı (bin): İstanbul 853, Ankara 623, İzmir 483, Bursa 313.\n\nHangisi yanlıştır?",
+          "options": [
+            "Ek Soru 1 — İstanbul en yüksek satışa sahiptir",
+            "Ek Soru 1 — Ankara İzmir'den daha az satmıştır",
+            "Ek Soru 1 — İzmir Bursa'dan fazla satmıştır",
+            "Ek Soru 1 — Bursa en düşük satışa sahiptir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ankara 623 > İzmir 483; daha az değil daha fazla.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Sayıları doğrudan kıyasla.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 8: Senaryo: Çizgi grafikte 2023–2027 arası satışlar sürekli artıyor.\n\nBu grafik türü neyi göstermek için kullanılır?",
+          "options": [
+            "Ek Soru 1 — Oran",
+            "Ek Soru 1 — Zaman içinde değişim / trend",
+            "Ek Soru 1 — Sadece karşılaştırma",
+            "Ek Soru 1 — Coğrafi dağılım"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Çizgi grafik zaman içindeki değişimi gösterir.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Trend = çizgi grafik",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 9: Grafik: Pasta grafiği — Spor %43, Bilim %28, Sanat %23, Müzik %18.\n\nBu grafiğe göre hangi yargı doğrudur?",
+          "options": [
+            "Ek Soru 1 — Müzik en çok tercih edilmiştir",
+            "Ek Soru 1 — Spor kulübü en yüksek orana sahiptir",
+            "Ek Soru 1 — Sanat ve bilim toplamı sporun iki katıdır",
+            "Ek Soru 1 — Grafikten hiçbir sonuç çıkarılamaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "En büyük dilim %43 ile Spor kulübüdür.\n\n[GitHub Ek Test — Metin Türleri ve Görsel Okuma]",
+          "ipucu": "Yüzdeleri karşılaştır.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Metin Türleri ve Görsel Okuma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

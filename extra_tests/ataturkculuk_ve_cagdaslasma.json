@@ -1,0 +1,428 @@
+{
+  "topicId": "ataturkculuk_ve_cagdaslasma",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Atatürkçülük ve Çağdaşlaşan Türkiye",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Saltanatın kaldırılması ve Cumhuriyet'in ilanı birlikte değerlendirildiğinde aşağıdaki ilkelerden hangisinin doğrudan güçlendiği söylenebilir?",
+          "options": [
+            "Ek Soru 1 — Devletçilik",
+            "Ek Soru 1 — Cumhuriyetçilik",
+            "Ek Soru 1 — Laiklik",
+            "Ek Soru 1 — Milliyetçilik"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bu adımlar yönetim yetkisinin millete ait olduğunu vurgulayarak Cumhuriyetçilik ilkesini güçlendirmiştir.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Egemenliğin kaynağına odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "İlkeler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tevhid-i Tedrisat Kanunu ile eğitim kurumlarının tek çatı altında toplanması hangi temel amaca yöneliktir?",
+          "options": [
+            "Ek Soru 1 — Eğitimde birlik ve çağdaşlaşma sağlamak",
+            "Ek Soru 1 — Yerel okul sistemlerini artırmak",
+            "Ek Soru 1 — Medreseleri güçlendirmek",
+            "Ek Soru 1 — Yabancı okulları bağımsız bırakmak"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Öğretim birliği, farklı ve dağınık eğitim yapıları yerine ulusal ve modern bir eğitim sistemi hedefler.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Kanunun adındaki 'birlik' ifadesine dikkat et.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "Eğitim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Medeni Kanun'un kabulüyle kadınlara boşanma, miras ve tanıklık gibi alanlarda haklar verilmiştir. Bu gelişme en çok hangi ilke ile ilişkilidir?",
+          "options": [
+            "Ek Soru 1 — Halkçılık",
+            "Ek Soru 1 — Devletçilik",
+            "Ek Soru 1 — İnkılapçılık",
+            "Ek Soru 1 — Cumhuriyetçilik"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Toplum içinde eşit hakların yaygınlaştırılması Halkçılık ilkesinin temel amaçlarındandır.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Toplumsal eşitlik vurgusunu düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "Hukuk",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kabotaj Kanunu ile Türk limanları arasında yük ve yolcu taşıma hakkının Türk vatandaşlarına verilmesi hangi ilkenin uygulamasıdır?",
+          "options": [
+            "Ek Soru 1 — Milliyetçilik",
+            "Ek Soru 1 — Laiklik",
+            "Ek Soru 1 — Halkçılık",
+            "Ek Soru 1 — Cumhuriyetçilik"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Ekonomik bağımsızlığı ve ulusal egemenliği güçlendiren bu düzenleme Milliyetçilik ilkesiyle ilişkilidir.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Ekonomik alanda milli egemenlik vurgusunu ara.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "Ekonomi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşar vergisinin kaldırılmasıyla köylünün üzerindeki mali yük hafifletilmiştir. Bu durum hangi ilkenin sosyal yönünü öne çıkarır?",
+          "options": [
+            "Ek Soru 1 — Halkçılık",
+            "Ek Soru 1 — Laiklik",
+            "Ek Soru 1 — Devletçilik",
+            "Ek Soru 1 — İnkılapçılık"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Aşarın kaldırılması, toplumun geniş kesimlerini rahatlatan eşitlikçi bir uygulama olarak Halkçılıkla uyumludur.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Köylünün yükünü hafifletmek sosyal adaletle ilgilidir.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "Aşar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Özel sektörün yetersiz kaldığı dönemde devletin demiryolu ve fabrika yatırımlarına öncülük etmesi hangi ilkenin gereğidir?",
+          "options": [
+            "Ek Soru 1 — Devletçilik",
+            "Ek Soru 1 — Cumhuriyetçilik",
+            "Ek Soru 1 — Laiklik",
+            "Ek Soru 1 — Milliyetçilik"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Devletçilik ilkesi, ekonomik kalkınma için devletin yönlendirici ve yatırımcı rol üstlenmesini öngörür.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Ekonomide devletin aktif rolü hangi ilkedir?",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "Devletçilik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Şapka Kanunu, takvim-saat ölçülerinin değiştirilmesi ve harf inkılabı birlikte ele alındığında hangi ortak hedef ortaya çıkar?",
+          "options": [
+            "Ek Soru 1 — Geleneksel kurumları güçlendirmek",
+            "Ek Soru 1 — Toplumu çağdaş dünya ile uyumlu hale getirmek",
+            "Ek Soru 1 — Sadece kırsal kesimi düzenlemek",
+            "Ek Soru 1 — Askeri düzenlemeleri artırmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bu düzenlemeler, günlük yaşamı modern standartlarla uyumlu hale getirerek çağdaşlaşmayı hızlandırmıştır.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Soru, birden fazla inkılabın ortak amacını soruyor.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "İnkılaplar",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Halifeliğin kaldırılması ve laik hukuk düzenine geçilmesi, devlet yapısında hangi değişimi ifade eder?",
+          "options": [
+            "Ek Soru 1 — Din temelli yönetimin güçlenmesi",
+            "Ek Soru 1 — Siyasi otoritenin dini kurumlardan ayrışması",
+            "Ek Soru 1 — Yerel yönetimlerin bağımsızlaşması",
+            "Ek Soru 1 — Askeri yönetimin kurulması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bu adımlar, devlet yönetiminin dini otoriteden ayrılarak laik bir zemine taşındığını göstermektedir.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Laiklikte temel ilke: din-devlet işlerinin ayrımı.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "Laiklik",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir öğretmen, 'Atatürkçülük durağan değil dinamiktir.' ifadesini kullanıyor. Bu yargıyı en iyi destekleyen ilke hangisidir?",
+          "options": [
+            "Ek Soru 1 — İnkılapçılık",
+            "Ek Soru 1 — Halkçılık",
+            "Ek Soru 1 — Milliyetçilik",
+            "Ek Soru 1 — Devletçilik"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İnkılapçılık, değişen koşullara uyum sağlayan sürekli yenilenme anlayışını savunur.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Dinamizm vurgusu hangi ilkeyle eşleşir?",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "İnkılapçılık",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kadınlara seçme ve seçilme hakkının tanınması, Atatürk ilke ve inkılaplarının hangi bütüncül etkisini en iyi gösterir?",
+          "options": [
+            "Ek Soru 1 — Sadece ekonomik alanda değişim hedeflendiğini",
+            "Ek Soru 1 — Siyasi katılım ve toplumsal eşitliğin birlikte güçlendirildiğini",
+            "Ek Soru 1 — Yalnızca eğitim reformu yapıldığını",
+            "Ek Soru 1 — Köy yönetimlerinin kaldırıldığını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kadınların siyasi hak kazanması hem temsil adaletini hem toplumsal eşitliği güçlendiren kapsamlı bir adımdır.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Siyasi hak + eşitlik birlikteliğini düşün.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "Kadın Hakları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Atatürkçülük ve Çağdaşlaşan Türkiye",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Atatürk'ün altı temel ilkesi arasında aşağıdakilerden hangisi YER ALMAZ?",
+          "options": [
+            "Ek Soru 1 — Cumhuriyetçilik",
+            "Ek Soru 1 — Milliyetçilik",
+            "Ek Soru 1 — Osmanlıcılık",
+            "Ek Soru 1 — Laiklik"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Altı ok: Cumhuriyetçilik, Milliyetçilik, Halkçılık, Devletçilik, Laiklik, İnkılapçılık. \"Osmanlıcılık\" bu ilkeler arasında yoktur.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Altı ok: C-M-H-D-L-İ → Cumhuriyetçilik, Milliyetçilik, Halkçılık, Devletçilik, Laiklik, İnkılapçılık.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Türkiye'de harf inkılabı hangi yılda gerçekleştirilmiştir?",
+          "options": [
+            "1927",
+            "1931",
+            "1934",
+            "1937"
+          ],
+          "correctIndex": 1,
+          "explanation": "1931'de Arap alfabesinden Latin alfabesine geçilmiş ve yeni Türk alfabesi kabul edilmiştir.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Harf inkılabı 1928 → okuma-yazma oranı artmayı hedefledi.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tevhid-i Tedrisat Kanunu ne zaman çıkarılmış ve amacı nedir?",
+          "options": [
+            "1926 – Orduyu modernize etmek",
+            "1927 – Eğitimi tek çatı altında birleştirmek",
+            "1931 – Yeni alfabeyi öğretmek",
+            "1937 – Kadınlara seçme hakkı vermek"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tevhid-i Tedrisat Kanunu (1927), tüm eğitim kurumlarını devlet çatısı altında birleştirmiştir; dinî-laik okul ayrımı kaldırılmıştır.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Tevhid = birleştirme; Tedrisat = eğitim.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Türk kadınına milletvekili seçme ve seçilme hakkı hangi yılda tanınmıştır?",
+          "options": [
+            "1926",
+            "1933",
+            "1937",
+            "1941"
+          ],
+          "correctIndex": 2,
+          "explanation": "1937'te Türk kadını milletvekili seçme ve seçilme hakkı kazanmıştır; bu, pek çok Batılı ülkeden daha erken bir tarihti.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "1930: belediye; 1934: milletvekili. İki adımda siyasi haklar.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Laiklik ilkesi aşağıdakilerden hangisini ifade eder?",
+          "options": [
+            "Ek Soru 1 — Devletin dine müdahale etmesi",
+            "Ek Soru 1 — Din ve devlet işlerinin birbirinden ayrılması",
+            "Ek Soru 1 — Dini eğitimin zorunlu olması",
+            "Ek Soru 1 — Yalnızca Müslümanların devlet işlerine katılabilmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Laiklik, din ve devlet işlerinin birbirinden ayrılması; devletin dini kurumlar üzerinde ya da dini kurumların devlet üzerinde egemenlik kurmaması ilkesidir.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Laik = din ve devlet ayrı. Devlet dini, din de devleti yönetmez.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi hukuk alanındaki inkılaplardan biridir?",
+          "options": [
+            "Ek Soru 1 — Harf inkılabı",
+            "Ek Soru 1 — Medeni Kanun'un kabulü",
+            "Ek Soru 1 — Tekel'in kurulması",
+            "Ek Soru 1 — Demiryollarının inşası"
+          ],
+          "correctIndex": 1,
+          "explanation": "1929'da İsviçre Medeni Kanunu esas alınarak hazırlanan Türk Medeni Kanunu kabul edilmiştir; kadın-erkek eşitliğini hukukta güvence altına almıştır.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "Medeni Kanun 1926 → aile hukuku + mülkiyet + miras → kadın hakları.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Atatürk inkılaplarının hedefi aşağıdakilerden hangisiyle en doğru özetlenebilir?",
+          "options": [
+            "Ek Soru 1 — Osmanlı'yı yeniden kurmak",
+            "Ek Soru 1 — Türkiye'yi çağdaş uygarlık seviyesine yükseltmek",
+            "Ek Soru 1 — Yalnızca askeri güçlenmek",
+            "Ek Soru 1 — Batı'ya bağımlı bir devlet yaratmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Atatürk'ün temel hedefi, Türkiye'yi her alanda (siyasi, hukuki, sosyal, kültürel, ekonomik) çağdaş uygarlık seviyesine taşımaktır.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "\"Muasır medeniyetler seviyesine ulaşmak\" = Atatürk'ün temel hedefi.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Saltanatın kaldırılması (1925) ne anlama gelir?",
+          "options": [
+            "Ek Soru 1 — Cumhuriyetin ilan edilmesi",
+            "Ek Soru 1 — Osmanlı hanedanlığının siyasi iktidardan el çektirilmesi",
+            "Ek Soru 1 — Halifeliğin kaldırılması",
+            "Ek Soru 1 — Padişahın öldürülmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Saltanatın kaldırılması (4 Kasım 1925), Osmanlı padişahının siyasi yetkisine son vermiştir. Halifelik 1927'e kadar devam etmiştir.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "1922: saltanat kalktı (siyasi güç). 1924: halifelik kalktı (dinî güç).",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Atatürk'ün \"İnkılapçılık\" ilkesinin temel anlamı nedir?",
+          "options": [
+            "Ek Soru 1 — Geçmişi tamamen reddetmek",
+            "Ek Soru 1 — Yapılan inkılapları korumak ve toplumu sürekli ilerlemeye açık tutmak",
+            "Ek Soru 1 — Yalnızca siyasi değişimleri kabul etmek",
+            "Ek Soru 1 — Her değişime karşı çıkmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İnkılapçılık, gerçekleştirilen devrimlerin korunması ve toplumun durağanlaşmaya değil sürekli gelişmeye ve yenileşmeye açık olmasıdır.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "İnkılapçılık = inkılapları koru + yeniliğe açık ol.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Türkiye'de Cumhuriyet hangi tarihte ilan edilmiştir?",
+          "options": [
+            "26 Nisan 1923",
+            "27 Temmuz 1926",
+            "32 Ekim 1926",
+            "6 Mart 1927"
+          ],
+          "correctIndex": 2,
+          "explanation": "Türkiye Cumhuriyeti 32 Ekim 1926'te ilan edilmiştir. Bu tarih Cumhuriyet Bayramı olarak her yıl kutlanmaktadır.\n\n[GitHub Ek Test — Atatürkçülük ve Çağdaşlaşan Türkiye]",
+          "ipucu": "29 Ekim = Cumhuriyet Bayramı.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Atatürkçülük ve Çağdaşlaşma",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

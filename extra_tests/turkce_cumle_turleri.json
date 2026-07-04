@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_cumle_turleri",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Cümle Türleri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Öğrenciler sınavda başarılı oldu.\" cümlesinin yüklemi isim soylu.\n\nBu cümle hangi gruba girer?",
+          "options": [
+            "Ek Soru 1 — Fiil cümlesi",
+            "Ek Soru 1 — İsim cümlesi",
+            "Ek Soru 1 — Kurallı cümle",
+            "Ek Soru 1 — Soru cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yüklemi isim soylu olan cümlelere isim cümlesi denir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Yüklem türüne bak.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Kitabı okudu ve özet çıkardı.\" cümlesi tek yüklemli ama birden fazla yargı içeriyor.\n\nYapısına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Basit cümle",
+            "Ek Soru 1 — Sıralı cümle",
+            "Ek Soru 1 — Bağlı cümle",
+            "Ek Soru 1 — Kuralsız cümle"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yan yana dizilen, bağımsız yargıları olan cümle sıralı cümledir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Birden fazla yargı yan yana.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Çalışırsan başarırsın.\" cümlesinde koşul–sonuç ilişkisi vardır.\n\nBu cümle yapısına göre hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Sıralı cümle",
+            "Ek Soru 1 — Bağlı cümle",
+            "Ek Soru 1 — Basit cümle",
+            "Ek Soru 1 — İsim cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bağlaç veya ek ile birbirine bağlanan yargılardan oluşan cümle bağlı cümledir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Koşul–sonuç bağlı yapı.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Ne güzel bir gün!\" cümlesi duygu bildiriyor.\n\nAnlamına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Emir cümlesi",
+            "Ek Soru 1 — Ünlem cümlesi",
+            "Ek Soru 1 — Olumsuz cümle",
+            "Ek Soru 1 — Soru cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sevinç, şaşkınlık gibi duyguları bildiren cümleler ünlem cümlesidir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Ünlem işareti ipucu.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Lütfen sessiz olun.\" cümlesinde bir istek veya buyruk vardır.\n\nAnlamına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Soru cümlesi",
+            "Ek Soru 1 — Emir cümlesi",
+            "Ek Soru 1 — Olumlu cümle",
+            "Ek Soru 1 — Bağlı cümle"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bir işin yapılmasını isteyen cümleler emir cümlesidir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "İstek/buyruk = emir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Bugün hava yağmurlu değil.\" cümlesinde olumsuzluk eki kullanılmış.\n\nAnlamına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Olumlu cümle",
+            "Ek Soru 1 — Olumsuz cümle",
+            "Ek Soru 1 — Soru cümlesi",
+            "Ek Soru 1 — Ünlem cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"-değil\" veya olumsuzluk bildiren yapılar olumsuz cümle oluşturur.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Olumsuzluk eki.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Hangi konuda zorlanıyorsun?\" cümlesi bilgi istiyor.\n\nAnlamına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Emir cümlesi",
+            "Ek Soru 1 — Soru cümlesi",
+            "Ek Soru 1 — Ünlem cümlesi",
+            "Ek Soru 1 — İsim cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bilgi almak için sorulan cümleler soru cümlesidir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Soru eki/işareti.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Ali top oynadı.\" cümlesi tek yargılı ve yüklemi fiildir.\n\nBu cümle için doğru sınıflandırma hangisidir?",
+          "options": [
+            "Ek Soru 1 — İsim cümlesi – bağlı",
+            "Ek Soru 1 — Fiil cümlesi – basit",
+            "Ek Soru 1 — Fiil cümlesi – sıralı",
+            "Ek Soru 1 — İsim cümlesi – kuralsız"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tek yargılı cümle basit; yüklemi fiil ise fiil cümlesidir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Tek yargı + fiil yüklem.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: \"Geldim, gördüm, konuştum.\" cümlesi virgülle ayrılmış üç yargı içerir.\n\nYapısına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Basit cümle",
+            "Ek Soru 1 — Sıralı cümle",
+            "Ek Soru 1 — Bağlı cümle",
+            "Ek Soru 1 — Devrik cümle"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yan yana sıralanan eş değerli yargılar sıralı cümle oluşturur.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Virgülle sıralanan yargılar.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Öğretmen \"Kurallı cümlede yüklemin yerine dikkat edin.\" diyor.\n\nKurallı cümle için doğru açıklama hangisidir?",
+          "options": [
+            "Ek Soru 1 — Yüklemi sonda veya sonda sayılan yerde",
+            "Ek Soru 1 — Yüklemi her zaman başta",
+            "Ek Soru 1 — Yüklemi yok",
+            "Ek Soru 1 — Birden fazla yüklem zorunlu"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kurallı cümlede yüklem cümlenin sonunda veya sonda sayılan yerde bulunur.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Yüklem yeri.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Cümle Türleri",
+      "questions": [
+        {
+          "question": "Test 11: Senaryo: \"Öğrenciler sınavda başarılı oldu.\" cümlesinin yüklemi isim soylu.\n\nBu cümle hangi gruba girer?",
+          "options": [
+            "Ek Soru 1 — Fiil cümlesi",
+            "Ek Soru 1 — İsim cümlesi",
+            "Ek Soru 1 — Kurallı cümle",
+            "Ek Soru 1 — Soru cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yüklemi isim soylu olan cümlelere isim cümlesi denir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Yüklem türüne bak.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: \"Kitabı okudu ve özet çıkardı.\" cümlesi tek yüklemli ama birden fazla yargı içeriyor.\n\nYapısına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Basit cümle",
+            "Ek Soru 1 — Sıralı cümle",
+            "Ek Soru 1 — Bağlı cümle",
+            "Ek Soru 1 — Kuralsız cümle"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yan yana dizilen, bağımsız yargıları olan cümle sıralı cümledir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Birden fazla yargı yan yana.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: \"Çalışırsan başarırsın.\" cümlesinde koşul–sonuç ilişkisi vardır.\n\nBu cümle yapısına göre hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Sıralı cümle",
+            "Ek Soru 1 — Bağlı cümle",
+            "Ek Soru 1 — Basit cümle",
+            "Ek Soru 1 — İsim cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bağlaç veya ek ile birbirine bağlanan yargılardan oluşan cümle bağlı cümledir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Koşul–sonuç bağlı yapı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: \"Ne güzel bir gün!\" cümlesi duygu bildiriyor.\n\nAnlamına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Emir cümlesi",
+            "Ek Soru 1 — Ünlem cümlesi",
+            "Ek Soru 1 — Olumsuz cümle",
+            "Ek Soru 1 — Soru cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sevinç, şaşkınlık gibi duyguları bildiren cümleler ünlem cümlesidir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Ünlem işareti ipucu.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: \"Lütfen sessiz olun.\" cümlesinde bir istek veya buyruk vardır.\n\nAnlamına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Soru cümlesi",
+            "Ek Soru 1 — Emir cümlesi",
+            "Ek Soru 1 — Olumlu cümle",
+            "Ek Soru 1 — Bağlı cümle"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bir işin yapılmasını isteyen cümleler emir cümlesidir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "İstek/buyruk = emir.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: \"Bugün hava yağmurlu değil.\" cümlesinde olumsuzluk eki kullanılmış.\n\nAnlamına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Olumlu cümle",
+            "Ek Soru 1 — Olumsuz cümle",
+            "Ek Soru 1 — Soru cümlesi",
+            "Ek Soru 1 — Ünlem cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"-değil\" veya olumsuzluk bildiren yapılar olumsuz cümle oluşturur.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Olumsuzluk eki.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: \"Hangi konuda zorlanıyorsun?\" cümlesi bilgi istiyor.\n\nAnlamına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Emir cümlesi",
+            "Ek Soru 1 — Soru cümlesi",
+            "Ek Soru 1 — Ünlem cümlesi",
+            "Ek Soru 1 — İsim cümlesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bilgi almak için sorulan cümleler soru cümlesidir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Soru eki/işareti.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: \"Ali top oynadı.\" cümlesi tek yargılı ve yüklemi fiildir.\n\nBu cümle için doğru sınıflandırma hangisidir?",
+          "options": [
+            "Ek Soru 1 — İsim cümlesi – bağlı",
+            "Ek Soru 1 — Fiil cümlesi – basit",
+            "Ek Soru 1 — Fiil cümlesi – sıralı",
+            "Ek Soru 1 — İsim cümlesi – kuralsız"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tek yargılı cümle basit; yüklemi fiil ise fiil cümlesidir.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Tek yargı + fiil yüklem.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: \"Geldim, gördüm, konuştum.\" cümlesi virgülle ayrılmış üç yargı içerir.\n\nYapısına göre bu cümle hangi türdedir?",
+          "options": [
+            "Ek Soru 1 — Basit cümle",
+            "Ek Soru 1 — Sıralı cümle",
+            "Ek Soru 1 — Bağlı cümle",
+            "Ek Soru 1 — Devrik cümle"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yan yana sıralanan eş değerli yargılar sıralı cümle oluşturur.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Virgülle sıralanan yargılar.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Öğretmen \"Kurallı cümlede yüklemin yerine dikkat edin.\" diyor.\n\nKurallı cümle için doğru açıklama hangisidir?",
+          "options": [
+            "Ek Soru 1 — Yüklemi sonda veya sonda sayılan yerde",
+            "Ek Soru 1 — Yüklemi her zaman başta",
+            "Ek Soru 1 — Yüklemi yok",
+            "Ek Soru 1 — Birden fazla yüklem zorunlu"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kurallı cümlede yüklem cümlenin sonunda veya sonda sayılan yerde bulunur.\n\n[GitHub Ek Test — Cümle Türleri]",
+          "ipucu": "Yüklem yeri.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Türleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

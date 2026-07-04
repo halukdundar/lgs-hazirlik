@@ -1,0 +1,418 @@
+{
+  "topicId": "enerji_donusumleri",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Enerji Dönüşümleri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir ekosistemde otlar, cekirgeler, kurbagalar ve yilanlar siralaniyor.\n\nBesin zincirinin ilk basamaginda hangi canli grubu bulunur?",
+          "options": [
+            "Ek Soru 1 — Ayrıstiricilar",
+            "Ek Soru 1 — Etciller",
+            "Ek Soru 1 — Ureticiler",
+            "Ek Soru 1 — Hepciller"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Besin zinciri kendi besinini ureten ureticilerle baslar.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Gunes enerjisini ilk yakalayan grubu dusun.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: Bir bitki deneyi icin kosullar veriliyor: su var, karbondioksit var, isik yok.\n\nBu kosulda fotosentez icin hangi sonuc beklenir?",
+          "options": [
+            "Ek Soru 1 — Hizlanir",
+            "Ek Soru 1 — Durur",
+            "Ek Soru 1 — Ayni kalir",
+            "Ek Soru 1 — Sadece gece artar"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Fotosentez icin isik zorunludur; isik yoksa olay gerceklesmez.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Fotosentez denklemini zihninde kur.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Klorofil yesil isigi daha cok yansitiyor.\n\nBu nedenle fotosentez hizi hangi isikta en dusuk olur?",
+          "options": [
+            "Ek Soru 1 — Kirmizi",
+            "Ek Soru 1 — Mavi",
+            "Ek Soru 1 — Yesil",
+            "Ek Soru 1 — Mor"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Yansitilan isik daha az soğurulur; bu nedenle yesilde fotosentez daha dusuktur.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Soğurulan renkler fotosentezi artirir.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Maya hucreleri oksijensiz ortamda sekerli siviya konuyor ve gaz cikisi gozleniyor.\n\nBu surec hangi olaya ornektir?",
+          "options": [
+            "Ek Soru 1 — Oksijenli solunum",
+            "Ek Soru 1 — Fotosentez",
+            "Ek Soru 1 — Fermantasyon",
+            "Ek Soru 1 — Kemosentez"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Maya oksijensiz ortamda fermantasyon yaparak enerji uretir ve gaz cikisi olusturur.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Oksijen yoksa alternatif enerji yolu dusun.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Uzun sure sprint atan bir ogrencide kas agrisi olusuyor.\n\nBunun temel nedeni hangi maddenin birikmesidir?",
+          "options": [
+            "Ek Soru 1 — Laktik asit",
+            "Ek Soru 1 — Sitrik asit",
+            "Ek Soru 1 — Nitrik asit",
+            "Ek Soru 1 — Amino asit"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Yetersiz oksijende kas hucrelerinde laktik asit fermantasyonu olur.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Oksijen azliginda kaslarda olusan asidi hatirla.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: Ekoloji piramidinde her basamakta enerjinin bir ust basamaga %13 aktarıldigi veriliyor.\n\n10003 birim enerjili ureticilerden ikinci tuketicilere kac birim enerji ulasir?",
+          "options": [
+            "1003",
+            "103",
+            "13",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ureticiden birinci tuketiciye 1003, ikinci tuketiciye 103 birim enerji aktarilir.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Her adimda onda bir kuralini iki kez uygula.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Gozlem: Baklagil koklerinde yasayan bakteriler havadaki N5 yi kullanarak topraga bagli azot bilesikleri olusturuyor.\n\nBu olay hangi dongu ile ilgilidir?",
+          "options": [
+            "Ek Soru 1 — Su dongusu",
+            "Ek Soru 1 — Karbon dongusu",
+            "Ek Soru 1 — Azot dongusu",
+            "Ek Soru 1 — Oksijen dongusu"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Serbest azotun toprağa kazandirilmasi azot dongusunun adimidir.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "N2 ve baklagil ifadesi ipucu verir.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Deney: Ayni bitki turu farkli CO5 oranlarinda tutuluyor. Diger kosullar sabit.\n\nUygun sinira kadar CO5 artisi fotosentezi nasil etkiler?",
+          "options": [
+            "Ek Soru 1 — Azaltir",
+            "Ek Soru 1 — Artirir",
+            "Ek Soru 1 — Degistirmez",
+            "Ek Soru 1 — Yok eder"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Karbondioksit fotosentez girdisidir; sinir degerlere kadar artis hizi artirir.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Fotosentezin giren maddelerini hatirla.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Gece saatlerinde bitkinin ortama verdigi gaz ile ilgili olcum yapiliyor.\n\nIsik olmayan ortamda bitki hangi olayi kesinlikle surdurur?",
+          "options": [
+            "Ek Soru 1 — Sadece fotosentez",
+            "Ek Soru 1 — Sadece solunum",
+            "Ek Soru 1 — Fotosentez ve solunum esit",
+            "Ek Soru 1 — Hiçbiri"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Solunum gece-gunduz devam eder, fotosentez icin ise isik gerekir.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Enerji elde etme sureci canlida sureklidir.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: Dört uygulama veriliyor: I-Geri donusum, II-Fosil yakit tuketimini artirma, III-Gunes enerjisi kullanma, IV-Su tasarrufu.\n\nSurdurulebilir yasamla uyumlu olanlar hangileridir?",
+          "options": [
+            "Ek Soru 1 — I-II-III",
+            "Ek Soru 1 — I-III-IV",
+            "Ek Soru 1 — Yalniz II",
+            "Ek Soru 1 — II ve IV"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Geri donusum, yenilenebilir enerji ve tasarruf surdurulebilirligi destekler.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Cevresel etkiyi azaltan secenekleri birlestir.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Enerji Dönüşümleri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Enerji korunumu?",
+          "options": [
+            "Ek Soru 1 — Yok olmaz dönüşür",
+            "Ek Soru 1 — Yok olur",
+            "Ek Soru 1 — Sonsuz artar",
+            "Ek Soru 1 — Sıfır"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Korunur.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kinetik enerji formülü?",
+          "options": [
+            "mv²/5",
+            "Ek Soru 1 — mgh",
+            "Ek Soru 1 — Fs",
+            "Ek Soru 1 — Pt"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — ½mv².\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Potansiyel enerji (yerçekimi)?",
+          "options": [
+            "Ek Soru 1 — mgh",
+            "mv²/5",
+            "Ek Soru 1 — Fs",
+            "Ek Soru 1 — mc²"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — mgh.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Güneş enerjisi dönüşümü?",
+          "options": [
+            "Ek Soru 1 — Fotosentez/elektrik",
+            "Ek Soru 1 — Sadece ısı",
+            "Ek Soru 1 — Sadece ses",
+            "Ek Soru 1 — Manyetizma"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Çoklu.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İş-enerji ilişkisi?",
+          "options": [
+            "Ek Soru 1 — İş enerji değişimi",
+            "Ek Soru 1 — İş kütle",
+            "Ek Soru 1 — İş hız",
+            "Ek Soru 1 — İş basınç"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — W=ΔE.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Isı enerji birimi?",
+          "options": [
+            "Ek Soru 1 — Joule",
+            "Ek Soru 1 — Newton",
+            "Ek Soru 1 — Pascal",
+            "Ek Soru 1 — Volt"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Joule.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Ses enerjisi türü?",
+          "options": [
+            "Ek Soru 1 — Kinetik+potansiyel dalga",
+            "Ek Soru 1 — Sadece nükleer",
+            "Ek Soru 1 — Sadece kimyasal",
+            "Ek Soru 1 — Yok"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Mekanik dalga.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Pil enerji dönüşümü?",
+          "options": [
+            "Ek Soru 1 — Kimyasal→elektrik",
+            "Ek Soru 1 — Elektrik→kimyasal",
+            "Ek Soru 1 — Isı→ses",
+            "Ek Soru 1 — Işık→kütle"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kimyasal-elektrik.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Rüzgar türbini?",
+          "options": [
+            "Ek Soru 1 — Kinetik→elektrik",
+            "Ek Soru 1 — Elektrik→kinetik",
+            "Ek Soru 1 — Isı→ışık",
+            "Ek Soru 1 — Nükleer"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Enerji dönüşümü.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sürtünme enerjiyi?",
+          "options": [
+            "Ek Soru 1 — Isıya çevirir",
+            "Ek Soru 1 — Yok eder tamamen",
+            "Ek Soru 1 — Artırır sonsuz",
+            "Ek Soru 1 — Dondurur"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Isıya.\n\n[GitHub Ek Test — Enerji Dönüşümleri]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Enerji Dönüşümleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

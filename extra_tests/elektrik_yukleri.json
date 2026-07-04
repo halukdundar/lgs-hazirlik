@@ -1,0 +1,409 @@
+{
+  "topicId": "elektrik_yukleri",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Elektrik Yükleri ve Enerjisi",
+      "questions": [
+        {
+          "question": "6V 2Ω akım?",
+          "options": [
+            "3A",
+            "12A",
+            "0,33A",
+            "8A"
+          ],
+          "correctIndex": 0,
+          "explanation": "I=3A.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Seri 3Ω+3Ω+3Ω?",
+          "options": [
+            "9Ω",
+            "1Ω",
+            "3Ω",
+            "27Ω"
+          ],
+          "correctIndex": 0,
+          "explanation": "Toplam 9.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Paralel 4Ω ve 4Ω?",
+          "options": [
+            "2Ω",
+            "8Ω",
+            "16Ω",
+            "1Ω"
+          ],
+          "correctIndex": 0,
+          "explanation": "2Ω.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Elektrostatik sürtünme?",
+          "options": [
+            "Elektron transferi",
+            "Proton transferi",
+            "Nötron",
+            "Kütle"
+          ],
+          "correctIndex": 0,
+          "explanation": "Elektron.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "P=VI; 5V 4A?",
+          "options": [
+            "20W",
+            "9W",
+            "1,25W",
+            "0,2W"
+          ],
+          "correctIndex": 0,
+          "explanation": "20W.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Topraklama?",
+          "options": [
+            "Fazla yük boşaltma",
+            "Yük biriktirme",
+            "Isıtma",
+            "Manyetizma"
+          ],
+          "correctIndex": 0,
+          "explanation": "Güvenlik.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Seri ampuller biri patlarsa?",
+          "options": [
+            "Devre açılır hepsi söner",
+            "Diğerleri yanar",
+            "Paralel gibi",
+            "Volt artar"
+          ],
+          "correctIndex": 0,
+          "explanation": "Seri devre.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "İletken malzeme?",
+          "options": [
+            "Bakır",
+            "Cam",
+            "Plastik",
+            "Kauçuk"
+          ],
+          "correctIndex": 0,
+          "explanation": "Metal.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Voltmetre bağlantı?",
+          "options": [
+            "Paralel",
+            "Seri",
+            "Toprak",
+            "Açık"
+          ],
+          "correctIndex": 0,
+          "explanation": "Paralel.",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Ebonit cubuk yune surtuluyor ve kucuk kagit parcalarini cekiyor.\n\nBu olayla ilgili hangisi dogrudur?",
+          "options": [
+            "Ek Soru 1 — Cubuk yuk kaybedip notr olur",
+            "Ek Soru 1 — Cubuk elektron alarak negatif yuklenir",
+            "Ek Soru 1 — Yun negatif olur cubuk notr kalir",
+            "Ek Soru 1 — Hic yuk alisverisi olmaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Ebonit cubuk yunden elektron alir ve negatif yuklenir.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Elektron alan cismin yuk isaretini dusun.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Elektrik Yükleri ve Enerjisi",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Gozlem: Cam cubuk ipege surtuldugunde camin yuk isareti degisiyor.\n\nCam cubuk son durumda nasil yuklenir?",
+          "options": [
+            "Ek Soru 1 — Pozitif",
+            "Ek Soru 1 — Negatif",
+            "Ek Soru 1 — Nötr",
+            "Ek Soru 1 — Yuksuz kalir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Cam cubuk elektron vererek pozitif yuk kazanir.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Elektron veren cisim artiya gider.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: Bir cismin yüklü olup olmadigini ve yuk turunu belirlemek isteniyor.\n\nHangi arac kullanilmalidir?",
+          "options": [
+            "Ek Soru 1 — Ampermetre",
+            "Ek Soru 1 — Voltmetre",
+            "Ek Soru 1 — Elektroskop",
+            "Ek Soru 1 — Direncmetre"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Elektroskop cisimlerin yüklü olup olmadigini ve yuk cinsi hakkinda bilgi verir.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Yapraklari acilan aygiti hatirla.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Pozitif yüklü bir elektroskoba negatif cisim yaklastiriliyor, dokundurulmuyor.\n\nYapraklardaki aciklik nasil degisir?",
+          "options": [
+            "Ek Soru 1 — Biraz kapanir",
+            "Ek Soru 1 — Daha cok acilir",
+            "Ek Soru 1 — Ayni kalir",
+            "Ek Soru 1 — Tam kapanir ve eksi olur"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Yaklastirma ile yuk dagilimi degisir; pozitif yaprak etkisi azalinca aciklik kismen kapanir.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Dokunma yok, sadece etki ile dagilim var.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Elektriklenmis bir arac govdesi kalin bir iletkenle toprağa baglaniyor.\n\nBu uygulamanin adi nedir?",
+          "options": [
+            "Ek Soru 1 — Yalitma",
+            "Ek Soru 1 — Topraklama",
+            "Ek Soru 1 — Surtunme ile elektriklenme",
+            "Ek Soru 1 — Kondansatorleme"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Fazla yukun toprağa aktarilarak notrlesme saglanmasina topraklama denir.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Guvenlik amacli yuk bosaltimi anahtar kelime.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: Olay I-bulut bulut arasi bosalma, Olay II-bulut yer arasi bosalma.\n\nBu olaylar hangi adlarla eslesir?",
+          "options": [
+            "Ek Soru 1 — I-yildirim, II-simsek",
+            "Ek Soru 1 — I-simsek, II-yildirim",
+            "Ek Soru 1 — I-gokgurultusu, II-simsek",
+            "Ek Soru 1 — I-paratoner, II-yildirim"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bulutlar arasi bosalma simsek, bulut-yer arasi bosalma yildirimdir.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Yer ile temas eden olayi ayirt et.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Yuksek binanin tepesinde sivri metal cubuk ve toprak hattı bulunuyor.\n\nBu sistemin temel gorevi nedir?",
+          "options": [
+            "Ek Soru 1 — Elektrik faturasi azaltmak",
+            "Ek Soru 1 — Yildirim yukunu guvenle toprağa aktarmak",
+            "Ek Soru 1 — Yuk biriktirmek",
+            "Ek Soru 1 — Bulut olusumunu engellemek"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Paratoner yildirim akimini binadan uzaklastirip toprağa ileterek koruma saglar.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Koruma ve toprak hattı kelimelerini birlestir.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Vantilator, utu, ampul ve matkap cihazlari inceleniyor.\n\nElektrik enerjisini dogrudan hareket enerjisine donusturen cihaz hangisidir?",
+          "options": [
+            "Ek Soru 1 — Utu",
+            "Ek Soru 1 — Ampul",
+            "Ek Soru 1 — Vantilator",
+            "Ek Soru 1 — Elektrikli soba"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Vantilator elektrik motoru ile mekanik donme hareketi uretir.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Pervane donmesi hangi enerjiye ornektir?",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Ev tesisatinda asiri akim olusunca devre kendiliginden kesiliyor.\n\nBunu saglayan guvenlik elemani hangisidir?",
+          "options": [
+            "Ek Soru 1 — Anahtar",
+            "Ek Soru 1 — Sigorta",
+            "Ek Soru 1 — Direnc",
+            "Ek Soru 1 — Pervane"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sigorta asiri akim durumunda devreyi keserek yangin ve hasari onler.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Eriyip devreyi acan parcayi hatirla.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tablo: Nötr bir elektroskoba pozitif yüklü cisim dokunduruluyor ve geri cekiliyor.\n\nElektroskobun son yuk durumu ne olur?",
+          "options": [
+            "Ek Soru 1 — Nötr kalir",
+            "Ek Soru 1 — Pozitif yuklenir",
+            "Ek Soru 1 — Negatif yuklenir",
+            "Ek Soru 1 — Yuk dagilimi olmaz"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Dokunma ile elektriklenmede cisimler yuk paylasir ve benzer yuk cinsi olusur.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Dokunma ile elektriklenmede ayni cins yuk kuralini kullan.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri ve Enerjisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aynı işaretli yükler?",
+          "options": [
+            "Ek Soru 1 — Çeker",
+            "Ek Soru 1 — İter",
+            "Ek Soru 1 — Etkisiz",
+            "Ek Soru 1 — Birleşir"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İtme.\n\n[GitHub Ek Test — Elektrik Yükleri ve Enerjisi]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Elektrik Yükleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

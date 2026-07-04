@@ -1,0 +1,438 @@
+{
+  "topicId": "eng_9",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Science",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the experiment plan.\nQuestion: Does sunlight affect growth?\nTwo identical plants are used; one in sunlight, one in shade.\nQuestion: Why identical plants?",
+          "options": [
+            "Ek Soru 1 — To save money only",
+            "Ek Soru 1 — To keep test fair except one variable",
+            "Ek Soru 1 — To grow fruit faster",
+            "Ek Soru 1 — To decorate classroom"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Fair test için sadece bir değişken farklı olmalıdır.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Fair test mantığını düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Method",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the result summary.\nGroup A studied with short breaks: average 85\nGroup B nonstop: average 71\nQuestion: Which conclusion is best?",
+          "options": [
+            "Ek Soru 1 — Breaks always reduce success.",
+            "Ek Soru 1 — Short breaks may improve performance.",
+            "Ek Soru 1 — Scores are unrelated.",
+            "Ek Soru 1 — Group B studied better."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Veri, aralıklı çalışmanın daha iyi ortalama verdiğini gösteriyor.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Ortalamaları karşılaştır.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Data",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the lab rule.\n\"Wear goggles while handling acids.\"\nQuestion: Main purpose of this rule is ...",
+          "options": [
+            "Ek Soru 1 — increase speed",
+            "Ek Soru 1 — protect eyes",
+            "Ek Soru 1 — change color",
+            "Ek Soru 1 — save paper"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Goggles göz güvenliği için kullanılır.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Goggles hangi organı korur?",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Safety",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the observation.\n\"As salt concentration increased, boiling point rose slightly.\"\nQuestion: Which variable changed?",
+          "options": [
+            "Ek Soru 1 — Room size",
+            "Ek Soru 1 — Salt concentration",
+            "Ek Soru 1 — Pan color",
+            "Ek Soru 1 — Notebook type"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Artan değişken olarak salt concentration belirtilmiştir.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Increased kelimesinin bağlı olduğu ifadeyi bul.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Variables",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the test context.\nA student claims plants don't need water. The unwatered plant wilted in two weeks.\nQuestion: Which evidence refutes the claim?",
+          "options": [
+            "Ek Soru 1 — Pot color",
+            "Ek Soru 1 — The unwatered plant wilted",
+            "Ek Soru 1 — Room temperature",
+            "Ek Soru 1 — Plant label"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sulama yapılmayan bitkinin solması karşı kanıttır.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Claim'i çürüten sonucu ara.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Evidence",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the problem.\nA battery-powered toy car stops quickly in cold weather.\nQuestion: Which hypothesis is most reasonable?",
+          "options": [
+            "Ek Soru 1 — Cold may reduce battery performance.",
+            "Ek Soru 1 — Cold shortens roads.",
+            "Ek Soru 1 — Car forgets direction.",
+            "Ek Soru 1 — Wheels disappear in winter."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Soğukta pil verimi düşebilir, bilimsel açıdan mantıklıdır.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Fiziksel olarak olası nedeni seç.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Hypothesis",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the procedure.\n4) Measure 103 ml water.\n5) Heat 6 minutes.\n6) Record temperature.\nQuestion: Which tool is needed in step 6?",
+          "options": [
+            "Ek Soru 1 — Ruler",
+            "Ek Soru 1 — Thermometer",
+            "Ek Soru 1 — Compass",
+            "Ek Soru 1 — Scissors"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sıcaklık thermometer ile ölçülür.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Temperature ölçen aracı düşün.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Equipment",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the trial table.\nTrial 4: 15 cm\nTrial 5: 14 cm\nTrial 6: 16 cm\nQuestion: What is a reasonable average?",
+          "options": [
+            "9 cm",
+            "15 cm",
+            "21 cm",
+            "5 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "15+14+16 toplamı 39, ortalama 15'dir.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Topla ve deneme sayısına böl.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Calculation",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the statement.\n\"A conclusion should depend on collected data, not personal opinion.\"\nQuestion: This highlights ...",
+          "options": [
+            "Ek Soru 1 — guessing quickly",
+            "Ek Soru 1 — evidence-based reasoning",
+            "Ek Soru 1 — random choice",
+            "Ek Soru 1 — ignoring data"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bilimsel sonuçlar veri temellidir.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Data ve opinion karşıtlığına dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Thinking Skills",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the project.\nStudents design a filter with sand, charcoal and gravel. Dirty water becomes clearer.\nQuestion: Which process is shown?",
+          "options": [
+            "Ek Soru 1 — Evaporation",
+            "Ek Soru 1 — Filtration",
+            "Ek Soru 1 — Combustion",
+            "Ek Soru 1 — Photosynthesis"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Katmanlı sistemle suyun temizlenmesi filtrasyondur.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Su temizleme yönteminin adını bul.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Application",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Science",
+      "questions": [
+        {
+          "question": "Ek Soru 2 — Read the experiment plan.\nQuestion: Does sunlight affect growth?\nTwo identical plants are used; one in sunlight, one in shade.\nQuestion: Why identical plants?",
+          "options": [
+            "Ek Soru 2 — To save money only",
+            "Ek Soru 2 — To keep test fair except one variable",
+            "Ek Soru 2 — To grow fruit faster",
+            "Ek Soru 2 — To decorate classroom"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Fair test için sadece bir değişken farklı olmalıdır.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Fair test mantığını düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Method",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the result summary.\nGroup A studied with short breaks: average 87\nGroup B nonstop: average 73\nQuestion: Which conclusion is best?",
+          "options": [
+            "Ek Soru 2 — Breaks always reduce success.",
+            "Ek Soru 2 — Short breaks may improve performance.",
+            "Ek Soru 2 — Scores are unrelated.",
+            "Ek Soru 2 — Group B studied better."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Veri, aralıklı çalışmanın daha iyi ortalama verdiğini gösteriyor.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Ortalamaları karşılaştır.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Data",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the lab rule.\n\"Wear goggles while handling acids.\"\nQuestion: Main purpose of this rule is ...",
+          "options": [
+            "Ek Soru 2 — increase speed",
+            "Ek Soru 2 — protect eyes",
+            "Ek Soru 2 — change color",
+            "Ek Soru 2 — save paper"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Goggles göz güvenliği için kullanılır.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Goggles hangi organı korur?",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Safety",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the observation.\n\"As salt concentration increased, boiling point rose slightly.\"\nQuestion: Which variable changed?",
+          "options": [
+            "Ek Soru 2 — Room size",
+            "Ek Soru 2 — Salt concentration",
+            "Ek Soru 2 — Pan color",
+            "Ek Soru 2 — Notebook type"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Artan değişken olarak salt concentration belirtilmiştir.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Increased kelimesinin bağlı olduğu ifadeyi bul.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Variables",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the test context.\nA student claims plants don't need water. The unwatered plant wilted in two weeks.\nQuestion: Which evidence refutes the claim?",
+          "options": [
+            "Ek Soru 2 — Pot color",
+            "Ek Soru 2 — The unwatered plant wilted",
+            "Ek Soru 2 — Room temperature",
+            "Ek Soru 2 — Plant label"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Sulama yapılmayan bitkinin solması karşı kanıttır.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Claim'i çürüten sonucu ara.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Evidence",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the problem.\nA battery-powered toy car stops quickly in cold weather.\nQuestion: Which hypothesis is most reasonable?",
+          "options": [
+            "Ek Soru 2 — Cold may reduce battery performance.",
+            "Ek Soru 2 — Cold shortens roads.",
+            "Ek Soru 2 — Car forgets direction.",
+            "Ek Soru 2 — Wheels disappear in winter."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — Soğukta pil verimi düşebilir, bilimsel açıdan mantıklıdır.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Fiziksel olarak olası nedeni seç.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Hypothesis",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the procedure.\n6) Measure 105 ml water.\n7) Heat 8 minutes.\n8) Record temperature.\nQuestion: Which tool is needed in step 8?",
+          "options": [
+            "Ek Soru 2 — Ruler",
+            "Ek Soru 2 — Thermometer",
+            "Ek Soru 2 — Compass",
+            "Ek Soru 2 — Scissors"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Sıcaklık thermometer ile ölçülür.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Temperature ölçen aracı düşün.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Equipment",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the trial table.\nTrial 6: 17 cm\nTrial 7: 16 cm\nTrial 8: 18 cm\nQuestion: What is a reasonable average?",
+          "options": [
+            "11 cm",
+            "17 cm",
+            "23 cm",
+            "7 cm"
+          ],
+          "correctIndex": 1,
+          "explanation": "17+16+18 toplamı 41, ortalama 17'dir.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Topla ve deneme sayısına böl.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Calculation",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the statement.\n\"A conclusion should depend on collected data, not personal opinion.\"\nQuestion: This highlights ...",
+          "options": [
+            "Ek Soru 2 — guessing quickly",
+            "Ek Soru 2 — evidence-based reasoning",
+            "Ek Soru 2 — random choice",
+            "Ek Soru 2 — ignoring data"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Bilimsel sonuçlar veri temellidir.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Data ve opinion karşıtlığına dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Thinking Skills",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Read the project.\nStudents design a filter with sand, charcoal and gravel. Dirty water becomes clearer.\nQuestion: Which process is shown?",
+          "options": [
+            "Ek Soru 2 — Evaporation",
+            "Ek Soru 2 — Filtration",
+            "Ek Soru 2 — Combustion",
+            "Ek Soru 2 — Photosynthesis"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Katmanlı sistemle suyun temizlenmesi filtrasyondur.\n\n[GitHub Ek Test — Science]",
+          "ipucu": "Su temizleme yönteminin adını bul.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "Science",
+            "Application",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

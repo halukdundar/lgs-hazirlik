@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_6",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Cümlenin Ögeleri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — \"Yağmur sabahtan beri dinmeden yağıyor.\" cümlesinin yüklemi aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Yağmur",
+            "Ek Soru 1 — Sabahtan beri",
+            "Ek Soru 1 — Dinmeden",
+            "Ek Soru 1 — Yağıyor"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — Yüklem, cümledeki temel yargıyı bildiren ögedir. \"Yağıyor\" fiili cümlenin bildirdiği eylemi gösterir ve yüklemdir. \"Yağmur\" özne, \"sabahtan beri\" zarf tümleci, \"dinmeden\" zarf-fiildir.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Yüklem bulma: \"Ne oldu? Ne yapıldı? Ne?\" sorularını sor. Cümlenin en sonundaki yargı ifadesi yüklemdir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Bahçede çiçek eken çocuk annesine baktı.\" cümlesinin öznesini doğru veren seçenek hangisidir?",
+          "options": [
+            "Ek Soru 1 — Bahçede",
+            "Ek Soru 1 — Çiçek eken çocuk",
+            "Ek Soru 1 — Annesine",
+            "Ek Soru 1 — Baktı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Baktı\" fiiline \"kim baktı?\" sorusunu sorduğumuzda \"çiçek eken çocuk\" yanıtı gelir. Sıfat-fiil grubuyla genişletilmiş bu ad öbeği özne görevindedir.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Özne bulma: yükleme \"kim? ne?\" sor. Tüm sözcük grubu birlikte özne olabilir; yalnızca son sözcüğü değil, tüm öbeği dikkate al.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğrenciler yeni kitabı aldı.\" cümlesinde belirtili nesne hangisidir?",
+          "options": [
+            "Ek Soru 1 — Öğrenciler",
+            "Ek Soru 1 — Yeni kitabı",
+            "Ek Soru 1 — Aldı",
+            "Ek Soru 1 — Cümlede belirtili nesne yoktur."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Yeni kitabı\" ifadesi \"-ı\" belirtme hâli ekini almış; \"aldı\" fiiline \"neyi aldı?\" sorusu sorulduğunda yanıt olarak gelir. Bu belirtili nesnedir.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Belirtili nesne: \"-ı/-i/-u/-ü\" ekiyle belirli hale getirilmiş. \"Neyi?\" sorusuna yanıt verir ve ek alır. Ek almıyorsa belirtisiz nesnedir.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde belirtisiz nesne kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Öğretmen tahtaya soruyu yazdı.",
+            "Ek Soru 1 — Annem sabah kahvaltı hazırladı.",
+            "Ek Soru 1 — Arkadaşım kitabı okudu.",
+            "Ek Soru 1 — Öğrenci ödevi bitirdi."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Kahvaltı hazırladı\" ifadesinde \"kahvaltı\" belirtme eki (-yı) almamış ama \"neyi hazırladı? kahvaltı\" sorusuna yanıt vermektedir; bu belirtisiz nesnedir. A, C, D'de nesne \"-ı\" eki almıştır.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Belirtisiz nesne: \"-ı/-i/-u/-ü\" eki almaz ama \"ne?\" sorusuna yanıt verir. \"Kahvaltı hazırladı, yemek pişirdi, ders çalıştı\" → nesne ek almamış.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğrenci kütüphaneye gitti.\" cümlesinde dolaylı tümleç aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Öğrenci",
+            "Ek Soru 1 — Kütüphaneye",
+            "Ek Soru 1 — Gitti",
+            "Ek Soru 1 — Cümlede dolaylı tümleç yoktur."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Kütüphaneye\" sözcüğü \"-a/-e\" yönelme hâli ekini almıştır. \"Nereye gitti? kütüphaneye\" sorusuna yanıt verir. Bu yönelme hâli dolaylı tümlecidir.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Dolaylı tümleç ekleri: -a/-e (yönelme: nereye?), -da/-de (bulunma: nerede?), -dan/-den (ayrılma: nereden?). Bu soruları yükleme yönelt.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğrenciler her sabah düzenli biçimde çalışıyordu.\" cümlesinde \"nasıl?\" sorusuna yanıt veren zarf tümleci hangisidir?",
+          "options": [
+            "Ek Soru 1 — Öğrenciler",
+            "Ek Soru 1 — Her sabah",
+            "Ek Soru 1 — Düzenli biçimde",
+            "Ek Soru 1 — Çalışıyordu"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Nasıl çalışıyordu? Düzenli biçimde.\" → Bu durum zarfı \"nasıl?\" sorusunu yanıtlar. \"Her sabah\" ise \"ne zaman?\" sorusunu yanıtlayan zaman zarfıdır.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Zarf tümleçleri birden fazla olabilir. \"Nasıl?\" → durum zarfı; \"Ne zaman?\" → zaman zarfı; \"Neden?\" → sebep zarfı. Soruları ayrı ayrı sor.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Hava karardı, yıldızlar çıktı.\" cümlesi yapı bakımından nasıl değerlendirilir?",
+          "options": [
+            "Ek Soru 1 — Basit cümle – tek yargı içeriyor",
+            "Ek Soru 1 — Birleşik cümle – bir yan cümle var",
+            "Ek Soru 1 — Sıralı cümle – virgülle ayrılmış iki yargı var",
+            "Ek Soru 1 — Bağlı cümle – bağlaçla birleştirilmiş"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Cümlede virgülle ayrılmış ve birbirinden bağımsız iki yargı (\"hava karardı\" + \"yıldızlar çıktı\") bulunmaktadır. Aralarında bağlaç yoktur; bu sıralı cümle yapısıdır.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Sıralı cümle: virgülle ayrılmış, bağlaçsız birden fazla yargı. Bağlı cümle: bağlaçla (ve, ama, fakat) birleştirilmiş. Bu iki yapıyı karıştırma.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Sabah erken kalkarak öğrenci okula gitti.\" cümlesindeki öge sıralaması hangisidir?",
+          "options": [
+            "Ek Soru 1 — Özne – Yüklem – Dolaylı tümleç",
+            "Ek Soru 1 — Zarf tümleci – Özne – Dolaylı tümleç – Yüklem",
+            "Ek Soru 1 — Özne – Dolaylı tümleç – Yüklem",
+            "Ek Soru 1 — Dolaylı tümleç – Nesne – Yüklem"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Sabah erken kalkarak\" zarf tümleci (nasıl?/ne zaman?), \"öğrenci\" özne, \"okula\" dolaylı tümleç (nereye?), \"gitti\" yüklemidir. Cümlenin doğru öge sıralaması B'dedir.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Öge sıralaması için: önce yüklemi bul (sonda), sonra \"kim/ne?\" → özne, \"neyi?\" → nesne, \"nerede/nereye/nereden?\" → dolaylı tümleç, \"nasıl/ne zaman?\" → zarf tümleci.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Yarışma sonuçları açıklandığında salonda kısa bir sessizlik oldu.\" cümlesinde \"açıklandığında\" bölümü cümleye hangi anlamı katmaktadır?",
+          "options": [
+            "Ek Soru 1 — Koşul",
+            "Ek Soru 1 — Zaman",
+            "Ek Soru 1 — Neden",
+            "Ek Soru 1 — Amaç"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Açıklandığında\" ifadesi \"-dığında\" zarf-fiil ekini taşır ve \"ne zaman sessizlik oldu?\" sorusunu yanıtlar. Bu nedenle cümleye zaman anlamı katmaktadır.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "\"-dığında, -ınca, -ken\" ekleri genellikle zaman anlamı katar. \"Ne zaman?\" sorusu bu ekleri taşıyan gruplara yöneltilir.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Arkadaşım bana kitap getirdi.\" cümlesinde hangi öge yoktur?",
+          "options": [
+            "Ek Soru 1 — Özne (arkadaşım)",
+            "Ek Soru 1 — Dolaylı tümleç (bana)",
+            "Ek Soru 1 — Belirtili nesne",
+            "Ek Soru 1 — Yüklem (getirdi)"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Kitap\" sözcüğü \"-ı/-i\" belirtme ekini almamış olduğundan belirtisiz nesnedir, belirtili nesne yoktur. \"Arkadaşım\" = özne, \"bana\" = dolaylı tümleç, \"getirdi\" = yüklem cümlede mevcuttur.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "\"Belirtili nesne\" sadece \"-ı/-i/-u/-ü\" ekini almış sözcüklerde bulunur. Ek yoksa belirtili nesne yoktur; yerine belirtisiz nesne aranmalı.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Cümle Bilgisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Cümlenin Ögeleri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — \"Çocuklar parkta oynadı.\" cümlesinin yüklemi nedir?",
+          "options": [
+            "Ek Soru 1 — Çocuklar",
+            "Ek Soru 1 — parkta",
+            "Ek Soru 1 — oynadı",
+            "Ek Soru 1 — Çocuklar parkta"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Yüklem: cümlede ne yapıldığını bildiren eylem ya da durum. \"Oynadı\" fiil yüklemidir.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Yüklem: \"Ne yaptı? Ne oldu?\" sorusunun cevabı.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Ali kitabı okudu.\" cümlesinde nesne hangisidir?",
+          "options": [
+            "Ek Soru 1 — Ali",
+            "Ek Soru 1 — kitabı",
+            "Ek Soru 1 — okudu",
+            "Ek Soru 1 — Ali kitabı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Kitabı\" → neyi okudu? sorusunun cevabı → belirtili nesne.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Nesne: \"neyi/kimi\" sorusuna cevap veren öge.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Hızlı koştu.\" cümlesinde zarf tümleci hangisidir?",
+          "options": [
+            "Ek Soru 1 — Hızlı",
+            "Ek Soru 1 — koştu",
+            "Ek Soru 1 — Hızlı koştu",
+            "Ek Soru 1 — Cümlede zarf tümleci yoktur."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — \"Hızlı\" nasıl koştu sorusunun cevabı → durum zarfı → zarf tümleci.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Zarf tümleci: \"nasıl, nerede, ne zaman, ne kadar\" sorusuna cevap verir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğrenciler sınıfa girdi.\" cümlesinde dolaylı tümleç nedir?",
+          "options": [
+            "Ek Soru 1 — Öğrenciler",
+            "Ek Soru 1 — sınıfa",
+            "Ek Soru 1 — girdi",
+            "Ek Soru 1 — Cümlede yoktur."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Sınıfa\" → nereye girdi sorusuna cevap → dolaylı tümleç (yön hali).\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Dolaylı tümleç: -e/-de/-den hâl ekleriyle \"nereye, nerede, nereden, kime\" sorusuna cevap verir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Yorgun asker uyudu.\" cümlesinde özne hangisidir?",
+          "options": [
+            "Ek Soru 1 — Yorgun",
+            "Ek Soru 1 — asker",
+            "Ek Soru 1 — Yorgun asker",
+            "Ek Soru 1 — uyudu"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Özne: yüklemi gerçekleştiren. \"Yorgun asker\" tamlaması bütünüyle öznedir.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Özne: \"kim/ne yaptı?\" sorusunun cevabı; niteleme sıfatı da özneye dahildir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Dün sabah uyandı.\" cümlesinde zarf tümleci hangisidir?",
+          "options": [
+            "Ek Soru 1 — Dün",
+            "Ek Soru 1 — sabah",
+            "Ek Soru 1 — Dün sabah",
+            "Ek Soru 1 — uyandı"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Dün sabah\" → ne zaman uyandı? sorusuna cevap → zaman zarfı → zarf tümleci.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Zaman sorusuna cevap veren grup zarf tümleci sayılır.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Temel ögeler\" bir cümlede hangileridir?",
+          "options": [
+            "Ek Soru 1 — Özne ve nesne",
+            "Ek Soru 1 — Özne ve yüklem",
+            "Ek Soru 1 — Yüklem ve dolaylı tümleç",
+            "Ek Soru 1 — Nesne ve zarf tümleci"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Cümlenin temel ögeleri özne ve yüklemdir; diğerleri yardımcı ögedir.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Temel: özne + yüklem. Yardımcı: nesne + dolaylı tümleç + zarf tümleci.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Gülüyordu.\" cümlesinde özne var mıdır?",
+          "options": [
+            "Ek Soru 1 — Evet, \"o\" gizli öznedir.",
+            "Ek Soru 1 — Hayır, özne yoktur.",
+            "Ek Soru 1 — Evet, \"gülmek\" öznedir.",
+            "Ek Soru 1 — Evet, \"yorgunluk\" öznedir."
+          ],
+          "correctIndex": 0,
+          "explanation": "Yüklem \"gülüyordu\" 6. tekil kişi → özne \"o\" gizlidir (düşmüş özne).\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Gizli özne: yüklemin ekinden anlaşılan, cümlede açıkça yazılmayan özne.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Çiçeği aldı.\" cümlesinde nesne nedir ve türü nedir?",
+          "options": [
+            "Ek Soru 1 — Çiçeği – belirtili nesne",
+            "Ek Soru 1 — Çiçeği – belirtisiz nesne",
+            "Ek Soru 1 — Aldı – nesne",
+            "Ek Soru 1 — Cümlede nesne yoktur."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — \"Çiçeği\" yüklemi etkileyip \"-i\" hâl eki almış → belirtili nesne.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "-i/-ı/-u/-ü hâl eki: belirtili nesne. Hâl eki yok: belirtisiz nesne.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Öğretmen tahtaya yazdı.\" cümlesinin ögeleri doğru ayrılmış mı?\nÖzne: Öğretmen / Yüklem: yazdı / Dolaylı tümleç: tahtaya",
+          "options": [
+            "Ek Soru 1 — Evet, doğru.",
+            "Ek Soru 1 — Hayır; \"tahtaya\" zarf tümlecidir.",
+            "Ek Soru 1 — Hayır; \"öğretmen\" yüklemdir.",
+            "Ek Soru 1 — Hayır; \"yazdı\" öznedir."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — \"Tahtaya\" nereye yazdı → yön bildiriyor → dolaylı tümleç. Ayrıştırma doğrudur.\n\n[GitHub Ek Test — Cümlenin Ögeleri]",
+          "ipucu": "Yön bildiren -e hâl eki → dolaylı tümleç.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Cümlenin Ögeleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

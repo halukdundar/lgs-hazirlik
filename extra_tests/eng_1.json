@@ -1,0 +1,428 @@
+{
+  "topicId": "eng_1",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Friendship",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nMina: I need a partner for our science fair.\nEce: Ask Lara. She always keeps her promises and helps everyone.\nQuestion: Which adjective best describes Lara?",
+          "options": [
+            "Ek Soru 1 — Selfish",
+            "Ek Soru 1 — Reliable",
+            "Ek Soru 1 — Jealous",
+            "Ek Soru 1 — Lazy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Promisesini tutan ve yardım eden kişi reliable olur.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Always keeps her promises ifadesine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Personality",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nDeniz and Arda both enjoy chess, coding and reading comics.\nThey meet every Saturday to discuss new books.\nQuestion: Which sentence is correct?",
+          "options": [
+            "Ek Soru 1 — They have nothing in common.",
+            "Ek Soru 1 — They have many common interests.",
+            "Ek Soru 1 — They rarely meet.",
+            "Ek Soru 1 — They dislike books."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Metinde ortak ilgi alanları açıkça verilmiştir.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Both enjoy kelime grubunu takip et.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Reading",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nKerem: What is Elif like?\nSude: She never lies and she shares her notes with us.\nQuestion: Which option fits Elif?",
+          "options": [
+            "Ek Soru 1 — Dishonest and rude",
+            "Ek Soru 1 — Honest and generous",
+            "Ek Soru 1 — Stubborn and selfish",
+            "Ek Soru 1 — Lazy and careless"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Never lies ve shares notes, honest ve generous anlamına gelir.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Never lies ifadesini sıfatla eşleştir.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Inference",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the profile cards.\nAda: supportive, punctual, calm\nCem: funny, but often breaks promises\nQuestion: Who is a better study buddy?",
+          "options": [
+            "Ek Soru 1 — Cem, because he is funny",
+            "Ek Soru 1 — Ada, because she is supportive and punctual",
+            "Ek Soru 1 — Cem, because he talks a lot",
+            "Ek Soru 1 — Ada, because she is silent"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Çalışma arkadaşı için destekleyici ve dakik olmak daha uygundur.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Study buddy için gerekli özellikleri düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Reasoning",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the message.\n\"I can't come to the cinema tonight. I promised my cousin to help with homework.\"\nQuestion: Which value is highlighted?",
+          "options": [
+            "Ek Soru 1 — Responsibility",
+            "Ek Soru 1 — Jealousy",
+            "Ek Soru 1 — Cruelty",
+            "Ek Soru 1 — Carelessness"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Verilen sözü tutmak responsibility gösterir.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Promised kelimesi anahtar.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Values",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nMert: Why don't we invite Bora?\nNaz: I don't trust him. He tells our secrets to others.\nQuestion: Why does Naz avoid Bora?",
+          "options": [
+            "Ek Soru 1 — He is too shy.",
+            "Ek Soru 1 — He is not trustworthy.",
+            "Ek Soru 1 — He is new at school.",
+            "Ek Soru 1 — He studies too much."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sır paylaşmak güven sorunu yaratır.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Tells our secrets kısmına dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Dialogue",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the class poll.\n'A true friend always...'\n- listens carefully (48%)\n- supports in hard times (38%)\n- buys gifts (23%)\nQuestion: What do students value most?",
+          "options": [
+            "Ek Soru 1 — Buying gifts",
+            "Ek Soru 1 — Good listening",
+            "Ek Soru 1 — Fashion taste",
+            "Ek Soru 1 — Sports success"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — En yüksek oran listens carefully seçeneğidir.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Yüzdeliklerde en yüksek değeri bul.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Chart",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nAylin: I'm stressed before exams.\nDuru: Don't worry. I can test you every evening.\nQuestion: Duru is being ...",
+          "options": [
+            "Ek Soru 1 — Supportive",
+            "Ek Soru 1 — Impolite",
+            "Ek Soru 1 — Unfair",
+            "Ek Soru 1 — Forgetful"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Yardım teklifi supportive davranıştır.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Yardım teklifinin anlamını değerlendir.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Emotions",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nEren never laughs at his friends' mistakes and always uses kind words.\nQuestion: Which statement matches this behavior?",
+          "options": [
+            "Ek Soru 1 — A good friend encourages.",
+            "Ek Soru 1 — A good friend humiliates others.",
+            "Ek Soru 1 — A good friend ignores problems.",
+            "Ek Soru 1 — A good friend competes all the time."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kind words ve saygı, encouragement davranışıdır.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Never laughs at mistakes ifadesine odaklan.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Interpretation",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the context.\nYour friend is absent for a week and misses important lessons.\nQuestion: Which action shows true friendship?",
+          "options": [
+            "Ek Soru 1 — Ignore the situation",
+            "Ek Soru 1 — Share notes and explain topics",
+            "Ek Soru 1 — Complain to everyone",
+            "Ek Soru 1 — Delete messages"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Not paylaşmak ve konuları anlatmak destekleyici davranıştır.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "True friendship yardım odaklıdır.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Decision",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Friendship",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nMina: I need a partner for our science fair.\nEce: Ask Lara. She always keeps her promises.\nQuestion: Which adjective best describes Lara?",
+          "options": [
+            "Ek Soru 1 — Selfish",
+            "Ek Soru 1 — Reliable",
+            "Ek Soru 1 — Jealous",
+            "Ek Soru 1 — Lazy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Keeps promises = reliable.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Always keeps her promises.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nDeniz and Arda both enjoy chess and reading comics.\nQuestion: Which sentence is correct?",
+          "options": [
+            "Ek Soru 1 — They have nothing in common.",
+            "Ek Soru 1 — They have many common interests.",
+            "Ek Soru 1 — They rarely meet.",
+            "Ek Soru 1 — They dislike books."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Metinde ortak ilgi alanları var.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Both enjoy kelimesine bak.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nMy friend always helps others. She is very ___.",
+          "options": [
+            "Ek Soru 1 — selfish",
+            "Ek Soru 1 — rude",
+            "Ek Soru 1 — generous",
+            "Ek Soru 1 — lazy"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Karşılıksız yardım = generous.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Olumlu sıfat beklenir.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nLucy's friend Mia never lies.\nQuestion: Mia is ...",
+          "options": [
+            "Ek Soru 1 — shy",
+            "Ek Soru 1 — honest",
+            "Ek Soru 1 — rude",
+            "Ek Soru 1 — lazy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Never lies = honest.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "honest = dürüst.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Which word is NOT friendly?",
+          "options": [
+            "Ek Soru 1 — outgoing",
+            "Ek Soru 1 — cheerful",
+            "Ek Soru 1 — welcoming",
+            "Ek Soru 1 — selfish"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — Selfish olumsuz bir sıfattır.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Olumsuz kelimeyi bul.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Dialogue.\nBen: I prefer working alone. I am shy.\nSue: I love meeting new people.\nQuestion: Ben is ___, Sue is ___.",
+          "options": [
+            "Ek Soru 1 — Both outgoing",
+            "Ek Soru 1 — Ben shy, Sue outgoing",
+            "Ek Soru 1 — Sue shy, Ben outgoing",
+            "Ek Soru 1 — Both introverted"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Ben shy, Sue outgoing.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Ben'in kendi tarifi.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Grammar.\nGood friends ___ always there for each other.",
+          "options": [
+            "Ek Soru 1 — is",
+            "Ek Soru 1 — was",
+            "Ek Soru 1 — are",
+            "Ek Soru 1 — were"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Good friends çoğul → are.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Çoğul özne + be.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nAlex and Nina live on the same street.\nQuestion: What is true?",
+          "options": [
+            "Ek Soru 1 — Both play volleyball.",
+            "Ek Soru 1 — They live near each other.",
+            "Ek Soru 1 — Alex is sporty.",
+            "Ek Soru 1 — Nina loves painting."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Same street = yakın.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "same street ifadesi.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nTom is a loyal friend. He always supports me.\n'Loyal' means ...",
+          "options": [
+            "Ek Soru 1 — dishonest",
+            "Ek Soru 1 — faithful",
+            "Ek Soru 1 — bossy",
+            "Ek Soru 1 — noisy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Loyal = faithful = sadık.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Türkçesi: sadık.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nZoe makes me laugh. A good friend should be funny and kind.\nQuestion: Good friend qualities?",
+          "options": [
+            "Ek Soru 1 — Sporty and smart.",
+            "Ek Soru 1 — Funny and kind.",
+            "Ek Soru 1 — Shy and quiet.",
+            "Ek Soru 1 — Honest and bossy."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Funny and kind denmiş.\n\n[GitHub Ek Test — Friendship]",
+          "ipucu": "Son cümleye bak.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "Friendship",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

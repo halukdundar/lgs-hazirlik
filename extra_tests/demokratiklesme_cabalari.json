@@ -1,0 +1,436 @@
+{
+  "topicId": "demokratiklesme_cabalari",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Demokratikleşme Çabaları",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Cumhuriyet Halk Fırkası'nın kurulmasıyla birlikte yeni devlet düzeninde aşağıdakilerden hangisi amaçlanmıştır?",
+          "options": [
+            "Ek Soru 1 — Siyasi örgütlenmeyi tamamen yasaklamak",
+            "Ek Soru 1 — Cumhuriyet rejimini kurumsal bir siyasi yapı ile güçlendirmek",
+            "Ek Soru 1 — Saltanat düzenine geri dönmek",
+            "Ek Soru 1 — Meclisin yetkilerini azaltmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — CHF, yeni rejimin ilk kurumsal siyasi taşıyıcısı olarak cumhuriyet ilkelerini uygulamayı amaçlamıştır.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "İlk parti, rejimin örgütlenme ayağını oluşturur.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "CHF",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Terakkiperver Cumhuriyet Fırkası'nın kurulması, demokratikleşme açısından hangi gelişmeyi ifade eder?",
+          "options": [
+            "Ek Soru 1 — Tek parti yönetiminin kesinleşmesi",
+            "Ek Soru 1 — Mecliste denetim ve alternatif fikir alanının açılması",
+            "Ek Soru 1 — Yerel yönetimlerin kaldırılması",
+            "Ek Soru 1 — Seçimlerin iptal edilmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Muhalefet partisinin varlığı, iktidarın denetlenmesi ve farklı görüşlerin temsil edilmesi açısından önemlidir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Muhalefet = denge ve denetim.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "TCF",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Şeyh Sait İsyanı'nın ardından Takrir-i Sükun Kanunu'nun çıkarılması, yönetimin hangi önceliğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Siyasi çoğulculuğu genişletme",
+            "Ek Soru 1 — Rejim güvenliği ve kamu düzenini koruma",
+            "Ek Soru 1 — Ekonomik kalkınmayı hızlandırma",
+            "Ek Soru 1 — Yerel özerkliği artırma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İsyan ortamında hükümet, önce kamu düzenini ve rejimin devamını güvence altına almayı hedeflemiştir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Kanunun adı 'sükun', yani düzen vurgusu taşır.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Takrir-i Sükun",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Serbest Cumhuriyet Fırkası'nın kurulması aşağıdaki hedeflerden hangisine daha çok yöneliktir?",
+          "options": [
+            "Ek Soru 1 — İç savaşı tetiklemeye",
+            "Ek Soru 1 — Kontrollü şekilde çok partili hayat tecrübesi kazanmaya",
+            "Ek Soru 1 — Meclisi devre dışı bırakmaya",
+            "Ek Soru 1 — Saltanatı geri getirmeye"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — SCF, demokratik işleyişin nasıl gelişeceğini görmek amacıyla oluşturulmuş bir deneme partisidir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Soru 'deneme' niteliğine vurgu yapıyor.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "SCF",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Menemen Olayı'nda Kubilay'ın şehit edilmesi, Cumhuriyet yönetiminin hangi ilkesine yönelik tehdidi açıkça ortaya koymuştur?",
+          "options": [
+            "Ek Soru 1 — Devletçilik",
+            "Ek Soru 1 — Laiklik",
+            "Ek Soru 1 — Milliyetçilik",
+            "Ek Soru 1 — İnkılapçılık"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Menemen Olayı, laik cumhuriyet düzenine karşı gerici bir kalkışma olarak değerlendirilmiştir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Olay, dini söylemli rejim karşıtı bir kalkışmadır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Menemen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İzmir Suikastı girişiminin başarısız olması sonrası Atatürk'ün yaptığı açıklamalar, aşağıdakilerden hangisini vurgular?",
+          "options": [
+            "Ek Soru 1 — Yönetimin kişilere bağlı geçici bir yapı olduğunu",
+            "Ek Soru 1 — Cumhuriyetin bireylerden bağımsız, kalıcı bir rejim olduğunu",
+            "Ek Soru 1 — Siyasi partilerin kapatılacağını",
+            "Ek Soru 1 — Seçimlerin erteleneceğini"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Atatürk, cumhuriyetin kişisel varlıklardan bağımsız olarak millet iradesiyle yaşayacağını vurgulamıştır.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Ana düşünce: rejimin kalıcılığı.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "İzmir Suikastı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir tarih panelinde konuşmacı, 'Erken Cumhuriyet'te demokrasi denemeleri güvenlik kaygılarıyla kesintiye uğradı.' diyor. Bu yorumu destekleyen örnek eşleştirmesi hangisidir?",
+          "options": [
+            "Ek Soru 1 — Lozan - Cumhuriyetin ilanı",
+            "Ek Soru 1 — Şeyh Sait İsyanı - Takrir-i Sükun",
+            "Ek Soru 1 — Kabotaj Kanunu - Medeni Kanun",
+            "Ek Soru 1 — Montrö - Balkan Antantı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İsyan sonrası alınan olağanüstü tedbirler, demokratikleşme sürecinde güvenlik önceliğinin öne çıktığını gösterir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Soru, isyan ve tedbir ilişkisini arıyor.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Çok partili hayata geçiş denemelerinin kısa sürmesine rağmen tarihsel açıdan önemli kabul edilmesinin nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Muhalefetin tamamen etkisiz kalması",
+            "Ek Soru 1 — Demokratik kültür için erken bir tecrübe zemini oluşturması",
+            "Ek Soru 1 — Tek parti rejimini kaldırması",
+            "Ek Soru 1 — Yerel yönetimleri kapatması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bu denemeler kalıcı olmasa da siyasi katılım, eleştiri ve denetim kültürünün temellerini atmıştır.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Süre kısa olsa da 'tecrübe' etkisini düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Çok Partili Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Demokratikleşme sürecinde muhalefet partilerinin varlığı, meclis çalışmalarına hangi katkıyı sağlar?",
+          "options": [
+            "Ek Soru 1 — Kararların tartışılmadan kabul edilmesi",
+            "Ek Soru 1 — İktidarın denetlenmesi ve alternatif önerilerin sunulması",
+            "Ek Soru 1 — Yasama faaliyetlerinin durması",
+            "Ek Soru 1 — Yürütmenin tamamen kaldırılması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Muhalefet, demokratik sistemde denge-denetim mekanizmasının temel unsurudur.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Muhalefetin demokratik sistemdeki işlevini hatırla.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Demokrasi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Erken Cumhuriyet dönemindeki demokratikleşme çabaları değerlendirildiğinde aşağıdaki yargılardan hangisi en uygundur?",
+          "options": [
+            "Ek Soru 1 — Demokrasi tek adımda ve sorunsuz kurulmuştur.",
+            "Ek Soru 1 — Demokratikleşme, güvenlik sorunlarıyla kesintiye uğrayan kademeli bir süreçtir.",
+            "Ek Soru 1 — Siyasi partiler gereksiz görülmüştür.",
+            "Ek Soru 1 — Meclis sistemi tamamen terk edilmiştir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Dönem, hem demokrasi arayışı hem de rejim güvenliği kaygılarının birlikte yaşandığı aşamalı bir geçiş sürecidir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Süreçte deneme, kesinti ve devam unsurları birlikte var.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Genel Değerlendirme",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Demokratikleşme Çabaları",
+      "questions": [
+        {
+          "question": "Ek Soru 2 — Cumhuriyet Halk Fırkası'nın kurulmasıyla birlikte yeni devlet düzeninde aşağıdakilerden hangisi amaçlanmıştır?",
+          "options": [
+            "Ek Soru 2 — Siyasi örgütlenmeyi tamamen yasaklamak",
+            "Ek Soru 2 — Cumhuriyet rejimini kurumsal bir siyasi yapı ile güçlendirmek",
+            "Ek Soru 2 — Saltanat düzenine geri dönmek",
+            "Ek Soru 2 — Meclisin yetkilerini azaltmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — CHF, yeni rejimin ilk kurumsal siyasi taşıyıcısı olarak cumhuriyet ilkelerini uygulamayı amaçlamıştır.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "İlk parti, rejimin örgütlenme ayağını oluşturur.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "CHF",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Terakkiperver Cumhuriyet Fırkası'nın kurulması, demokratikleşme açısından hangi gelişmeyi ifade eder?",
+          "options": [
+            "Ek Soru 2 — Tek parti yönetiminin kesinleşmesi",
+            "Ek Soru 2 — Mecliste denetim ve alternatif fikir alanının açılması",
+            "Ek Soru 2 — Yerel yönetimlerin kaldırılması",
+            "Ek Soru 2 — Seçimlerin iptal edilmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Muhalefet partisinin varlığı, iktidarın denetlenmesi ve farklı görüşlerin temsil edilmesi açısından önemlidir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Muhalefet = denge ve denetim.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "TCF",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Şeyh Sait İsyanı'nın ardından Takrir-i Sükun Kanunu'nun çıkarılması, yönetimin hangi önceliğini gösterir?",
+          "options": [
+            "Ek Soru 2 — Siyasi çoğulculuğu genişletme",
+            "Ek Soru 2 — Rejim güvenliği ve kamu düzenini koruma",
+            "Ek Soru 2 — Ekonomik kalkınmayı hızlandırma",
+            "Ek Soru 2 — Yerel özerkliği artırma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — İsyan ortamında hükümet, önce kamu düzenini ve rejimin devamını güvence altına almayı hedeflemiştir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Kanunun adı 'sükun', yani düzen vurgusu taşır.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Takrir-i Sükun",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Serbest Cumhuriyet Fırkası'nın kurulması aşağıdaki hedeflerden hangisine daha çok yöneliktir?",
+          "options": [
+            "Ek Soru 2 — İç savaşı tetiklemeye",
+            "Ek Soru 2 — Kontrollü şekilde çok partili hayat tecrübesi kazanmaya",
+            "Ek Soru 2 — Meclisi devre dışı bırakmaya",
+            "Ek Soru 2 — Saltanatı geri getirmeye"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — SCF, demokratik işleyişin nasıl gelişeceğini görmek amacıyla oluşturulmuş bir deneme partisidir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Soru 'deneme' niteliğine vurgu yapıyor.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "SCF",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Menemen Olayı'nda Kubilay'ın şehit edilmesi, Cumhuriyet yönetiminin hangi ilkesine yönelik tehdidi açıkça ortaya koymuştur?",
+          "options": [
+            "Ek Soru 2 — Devletçilik",
+            "Ek Soru 2 — Laiklik",
+            "Ek Soru 2 — Milliyetçilik",
+            "Ek Soru 2 — İnkılapçılık"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Menemen Olayı, laik cumhuriyet düzenine karşı gerici bir kalkışma olarak değerlendirilmiştir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Olay, dini söylemli rejim karşıtı bir kalkışmadır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Menemen",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — İzmir Suikastı girişiminin başarısız olması sonrası Atatürk'ün yaptığı açıklamalar, aşağıdakilerden hangisini vurgular?",
+          "options": [
+            "Ek Soru 2 — Yönetimin kişilere bağlı geçici bir yapı olduğunu",
+            "Ek Soru 2 — Cumhuriyetin bireylerden bağımsız, kalıcı bir rejim olduğunu",
+            "Ek Soru 2 — Siyasi partilerin kapatılacağını",
+            "Ek Soru 2 — Seçimlerin erteleneceğini"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Atatürk, cumhuriyetin kişisel varlıklardan bağımsız olarak millet iradesiyle yaşayacağını vurgulamıştır.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Ana düşünce: rejimin kalıcılığı.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "İzmir Suikastı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Bir tarih panelinde konuşmacı, 'Erken Cumhuriyet'te demokrasi denemeleri güvenlik kaygılarıyla kesintiye uğradı.' diyor. Bu yorumu destekleyen örnek eşleştirmesi hangisidir?",
+          "options": [
+            "Ek Soru 2 — Lozan - Cumhuriyetin ilanı",
+            "Ek Soru 2 — Şeyh Sait İsyanı - Takrir-i Sükun",
+            "Ek Soru 2 — Kabotaj Kanunu - Medeni Kanun",
+            "Ek Soru 2 — Montrö - Balkan Antantı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — İsyan sonrası alınan olağanüstü tedbirler, demokratikleşme sürecinde güvenlik önceliğinin öne çıktığını gösterir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Soru, isyan ve tedbir ilişkisini arıyor.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Çok partili hayata geçiş denemelerinin kısa sürmesine rağmen tarihsel açıdan önemli kabul edilmesinin nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 2 — Muhalefetin tamamen etkisiz kalması",
+            "Ek Soru 2 — Demokratik kültür için erken bir tecrübe zemini oluşturması",
+            "Ek Soru 2 — Tek parti rejimini kaldırması",
+            "Ek Soru 2 — Yerel yönetimleri kapatması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Bu denemeler kalıcı olmasa da siyasi katılım, eleştiri ve denetim kültürünün temellerini atmıştır.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Süre kısa olsa da 'tecrübe' etkisini düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Çok Partili Hayat",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Demokratikleşme sürecinde muhalefet partilerinin varlığı, meclis çalışmalarına hangi katkıyı sağlar?",
+          "options": [
+            "Ek Soru 2 — Kararların tartışılmadan kabul edilmesi",
+            "Ek Soru 2 — İktidarın denetlenmesi ve alternatif önerilerin sunulması",
+            "Ek Soru 2 — Yasama faaliyetlerinin durması",
+            "Ek Soru 2 — Yürütmenin tamamen kaldırılması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Muhalefet, demokratik sistemde denge-denetim mekanizmasının temel unsurudur.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Muhalefetin demokratik sistemdeki işlevini hatırla.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Demokrasi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Erken Cumhuriyet dönemindeki demokratikleşme çabaları değerlendirildiğinde aşağıdaki yargılardan hangisi en uygundur?",
+          "options": [
+            "Ek Soru 2 — Demokrasi tek adımda ve sorunsuz kurulmuştur.",
+            "Ek Soru 2 — Demokratikleşme, güvenlik sorunlarıyla kesintiye uğrayan kademeli bir süreçtir.",
+            "Ek Soru 2 — Siyasi partiler gereksiz görülmüştür.",
+            "Ek Soru 2 — Meclis sistemi tamamen terk edilmiştir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Dönem, hem demokrasi arayışı hem de rejim güvenliği kaygılarının birlikte yaşandığı aşamalı bir geçiş sürecidir.\n\n[GitHub Ek Test — Demokratikleşme Çabaları]",
+          "ipucu": "Süreçte deneme, kesinti ve devam unsurları birlikte var.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Demokratikleşme Çabaları",
+            "Genel Değerlendirme",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

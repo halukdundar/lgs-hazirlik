@@ -1,0 +1,418 @@
+{
+  "topicId": "mat_8",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Eşitsizlikler",
+      "questions": [
+        {
+          "question": "Bir öğrencinin aylık harçlığı 503 TL. Kırtasiyeye 123 TL, yemeğe en fazla 153 TL harcadıktan sonra kalan parayı ulaşıma ayıracak.\n\nUlaşım harcaması x için doğru eşitsizlik hangisidir?",
+          "options": [
+            "x < 153",
+            "x ≤ 233",
+            "x ≥ 233",
+            "x < 503"
+          ],
+          "correctIndex": 1,
+          "explanation": "123 + 153 + x ≤ 503 → x ≤ 233.\n\"En fazla\" → ≤; öğrenci 233 TL veya daha az harcayabilir.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "\"En fazla\" ifadesi ≤ işaretiyle gösterilir.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "5x + 10 < 22 eşitsizliğinin çözüm kümesi nedir?",
+          "options": [
+            "x < 6",
+            "x < 8",
+            "x < 9",
+            "x < 10"
+          ],
+          "correctIndex": 2,
+          "explanation": "5x + 10 < 22 → 5x < 15 → x < 9.\nSık hata: 10'yi ekleme yerine bölme (5x < 22/10 gibi).\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Önce 7'yi çıkar, sonra 2'ye böl; pozitife bölmede yön değişmez.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "-7x + 11 ≥ 23 eşitsizliğinin çözümü nedir?",
+          "options": [
+            "x ≥ -6",
+            "x ≤ -6",
+            "x ≤ 6",
+            "x ≥ 6"
+          ],
+          "correctIndex": 1,
+          "explanation": "-7x + 11 ≥ 23 → -7x ≥ 15 → x ≤ -6.\nNegatif katsayıya bölünce eşitsizlik yönü tersine döner!\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Negatif sayıya bölerken > ↔ < ve ≥ ↔ ≤ değişir.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Sayı doğrusunda -5 < x ≤ 8 aralığı gösterilmiştir.\n\nBu aralıkta kaç tam sayı bulunmaktadır?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctIndex": 1,
+          "explanation": "-5 dahil değil; 8 dahil.\nTam sayılar: -4, 0, 4, 5, 6, 7, 8 → toplam 10 adet.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "\"Küçük\" ve \"büyük\" sınır dahil değil; ≤ ve ≥ dahil.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir asansörün taşıma kapasitesi 503 kg. İçinde zaten 183 kg yük var.\n\nEn fazla kaç kg daha yük eklenebilir?",
+          "options": [
+            "183 kg",
+            "323 kg",
+            "503 kg",
+            "683 kg"
+          ],
+          "correctIndex": 1,
+          "explanation": "183 + x ≤ 503 → x ≤ 323 kg.\nEn fazla 323 kg daha eklenebilir.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Mevcut yük + ek yük ≤ kapasite.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Duru \"-9x > 27 eşitsizliğini çözdüm: x > -7 buldum\" dedi.\n\nHatası nedir ve doğru çözüm nedir?",
+          "options": [
+            "Hata yok; x > -7 doğrudur",
+            "Negatife bölünce yön değişir; doğrusu x < -7",
+            "x > 7 olmalıydı",
+            "x < 7 olmalıydı"
+          ],
+          "correctIndex": 1,
+          "explanation": "-9x > 27 → x < -7 (negatif katsayıya bölünce > < olur).\nDuru yön değiştirmeyi unuttu.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Negatif sayıya bölmek eşitsizliği tersine çevirir.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir fabrikanın günlük üretim miktarı 503'den fazla ancak 803'den az olduğu bilinmektedir.\n\nÜretim miktarı ü için doğru gösterim hangisidir?",
+          "options": [
+            "503 ≤ ü ≤ 803",
+            "503 < ü < 803",
+            "503 < ü ≤ 803",
+            "503 ≤ ü < 803"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Fazla\" → sıkı eşitsizlik (dahil değil → <);\n\"Az\" → sıkı eşitsizlik (dahil değil → <).\nDolayısıyla: 503 < ü < 803.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "\"Fazla\" = >, \"az\" = < (eşit dahil değil); \"en fazla/az\" ise ≤/≥.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "-6 ≤ 5x + 4 < 12 bileşik eşitsizliğinin çözüm kümesi nedir?",
+          "options": [
+            "-5 ≤ x < 7",
+            "-5 < x ≤ 7",
+            "-7 ≤ x < 11",
+            "-7 < x ≤ 11"
+          ],
+          "correctIndex": 0,
+          "explanation": "Tüm parçalardan 4 çıkar: -7 ≤ 5x < 11.\n5'ye böl: -5 ≤ x < 7.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Bileşik eşitsizlikte tüm bölümlere aynı işlemi uygula.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x = -6 değeri için aşağıdaki ifadelerden hangileri doğrudur?\nI. x² > 0\nII. x³ > 0\nIII. 5x + 13 > 0",
+          "options": [
+            "Ek Soru 1 — I ve II",
+            "Ek Soru 1 — I ve III",
+            "Ek Soru 1 — Yalnız I",
+            "Ek Soru 1 — I, II ve III"
+          ],
+          "correctIndex": 1,
+          "explanation": "I ✓: (-6)² = 12 > 0.\nII ✗: (-6)³ = -30 < 0 (negatif sayının tek kuvveti negatif).\nIII ✓: 5(-6) + 13 = -9 + 13 = 7 > 0.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Her ifadeyi x=-3 için hesapla; tek üslü negatif taban negatif sonuç verir.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir öğrenci 6 sınavdan 81, 85 ve 73 puan aldı. 7. sınavdan sonra dört sınavın ortalamasının 83'den büyük olmasını istiyor.\n\n7. sınavdan en az kaç puan almalıdır?",
+          "options": [
+            "x > 88",
+            "x > 91",
+            "x > 93",
+            "x > 95"
+          ],
+          "correctIndex": 2,
+          "explanation": "(81 + 85 + 73 + x) / 7 > 83\n233 + x > 323\nx > 93.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Ortalama > 80 → toplam > 4×80=320; mevcut toplamı çıkar.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Eşitsizlikler",
+      "questions": [
+        {
+          "question": "x>8 için uygun?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "7"
+          ],
+          "correctIndex": 2,
+          "explanation": "9.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x<13 için uygun?",
+          "options": [
+            "13",
+            "14",
+            "12",
+            "15"
+          ],
+          "correctIndex": 2,
+          "explanation": "12.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x≥7 için uygun?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": "7.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x≤10 için uygun?",
+          "options": [
+            "11",
+            "10",
+            "12",
+            "13"
+          ],
+          "correctIndex": 1,
+          "explanation": "10.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "5x>11 → x?",
+          "options": [
+            "x>5",
+            "x>7",
+            "x<7",
+            "x>19"
+          ],
+          "correctIndex": 1,
+          "explanation": "x>7.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x+6<11 → x?",
+          "options": [
+            "x<8",
+            "x<14",
+            "x>8",
+            "x<6"
+          ],
+          "correctIndex": 0,
+          "explanation": "x<8.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "6x≤15 → x?",
+          "options": [
+            "x≤6",
+            "x≤7",
+            "x≥7",
+            "x≤39"
+          ],
+          "correctIndex": 1,
+          "explanation": "x≤7.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x-5≥0 → x?",
+          "options": [
+            "x≥-5",
+            "x≥5",
+            "x≤5",
+            "Ek Soru 1 — x≥0"
+          ],
+          "correctIndex": 1,
+          "explanation": "x≥5.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "8>x için uygun?",
+          "options": [
+            "9",
+            "8",
+            "7",
+            "10"
+          ],
+          "correctIndex": 2,
+          "explanation": "7.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "x+4>9 → x?",
+          "options": [
+            "x>8",
+            "x>10",
+            "x<8",
+            "x>9"
+          ],
+          "correctIndex": 0,
+          "explanation": "x>8.\n\n[GitHub Ek Test — Eşitsizlikler]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Eşitsizlikler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

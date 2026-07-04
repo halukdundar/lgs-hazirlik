@@ -1,0 +1,404 @@
+{
+  "topicId": "turkce_1",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Sözcükte Anlam",
+      "questions": [
+        {
+          "question": "Metin: \"Genç girişimci iş dünyasında hızla yol aldı; kısa sürede sektörde söz sahibi oldu.\"\n\"Yol almak\" bu metinde ne anlama gelir?",
+          "options": [
+            "Fiziksel yürümek",
+            "İlerlemek, başarılı olmak",
+            "Kaybolmak",
+            "Yavaşlamak"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Yol almak\" mecaz anlamda ilerleme bildirir.",
+          "ipucu": "Metaforik ilerleme mi?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "I. Elma pişirince yumuşar.\nII. Yumuşak sesi herkesi sakinleştirdi.\nIII. Yumuşak bir tutum sergiledi.\nIV. Yastık çok yumuşak.\nHangilerinde \"yumuşak\" mecaz anlamdadır?",
+          "options": [
+            "Yalnızca II",
+            "II ve III",
+            "I ve IV",
+            "II, III ve IV"
+          ],
+          "correctIndex": 1,
+          "explanation": "II (ses) ve III (tutum) soyut kavramları anlatır → mecaz.",
+          "ipucu": "Dokunulabilir mi? → gerçek. Soyut mu? → mecaz.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Şirket bu yıl pazarda ayağını sağlam bastı.\"\n\"Ayağını sağlam basmak\" deyiminin anlamı nedir?",
+          "options": [
+            "Dengesini korumak",
+            "Yerini pekiştirmek, güçlü konumlanmak",
+            "Yavaş yürümek",
+            "Bir yere yapışmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deyim kararlı ve güçlü biçimde tutunmak anlamındadır.",
+          "ipucu": "Metaforik tutunma mı?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Aşağıdakilerden hangisinde \"taş\" sözcüğü mecaz anlamda kullanılmıştır?",
+          "options": [
+            "Yolda büyük bir taş vardı.",
+            "Taş atıp geri baktı.",
+            "Kalbi taş gibi sertleşmişti.",
+            "Taşı uzağa fırlattı."
+          ],
+          "correctIndex": 2,
+          "explanation": "\"Taş gibi\" benzetmeyle duyarsızlık anlatılır → mecaz.",
+          "ipucu": "\"Gibi\" varsa benzetme → mecaz.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Bilim insanı bulguları kamuoyuyla paylaştı; çalışması alana ışık tuttu.\"\n\"Işık tutmak\" ne anlama gelir?",
+          "options": [
+            "Aydınlatmak",
+            "Bilgi ve anlayış sağlamak",
+            "Fener tutmak",
+            "Parlaklık katmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deyim bir alana açıklık getirmek anlamındadır.",
+          "ipucu": "Fiziksel ışık mı, bilgi mi?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Köklü\" sözcüğünün terim anlamda kullanıldığı cümle hangisidir?",
+          "options": [
+            "Bu köklü bir aileden geliyor.",
+            "Köklü değişiklikler yapıldı.",
+            "Botanik: Bu bitki köklü türdendir.",
+            "Ağacın köklü olduğu belli."
+          ],
+          "correctIndex": 2,
+          "explanation": "Botanik bağlamında \"köklü\" bitki sınıfını belirtir → terim.",
+          "ipucu": "Terim: bilim/sanat alanına özgü anlam.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Anlam daralmasına örnek hangisidir?",
+          "options": [
+            "yemek (tüm gıda → pişirilmiş yemek)",
+            "bacak (insan → masa bacağı)",
+            "güzel (geniş kullanım)",
+            "ev (her konut)"
+          ],
+          "correctIndex": 0,
+          "explanation": "\"Yemek\" zamanla daha dar anlam kazanmıştır.",
+          "ipucu": "Anlam daralması: sözcük daha az şeyi kapsar.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Dedektif olayların ipucunu buldu ve davayı çözdü.\"\n\"İpucu\" hangi anlamda kullanılmıştır?",
+          "options": [
+            "Gerçek — ip parçası",
+            "Mecaz — çözüme götüren belirti",
+            "Yan anlam — ince şey",
+            "Terim — dokumacılık"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"İpucu\" mecaz anlamda sorunu çözmeye yardımcı belirtiyi ifade eder.",
+          "ipucu": "Somut ip mi, soyut belirti mi?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Soğuk\" sözcüğü hangi cümlede mecaz anlamda kullanılmamıştır?",
+          "options": [
+            "Soğuk bir bakış attı.",
+            "Aramızdaki ilişki soğudu.",
+            "Soğuk hava dalgası geliyor.",
+            "Ona soğuk davrandı."
+          ],
+          "correctIndex": 2,
+          "explanation": "C'de hava sıcaklığı anlatılır → gerçek anlam.",
+          "ipucu": "Termometreyle ölçülüyor mu?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Aşağıdaki cümlelerden hangisinde sözcük çok anlamlılık örneği vardır?",
+          "options": [
+            "Taş gibi uyudu.",
+            "Kapının kolu kırıldı.",
+            "Çantam çok ağır.",
+            "Güneş doğdu."
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Kol\" hem organ hem kapı parçası anlamında kullanılabilir → çok anlamlı.",
+          "ipucu": "Aynı sözcüğün birden fazla anlamı var mı?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Sözcükte Anlam",
+      "questions": [
+        {
+          "question": "Metin: \"Genç girişimci, iş dünyasında hızla yol aldı; fırsatları değerlendirdi ve kısa sürede zirvede yer edindi.\"\nBu metinde kaç sözcük/ifade mecaz anlamda kullanılmıştır?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctIndex": 2,
+          "explanation": "\"Yol almak\", \"zirve\" ve \"yer edinmek\" mecaz kullanımlardır.",
+          "ipucu": "Her ifadeyi tek tek sorgula: gerçek mi mecaz mı?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "\"Gün\" sözcüğünün kullanıldığı cümleleri inceleyiniz:\nI. Dışarıda güzel bir gün var.\nII. Bu gün çok çalıştım.\nIII. Kara günler arkamda kaldı.\nIV. Güneş bugün erken battı.\nHangilerinde \"gün\" mecaz anlamda kullanılmıştır?",
+          "options": [
+            "Yalnızca III",
+            "I ve IV",
+            "II ve III",
+            "I, II ve IV"
+          ],
+          "correctIndex": 0,
+          "explanation": "Yalnızca III'te \"kara günler\" zor dönemler anlamında mecazdır.",
+          "ipucu": "\"Kara günler\" gerçek günler mi? Zor dönemler mi?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Bilim insanı yıllarca süren araştırmanın ardından bulgularını kamuoyuyla paylaştı. Çalışması alana ışık tuttu.\"\n\"Işık tutmak\" bu metinde ne anlama gelir?",
+          "options": [
+            "Elektrik vermek",
+            "Bilgi ve anlayış sağlamak, yol göstermek",
+            "Fener tutmak",
+            "Parlaklık katmak"
+          ],
+          "correctIndex": 1,
+          "explanation": "\"Işık tutmak\" deyimi bir alana açıklık getirmek, yol göstermek anlamındadır.",
+          "ipucu": "Fiziksel ışık mı? Yoksa bilgi/aydınlanma mı?",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Metin: \"Öğrenci uzun yıllar çalışıp sonunda meyvesini topladı.\"\n\"Meyve toplamak\" bu metinde ne anlama gelir?",
+          "options": [
+            "Bahçeden meyve devşirmek",
+            "Emeklerinin karşılığını almak",
+            "Tarım işi yapmak",
+            "Ağaç dikmek"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deyim çabanın karşılığını, emeğinin sonucunu almak demektir.",
+          "ipucu": "Deyimlerde anlam, sözcüklerin toplamından farklıdır.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde \"ağır\" sözcüğü mecaz anlamda kullanılmıştır?\nA) Çantam çok ağır, taşıyamıyorum.\nB) Buz dolabı oldukça ağırdı.\nC) Bu sorumluluk omuzlarıma çok ağır geldi.\nD) Kaldırdığı yük ağır gelince bıraktı.",
+          "options": [
+            "Ek Soru 1 — A – fiziksel ağırlık bildiriyor",
+            "Ek Soru 1 — B – fiziksel ağırlık bildiriyor",
+            "Ek Soru 1 — C – sorumluluk mecaz yükle anlatılıyor",
+            "Ek Soru 1 — D – fiziksel ağırlık bildiriyor"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — C'de \"ağır\" sözcüğü fiziksel ağırlık değil, duygu/sorumluluk yükü bildirmek için kullanılmıştır; bu mecaz anlamdır. A, B, D'de nesnel bir ağırlık ölçümü söz konusudur.\n\n[GitHub Ek Test — Sözcükte Anlam]",
+          "ipucu": "Mecaz anlam: sözcük soyut/duygusal bir kavramı fiziksel bir özellikle anlatıyorsa mecazdır. \"Bu yükü taşıyabilir misin?\" → gerçek; \"Bu sorumluluğu taşıyabilir misin?\" → mecaz.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Araştırmacılar, bölgedeki tatlı su kaynaklarının her yıl azaldığını raporlara dayandırarak açıkladı. Veriler çeşitli gözlem istasyonlarından derlendi. Bu bilgiler gelecek için kritik önem taşıyor.\"\n\nBu metne göre, \"kaynak\" sözcüğü hangi anlamda kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Mecaz anlam – bir ülkenin güçlü yanı",
+            "Ek Soru 1 — Gerçek anlam – yerden fışkıran su noktası",
+            "Ek Soru 1 — Terim anlam – akademik referans belgesi",
+            "Ek Soru 1 — Yan anlam – bilgi çıkış noktası"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Kaynak\" sözcüğü metinde doğadan su çıkış noktası anlamında kullanılmıştır; bu gerçek anlamdır. Yan anlam seçeneği (D) cazip görünse de metinde su kaynaklarından söz edilmektedir.\n\n[GitHub Ek Test — Sözcükte Anlam]",
+          "ipucu": "Gerçek anlam: sözcüğün sözlükteki temel, somut anlamıdır. Metindeki bağlamı ve konuyu (tatlı su) göz önünde bulundur.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Metin: \"Antrenman döneminin ilk aylarında sporcu oldukça zorlandı. Fakat zamanla işi eline yatırdı; her hareketi zahmetsizce yapabilir hâle geldi. Koç da bu ilerlemeyi takdirle karşıladı.\"\n\nParçaya göre, \"işi eline yatırmak\" deyiminin anlamı aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Bir şeyi bırakmak, vazgeçmek",
+            "Ek Soru 1 — Bir işi ustalıkla ve kolaylıkla yapabilmek",
+            "Ek Soru 1 — Birinden iş istemek, yardım talep etmek",
+            "Ek Soru 1 — Ellerini kirletmek, zahmet çekmek"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"İşi eline yatırmak\" deyimi, bir işi artık rahatlıkla ve ustalıkla yapabilmek anlamındadır. Metindeki \"her hareketi zahmetsizce yapabilir hâle geldi\" ifadesi bu anlamı doğrular.\n\n[GitHub Ek Test — Sözcükte Anlam]",
+          "ipucu": "Deyimlerde anlam parçaların toplamı değildir. \"Eline yatmak\" → rahat, uygun hale gelmek → bir işte ustalaşmak bağlamında düşün.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki sözcük çiftlerinden hangisi gerçek anlamda zıt anlamlı değildir?",
+          "options": [
+            "Ek Soru 1 — hızlı – yavaş",
+            "Ek Soru 1 — açık – kapalı",
+            "Ek Soru 1 — sert – yumuşak",
+            "Ek Soru 1 — güçlü – kuvvetli"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Güçlü\" ile \"kuvvetli\" zıt anlamlı değil, eş anlamlı sözcüklerdir. İkisi de benzer güç anlamı taşır. A, B, C seçeneklerindeki çiftler gerçekten zıt anlamlıdır.\n\n[GitHub Ek Test — Sözcükte Anlam]",
+          "ipucu": "Zıt anlamlı sorularda tuzak: eş anlamlı sözcükler \"zıt değil\" cevabı olarak sunulabilir. Her çiftin gerçekten karşıt anlam taşıyıp taşımadığını kontrol et.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Köprü yıkıldı.\" cümlesindeki \"yıkılmak\" fiiliyle anlam bakımından örtüşen cümle aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Çalışmaktan çok yoruldu; kendini yıpranmış hissetti.",
+            "Ek Soru 1 — Depremde birçok bina yıkıldı.",
+            "Ek Soru 1 — Planlı çalışma alışkanlığı zamanla yıkılıyordu.",
+            "Ek Soru 1 — Ağır haberle içi yıkılmıştı."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Köprü yıkıldı\" cümlesinde \"yıkılmak\" fiziksel çöküş anlamındadır. B seçeneğindeki \"bina yıkıldı\" da aynı gerçek anlamı taşır. A, C, D'deki kullanımlar mecaz anlam içerir.\n\n[GitHub Ek Test — Sözcükte Anlam]",
+          "ipucu": "Çok anlamlı sözcüklerde anlam örtüşmesi soruları: kaynak cümledeki anlamı belirle (mecaz mı, gerçek mi?), sonra seçenekleri filtrele.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde \"kök\" sözcüğü terim anlamıyla kullanılmıştır?",
+          "options": [
+            "Ek Soru 1 — Çam ağacının kökleri toprağı sıkıca tutuyordu.",
+            "Ek Soru 1 — Bu sorunun kökünü tarihte aramak gerekir.",
+            "Ek Soru 1 — Fiil kökü ile eke dikkat etmek gerekir.",
+            "Ek Soru 1 — Aile köklerine bağlı kalmak ona güç veriyordu."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Fiil kökü\" ifadesi dilbilgisinde özel bir anlam taşıyan terimdir; yani terim anlamda kullanılmıştır. A'da gerçek anlam (bitki), B'de yan anlam (kaynak/temel), D'de mecaz anlam (soy) vardır.\n\n[GitHub Ek Test — Sözcükte Anlam]",
+          "ipucu": "Terim anlam: bir sözcük bilim, sanat veya meslek alanında özel ve teknik anlamda kullanılıyorsa terim anlamdadır. Hangi cümlede bu sözcük bir alanın jargonuna ait?",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Sözcükte Anlam",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

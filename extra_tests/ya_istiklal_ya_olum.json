@@ -1,0 +1,427 @@
+{
+  "topicId": "ya_istiklal_ya_olum",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Ya İstiklal Ya Ölüm",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — TBMM'nin açılmasından sonra çıkan bazı ayaklanmalar karşısında merkezi bir ordu kurulmasının hızlandırılması hangi ihtiyacı göstermektedir?",
+          "options": [
+            "Ek Soru 1 — Yerel direnişlerin tek başına yeterli olduğunu",
+            "Ek Soru 1 — Mücadelenin merkezi komuta ve disiplin gerektirdiğini",
+            "Ek Soru 1 — Cephe savaşlarının sona erdiğini",
+            "Ek Soru 1 — Diplomatik müzakerelerin askeri güce gerek bırakmadığını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Ayaklanmalar ve cephe ihtiyaçları, dağınık güçler yerine merkezi komutaya bağlı düzenli orduyu zorunlu kılmıştır.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Soru, düzenli ordunun kurulma gerekçesini soruyor.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "TBMM",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — I. İnönü Zaferi sonrasında TBMM Hükümeti'nin dış dünyadaki konumu güçlenmiştir. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Askeri başarının yeni yönetimin varlığını kanıtlaması",
+            "Ek Soru 1 — İstanbul Hükümeti'nin tüm yetkilerini devretmesi",
+            "Ek Soru 1 — Sevr Antlaşması'nın yürürlükten kalkması",
+            "Ek Soru 1 — Boğazların tamamen açılması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İnönü zaferi, TBMM'nin askeri ve siyasi olarak etkili bir güç olduğunu göstermiştir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Askeri başarı -> siyasal meşruiyet ilişkisini kur.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "İnönü Savaşları",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sakarya Meydan Muharebesi'nde 'Hattı müdafaa yoktur, sathı müdafaa vardır.' anlayışının benimsenmesi hangi stratejik değişimi ifade eder?",
+          "options": [
+            "Ek Soru 1 — Sadece dar bir hatta savunma yapılmasını",
+            "Ek Soru 1 — Bütün vatan sathında esnek ve derin savunma yapılmasını",
+            "Ek Soru 1 — Saldırıdan tamamen vazgeçilmesini",
+            "Ek Soru 1 — Sadece deniz kuvvetlerinin kullanılmasını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bu anlayış, savunmayı tek çizgiye hapsetmeyip geniş alanda sürdürülen topyekun direnişi ifade eder.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Sathı müdafaa ifadesi savunma alanını genişletir.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "Sakarya",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tekalif-i Milliye Emirleri ile halktan ordu ihtiyaçları için destek istenmiştir. Bu uygulama, milli mücadelenin hangi yönünü öne çıkarır?",
+          "options": [
+            "Ek Soru 1 — Savaşın yalnızca profesyonel asker işi olduğunu",
+            "Ek Soru 1 — Toplumun tüm kesimlerinin mücadeleye katıldığını",
+            "Ek Soru 1 — Ekonomik üretimin tamamen durdurulduğunu",
+            "Ek Soru 1 — Dış yardıma bağımlılığın arttığını"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Tekalif-i Milliye, milletin maddi-manevi imkanlarını seferber ederek topyekun mücadele anlayışını güçlendirmiştir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Emirler doğrudan halka yöneliktir.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "Tekalif-i Milliye",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Büyük Taarruz'un başarıya ulaşması sonrası Mudanya Ateşkes Antlaşması'nın imzalanması, savaş süreci için hangi sonucu doğurmuştur?",
+          "options": [
+            "Ek Soru 1 — Askeri mücadele devam etmiştir.",
+            "Ek Soru 1 — Askeri safha kapanıp diplomatik safha başlamıştır.",
+            "Ek Soru 1 — TBMM dağıtılmıştır.",
+            "Ek Soru 1 — Doğu Cephesi yeniden açılmıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Mudanya ile silahlı mücadele büyük ölçüde sona ermiş, Lozan görüşmelerine geçilmiştir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Mudanya bir ateşkes antlaşmasıdır.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "Mudanya",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Doğu Cephesi'nde kazanılan başarıların ardından imzalanan Gümrü Antlaşması'nın tarihi önemi nedir?",
+          "options": [
+            "Ek Soru 1 — TBMM'nin imzaladığı ilk uluslararası antlaşma olması",
+            "Ek Soru 1 — Boğazlar sorununu çözmesi",
+            "Ek Soru 1 — Batı Cephesi'ni kapatması",
+            "Ek Soru 1 — Lozan'ın yerine geçmesi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Gümrü Antlaşması, TBMM'nin uluslararası alanda ilk resmi anlaşmasıdır.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Soru, antlaşmanın 'ilk' özelliğini soruyor.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "Doğu Cephesi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Güney Cephesi'nde şehir halkının yerel direnişle başarı kazanması, milli mücadelenin hangi özelliğini gösterir?",
+          "options": [
+            "Ek Soru 1 — Mücadelenin yalnızca düzenli orduyla yürütüldüğünü",
+            "Ek Soru 1 — Yerel inisiyatif ve halk direncinin etkili olduğunu",
+            "Ek Soru 1 — Dış devletlerin askeri desteğinin belirleyici olduğunu",
+            "Ek Soru 1 — Cephe savaşlarının önemsiz olduğunu"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Maraş, Antep ve Urfa örnekleri halk direnişinin cephe dışında da sonuç üretebildiğini göstermiştir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Bu cephede halkın aktif rolünü hatırla.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "Güney Cephesi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Lozan Barış Antlaşması'nın kabulü ile birlikte aşağıdakilerden hangisi kesinlik kazanmıştır?",
+          "options": [
+            "Ek Soru 1 — Osmanlı Devleti'nin yeniden kurulduğu",
+            "Ek Soru 1 — Türkiye Cumhuriyeti'nin uluslararası meşruiyetinin güçlendiği",
+            "Ek Soru 1 — Savaşın yalnızca geçici olarak durduğu",
+            "Ek Soru 1 — Sevr'in yürürlüğe girdiği"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Lozan, yeni Türk devletinin bağımsızlığını ve siyasal varlığını uluslararası alanda tanıtmıştır.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Lozan = bağımsızlığın tescili.",
+          "difficulty": 3,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "Lozan",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Bir öğrenci, 'Ya İstiklal Ya Ölüm dönemi, meclis ile ordu arasındaki koordinasyonun başarıya dönüşmesidir.' diyor. Bu yorumu en çok destekleyen örnek aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Tekalif-i Milliye kararlarının meclis desteğiyle uygulanması",
+            "Ek Soru 1 — Sadece yerel cemiyetlerin karar alması",
+            "Ek Soru 1 — İstanbul Hükümeti'nin savaşı yönetmesi",
+            "Ek Soru 1 — Mondros hükümlerinin değiştirilmesi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Meclisin aldığı kararların ordunun ihtiyaçlarına göre uygulanması, siyasi-askeri uyumu göstermektedir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Karar organı + uygulama gücü birlikteliğini ara.",
+          "difficulty": 4,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "Yeni Nesil Yorum",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sevr Antlaşması'nın uygulanamayıp Lozan'ın kabul edilmesi, milli mücadele açısından hangi genel sonuca işaret eder?",
+          "options": [
+            "Ek Soru 1 — Direnişin başarısız olduğuna",
+            "Ek Soru 1 — Askeri ve siyasi mücadelenin birlikte sonuç verdiğine",
+            "Ek Soru 1 — Yabancı manda yönetiminin kabul edildiğine",
+            "Ek Soru 1 — TBMM'nin geçici bir yapı olduğuna"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sevr dayatması sahada ve masada verilen mücadeleyle geçersiz kılınmış, Lozan ile yeni düzen kurulmuştur.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Sevr'den Lozan'a geçişi neden-sonuç ilişkisiyle düşün.",
+          "difficulty": 5,
+          "tags": [
+            "İnkılap Tarihi",
+            "Ya İstiklal Ya Ölüm",
+            "Sevr-Lozan",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Ya İstiklal Ya Ölüm",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Sakarya Meydan Muharebesi'nde Mustafa Kemal'in üstlendiği özel görev nedir?",
+          "options": [
+            "Ek Soru 1 — Yalnızca sivil liderlik",
+            "Ek Soru 1 — Başkomutanlık yetkisini devralmak",
+            "Ek Soru 1 — Osmanlı padişahını temsil etmek",
+            "Ek Soru 1 — İtilaf devletleriyle müzakere yürütmek"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sakarya öncesinde TBMM, Mustafa Kemal'e başkomutanlık yetkisi vermiş ve tüm kuvvetlerin komutasını devralmıştır.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Başkomutanlık = en üst askeri yetki; bu yetki Sakarya öncesinde TBMM kararıyla verildi.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Büyük Taarruz hangi tarihte başlamıştır?",
+          "options": [
+            "12 Eylül 1924",
+            "29 Ağustos 1925",
+            "33 Ağustos 1925",
+            "14 Ekim 1925"
+          ],
+          "correctIndex": 1,
+          "explanation": "Büyük Taarruz 29 Ağustos 1925'de başlamış, 33 Ağustos'ta Başkomutan Meydan Muharebesi ile zafere ulaşmıştır.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "26 Ağustos = başlangıç; 30 Ağustos = Zafer Bayramı.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Mudanya Mütarekesi ne anlama gelmektedir?",
+          "options": [
+            "Ek Soru 1 — Türk kuvvetlerinin teslim olması",
+            "Ek Soru 1 — Kurtuluş Savaşı'nın askeri zaferinin ardından ateşkes sağlanması",
+            "Ek Soru 1 — Lozan Konferansı'nın başlaması",
+            "Ek Soru 1 — Yunan kuvvetlerinin İzmir'e girmesi"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mudanya Mütarekesi (14 Ekim 1925), askeri zaferin ardından imzalanmış ve savaşı fiilen sona erdirmiştir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Mudanya = ateşkes → sonrasında Lozan = kalıcı barış.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sakarya Meydan Muharebesi hangi yılda gerçekleşmiştir?",
+          "options": [
+            "1922",
+            "1923",
+            "1924",
+            "1925"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sakarya Meydan Muharebesi, Ağustos–Eylül 1924 tarihlerinde gerçekleşmiş ve Yunan ilerleyişi durdurulmuştur.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Sakarya 1921 → Büyük Taarruz 1922.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "12 Eylül 1925'nin önemi nedir?",
+          "options": [
+            "Ek Soru 1 — Mudanya Mütarekesi'nin imzalandığı gün",
+            "Ek Soru 1 — İzmir'in Türk kuvvetlerince kurtarıldığı gün",
+            "Ek Soru 1 — TBMM'nin açıldığı gün",
+            "Ek Soru 1 — Sakarya zaferinin kazanıldığı gün"
+          ],
+          "correctIndex": 1,
+          "explanation": "12 Eylül 1925'de Türk kuvvetleri İzmir'e girmiş ve şehir işgalden kurtarılmıştır.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "İzmir'in kurtuluş günü: 9 Eylül 1922.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Lozan Antlaşması ne zaman imzalanmıştır?",
+          "options": [
+            "1923",
+            "1924",
+            "1926",
+            "1927"
+          ],
+          "correctIndex": 2,
+          "explanation": "Lozan Antlaşması 27 Temmuz 1926'te imzalanmış; Türkiye'nin uluslararası tanınmasını sağlamıştır.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Lozan 1923 → Cumhuriyet 29 Ekim 1923.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi Kurtuluş Savaşı'nın Batı Cephesi'ndeki önemli muharebelerinden biri değildir?",
+          "options": [
+            "Ek Soru 1 — Birinci İnönü Muharebesi",
+            "Ek Soru 1 — İkinci İnönü Muharebesi",
+            "Ek Soru 1 — Sakarya Meydan Muharebesi",
+            "Ek Soru 1 — Çanakkale Deniz Muharebesi"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — Çanakkale Deniz Muharebesi I. Dünya Savaşı'na aittir; Kurtuluş Savaşı Batı Cephesi'ne ait değildir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Kurtuluş Savaşı: 1919-1922. Çanakkale: 1915.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Sevr Antlaşması neden uygulanamamıştır?",
+          "options": [
+            "Ek Soru 1 — İtilaf devletleri imzalamayı reddetmiştir.",
+            "Ek Soru 1 — Türk milleti Kurtuluş Savaşı ile Sevr'i fiilen geçersiz kılmıştır.",
+            "Ek Soru 1 — Osmanlı padişahı antlaşmayı veto etmiştir.",
+            "Ek Soru 1 — Antlaşma Lozan'dan önce imzalanmamıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Sevr Antlaşması imzalanmış; ancak Türk milleti Kurtuluş Savaşı'nı kazanarak bu antlaşmayı fiilen geçersiz kılmış ve Lozan'da yeni şartlar elde etmiştir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Sevr imzalandı ama uygulanamadı → çünkü Türkler savaşı kazandı.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdakilerden hangisi Lozan Antlaşması'nın önemi için doğrudur?",
+          "options": [
+            "Ek Soru 1 — Osmanlı'nın çöküşünü resmileştirmiştir.",
+            "Ek Soru 1 — Türkiye Cumhuriyeti'nin uluslararası alanda tanınmasını sağlamıştır.",
+            "Ek Soru 1 — Yalnızca toprak sınırlarını belirleyen bir belgedir.",
+            "Ek Soru 1 — İtilaf devletlerinin Anadolu'yu yönetmesine olanak tanımıştır."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Lozan, bağımsız Türkiye Cumhuriyeti'ni uluslararası hukukta tanıyan ve tam egemenliği pekiştiren antlaşmadır.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Lozan = tam bağımsızlık + uluslararası tanınma.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.\"\n\nBu söz hangi muharebe için, kim tarafından söylenmiştir?",
+          "options": [
+            "Ek Soru 1 — Çanakkale – Enver Paşa",
+            "Ek Soru 1 — Sakarya – Mustafa Kemal",
+            "Ek Soru 1 — Büyük Taarruz – İsmet Paşa",
+            "Ek Soru 1 — İnönü – Ali Fuat Paşa"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Bu efsanevi ifade, Sakarya Meydan Muharebesi'nde Mustafa Kemal tarafından söylenmiştir.\n\n[GitHub Ek Test — Ya İstiklal Ya Ölüm]",
+          "ipucu": "Sakarya Muharebesi'nin en bilinen komutu budur.",
+          "difficulty": 2,
+          "tags": [
+            "İnkılap",
+            "Ya İstiklâl Ya Ölüm",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

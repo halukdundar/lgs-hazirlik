@@ -1,0 +1,428 @@
+{
+  "topicId": "eng_4",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — On the Phone",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nReceptionist: Good afternoon, Arda Clinic.\nCaller: Could I speak to Dr. Selin?\nReceptionist: She is with a patient now.\nQuestion: What should receptionist ask next?",
+          "options": [
+            "Ek Soru 1 — Can I take a message?",
+            "Ek Soru 1 — Why did you call?",
+            "Ek Soru 1 — Call later maybe.",
+            "Ek Soru 1 — Send your photo."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Resmi telefon dilinde standart devam cümlesi budur.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Müsait olmayan kişi için kullanılan kalıbı hatırla.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Formal",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nBaran: May I talk to Duru?\nMother: She isn't home right now.\nQuestion: Which reply is most appropriate?",
+          "options": [
+            "Ek Soru 1 — Okay, I'll call back later.",
+            "Ek Soru 1 — Give me your address.",
+            "Ek Soru 1 — Hang up now.",
+            "Ek Soru 1 — I don't care."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Nazik ve doğal devam cümlesi call back later olur.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Nazik iletişim akışını düşün.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Etiquette",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the note.\n\"I called twice but your line was busy. Text me when you're free.\"\nQuestion: Why couldn't the caller connect?",
+          "options": [
+            "Ek Soru 1 — Wrong number",
+            "Ek Soru 1 — Busy line",
+            "Ek Soru 1 — Phone without battery",
+            "Ek Soru 1 — No internet"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Notta line was busy ifadesi açıkça veriliyor.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Doğrudan verilen sebebi bul.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Reading",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the exchange.\nAgent: Please hold on for a minute.\nCustomer: Sure.\nQuestion: Hold on means ...",
+          "options": [
+            "Ek Soru 1 — Speak louder",
+            "Ek Soru 1 — Wait on the line",
+            "Ek Soru 1 — End the call",
+            "Ek Soru 1 — Send an email"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hold on telefon dilinde hatta beklemek demektir.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Çağrı merkezi ifadesini hatırla.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Vocabulary",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the conversation.\nCem: Could you spell your surname, please?\nNurse: C-E-L-I-K.\nQuestion: Why does Cem ask this?",
+          "options": [
+            "Ek Soru 1 — To check details correctly",
+            "Ek Soru 1 — To change appointment",
+            "Ek Soru 1 — To end call quickly",
+            "Ek Soru 1 — To complain"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Spelling istemek doğru bilgi kaydı içindir.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Spell istemenin amacını düşün.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Purpose",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the message.\n\"I'd like to confirm your booking for Friday at 13:33.\"\nQuestion: What is the call purpose?",
+          "options": [
+            "Ek Soru 1 — Cancel booking",
+            "Ek Soru 1 — Confirm booking",
+            "Ek Soru 1 — Ask for complaint",
+            "Ek Soru 1 — Change city"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Confirm ifadesi görüşmenin amacını verir.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Confirm kelimesini yakala.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Business Call",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nMina: I couldn't hear you. The signal was weak.\nAras: I'll move near the window.\nQuestion: What is the problem?",
+          "options": [
+            "Ek Soru 1 — Wrong number",
+            "Ek Soru 1 — Weak signal quality",
+            "Ek Soru 1 — No contact name",
+            "Ek Soru 1 — Message limit"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Couldn't hear ve weak signal aynı sorunu gösterir.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Signal kelimesine odaklan.",
+          "difficulty": 3,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Problem",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Read the exchange.\nOperator: Could you repeat the last two digits?\nCaller: Sure, it's 51.\nQuestion: Which skill is used here?",
+          "options": [
+            "Ek Soru 1 — Giving directions",
+            "Ek Soru 1 — Clarifying information",
+            "Ek Soru 1 — Making invitations",
+            "Ek Soru 1 — Comparing prices"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Repeat istemek bilgi netleştirme becerisidir.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Repeat fiilinin işlevini değerlendir.",
+          "difficulty": 4,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Skills",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the call ending.\nCaller: Thank you for your help.\nAgent: You're welcome. Have a nice day.\nQuestion: What should happen next?",
+          "options": [
+            "Ek Soru 1 — Continue with unrelated talk",
+            "Ek Soru 1 — Politely end the call",
+            "Ek Soru 1 — Shout loudly",
+            "Ek Soru 1 — Ask random questions"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kapanış ifadelerinden sonra uygun adım görüşmeyi bitirmektir.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Have a nice day ifadesi kapanış sinyalidir.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Call Flow",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the context.\nA student calls the library to renew a borrowed book for one more week.\nQuestion: This is an example of ...",
+          "options": [
+            "Ek Soru 1 — renewal request",
+            "Ek Soru 1 — complaint call",
+            "Ek Soru 1 — emergency call",
+            "Ek Soru 1 — social invitation"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Borrowed book süresi uzatma isteği renewal request'tir.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Renew kelimesine dikkat et.",
+          "difficulty": 5,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Context",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — On the Phone",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Dialogue.\nHello, this is Aylin speaking. May I speak to Mr. Kaya?\nQuestion: Who is calling?",
+          "options": [
+            "Ek Soru 1 — Mr. Kaya",
+            "Ek Soru 1 — Aylin",
+            "Ek Soru 1 — The receptionist",
+            "Ek Soru 1 — Unknown"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — This is Aylin speaking.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "This is ... speaking.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nPlease hold the line. I'll transfer you.\nQuestion: What should caller do?",
+          "options": [
+            "Ek Soru 1 — Hang up",
+            "Ek Soru 1 — Wait / hold",
+            "Ek Soru 1 — Call again",
+            "Ek Soru 1 — Shout"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Hold the line = bekle.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Hold = bekle.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nSorry, I think you have the wrong ___.",
+          "options": [
+            "Ek Soru 1 — number",
+            "Ek Soru 1 — food",
+            "Ek Soru 1 — door",
+            "Ek Soru 1 — book"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Wrong number.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Wrong number kalıbı.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Dialogue.\nCan I take a message?\nYes, please tell him I called.\nQuestion: What does receiver offer?",
+          "options": [
+            "Ek Soru 1 — To hang up",
+            "Ek Soru 1 — To take a message",
+            "Ek Soru 1 — To ignore",
+            "Ek Soru 1 — To sell"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Take a message.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Take a message.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Vocabulary.\nThe line is busy.\n'Busy' means ...",
+          "options": [
+            "Ek Soru 1 — empty",
+            "Ek Soru 1 — engaged / in use",
+            "Ek Soru 1 — broken",
+            "Ek Soru 1 — free"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Line busy = meşgul.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Busy line.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the dialogue.\nI'll call you back later.\nQuestion: Speaker will ...",
+          "options": [
+            "Ek Soru 1 — never call",
+            "Ek Soru 1 — call again later",
+            "Ek Soru 1 — come in person",
+            "Ek Soru 1 — send letter"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Call back later.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Call back = geri aramak.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Which is polite phone opening?",
+          "options": [
+            "Ek Soru 1 — Who are you?",
+            "Ek Soru 1 — Hello, may I speak to ...?",
+            "Ek Soru 1 — Give me Ali.",
+            "Ek Soru 1 — Why calling?"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — May I speak to = polite.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Polite request.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Read the text.\nSpeak clearly on the phone.\nQuestion: Phone tip?",
+          "options": [
+            "Ek Soru 1 — Mumble",
+            "Ek Soru 1 — Speak clearly",
+            "Ek Soru 1 — Whisper",
+            "Ek Soru 1 — Hang up fast"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Speak clearly.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Clearly = açıkça.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fill in the blank.\nCould you ___ louder? I can't hear you.",
+          "options": [
+            "Ek Soru 1 — speak",
+            "Ek Soru 1 — speaks",
+            "Ek Soru 1 — speaking",
+            "Ek Soru 1 — spoke"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Could you speak louder?\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "Could you + V1.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Dialogue.\nIs Deniz there?\nI'm afraid he's not available right now.\nQuestion: Deniz is ...",
+          "options": [
+            "Ek Soru 1 — available",
+            "Ek Soru 1 — not available",
+            "Ek Soru 1 — angry",
+            "Ek Soru 1 — calling"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Not available now.\n\n[GitHub Ek Test — On the Phone]",
+          "ipucu": "I'm afraid = maalesef.",
+          "difficulty": 2,
+          "tags": [
+            "İngilizce",
+            "On the Phone",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

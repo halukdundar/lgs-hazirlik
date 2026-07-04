@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_8",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Şiir Bilgisi",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Bent, şiirde ikiden fazla dizeden oluşan ve kendi içinde bir anlam bütünlüğü taşıyan kümelerdir. Genellikle üçlü, beşli veya daha fazla dizeli bentler bulunur.\n\nBuna göre aşağıdaki şiir parçalarından hangisi bir \"dörtlük\" birimiyle yazılmıştır?",
+          "options": [
+            "Ek Soru 1 — Uçun kuşlar uçun doğduğum yere,\nŞimdi dağlarında mor sümbül vardır.\nBenden selam söyleyin o güzel yâre,\nGözümde yaşlarım sel gibi çağlar.",
+            "Ek Soru 1 — Gözlerin bir çığlık, sessiz ve derin,\nBir yaprak dökümü ömrümüzün.",
+            "Ek Soru 1 — Dost dost diye nicesine sarıldım,\nBenim sadık yârim kara topraktır.",
+            "Ek Soru 1 — Dalgalan sen de şafaklar gibi ey şanlı hilal!\nOlsun artık dökülen kanlarımın hepsi helal."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — A şıkkındaki şiir dört dizeden (satırdan) oluştuğu için bir dörtlüktür. B ve C şıkları ikişer dizelidir (beyit/ikilik).\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Şiir parçalarındaki satır sayılarını (dizeleri) say ve tam 4 satırdan oluşan bendi bul.",
+          "difficulty": 2,
+          "tags": [
+            "Şiir Bilgisi",
+            "Şiirin Yapı Unsurları",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Hece ölçüsü, şiirde her dizedeki hece sayısının eşit olmasına dayanan ve Türk edebiyatının en eski dönemlerinden beri kullanılan geleneksel ölçümüzdür.\n\n\"Gümüş bir dumanla kapandı her yer,\nGeçit vermez oldu karlı tepeler.\"\n\nBu dizelerin hece ölçüsü sayısı kaçtır?",
+          "options": [
+            "10'li hece ölçüsü",
+            "11'li hece ölçüsü",
+            "14'li hece ölçüsü",
+            "17'lü hece ölçüsü"
+          ],
+          "correctIndex": 2,
+          "explanation": "Dizelerdeki heceler sayıldığında (Gü-müş bir du-man-la ka-pan-dı her yer -> 14 hece), her iki dizenin de 14 heceden oluştuğu görülür.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Dizelerdeki sadece ünlü harfleri (a, e, ı, i, o, ö, u, ü) sayarak hece sayısını kolayca belirle.",
+          "difficulty": 2,
+          "tags": [
+            "Şiir Bilgisi",
+            "Hece Ölçüsü",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kafiye (uyak), dize sonlarındaki kelimelerin köklerinde bulunan ve görevleri farklı olan seslerin benzerliğidir.\n\n\"Karac'oğlan der ki kondum göçemedim,\nEcel şerbetini susuz içemedim.\"\n\nBu dizelerdeki kafiye türü ve kafiyeli sesler aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Tam kafiye (-çe)",
+            "Ek Soru 1 — Yarım kafiye (-ç)",
+            "Ek Soru 1 — Zengin kafiye (-çeme)",
+            "Ek Soru 1 — Cinaslı kafiye"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kelimelerin kökleri \"göç-\" ve \"iç-\"tir. \"-emedim\" kısımları aynı görevde ekler olduğu için rediftir. Köklerdeki tek ses benzerliği olan \"ç\" harfi yarım kafiyedir.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Kelimelerin köklerini bul (\"göçmek\" ve \"içmek\"). Köklerin sonundaki benzer ses harflerini say.",
+          "difficulty": 4,
+          "tags": [
+            "Şiir Bilgisi",
+            "Kafiye (Uyak)",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kafiye şeması (uyak düzeni), dizelerin sonlarındaki ses benzerliklerine göre harflendirilmesiyle belirlenir. Düz uyak \"aaaa\" veya \"aabb\", çapraz uyak \"abab\", sarma uyak ise \"abba\" şeklinde gösterilir.\n\n\"Geçti istemem gelmeni, (a)\nYokluğunda buldum seni; (a)\nBırak vehmimde gölgeni, (a)\nGelme, artık neye yarar? (b)\"\n\nBu dörtlüğün kafiye şeması aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Çapraz Uyak",
+            "Ek Soru 1 — Sarma Uyak",
+            "Ek Soru 1 — Düz Uyak",
+            "Ek Soru 1 — Mani Tipi Uyak"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Dizelerin sonları \"gelmeni-seni-gölgeni\" (a-a-a) ve \"yarar\" (b) şeklinde bittiği için aaab yapısındaki bu kafiye şeması düz uyaktır.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "İlk üç dizenin son seslerinin birbiriyle uyumlu olup son dizenin tamamen farklı sesle bitmesine dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Kafiye Şeması",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Lirik şiirler; aşk, özlem, ayrılık, ölüm gibi kişisel duyguları son derece coşkulu, samimi ve içten bir dille anlatan şiir türleridir.\n\nBuna göre aşağıdaki şiirlerden hangisi lirik şiire örnek gösterilebilir?",
+          "options": [
+            "Ek Soru 1 — Düşman geldi tabur tabur dizildi,\nAlnımıza kara yazı yazıldı.",
+            "Ek Soru 1 — Ne şair yaş döker ne aşık ağlar,\nTarihe karıştı eski sevdalar.",
+            "Ek Soru 1 — Kitabın sayfasını yavaşça arala,\nÖğrendiğin bilgiyi zihnine karala.",
+            "Ek Soru 1 — Karla kaplı dağların gölgesinde,\nBir ceylan ürkekçe su içer derede."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B şıkkında aşk, sevda ve şairlerin yaş dökmesi gibi kişisel duygular lirik bir edayla anlatılmıştır. A şıkkı epik, C şıkkı didaktiktir.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Duygu, sevda, gözyaşı gibi kalbe ve iç dünyaya hitap eden coşkulu kelimeleri içeren şiiri bul.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Şiir Türleri",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Redif, dize sonlarında kafiyeden sonra gelen, yazılışları, okunuşları ve en önemlisi cümle içindeki görevleri tamamen aynı olan ek veya kelimelerdir.\n\n\"Bizim elde bahar olur, yaz olur,\nSöylenir türküler, çalınır saz olur.\"\n\nBu dizelerdeki redif aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — olur",
+            "Ek Soru 1 — yaz / saz",
+            "Ek Soru 1 — saz olur",
+            "Ek Soru 1 — yaz olur / saz olur"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — \"yaz\" ve \"saz\" kelimelerindeki \"-az\" sesleri tam kafiyedir. Kelimelerden sonra gelen ve tamamen aynı görevde olan \"olur\" sözcükleri ise rediftir. (Cümledeki \"yaz olur\" ve \"saz olur\" kalıplarındaki \"olur\" kelimeleri yardımcı fiildir).\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Kafiyeden hemen sonra gelen, yazılışı ve görevi (anlamı) birebir aynı olan kelimeyi (\"olur\") bul.",
+          "difficulty": 4,
+          "tags": [
+            "Şiir Bilgisi",
+            "Redif",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Epik şiirler; savaş, kahramanlık, yiğitlik, vatan sevgisi ve tarihi olayları coşkulu ve destansı bir dille anlatan şiir türleridir.\n\nBuna göre aşağıdaki şiir parçalarından hangisi epik şiire örnektir?",
+          "options": [
+            "Ek Soru 1 — Ben giderim yolum uzun,\nİçimde var ince bir hüzün.",
+            "Ek Soru 1 — Bizdik o hücumun bütün aşkıyla kanatlı,\nBizdik o gün bin atlı dev gibi bir orduluyduk.",
+            "Ek Soru 1 — Kitap en sadık dosttur insana,\nHiçbir zaman zarar vermez sana.",
+            "Ek Soru 1 — Yaz gelince yaylalara çıkılır,\nSoğuk sulardan kana kana içilir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B şıkkında \"hücum\", \"ordu\", \"bin atlı\" gibi savaş ve kahramanlık bildiren kavramlar coşkulu anlatılmıştır; epik şiirdir.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Savaş meydanını, orduları, yiğitliği ve atlı askerlerin hücumunu hayal ettiren dizelere odaklan.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Şiir Türleri",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aruz ölçüsü, hecelerin açık (ünlüyle biten, kısa) veya kapalı (ünsüzle veya uzun ünlüyle biten, uzun) olmasına dayanan Arap ve Fars edebiyatı kökenli bir ölçü sistemidir. Divan edebiyatında yoğun olarak kullanılmıştır.\n\nBuna göre aruz ölçüsü hakkında aşağıdaki bilgilerden hangisi yanlıştır?",
+          "options": [
+            "Ek Soru 1 — Hecelerin sayısına değil, uzunluk ve kısalığına dayanır.",
+            "Ek Soru 1 — Türklerin bulduğu ve İslamiyet öncesinden beri kullandığı ulusal ölçümüzdür.",
+            "Ek Soru 1 — Divan şiirinde ve Osmanlı dönemi edebiyatında yaygın olarak kullanılmıştır.",
+            "Ek Soru 1 — Aruz ölçüsünde hece sayıları dizeler arasında farklılık gösterebilir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Aruz ölçüsü Türklerin bulduğu ulusal ölçü değildir, Arap ve Fars edebiyatından alınmıştır. Bizim ulusal ölçümüz hece ölçüsüdür.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Türklerin İslamiyet öncesinden beri kullandığı tek milli/ulusal ölçünün \"parmak hesabı\" da denilen hece ölçüsü olduğunu hatırla.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Aruz Ölçüsü",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Çapraz uyak düzeninde birinci dize ile üçüncü dize, ikinci dize ile de dördüncü dize kendi arasında kafiyelidir (abab).\n\nBuna göre aşağıdaki dörtlüklerden hangisi \"çapraz uyak\" düzeniyle yazılmıştır?",
+          "options": [
+            "Ek Soru 1 — Sokaktayım, kimsesiz bir sokak ortasında; (a)\nYürüyorum, arkama bakmadan yürüyorum. (b)\nYolumun karanlığa saplanan noktasında, (a)\nSanki beni bekleyen bir hayal görüyorum. (b)",
+            "Ek Soru 1 — Her sabah fırından taze ekmekler gelir, (a)\nKöy meydanında kuşlar neşeyle ötüşür. (b)\nÇoban koyunları yeşil yaylaya götürür, (b)\nKöylü bağında bahçesinde çalışıp didinir. (a)",
+            "Ek Soru 1 — Bizim elde bahar olur, yaz olur, (a)\nSöylenir türküler, çalınır saz olur, (a)\nGüzeller bahçede oynaşır durur, (b)\nÂşıkların yüreğinde hep bir sızı olur. (a)",
+            "Ek Soru 1 — Gecenin karanlığı çöker üstümüze, (a)\nBir sessizlik yayılır odamıza, (a)\nKitaplar yoldaş olur zihnimize, (a)\nHuzur verir her bir sayfa ruhumuza. (a)"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — A şıkkında \"ortasında (a) - yürüyorum (b) - noktasında (a) - görüyorum (b)\" şeklinde çapraz (abab) kafiye düzeni vardır.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Dizelerin son kelimelerini \"abab\" şemasına göre (1. ile 3., 2. ile 4. kafiyeli) eşleştir.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Kafiye Şeması",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Didaktik şiirler; okuyucuya bilgi vermek, bir ders veya öğüt aktarmak amacıyla yazılan öğretici şiir türleridir. Sanatsal kaygıdan ziyade fayda sağlama amacı güdülür.\n\nBuna göre aşağıdaki dörtlüklerin hangisinde didaktik (öğretici) bir nitelik en belirgindir?",
+          "options": [
+            "Ek Soru 1 — Güzel dilim, Türkçe'm benim,\nSesim, soluğum, canım benim.\nSeni her gün hece hece,\nOkumak ne güzel hece.",
+            "Ek Soru 1 — Kitap en iyi öğretmendir bilene,\nYol gösterir karanlıkta yürüyene.\nHer gün oku en az yirmi sayfa,\nIşık saçsın zihnin tüm bu sınıfa.",
+            "Ek Soru 1 — Uzakta bir köy var, gitmesek de,\nO köy bizim köyümüzdür elbette.\nYeşil bağları, şirin evleriyle,\nBekler bizi tüm misafirperverliğiyle.",
+            "Ek Soru 1 — Dün gece rüyamda seni gördüm anne,\nGül yüzünle sarıldın yine bana.\nKokun yayılmıştı tüm evrene,\nUyanmak istemedim asla sabaha."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — B şıkkındaki şiirde okuyucuya kitap okumanın önemi hakkında net öğütler verilmektedir (\"Her gün oku en az yirmi sayfa...\"). Bu nedenle didaktik yönü en belirgin şiirdir.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Şiirde doğrudan okuyucuya bir görevi yapması için tavsiyede ve öğütte (\"oku\", \"çalış\" gibi) bulunulup bulunulmadığına bak.",
+          "difficulty": 2,
+          "tags": [
+            "Şiir Bilgisi",
+            "Şiir Türleri",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Şiir Bilgisi",
+      "questions": [
+        {
+          "question": "Ek Soru 2 — Bent, şiirde ikiden fazla dizeden oluşan ve kendi içinde bir anlam bütünlüğü taşıyan kümelerdir. Genellikle üçlü, beşli veya daha fazla dizeli bentler bulunur.\n\nBuna göre aşağıdaki şiir parçalarından hangisi bir \"dörtlük\" birimiyle yazılmıştır?",
+          "options": [
+            "Ek Soru 2 — Uçun kuşlar uçun doğduğum yere,\nŞimdi dağlarında mor sümbül vardır.\nBenden selam söyleyin o güzel yâre,\nGözümde yaşlarım sel gibi çağlar.",
+            "Ek Soru 2 — Gözlerin bir çığlık, sessiz ve derin,\nBir yaprak dökümü ömrümüzün.",
+            "Ek Soru 2 — Dost dost diye nicesine sarıldım,\nBenim sadık yârim kara topraktır.",
+            "Ek Soru 2 — Dalgalan sen de şafaklar gibi ey şanlı hilal!\nOlsun artık dökülen kanlarımın hepsi helal."
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — A şıkkındaki şiir dört dizeden (satırdan) oluştuğu için bir dörtlüktür. B ve C şıkları ikişer dizelidir (beyit/ikilik).\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Şiir parçalarındaki satır sayılarını (dizeleri) say ve tam 4 satırdan oluşan bendi bul.",
+          "difficulty": 2,
+          "tags": [
+            "Şiir Bilgisi",
+            "Şiirin Yapı Unsurları",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Hece ölçüsü, şiirde her dizedeki hece sayısının eşit olmasına dayanan ve Türk edebiyatının en eski dönemlerinden beri kullanılan geleneksel ölçümüzdür.\n\n\"Gümüş bir dumanla kapandı her yer,\nGeçit vermez oldu karlı tepeler.\"\n\nBu dizelerin hece ölçüsü sayısı kaçtır?",
+          "options": [
+            "12'li hece ölçüsü",
+            "13'li hece ölçüsü",
+            "16'li hece ölçüsü",
+            "19'lü hece ölçüsü"
+          ],
+          "correctIndex": 2,
+          "explanation": "Dizelerdeki heceler sayıldığında (Gü-müş bir du-man-la ka-pan-dı her yer -> 16 hece), her iki dizenin de 16 heceden oluştuğu görülür.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Dizelerdeki sadece ünlü harfleri (a, e, ı, i, o, ö, u, ü) sayarak hece sayısını kolayca belirle.",
+          "difficulty": 2,
+          "tags": [
+            "Şiir Bilgisi",
+            "Hece Ölçüsü",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Kafiye (uyak), dize sonlarındaki kelimelerin köklerinde bulunan ve görevleri farklı olan seslerin benzerliğidir.\n\n\"Karac'oğlan der ki kondum göçemedim,\nEcel şerbetini susuz içemedim.\"\n\nBu dizelerdeki kafiye türü ve kafiyeli sesler aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 2 — Tam kafiye (-çe)",
+            "Ek Soru 2 — Yarım kafiye (-ç)",
+            "Ek Soru 2 — Zengin kafiye (-çeme)",
+            "Ek Soru 2 — Cinaslı kafiye"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Kelimelerin kökleri \"göç-\" ve \"iç-\"tir. \"-emedim\" kısımları aynı görevde ekler olduğu için rediftir. Köklerdeki tek ses benzerliği olan \"ç\" harfi yarım kafiyedir.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Kelimelerin köklerini bul (\"göçmek\" ve \"içmek\"). Köklerin sonundaki benzer ses harflerini say.",
+          "difficulty": 4,
+          "tags": [
+            "Şiir Bilgisi",
+            "Kafiye (Uyak)",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Kafiye şeması (uyak düzeni), dizelerin sonlarındaki ses benzerliklerine göre harflendirilmesiyle belirlenir. Düz uyak \"aaaa\" veya \"aabb\", çapraz uyak \"abab\", sarma uyak ise \"abba\" şeklinde gösterilir.\n\n\"Geçti istemem gelmeni, (a)\nYokluğunda buldum seni; (a)\nBırak vehmimde gölgeni, (a)\nGelme, artık neye yarar? (b)\"\n\nBu dörtlüğün kafiye şeması aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 2 — Çapraz Uyak",
+            "Ek Soru 2 — Sarma Uyak",
+            "Ek Soru 2 — Düz Uyak",
+            "Ek Soru 2 — Mani Tipi Uyak"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 2 — Dizelerin sonları \"gelmeni-seni-gölgeni\" (a-a-a) ve \"yarar\" (b) şeklinde bittiği için aaab yapısındaki bu kafiye şeması düz uyaktır.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "İlk üç dizenin son seslerinin birbiriyle uyumlu olup son dizenin tamamen farklı sesle bitmesine dikkat et.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Kafiye Şeması",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Lirik şiirler; aşk, özlem, ayrılık, ölüm gibi kişisel duyguları son derece coşkulu, samimi ve içten bir dille anlatan şiir türleridir.\n\nBuna göre aşağıdaki şiirlerden hangisi lirik şiire örnek gösterilebilir?",
+          "options": [
+            "Ek Soru 2 — Düşman geldi tabur tabur dizildi,\nAlnımıza kara yazı yazıldı.",
+            "Ek Soru 2 — Ne şair yaş döker ne aşık ağlar,\nTarihe karıştı eski sevdalar.",
+            "Ek Soru 2 — Kitabın sayfasını yavaşça arala,\nÖğrendiğin bilgiyi zihnine karala.",
+            "Ek Soru 2 — Karla kaplı dağların gölgesinde,\nBir ceylan ürkekçe su içer derede."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — B şıkkında aşk, sevda ve şairlerin yaş dökmesi gibi kişisel duygular lirik bir edayla anlatılmıştır. A şıkkı epik, C şıkkı didaktiktir.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Duygu, sevda, gözyaşı gibi kalbe ve iç dünyaya hitap eden coşkulu kelimeleri içeren şiiri bul.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Şiir Türleri",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Redif, dize sonlarında kafiyeden sonra gelen, yazılışları, okunuşları ve en önemlisi cümle içindeki görevleri tamamen aynı olan ek veya kelimelerdir.\n\n\"Bizim elde bahar olur, yaz olur,\nSöylenir türküler, çalınır saz olur.\"\n\nBu dizelerdeki redif aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 2 — olur",
+            "Ek Soru 2 — yaz / saz",
+            "Ek Soru 2 — saz olur",
+            "Ek Soru 2 — yaz olur / saz olur"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — \"yaz\" ve \"saz\" kelimelerindeki \"-az\" sesleri tam kafiyedir. Kelimelerden sonra gelen ve tamamen aynı görevde olan \"olur\" sözcükleri ise rediftir. (Cümledeki \"yaz olur\" ve \"saz olur\" kalıplarındaki \"olur\" kelimeleri yardımcı fiildir).\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Kafiyeden hemen sonra gelen, yazılışı ve görevi (anlamı) birebir aynı olan kelimeyi (\"olur\") bul.",
+          "difficulty": 4,
+          "tags": [
+            "Şiir Bilgisi",
+            "Redif",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Epik şiirler; savaş, kahramanlık, yiğitlik, vatan sevgisi ve tarihi olayları coşkulu ve destansı bir dille anlatan şiir türleridir.\n\nBuna göre aşağıdaki şiir parçalarından hangisi epik şiire örnektir?",
+          "options": [
+            "Ek Soru 2 — Ben giderim yolum uzun,\nİçimde var ince bir hüzün.",
+            "Ek Soru 2 — Bizdik o hücumun bütün aşkıyla kanatlı,\nBizdik o gün bin atlı dev gibi bir orduluyduk.",
+            "Ek Soru 2 — Kitap en sadık dosttur insana,\nHiçbir zaman zarar vermez sana.",
+            "Ek Soru 2 — Yaz gelince yaylalara çıkılır,\nSoğuk sulardan kana kana içilir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — B şıkkında \"hücum\", \"ordu\", \"bin atlı\" gibi savaş ve kahramanlık bildiren kavramlar coşkulu anlatılmıştır; epik şiirdir.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Savaş meydanını, orduları, yiğitliği ve atlı askerlerin hücumunu hayal ettiren dizelere odaklan.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Şiir Türleri",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Aruz ölçüsü, hecelerin açık (ünlüyle biten, kısa) veya kapalı (ünsüzle veya uzun ünlüyle biten, uzun) olmasına dayanan Arap ve Fars edebiyatı kökenli bir ölçü sistemidir. Divan edebiyatında yoğun olarak kullanılmıştır.\n\nBuna göre aruz ölçüsü hakkında aşağıdaki bilgilerden hangisi yanlıştır?",
+          "options": [
+            "Ek Soru 2 — Hecelerin sayısına değil, uzunluk ve kısalığına dayanır.",
+            "Ek Soru 2 — Türklerin bulduğu ve İslamiyet öncesinden beri kullandığı ulusal ölçümüzdür.",
+            "Ek Soru 2 — Divan şiirinde ve Osmanlı dönemi edebiyatında yaygın olarak kullanılmıştır.",
+            "Ek Soru 2 — Aruz ölçüsünde hece sayıları dizeler arasında farklılık gösterebilir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — Aruz ölçüsü Türklerin bulduğu ulusal ölçü değildir, Arap ve Fars edebiyatından alınmıştır. Bizim ulusal ölçümüz hece ölçüsüdür.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Türklerin İslamiyet öncesinden beri kullandığı tek milli/ulusal ölçünün \"parmak hesabı\" da denilen hece ölçüsü olduğunu hatırla.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Aruz Ölçüsü",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Çapraz uyak düzeninde birinci dize ile üçüncü dize, ikinci dize ile de dördüncü dize kendi arasında kafiyelidir (abab).\n\nBuna göre aşağıdaki dörtlüklerden hangisi \"çapraz uyak\" düzeniyle yazılmıştır?",
+          "options": [
+            "Ek Soru 2 — Sokaktayım, kimsesiz bir sokak ortasında; (a)\nYürüyorum, arkama bakmadan yürüyorum. (b)\nYolumun karanlığa saplanan noktasında, (a)\nSanki beni bekleyen bir hayal görüyorum. (b)",
+            "Ek Soru 2 — Her sabah fırından taze ekmekler gelir, (a)\nKöy meydanında kuşlar neşeyle ötüşür. (b)\nÇoban koyunları yeşil yaylaya götürür, (b)\nKöylü bağında bahçesinde çalışıp didinir. (a)",
+            "Ek Soru 2 — Bizim elde bahar olur, yaz olur, (a)\nSöylenir türküler, çalınır saz olur, (a)\nGüzeller bahçede oynaşır durur, (b)\nÂşıkların yüreğinde hep bir sızı olur. (a)",
+            "Ek Soru 2 — Gecenin karanlığı çöker üstümüze, (a)\nBir sessizlik yayılır odamıza, (a)\nKitaplar yoldaş olur zihnimize, (a)\nHuzur verir her bir sayfa ruhumuza. (a)"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 2 — A şıkkında \"ortasında (a) - yürüyorum (b) - noktasında (a) - görüyorum (b)\" şeklinde çapraz (abab) kafiye düzeni vardır.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Dizelerin son kelimelerini \"abab\" şemasına göre (1. ile 3., 2. ile 4. kafiyeli) eşleştir.",
+          "difficulty": 3,
+          "tags": [
+            "Şiir Bilgisi",
+            "Kafiye Şeması",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 2 — Didaktik şiirler; okuyucuya bilgi vermek, bir ders veya öğüt aktarmak amacıyla yazılan öğretici şiir türleridir. Sanatsal kaygıdan ziyade fayda sağlama amacı güdülür.\n\nBuna göre aşağıdaki dörtlüklerin hangisinde didaktik (öğretici) bir nitelik en belirgindir?",
+          "options": [
+            "Ek Soru 2 — Güzel dilim, Türkçe'm benim,\nSesim, soluğum, canım benim.\nSeni her gün hece hece,\nOkumak ne güzel hece.",
+            "Ek Soru 2 — Kitap en iyi öğretmendir bilene,\nYol gösterir karanlıkta yürüyene.\nHer gün oku en az yirmi sayfa,\nIşık saçsın zihnin tüm bu sınıfa.",
+            "Ek Soru 2 — Uzakta bir köy var, gitmesek de,\nO köy bizim köyümüzdür elbette.\nYeşil bağları, şirin evleriyle,\nBekler bizi tüm misafirperverliğiyle.",
+            "Ek Soru 2 — Dün gece rüyamda seni gördüm anne,\nGül yüzünle sarıldın yine bana.\nKokun yayılmıştı tüm evrene,\nUyanmak istemedim asla sabaha."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 2 — B şıkkındaki şiirde okuyucuya kitap okumanın önemi hakkında net öğütler verilmektedir (\"Her gün oku en az yirmi sayfa...\"). Bu nedenle didaktik yönü en belirgin şiirdir.\n\n[GitHub Ek Test — Şiir Bilgisi]",
+          "ipucu": "Şiirde doğrudan okuyucuya bir görevi yapması için tavsiyede ve öğütte (\"oku\", \"çalış\" gibi) bulunulup bulunulmadığına bak.",
+          "difficulty": 2,
+          "tags": [
+            "Şiir Bilgisi",
+            "Şiir Türleri",
+            "LGS",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "topicId": "mevsimler_ve_iklim",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Mevsimler ve İklim",
+      "questions": [
+        {
+          "question": "Senaryo: Iki ogrenci ayni sehri 13 yil boyunca gozlemliyor. Birisi yarin yagmur yagacagini, digeri ise bu sehrin kislarinin soguk oldugunu soyluyor.\n\nBuna gore ikinci ogrencinin soyledigi ifade hangi kavrama girer?",
+          "options": [
+            "Ek Soru 1 — Hava olayi",
+            "Ek Soru 1 — Iklim ozelligi",
+            "Ek Soru 1 — Anlik tahmin hatasi",
+            "Ek Soru 1 — Nem olcumu"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Uzun yillara dayali genellemeler iklim ozelligidir. Gunluk degisimler hava olayi olarak adlandirilir.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Uzun sureli ve genis alanli verileri dusun.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: Bir bolgede 24 Haziranda gunduz suresi en uzun, 24 Aralikta en kisa olculmustur.\n\nBu bolge hangi yari kurede bulunur?",
+          "options": [
+            "Ek Soru 1 — Kuzey Yarım Kure",
+            "Ek Soru 1 — Güney Yarım Kure",
+            "Ek Soru 1 — Ekvator",
+            "Ek Soru 1 — Kutup dairesi disi bilinemez"
+          ],
+          "correctIndex": 0,
+          "explanation": "24 Haziranda en uzun gunduz Kuzey Yarım Kurede yasanir. 24 Aralikta ise ayni bolgede en kisa gunduz olur.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "21 Haziran Kuzey Yarım Kure icin yaz gun donumudur.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Gozlem: Ogle saatlerinde kara hizli isinmis, deniz daha serin kalmistir.\n\nBu durumda kiyida ruzgarin yonu asagidakilerden hangisi olur?",
+          "options": [
+            "Ek Soru 1 — Karadan denize",
+            "Ek Soru 1 — Denizden karaya",
+            "Ek Soru 1 — Yukaridan asagi",
+            "Ek Soru 1 — Yon degismez"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Gunduz kara daha cabuk isinip alcak basinç olusturur. Ruzgar yuksek basinçli denizden alcak basinçli karaya eser.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Ruzgar her zaman yuksek basinçtan alcak basinça gider.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Esit buyuklukte iki zemine ayni acida gelen isik huzmesi gonderiliyor. Birinci zeminde aci daha dik oldugu icin aydinlanan alan daha kucuk oluyor.\n\nBuna gore hangi zeminde birim alana dusen enerji daha fazladir?",
+          "options": [
+            "Ek Soru 1 — Birinci zemin",
+            "Ek Soru 1 — Ikinci zemin",
+            "Ek Soru 1 — Ikisi esit",
+            "Ek Soru 1 — Veri yetersiz"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Isinlar dik geldikce enerji daha dar alana yayilir ve birim alana dusen enerji artar.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Dik aci daha yogun isinma demektir.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir kasabada sabah meteorolog yagis uyarisinda bulunuyor. Ayni derste ogretmen kasabanin yazlarinin sicak ve kurak oldugunu anlatiyor.\n\nAsagidakilerden hangisi meteorologun calisma alanidir?",
+          "options": [
+            "Ek Soru 1 — Yazlarin sicak-kurak olmasi",
+            "Ek Soru 1 — Aylik ortalama sicaklik trendi",
+            "Ek Soru 1 — Yarin beklenen yagis",
+            "Ek Soru 1 — Yillik iklim siniflandirmasi"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Meteoroloji kisa sureli hava olaylarini inceler. Iklim siniflandirmasi ise klimatolojinin konusudur.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Gunluk tahminleri yapan bilim dalini hatirla.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: Sehir Pde 4 haftalik olcumlerde ani sicaklik degisimi var. Sehir Qda 33 yillik ortalamalar duzenli.\n\nIklim analizi icin hangi veri daha uygundur?",
+          "options": [
+            "Ek Soru 1 — Sadece P",
+            "Ek Soru 1 — Sadece Q",
+            "Ek Soru 1 — P ve Q esit",
+            "Ek Soru 1 — Hicbiri"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Iklim uzun yillarin ortalamalari ile belirlenir. Kisa sureli veriler hava olaylarini yansitir.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Iklim icin uzun sureli veri gerekir.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Gozlem: 24 Mart tarihinde dunyanin her yerinde gece-gunduz sureleri esit olmustur.\n\nBu tarihe verilen ad hangisidir?",
+          "options": [
+            "Ek Soru 1 — Solstis",
+            "Ek Soru 1 — Ekinoks",
+            "Ek Soru 1 — Aphel",
+            "Ek Soru 1 — Perihel"
+          ],
+          "correctIndex": 1,
+          "explanation": "24 Mart ve 26 Eylul tarihlerinde gece ve gunduz sureleri esit olur, buna ekinoks denir.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Gece-gunduz esitligi ifadesine odaklan.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Deney: Iki sehri karsilastiran ogrencilerden biri denize yakin sehri, digeri denizden uzak sehri inceliyor.\n\nAsagidakilerden hangisi bu iki sehrin ikliminin farkli olmasinda etkili bir etmendir?",
+          "options": [
+            "Ek Soru 1 — Gunluk bulut sekli",
+            "Ek Soru 1 — Denize uzaklik",
+            "Ek Soru 1 — Anlik ruzgar hizi",
+            "Ek Soru 1 — Bir gunluk yagis"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Denize uzaklik iklimi belirleyen temel etkenlerdendir. Gunluk degiskenler iklim belirlemede tek basina yeterli degildir.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Iklim etmenleri uzun sureli fiziksel kosullardir.",
+          "difficulty": 4,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir bolgede hava sogudukca hava kutlesi yogunlasip cokuyor.\n\nBu bolgede olusmasi beklenen basinç turu hangisidir?",
+          "options": [
+            "Ek Soru 1 — Alcak basinç",
+            "Ek Soru 1 — Yuksek basinç",
+            "Ek Soru 1 — Nötr basinç",
+            "Ek Soru 1 — Dinamik alcak basinç"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Soguyan hava yogunlasir ve cokerek yuksek basinç alani olusturur.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Soguk hava daha yogundur.",
+          "difficulty": 3,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Tablo: K sehrinde ocakta gunduz 12 saat, temmuzda 18 saat olculuyor.\n\nBu durumun temel nedeni asagidakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Dunya ekseni ile gunes isinlari acisi",
+            "Ek Soru 1 — Dunyanin gunluk donusu",
+            "Ek Soru 1 — Ayin cekim kuvveti",
+            "Ek Soru 1 — Ruzgar yonu degisimi"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Mevsimsel gece-gunduz farklari eksen egikligi ve yillik hareket sonucu olusur.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Gece-gunduz suresini mevsimler ile bagla.",
+          "difficulty": 5,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Mevsimler ve İklim",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Dünya'nın mevsimler oluşumunun temel nedeni?",
+          "options": [
+            "Ek Soru 1 — Güneş'in büyüklüğü",
+            "Ek Soru 1 — Eksen eğikliği ve dolanım",
+            "Ek Soru 1 — Ay'ın çekimi",
+            "Ek Soru 1 — Okyanus akıntıları"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Eksen eğikliği + dolanım.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İklim ile hava olayı farkı?",
+          "options": [
+            "Ek Soru 1 — Aynıdır",
+            "Ek Soru 1 — İklim uzun dönem, hava olayı kısa dönem",
+            "Ek Soru 1 — İklim kısa dönem",
+            "Ek Soru 1 — Hava olayı uzun dönem"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — İklim uzun, hava kısa.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kuzey yarımkürede yaz mevsimi hangi konumda?",
+          "options": [
+            "Ek Soru 1 — Güneş ışınları daha dik gelir",
+            "Ek Soru 1 — Güneş ışınları eğik gelir",
+            "Ek Soru 1 — Gece daha uzun",
+            "Ek Soru 1 — Kutup gecesi yaşanır"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Yaz: ışınlar daha dik.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Meteoroloji ile klimatoloji farkı?",
+          "options": [
+            "Ek Soru 1 — Meteoroloji hava, klimatoloji iklim",
+            "Ek Soru 1 — Aynı",
+            "Ek Soru 1 — Meteoroloji iklim",
+            "Ek Soru 1 — Klimatoloji hava"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Meteoroloji=günlük, klimatoloji=iklim.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Ekvatora yakın bölgelerde sıcaklık genelde?",
+          "options": [
+            "Ek Soru 1 — Düşük",
+            "Ek Soru 1 — Yüksek",
+            "Ek Soru 1 — Sıfır",
+            "Ek Soru 1 — Değişmez"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Güneş ışınları dik.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Rüzgar yönü ve hızını gösteren araç?",
+          "options": [
+            "Ek Soru 1 — Barometre",
+            "Ek Soru 1 — Anemometre",
+            "Ek Soru 1 — Termometre",
+            "Ek Soru 1 — Higrometre"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Anemometre.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Yağış ölçümünde kullanılan araç?",
+          "options": [
+            "Ek Soru 1 — Barometre",
+            "Ek Soru 1 — Yağmurgölü",
+            "Ek Soru 1 — Termometre",
+            "Ek Soru 1 — Veya"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Yağmurgölü.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Basınç ölçen araç?",
+          "options": [
+            "Ek Soru 1 — Termometre",
+            "Ek Soru 1 — Barometre",
+            "Ek Soru 1 — Anemometre",
+            "Ek Soru 1 — Dürbün"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Barometre.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kış mevsiminde gündüzler?",
+          "options": [
+            "Ek Soru 1 — Uzun",
+            "Ek Soru 1 — Kısa",
+            "Ek Soru 1 — Değişmez",
+            "Ek Soru 1 — Eşit"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Kışta gündüz kısa.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İklim elemanlarından biri değildir?",
+          "options": [
+            "Ek Soru 1 — Sıcaklık",
+            "Ek Soru 1 — Yağış",
+            "Ek Soru 1 — Rüzgar",
+            "Ek Soru 1 — Ay evreleri"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — Ay evresi iklim elemanı değil.\n\n[GitHub Ek Test — Mevsimler ve İklim]",
+          "ipucu": "Deney ve grafik verisini dikkatle oku.",
+          "difficulty": 2,
+          "tags": [
+            "Fen Bilimleri",
+            "Mevsimler ve İklim",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "topicId": "turkce_9",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Fiilimsi (Eylemsi)",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — \"Güzel yazmak herkesin harcı değildir.\" cümlesinde \"yazmak\" sözcüğünün fiilimsi türü nedir?",
+          "options": [
+            "Ek Soru 1 — Sıfat-fiil",
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — İsim-fiil",
+            "Ek Soru 1 — Çekimli fiil"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Yazmak\" sözcüğü \"-mak\" isim-fiil ekini almış ve cümlede özne görevini üstlenmiştir. Bir ad gibi kullanılan fiil → isim-fiildir.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "İsim-fiil: fiil + \"-mak/-mek, -ma/-me, -ış/-iş\" → cümlede bir isim gibi (özne, nesne) işlev görür. \"Bu benim için çok zor\" → \"Bu ne?\" → \"yazmak\" → isim-fiil.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Yarışmada derece alan öğrenci plaketini aldı.\" cümlesinde \"alan\" sözcüğünün türü nedir?",
+          "options": [
+            "Ek Soru 1 — İsim-fiil",
+            "Ek Soru 1 — Sıfat-fiil",
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — Bağlaç"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Alan\" sözcüğü \"-an\" sıfat-fiil ekini almış ve \"öğrenci\" adını nitelemiştir. Hangi öğrenci? → \"derece alan öğrenci.\" İsim niteleyen fiilimsi → sıfat-fiil.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Sıfat-fiil bulma: fiilimsiyi kaldır ve geriye bir isim kalıyorsa (ve fiilimsi onu niteliyorsa) sıfat-fiildir. \"Derece __ öğrenci\" → boşluk sıfat-fiil aldı.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Koşarak okula yetişti.\" cümlesinde \"koşarak\" sözcüğünün türü nedir?",
+          "options": [
+            "Ek Soru 1 — İsim-fiil",
+            "Ek Soru 1 — Sıfat-fiil",
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — İsim"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Koşarak\" sözcüğü \"-arak\" zarf-fiil ekini almıştır ve yüklemi (yetişti) \"nasıl?\" sorusuyla nitelemektedir. Fiili niteleyen fiilimsi → zarf-fiil.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Zarf-fiil: yükleme \"nasıl, ne zaman, -meden, -arak, -ince\" gibi sorularla bağlanır. Cümledeki ana fiili niteliyorsa zarf-fiildir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki sözcüklerden hangisi fiilimsi değildir?",
+          "options": [
+            "Ek Soru 1 — koşmak",
+            "Ek Soru 1 — okunan",
+            "Ek Soru 1 — gülerek",
+            "Ek Soru 1 — mutlu"
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Mutlu\" sıfat kökenli bir sözcüktür; fiil kökünden türetilmemiştir ve herhangi bir fiilimsi eki almamıştır. A isim-fiil (-mak), B sıfat-fiil (-an), C zarf-fiil (-arak) içerir.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Fiilimsi olmak için: (1) fiil kökü bulunmalı + (2) fiilimsi eki (-mak, -an, -arak vb.) alınmalı. İkisi birden yoksa fiilimsi değildir.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Yarın gidecek olan trenin saatini öğrendim.\" cümlesinde \"gidecek olan\" ifadesinin türü nedir?",
+          "options": [
+            "Ek Soru 1 — İsim-fiil",
+            "Ek Soru 1 — Sıfat-fiil grubu",
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — Yüklem"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Gidecek olan\" ifadesi \"trenin\" adını nitelemektedir. Hangi tren? → \"yarın gidecek olan tren.\" Bir isim niteleniyorsa bu sıfat-fiil grubudur.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Sıfat-fiil grupları tek sözcük olmak zorunda değildir. \"Yarın gidecek olan, ders çalışan, bize hediye getiren\" gibi gruplar da sıfat-fiil işlevi taşır.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Aşağıdaki cümlelerin hangisinde altı çizili sözcük fiilimsi değil, çekimli fiildir?",
+          "options": [
+            "Ek Soru 1 — Güzel yazmak önemlidir.",
+            "Ek Soru 1 — Okunan kitap faydalıydı.",
+            "Ek Soru 1 — Koşarak okula gitti.",
+            "Ek Soru 1 — Kitabı okudum."
+          ],
+          "correctIndex": 3,
+          "explanation": "Ek Soru 1 — \"Okudum\" fiili \"-m\" kişi ekini almıştır; bu çekimli fiildir ve yüklem görevi taşır. Fiilimsiler kişi eki alamaz. A isim-fiil, B sıfat-fiil, C zarf-fiil — hepsi fiilimsidir.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Kişi eki aldıysa çekimli fiildir (okudum, geliyorum, söyledim). Fiilimsi kişi eki alamaz: \"okumak\" fiilimsi iken \"okuyorum\" çekimli fiildir.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Yağmur dinmeden dışarı çıktı.\" cümlesinde \"dinmeden\" sözcüğünün cümleye kattığı anlam nedir?",
+          "options": [
+            "Ek Soru 1 — Amaç",
+            "Ek Soru 1 — Koşul",
+            "Ek Soru 1 — Zaman/sürerlilik",
+            "Ek Soru 1 — Neden"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Dinmeden\" ifadesi \"-madan/-meden\" zarf-fiil ekini almıştır. \"Yağmur devam ederken (dinmemişken) çıktı\" anlamına gelir; yani eylem belirli bir süreç içinde gerçekleşmiştir → zaman/sürerlilik anlamı.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "\"-madan/-meden\" eki genellikle eylemin gerçekleşmediği bir süreç içinde başka eylemin yapıldığını bildirir. \"Uyumadan çalıştı\" = uyuma olmaksızın → sürerlik/zaman.",
+          "difficulty": 3,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Dün aldığım kitabı okumayı bitirdim.\" cümlesinde \"aldığım\" sözcüğünün görevi nedir?",
+          "options": [
+            "Ek Soru 1 — Zarf-fiil olarak yüklemi niteler.",
+            "Ek Soru 1 — İsim-fiil olarak nesne görevi üstlenir.",
+            "Ek Soru 1 — Sıfat-fiil olarak \"kitabı\" adını niteler.",
+            "Ek Soru 1 — Yüklemin tamamlayıcısıdır."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Aldığım\" sözcüğü \"-dığım\" sıfat-fiil ekini almış ve \"kitabı\" adını nitelemektedir. Hangi kitabı? → \"dün aldığım kitap.\" Bu sıfat-fiil kullanımıdır.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Sıfat-fiil test: fiilimsiyi al ve önündeki isme \"hangi?\" sorusunu sor. Yanıt o fiilimsiyle geliyorsa sıfat-fiildir.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Sınavdan çıkınca arkadaşlarıyla buluştu.\" cümlesindeki \"çıkınca\" sözcüğü aşağıdaki fiilimsi türlerinden hangisine girmez?",
+          "options": [
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — Sıfat-fiil",
+            "Ek Soru 1 — Zaman bildiren fiilimsi",
+            "Ek Soru 1 — Fiilden türeyen sözcük"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Çıkınca\" sözcüğü \"-ınca\" zarf-fiil ekini almış ve yüklemi \"ne zaman?\" sorusuyla nitelemektedir. Bu sıfat-fiil değildir; sıfat-fiil bir isim nitelemelidir ve \"çıkınca\" herhangi bir ismi nitelemez.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "\"Sıfat-fiil\" olmak için bir ismi nitelemelidir. \"Çıkınca\" bir isim mi niteliyor? Hayır → sıfat-fiil olamaz.",
+          "difficulty": 4,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Sabah erkenden kalkıp çalışmaya başlamak onun en büyük alışkanlığıydı.\" cümlesinde kaç fiilimsi kullanılmıştır?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cümlede üç fiilimsi vardır: (4) \"kalkıp\" → \"-ıp\" zarf-fiil eki; (5) \"çalışmaya\" → \"-ma\" isim-fiil eki (iyelik+yönelme); (6) \"başlamak\" → \"-mak\" isim-fiil eki, özne görevinde. \"Alışkanlığıydı\" çekimli yüklemdir.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Cümledeki tüm fiilimsi eklerini taramak için fiil köklerini bul: kalk-, çalış-, başla-. Her biri hangi eki almış? Kişi eki almamışsa fiilimsidir.",
+          "difficulty": 5,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Fiilimsi (Eylemsi)",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — \"Ağlamak insana iyi gelir.\" cümlesinde \"ağlamak\" hangi fiilimsi türüdür?",
+          "options": [
+            "Ek Soru 1 — Sıfat-fiil",
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — İsim-fiil",
+            "Ek Soru 1 — Fiil değil"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Ağlamak\" -mak eki almış, cümlede özne işlevi görüyor → isim-fiil.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "-mak/-mek, -ma/-me, -ış/-iş/-uş/-üş → isim-fiil ekleri.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Koşan çocuk düştü.\" cümlesinde \"koşan\" hangi fiilimsi türüdür?",
+          "options": [
+            "Ek Soru 1 — İsim-fiil",
+            "Ek Soru 1 — Sıfat-fiil",
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — Yardımcı fiil"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Koşan\" -an ekini almış, \"çocuk\" ismini nitelendiriyor → sıfat-fiil.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Sıfat-fiil: bir ismi niteler. \"-an, -en, -dık, -acak\" gibi ekler.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Gülerek anlattı.\" cümlesinde \"gülerek\" hangi fiilimsi türüdür?",
+          "options": [
+            "Ek Soru 1 — İsim-fiil",
+            "Ek Soru 1 — Sıfat-fiil",
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — Fiil değil"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Gülerek\" -erek eki → zarf-fiil. Yüklem \"anlattı\"yı nasıl anlattığını bildiriyor.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Zarf-fiil: yüklemi niteler. \"-erek/-arak, -ince/-unca, -ip/-ıp\" gibi ekler.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Fiilimsiler fiilden nasıl ayrılır?",
+          "options": [
+            "Ek Soru 1 — Fiilimsiler zaman eki alır.",
+            "Ek Soru 1 — Fiilimsiler kişi eki almaz; yargı bildirmez.",
+            "Ek Soru 1 — Fiilimsiler bağımsız cümle kurar.",
+            "Ek Soru 1 — Fiilimsi yüklemi niteler."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Fiilin ayırt edici özelliği kişi eki almak ve yargı bildirmektir. Fiilimsiler kişi eki almaz → yargı bildirmez.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Fiil: kişi eki + zaman eki + yargı. Fiilimsi: bunlardan yoksun.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Gidiş yolunu bilmek önemlidir.\" cümlesinde fiilimsi nedir?",
+          "options": [
+            "Ek Soru 1 — gidiş ve bilmek",
+            "Ek Soru 1 — yalnızca gidiş",
+            "Ek Soru 1 — yalnızca bilmek",
+            "Ek Soru 1 — önemlidir"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — \"Gidiş\" (-iş ekiyle isim-fiil) ve \"bilmek\" (-mek ekiyle isim-fiil). İkisi de fiilimsidir.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Her iki sözcük de isim-fiil ekiyle türemiş.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Zarf-fiil hangi soruya cevap verir?",
+          "options": [
+            "Ek Soru 1 — Kim/ne",
+            "Ek Soru 1 — Nasıl/ne zaman/nerede",
+            "Ek Soru 1 — Hangi/ne gibi",
+            "Ek Soru 1 — Kaç tane"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — Zarf-fiil, yüklemi \"nasıl, ne zaman, nerede\" sorularıyla niteler.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Zarf-fiil = zarfın fiilimsi karşılığı → yüklemi niteler.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Okuduğum kitap çok güzeldi.\" cümlesinde \"okuduğum\" hangi fiilimsi türüdür?",
+          "options": [
+            "Ek Soru 1 — İsim-fiil",
+            "Ek Soru 1 — Zarf-fiil",
+            "Ek Soru 1 — Sıfat-fiil",
+            "Ek Soru 1 — Değil"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — \"Okuduğum\" -dık ekiyle türemiş, \"kitap\" ismini nitelendiriyor → sıfat-fiil.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "-dık/-dik/-duk/-dük + iyelik eki → sıfat-fiil.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Sevmek güzel bir duygudur.\" cümlesinde \"sevmek\" cümlede hangi görevi üstleniyor?",
+          "options": [
+            "Ek Soru 1 — Yüklem",
+            "Ek Soru 1 — Özne",
+            "Ek Soru 1 — Nesne",
+            "Ek Soru 1 — Zarf tümleci"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Sevmek\" ne güzel bir duygudur sorusuna cevap → özne. İsim-fiil özne görevinde.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "İsim-fiil cümlede isim gibi işlev görür: özne, nesne vb. olabilir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Uçmak istiyorum.\" cümlesinde \"uçmak\" hangi ögedir?",
+          "options": [
+            "Ek Soru 1 — Yüklem",
+            "Ek Soru 1 — Nesne",
+            "Ek Soru 1 — Özne",
+            "Ek Soru 1 — Dolaylı tümleç"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"İstiyorum\" fiilinin nesnesi \"uçmak\"tır → isim-fiil nesne görevinde.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "\"Neyi istiyorum?\" → uçmayı/uçmak → nesne.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — \"Çalışarak başardı.\" cümlesinde \"çalışarak\" olmadan cümle ne anlam kaybeder?",
+          "options": [
+            "Ek Soru 1 — Yargı ortadan kalkar.",
+            "Ek Soru 1 — Nasıl başarıldığı bilgisi kaybolur.",
+            "Ek Soru 1 — Özne kaybolur.",
+            "Ek Soru 1 — Yüklem değişir."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — \"Çalışarak\" nasıl başarıldığını bildiren zarf-fiildir. Çıkarılırsa zarf bilgisi (nasıl?) kaybolur.\n\n[GitHub Ek Test — Fiilimsi (Eylemsi)]",
+          "ipucu": "Zarf-fiil çıkarılırsa yüklemin niteliği belirsizleşir.",
+          "difficulty": 2,
+          "tags": [
+            "Türkçe",
+            "Fiilimsiler",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

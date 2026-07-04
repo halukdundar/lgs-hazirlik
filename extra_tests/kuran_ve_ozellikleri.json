@@ -1,0 +1,418 @@
+{
+  "topicId": "kuran_ve_ozellikleri",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Kur'an-ı Kerim ve Özellikleri",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Kur'an-ı Kerim kaç sureden oluşur?",
+          "options": [
+            "103",
+            "117",
+            "123",
+            "6239"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kur'an 117 sureden oluşur.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Sure sayısı.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İlk vahiy hangi surede ve hangi emirle başlamıştır?",
+          "options": [
+            "Ek Soru 1 — Alak Suresi – \"Oku!\"",
+            "Ek Soru 1 — Fatiha – \"Hamd\"",
+            "Ek Soru 1 — Bakara – \"İman\"",
+            "Ek Soru 1 — Kevser – \"Namaz\""
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İlk vahiy Alak Suresi'nde \"Oku!\" emriyle gelmiştir.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Alak + Oku.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kur'an-ı Kerim'in temel özelliklerinden biri aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Evrensel ve korunmuş olması",
+            "Ek Soru 1 — Sadece Araplara hitap etmesi",
+            "Ek Soru 1 — Değiştirilebilir olması",
+            "Ek Soru 1 — Sadece geçmişi anlatması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kur'an tüm insanlığa hitap eder ve korunmuştur.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Evrensel + korunmuş.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kur'an'ın mushaf hâline getirilmesi hangi halife döneminde başlamıştır?",
+          "options": [
+            "Ek Soru 1 — Hz. Ebubekir",
+            "Ek Soru 1 — Hz. Ömer",
+            "Ek Soru 1 — Hz. Osman",
+            "Ek Soru 1 — Hz. Ali"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Hz. Ebubekir döneminde mushaf oluşturulmuştur.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "İlk halife.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Senaryo: Bir öğrenci \"Kur'an akıl kullanmayı yasaklar\" diyor.\n\nDoğru yaklaşım hangisidir?",
+          "options": [
+            "Ek Soru 1 — Kur'an düşünmeyi ve akıl yürütmeyi teşvik eder",
+            "Ek Soru 1 — Akıl kullanılmaz",
+            "Ek Soru 1 — Sadece ezber yeterlidir",
+            "Ek Soru 1 — Bilim yasaktır"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kur'an akıl ve düşünmeyi teşvik eder.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Akıl–iman uyumu.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Meal ile ilgili aşağıdakilerden hangisi doğrudur?",
+          "options": [
+            "Ek Soru 1 — Kur'an'ın başka dile çevirisidir; asıl metin Arapçadır",
+            "Ek Soru 1 — Meal ile asıl metin aynı kutsallıktadır",
+            "Ek Soru 1 — Meal farz bir ibadettir",
+            "Ek Soru 1 — Meal namazda okunur"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Meal çeviridir; asıl Arapça metindir.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Çeviri ≠ asıl.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Hz. Nuh (a.s.) hangi kavme gönderilmiştir?",
+          "options": [
+            "Ek Soru 1 — Kavmi / halkı",
+            "Ek Soru 1 — Medyen",
+            "Ek Soru 1 — İsrailoğulları",
+            "Ek Soru 1 — Semud"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kendi kavmine peygamber olarak gönderildi.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Kendi kavmi.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Hz. Nuh kaç yıl davet yaptığı rivayet edilir?",
+          "options": [
+            "53",
+            "153",
+            "953",
+            "1003"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Uzun süre sabırla tebliğ etti.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Uzun tebliğ.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Hz. Nuh'un kavmi davetini nasıl karşıladı?",
+          "options": [
+            "Ek Soru 1 — Çoğunlukla reddetti",
+            "Ek Soru 1 — Hemen iman etti",
+            "Ek Soru 1 — Sadece çocuklar reddetti",
+            "Ek Soru 1 — Hiç duymadı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Az kişi iman etti; çoğu reddetti.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Red.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Tufan olayında Hz. Nuh'un emri neydi?",
+          "options": [
+            "Ek Soru 1 — Gemiye binmek",
+            "Ek Soru 1 — Dağa çıkmak",
+            "Ek Soru 1 — Putları korumak",
+            "Ek Soru 1 — Savaşmak"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Allah'ın emriyle gemi yapıp binmeleri istendi.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Gemi.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Yeni Nesil",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Kur'an-ı Kerim ve Özellikleri",
+      "questions": [
+        {
+          "question": "Test 11: Kur'an-ı Kerim kaç sureden oluşur?",
+          "options": [
+            "103",
+            "117",
+            "123",
+            "6239"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kur'an 117 sureden oluşur.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Sure sayısı.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: İlk vahiy hangi surede ve hangi emirle başlamıştır?",
+          "options": [
+            "Ek Soru 1 — Alak Suresi – \"Oku!\"",
+            "Ek Soru 1 — Fatiha – \"Hamd\"",
+            "Ek Soru 1 — Bakara – \"İman\"",
+            "Ek Soru 1 — Kevser – \"Namaz\""
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — İlk vahiy Alak Suresi'nde \"Oku!\" emriyle gelmiştir.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Alak + Oku.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Kur'an-ı Kerim'in temel özelliklerinden biri aşağıdakilerden hangisidir?",
+          "options": [
+            "Ek Soru 1 — Evrensel ve korunmuş olması",
+            "Ek Soru 1 — Sadece Araplara hitap etmesi",
+            "Ek Soru 1 — Değiştirilebilir olması",
+            "Ek Soru 1 — Sadece geçmişi anlatması"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kur'an tüm insanlığa hitap eder ve korunmuştur.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Evrensel + korunmuş.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Kur'an'ın mushaf hâline getirilmesi hangi halife döneminde başlamıştır?",
+          "options": [
+            "Ek Soru 1 — Hz. Ebubekir",
+            "Ek Soru 1 — Hz. Ömer",
+            "Ek Soru 1 — Hz. Osman",
+            "Ek Soru 1 — Hz. Ali"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Hz. Ebubekir döneminde mushaf oluşturulmuştur.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "İlk halife.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Senaryo: Bir öğrenci \"Kur'an akıl kullanmayı yasaklar\" diyor.\n\nDoğru yaklaşım hangisidir?",
+          "options": [
+            "Ek Soru 1 — Kur'an düşünmeyi ve akıl yürütmeyi teşvik eder",
+            "Ek Soru 1 — Akıl kullanılmaz",
+            "Ek Soru 1 — Sadece ezber yeterlidir",
+            "Ek Soru 1 — Bilim yasaktır"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kur'an akıl ve düşünmeyi teşvik eder.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Akıl–iman uyumu.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Meal ile ilgili aşağıdakilerden hangisi doğrudur?",
+          "options": [
+            "Ek Soru 1 — Kur'an'ın başka dile çevirisidir; asıl metin Arapçadır",
+            "Ek Soru 1 — Meal ile asıl metin aynı kutsallıktadır",
+            "Ek Soru 1 — Meal farz bir ibadettir",
+            "Ek Soru 1 — Meal namazda okunur"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Meal çeviridir; asıl Arapça metindir.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Çeviri ≠ asıl.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Hz. Nuh (a.s.) hangi kavme gönderilmiştir?",
+          "options": [
+            "Ek Soru 1 — Kavmi / halkı",
+            "Ek Soru 1 — Medyen",
+            "Ek Soru 1 — İsrailoğulları",
+            "Ek Soru 1 — Semud"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Kendi kavmine peygamber olarak gönderildi.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Kendi kavmi.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Hz. Nuh kaç yıl davet yaptığı rivayet edilir?",
+          "options": [
+            "53",
+            "153",
+            "953",
+            "1003"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ek Soru 1 — Uzun süre sabırla tebliğ etti.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Uzun tebliğ.",
+          "difficulty": 3,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Hz. Nuh'un kavmi davetini nasıl karşıladı?",
+          "options": [
+            "Ek Soru 1 — Çoğunlukla reddetti",
+            "Ek Soru 1 — Hemen iman etti",
+            "Ek Soru 1 — Sadece çocuklar reddetti",
+            "Ek Soru 1 — Hiç duymadı"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Az kişi iman etti; çoğu reddetti.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Red.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Test 11: Tufan olayında Hz. Nuh'un emri neydi?",
+          "options": [
+            "Ek Soru 1 — Gemiye binmek",
+            "Ek Soru 1 — Dağa çıkmak",
+            "Ek Soru 1 — Putları korumak",
+            "Ek Soru 1 — Savaşmak"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Allah'ın emriyle gemi yapıp binmeleri istendi.\n\n[GitHub Ek Test — Kur'an-ı Kerim ve Özellikleri]",
+          "ipucu": "Gemi.",
+          "difficulty": 2,
+          "tags": [
+            "Din Kültürü",
+            "Kur'an-ı Kerim ve Özellikleri",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

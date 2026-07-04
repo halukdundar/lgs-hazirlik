@@ -1,10 +1,391 @@
 {
   "updatedAt": "2026-07-04",
+  "topicCount": 55,
   "topics": [
     {
+      "topicId": "turkce_1",
+      "title": "Sözcükte Anlam",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_2",
+      "title": "Cümlede Anlam",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_3",
+      "title": "Paragraf",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_9",
+      "title": "Fiilimsi (Eylemsi)",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_6",
+      "title": "Cümlenin Ögeleri",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_cumle_turleri",
+      "title": "Cümle Türleri",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_cati",
+      "title": "Fiilde Çatı",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_4",
+      "title": "Yazım Kuralları",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_7",
+      "title": "Noktalama İşaretleri",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_metin_gorsel",
+      "title": "Metin Türleri ve Görsel Okuma",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_5",
+      "title": "Sözcük Türleri",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_8",
+      "title": "Şiir Bilgisi",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_10",
+      "title": "Anlatım Bozuklukları",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "turkce_soz_sanatlari",
+      "title": "Söz Sanatları (Edebi Sanatlar)",
+      "subject": "Türkçe",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_1",
+      "title": "Çarpanlar ve Katlar",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_2",
+      "title": "Üslü İfadeler",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
       "topicId": "mat_3",
-      "title": "Üçgenler",
-      "testCount": 2
+      "title": "Kareköklü İfadeler",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_4",
+      "title": "Veri Analizi",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_5",
+      "title": "Basit Olayların Olasılığı",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_6",
+      "title": "Cebirsel İfadeler ve Özdeşlikler",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_7",
+      "title": "Doğrusal Denklemler",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_8",
+      "title": "Eşitsizlikler",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_9",
+      "title": "Dönüşüm Geometrisi",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_10",
+      "title": "Eşlik ve Benzerlik",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mat_11",
+      "title": "Geometrik Cisimler",
+      "subject": "Matematik",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "mevsimler_ve_iklim",
+      "title": "Mevsimler ve İklim",
+      "subject": "Fen Bilimleri",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "dna_ve_genetik_kod",
+      "title": "DNA ve Genetik Kod",
+      "subject": "Fen Bilimleri",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "basinc",
+      "title": "Basınç",
+      "subject": "Fen Bilimleri",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "madde_ve_endustri",
+      "title": "Madde ve Endüstri",
+      "subject": "Fen Bilimleri",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "basit_makineler",
+      "title": "Basit Makineler",
+      "subject": "Fen Bilimleri",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "enerji_donusumleri",
+      "title": "Enerji Dönüşümleri",
+      "subject": "Fen Bilimleri",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "elektrik_yukleri",
+      "title": "Elektrik Yükleri ve Enerjisi",
+      "subject": "Fen Bilimleri",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "bir_kahraman_doguyor",
+      "title": "Bir Kahraman Doğuyor",
+      "subject": "T.C. İnkılap Tarihi",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "milli_uyanis",
+      "title": "Milli Uyanış",
+      "subject": "T.C. İnkılap Tarihi",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "ya_istiklal_ya_olum",
+      "title": "Ya İstiklal Ya Ölüm",
+      "subject": "T.C. İnkılap Tarihi",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "ataturkculuk_ve_cagdaslasma",
+      "title": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+      "subject": "T.C. İnkılap Tarihi",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "demokratiklesme_cabalari",
+      "title": "Demokratikleşme Çabaları",
+      "subject": "T.C. İnkılap Tarihi",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "ataturk_donemi_dis_politikasi",
+      "title": "Atatürk Dönemi Türk Dış Politikası",
+      "subject": "T.C. İnkılap Tarihi",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "ataturkun_olumu_ve_sonrasi",
+      "title": "Atatürk'ün Ölümü ve Sonrası",
+      "subject": "T.C. İnkılap Tarihi",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_1",
+      "title": "Friendship",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_2",
+      "title": "Teen Life",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_3",
+      "title": "In the Kitchen",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_4",
+      "title": "On the Phone",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_5",
+      "title": "The Internet",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_6",
+      "title": "Adventures",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_7",
+      "title": "Tourism",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_8",
+      "title": "Chores",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_9",
+      "title": "Science",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "eng_10",
+      "title": "Natural Forces",
+      "subject": "İngilizce",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "kader_inanci",
+      "title": "Kader İnancı",
+      "subject": "Din Kültürü",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "zekat_ve_sadaka",
+      "title": "Zekât ve Sadaka",
+      "subject": "Din Kültürü",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "din_ve_hayat",
+      "title": "Din ve Hayat",
+      "subject": "Din Kültürü",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "hz_muhammedin_ornekligi",
+      "title": "Hz. Muhammed'in Örnekliği",
+      "subject": "Din Kültürü",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "kuran_ve_ozellikleri",
+      "title": "Kur'an-ı Kerim ve Özellikleri",
+      "subject": "Din Kültürü",
+      "testCount": 2,
+      "questionCount": 20
+    },
+    {
+      "topicId": "sakinilmasi_gerekenler",
+      "title": "İslam'ın Sakınılmasını İstediği Davranışlar",
+      "subject": "Din Kültürü",
+      "testCount": 2,
+      "questionCount": 20
     }
   ]
 }

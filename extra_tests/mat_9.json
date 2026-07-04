@@ -1,0 +1,418 @@
+{
+  "topicId": "mat_9",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Dönüşüm Geometrisi",
+      "questions": [
+        {
+          "question": "Bir haritada ev A(6, 5) noktasında işaretli. Buradan markete ulaşmak için sağa 7, yukarı 6 birim yürünüyor.\n\nMarketin koordinatı nedir?",
+          "options": [
+            "(10, 5)",
+            "(6, 8)",
+            "(10, 8)",
+            "(7, 6)"
+          ],
+          "correctIndex": 2,
+          "explanation": "Öteleme: (6+7, 5+6) = (10, 8).\nSağa gitmek x'e ekler, yukarı gitmek y'ye ekler.\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Öteleme (a,b): x'e a ekle, y'ye b ekle.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "P(7, -6) noktasının x-eksenine göre yansıması hangi noktadır?",
+          "options": [
+            "(-7, -6)",
+            "(7, 6)",
+            "(-7, 6)",
+            "(6, 7)"
+          ],
+          "correctIndex": 1,
+          "explanation": "x-eksenine yansımada: (x, y) → (x, -y).\n(7, -6) → (7, 6).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "x-eksenine yansımada yalnızca y'nin işareti değişir.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Q(-8, 10) noktasının y-eksenine göre yansıması hangi noktadır?",
+          "options": [
+            "(-8, -10)",
+            "(-8, 10)",
+            "(8, -10)",
+            "(8, 10)"
+          ],
+          "correctIndex": 3,
+          "explanation": "y-eksenine yansımada: (x, y) → (-x, y).\n(-8, 10) → (8, 10).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "y-eksenine yansımada yalnızca x'in işareti değişir.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "R(5, -7) noktası orijin etrafında 183° döndürülüyor.\n\nYeni koordinat nedir?",
+          "options": [
+            "(-5, 7)",
+            "(5, 7)",
+            "(-7, 5)",
+            "(7, -5)"
+          ],
+          "correctIndex": 0,
+          "explanation": "183° dönmede: (x, y) → (-x, -y).\n(5, -7) → (-5, 7).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "180° dönmede her iki koordinatın işareti değişir.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "S(4, 6) noktası önce x-eksenine yansıtılıyor, ardından y-eksenine yansıtılıyor.\n\nİki ardışık dönüşüm sonunda noktanın koordinatı nedir?",
+          "options": [
+            "(4, 6)",
+            "(-4, 6)",
+            "(4, -6)",
+            "(-4, -6)"
+          ],
+          "correctIndex": 3,
+          "explanation": "Adım 4 — x-eksenine yansıma: (4, 6) → (4, -6).\nAdım 5 — y-eksenine yansıma: (4, -6) → (-4, -6).\nBu işlem orijine göre simetriye eşdeğerdir.\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım uygula; her dönüşümde hangi koordinat değişiyor?",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "T(9, -5) noktasının orijine göre simetriği nedir?",
+          "options": [
+            "(9, 5)",
+            "(-9, -5)",
+            "(-9, 5)",
+            "(5, -9)"
+          ],
+          "correctIndex": 2,
+          "explanation": "Orijine göre simetri: (x, y) → (-x, -y).\n(9, -5) → (-9, 5).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Orijine göre simetride her iki koordinatın işareti değişir.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir öteleme işlemi sonunda U noktası U'(8, 11) konumuna geldi. Öteleme vektörü (−6, +6) ise, özgün U noktasının koordinatı nedir?",
+          "options": [
+            "(-6, 6)",
+            "(6, -6)",
+            "(6, 6)",
+            "(-6, -6)"
+          ],
+          "correctIndex": 0,
+          "explanation": "Öteleme vektörü (-6, +6) demek x'e -6, y'ye +6 ekleniyor.\nGeriye gitmek için U = U' - vektör: U = (8-(-6), 11-6) = (11, 8).\nSorulan: vektör nedir → cevap (-6, 6).\n(Soru vektörü soruyor, orijinal noktayı değil.)\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "U' = U + vektör; vektörü bulmak için U' - U = vektör.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Fatih \"A(6, 8) noktasının y-eksenine göre yansıması (6, -8)'tir\" dedi.\n\nFatih'in hatası nedir ve doğru koordinat nedir?",
+          "options": [
+            "Hata yok; (6, -8) doğrudur",
+            "Hata: y-eksenine yansımada x'in işareti değişir; doğrusu (-6, 8)",
+            "Hata: her iki koordinat da değişir; doğrusu (-6, -8)",
+            "Ek Soru 1 — Hata: x-eksenine yansıma yapılmalıydı"
+          ],
+          "correctIndex": 1,
+          "explanation": "y-eksenine yansımada: (x, y) → (-x, y).\n(6, 8) → (-6, 8).\nFatih x yerine y'nin işaretini değiştirdi.\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "y ekseni ↔ x koordinatı değişir; x ekseni ↔ y koordinatı değişir.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — (a, b) noktası için çeşitli dönüşümler hakkında:\nI. x-eksenine yansıması (a, -b)'dir.\nII. y-eksenine yansıması (-a, b)'dir.\nIII. Orijine göre simetriği (-a, b)'dir.\n\nHangileri her zaman doğrudur?",
+          "options": [
+            "Ek Soru 1 — Yalnız I",
+            "Ek Soru 1 — I ve II",
+            "Ek Soru 1 — I, II ve III",
+            "Ek Soru 1 — I ve III"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — I ✓: x-ekseni yansıma: y'nin işareti değişir → (a, -b).\nII ✓: y-ekseni yansıma: x'in işareti değişir → (-a, b).\nIII ✗: Orijine göre simetri: her iki işaret değişir → (-a, -b), (-a, b) değil.\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Orijine göre simetri = x-ekseni + y-ekseni yansıması; her ikisi değişir.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "V(-6, 7) noktası orijin etrafında 93° saat yönünde döndürülüyor. Bu dönüşümde kural (x, y) → (y, -x)'dir.\n\nYeni koordinat nedir?",
+          "options": [
+            "(-7, -6)",
+            "(7, 6)",
+            "(-7, 6)",
+            "(6, 7)"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kural: (x, y) → (y, -x).\n(-6, 7) → (7, -(-6)) = (7, 6).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "90° saat yönü: (x,y) → (y, -x). y yeni x, -x yeni y.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Dönüşüm Geometrisi",
+      "questions": [
+        {
+          "question": "A(5,6) x eksenine yansıma?",
+          "options": [
+            "(5,-6)",
+            "(-5,6)",
+            "(-5,-6)",
+            "(6,5)"
+          ],
+          "correctIndex": 0,
+          "explanation": "(5,-6).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "A(4,7) y eksenine yansıma?",
+          "options": [
+            "(-4,7)",
+            "(4,-7)",
+            "(-4,-7)",
+            "(7,4)"
+          ],
+          "correctIndex": 0,
+          "explanation": "(-4,7).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "A(6,5) orijine yansıma?",
+          "options": [
+            "(-6,-5)",
+            "(6,-5)",
+            "(-6,5)",
+            "(5,6)"
+          ],
+          "correctIndex": 0,
+          "explanation": "(-6,-5).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "(x,y)→(x+5,y+6) dönüşüm?",
+          "options": [
+            "Ek Soru 1 — Öteleme",
+            "Ek Soru 1 — Yansıma",
+            "Ek Soru 1 — Dönme",
+            "Ek Soru 1 — Büyütme"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — Öteleme.\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "93° saat yönü (7,0)→?",
+          "options": [
+            "(0,-7)",
+            "(0,7)",
+            "(-7,0)",
+            "(7,0)"
+          ],
+          "correctIndex": 0,
+          "explanation": "(0,-7).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Öteleme (6,-4): (4,5)→?",
+          "options": [
+            "(7,4)",
+            "(7,6)",
+            "(-5,6)",
+            "(4,4)"
+          ],
+          "correctIndex": 0,
+          "explanation": "(7,4).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — x eksenine yansıma hangi koordinatı değiştirir?",
+          "options": [
+            "Ek Soru 1 — x",
+            "Ek Soru 1 — y",
+            "Ek Soru 1 — Her ikisi",
+            "Ek Soru 1 — Hiçbiri"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — y.\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "(5,8)→(5,-8) hangi dönüşüm?",
+          "options": [
+            "Ek Soru 1 — x eksenine yansıma",
+            "Ek Soru 1 — y eksenine yansıma",
+            "Ek Soru 1 — Öteleme",
+            "Ek Soru 1 — Dönme"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — x ekseni.\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "183° dönme (6,4)→?",
+          "options": [
+            "(-6,-4)",
+            "(6,-4)",
+            "(-6,4)",
+            "(4,6)"
+          ],
+          "correctIndex": 0,
+          "explanation": "(-6,-4).\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Öteleme (a,b): (x,y)→?",
+          "options": [
+            "Ek Soru 1 — (x+a,y+b)",
+            "Ek Soru 1 — (x-a,y-b)",
+            "Ek Soru 1 — (ax,by)",
+            "Ek Soru 1 — (y,x)"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — topla.\n\n[GitHub Ek Test — Dönüşüm Geometrisi]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Dönüşüm Geometrisi",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}

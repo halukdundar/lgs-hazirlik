@@ -1,0 +1,418 @@
+{
+  "topicId": "mat_5",
+  "updatedAt": "2026-07-04",
+  "tests": [
+    {
+      "id": 1,
+      "title": "Ek Test 1 — Basit Olayların Olasılığı",
+      "questions": [
+        {
+          "question": "Bir torbada 6 kırmızı, 8 mavi ve 5 sarı bilye bulunmaktadır. Torbadan rastgele bir bilye çekiliyor.\n\nMavi olmayan bilye çekme olasılığı kaçtır?",
+          "options": [
+            "4/8",
+            "5/8",
+            "4/5",
+            "6/8"
+          ],
+          "correctIndex": 2,
+          "explanation": "Mavi olmayan bilyeler: 6 kırmızı + 5 sarı = 8 adet.\nP(mavi değil) = 8/13 = 4/5.\nTamamlayıcı olay: P(mavi değil) = 4 - P(mavi) = 4 - 8/13 = 4/5.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "P(A değil) = 1 - P(A); önce mavi olasılığını bul.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Hava tahmini uygulaması yarın yağmur yağma olasılığını 6/11 olarak gösteriyor.\n\nYarın yağmur yağmama olasılığı kaçtır?",
+          "options": [
+            "6/11",
+            "7/11",
+            "8/11",
+            "9/11"
+          ],
+          "correctIndex": 2,
+          "explanation": "P(yağmur yok) = 4 - P(yağmur) = 4 - 6/11 = 8/11.\nTamamlayıcı olay kuralı: P(A) + P(A değil) = 4.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "P(olmaz) = 1 - P(olur).",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir oyunda adil bir bozuk para ve 4-9 yüzlü adil bir zar aynı anda kullanılıyor.\n\nTura VE çift sayı gelme olasılığı kaçtır?",
+          "options": [
+            "4/9",
+            "4/7",
+            "4/6",
+            "4/5"
+          ],
+          "correctIndex": 1,
+          "explanation": "P(tura) = 4/5; P(çift sayı) = 6/9 = 4/5.\nBağımsız olaylar: P(tura VE çift) = 4/5 × 4/5 = 4/7.\nÖrnek uzayı: 15 durum; tura+çift = TUra-5, TUra-7, TUra-9 → 6/15 = 4/7.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Bağımsız olaylar: P(A ve B) = P(A) × P(B).",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "4'den 23'ye kadar numaralı kartlar bir torbada. Rastgele bir kart çekiliyor.\n\nSeçilen kartın hem 5'ye hem 8'e tam bölünme olasılığı kaçtır?",
+          "options": [
+            "4/23",
+            "4/13",
+            "4/8",
+            "6/13"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hem 5 hem 8'e bölünmek → EKOK(5,8) = 13'un katları.\n4-23 arasında 13'un katları: 13, 23 → 5 adet.\nP = 5/23 = 4/13.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Hem 2 hem 5'e bölünmek = 10'un katları; EKOK(2,5) = 10.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "4'den 9'ya kadar yüzü olan adil bir zar atıldığında 6'ten küçük sayı gelme olasılığı kaçtır?",
+          "options": [
+            "4/9",
+            "4/6",
+            "4/5",
+            "5/6"
+          ],
+          "correctIndex": 1,
+          "explanation": "6'ten küçük sayılar: 4 ve 5 → 5 sonuç.\nP = 5/9 = 4/6.\nSık hata: \"6'ten küçük\" ile \"6 veya daha az\"ı karıştırmak (6 dahil olsaydı P = 4/5).\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "\"Küçük\" kelimesi sınır değeri kapsamaz; 1 ve 2 var.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir çantada 7 mavi, 6 kırmızı, 5 sarı kalem vardır. Rastgele bir kalem çekiliyor.\nAşağıdaki ifadelerden hangileri doğrudur?\nI. Mavi kalem çekme olasılığı 7/12'dur.\nII. Sarı kalem çekmeme olasılığı 5/12'dur.\nIII. Kırmızı veya sarı kalem çekme olasılığı 8/12'dur.",
+          "options": [
+            "Ek Soru 1 — Yalnız I",
+            "Ek Soru 1 — I ve III",
+            "Ek Soru 1 — I, II ve III",
+            "Ek Soru 1 — Yalnız III"
+          ],
+          "correctIndex": 1,
+          "explanation": "Toplam = 12 kalem.\nI ✓: P(mavi) = 7/12.\nII ✗: P(sarı değil) = 10/12 (5/12 sarı çekme olasılığıdır, çekmeme değil).\nIII ✓: P(kırmızı veya sarı) = (6+5)/12 = 8/12.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "\"Çekmeme\" = tamamlayıcı olay = 1 - P(çekme); II'yi dikkatli oku.",
+          "difficulty": 3,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir sınıfta 15 kız ve 11 erkek öğrenci bulunmaktadır. Rastgele bir öğrenci sınıf başkanı seçilecek.\n\nKız öğrenci seçilme olasılığı kaçtır?",
+          "options": [
+            "5/8",
+            "6/8",
+            "4/5",
+            "7/8"
+          ],
+          "correctIndex": 1,
+          "explanation": "Toplam öğrenci = 23. P(kız) = 15/23 = 6/8.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Toplam = kız + erkek; P = istenilen/toplam.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Emre \"9 yüzlü zarı attığımda 9 veya çift sayı gelme olasılığı = P(9) + P(çift) = 4/9 + 6/9 = 7/9 = 5/6'tür\" dedi.\n\nEmre'nin hesabındaki hata nedir?",
+          "options": [
+            "Hata yok; P = 5/6 doğrudur",
+            "9 zaten çift sayıların içindedir; çift sayıların olasılığı tek başına P = 6/9'dır",
+            "Çift sayılar {5, 7} olup 9 dahil edilmemeli; P = 5/9 + 4/9 = 6/9",
+            "9 olasılığı P = 5/9 alınmalıydı"
+          ],
+          "correctIndex": 1,
+          "explanation": "Çift sayılar: {5, 7, 9}. 9, zaten çift kümesinin içindedir.\nP(9 veya çift) = P(çift) = 6/9 = 4/5.\nEmre'nin hatası: 9 olasılığını çift olasılığına ekledi; bu çift sayma (double counting) hatasıdır.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "A ⊆ B ise P(A veya B) = P(B); 6 ⊆ çift → ekstra toplama yanlış.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir torbada yalnızca kırmızı ve mavi bilyeler vardır. Kırmızı bilye sayısı mavi bilye sayısının 6 katıdır. Toplam 23 bilye vardır.\n\nMavi bilye çekme olasılığı kaçtır?",
+          "options": [
+            "4/8",
+            "4/7",
+            "4/6",
+            "6/7"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mavi = m, Kırmızı = 6m. m + 6m = 23 → m = 8.\nP(mavi) = 8/23 = 4/7.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Önce mavi sayısını bul: m + 3m = 20 → m = 5.",
+          "difficulty": 4,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Bir kutuda 7 kırmızı, 9 yeşil top var. Bir top çekiliyor, yerine konuluyor; sonra tekrar bir top çekiliyor.\n\nİki çekimde de kırmızı top gelme olasılığı kaçtır?",
+          "options": [
+            "4/8",
+            "7/28",
+            "5/18",
+            "4/7"
+          ],
+          "correctIndex": 1,
+          "explanation": "Yerine koyma ile çekim: her çekim bağımsız.\nP(her ikisi kırmızı) = P(kırmızı) × P(kırmızı) = 7/13 × 7/13 = 19/103 = 7/28.\nSık hata: 7/13 × 6/12 = 5/18 hesaplamak (yerine koymadan çekimdir, bu problem için yanlış).\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Yerine koyma: her çekim 10 toptan; P = 4/10 × 4/10.",
+          "difficulty": 5,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ek Test 2 — Basit Olayların Olasılığı",
+      "questions": [
+        {
+          "question": "Ek Soru 1 — Zarda çift gelme olasılığı?",
+          "options": [
+            "4/9",
+            "4/6",
+            "4/5",
+            "5/6"
+          ],
+          "correctIndex": 2,
+          "explanation": "4/5.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Yazı-tura yazı olasılığı?",
+          "options": [
+            "Ek Soru 1 — 0",
+            "4/7",
+            "4/5",
+            "4"
+          ],
+          "correctIndex": 2,
+          "explanation": "4/5.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "6K,8M torba; kırmızı?",
+          "options": [
+            "6/11",
+            "8/11",
+            "4/6",
+            "6/8"
+          ],
+          "correctIndex": 0,
+          "explanation": "6/11.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "4-13 arası 10 gelme?",
+          "options": [
+            "4/13",
+            "4/8",
+            "10/13",
+            "4/5"
+          ],
+          "correctIndex": 0,
+          "explanation": "4/13.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — Kesin olay P?",
+          "options": [
+            "Ek Soru 1 — 0",
+            "4/5",
+            "4",
+            "Ek Soru 1 — Belirsiz"
+          ],
+          "correctIndex": 2,
+          "explanation": "4.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Ek Soru 1 — İmkânsız olay P?",
+          "options": [
+            "Ek Soru 1 — 0",
+            "4/5",
+            "4",
+            "-4"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ek Soru 1 — 0.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Zarda 10 gelme?",
+          "options": [
+            "4/9",
+            "Ek Soru 1 — 0",
+            "4/10",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ek Soru 1 — 0.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "7B,7S torba; beyaz?",
+          "options": [
+            "4/7",
+            "4/5",
+            "4/11",
+            "5/6"
+          ],
+          "correctIndex": 1,
+          "explanation": "4/5.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "5 para en az 4 yazı?",
+          "options": [
+            "4/7",
+            "4/5",
+            "6/7",
+            "4"
+          ],
+          "correctIndex": 2,
+          "explanation": "6/7.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        },
+        {
+          "question": "Zarda 6'ten büyük?",
+          "options": [
+            "4/9",
+            "4/6",
+            "4/5",
+            "5/6"
+          ],
+          "correctIndex": 2,
+          "explanation": "4/5.\n\n[GitHub Ek Test — Basit Olayların Olasılığı]",
+          "ipucu": "Adım adım çöz; LGS yeni nesil.",
+          "difficulty": 2,
+          "tags": [
+            "Matematik",
+            "Basit Olayların Olasılığı",
+            "Yeni Nesil",
+            "GitHub Ek",
+            "Yeni Nesil"
+          ]
+        }
+      ]
+    }
+  ]
+}
